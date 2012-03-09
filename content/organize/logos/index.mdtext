@@ -1,0 +1,66 @@
+Title:     Apache Event Logos
+Notice:    Licensed to the Apache Software Foundation (ASF) under one
+           or more contributor license agreements.  See the NOTICE file
+           distributed with this work for additional information
+           regarding copyright ownership.  The ASF licenses this file
+           to you under the Apache License, Version 2.0 (the
+           "License"); you may not use this file except in compliance
+           with the License.  You may obtain a copy of the License at
+           .
+             http://www.apache.org/licenses/LICENSE-2.0
+           .
+           Unless required by applicable law or agreed to in writing,
+           software distributed under the License is distributed on an
+           "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+           KIND, either express or implied.  See the License for the
+           specific language governing permissions and limitations
+           under the License.
+
+The use of Apache Logos and Marks is controlled. For information on
+using Apache Logos and Marks in general, please see the
+[Apache Trademark Policy](http://www.apache.org/foundation/marks/).
+For information on using Apache Logos and Marks for external events,
+please see the
+[Third Party Event Branding Policy](http://www.apache.org/foundation/marks/events.html).
+
+For events that have been approved to use Apache Logos (typically
+events being [organized](/organize/) by Apache committers and projects, 
+which have been approved by ConCom), a number of Event Logos are
+available. Some of these can be used as-is by approved events,
+others provide a useful starting point when designing logos, especially
+for print.
+
+## Apache Software Foundation Logo
+
+<img src="http://www.apache.org/images/asf-logo.gif" alt="Foundation Logo" />
+
+High resolution and Vector Graphics versions of the Foundation Logo
+are available from the [Foundation Press Kit Page](http://www.apache.org/foundation/press/kit/)
+
+## Apache Feather 
+
+<img src="http://www.apache.org/images/feather-small.gif" alt="Apache Feather" />
+
+High resolution and Vector Graphics versions of the Apache Feather Logo
+are available from the [Foundation Press Kit Page](http://www.apache.org/foundation/press/kit/)
+
+## BarCampApache
+
+<!-- TODO Remove these from members once this site is live -->
+
+<img src="BarCampApache/BarCampApacheBanner_600.png" alt="Full BarCampApache Banner" />
+<a href="BarCampApache/BarCampApacheBanner.ai">BarCampApache Banner, PDF/Illustrator</a>
+
+<img src="BarCampApache/BarCampApacheLogo_600.png" alt="BarCampApache Logo" />
+<a href="BarCampApache/BarCampApacheLogo.ai">BarCampApache Logo, PDF/Illustrator</a>
+
+<img src="BarCampApache/BarCampBanner_600.png alt="Short BarCampApache Banner" />
+<a href="BarCampApache/BarCampBanner.ai">BarCampApache Small Banner, PDF/Illustrator</a>
+
+## Other
+
+<!-- TODO Remove these from the foundation site once this is live -->
+
+<img src="BarCampApache/TwoColour_PinkDark.png" alt="2 Colour" />
+<a href="BarCampApache/TwoColour_PinkDark.pdf">2 Colour BarCampApache Logo, PDF/Illustrator</a>
+(Works best with a dark background)
