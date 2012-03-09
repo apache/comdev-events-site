@@ -1,4 +1,4 @@
-Title:     Apache Events
+Title:     Apache BarCamp Colombo, Sri Lanka
 Notice:    Licensed to the Apache Software Foundation (ASF) under one
            or more contributor license agreements.  See the NOTICE file
            distributed with this work for additional information
@@ -15,9 +15,8 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            KIND, either express or implied.  See the License for the
            specific language governing permissions and limitations
            under the License.
+Information: This is the canonical .apache.org URL for the event.
+             The site is hosted elsewhere
 
-
-Welcome to the Apache Events site.
-
-Here you will find information about upcoming events, as well as
-information on how to organise your own Apache events.
+<!-- TODO Generate a .htaccess redirect instead -->
+<meta http-equiv="refresh" content="0; url=http://barcamp.org/apache-lk-12">

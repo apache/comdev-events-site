@@ -17,11 +17,20 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            under the License.
 
 ## Upcoming Apache events
+This is the list of upcoming official Apache events, and
+those events which have been approved to use Apache Marks under the 
+[Third Party Event Branding Policy][1].
+
 <ul id="events">
  <li><i>List loading</i></li>
 </ul>
 
 For a complete list of events see our [calendar](calendar.html).
+
+In addition to Official Apache Events, there are a wide range of other
+events which feature Apache projects and technologies. A crowd-source
+list of these is maintained as a [Lanyrd Guide][2], and we encourage
+people to help list related events here.
 
 <script type="text/javascript">
 function handleContents(li, text) {
@@ -89,3 +98,5 @@ function render(data) {
 
 <script src="http://www.google.com/calendar/feeds/nerseigospses068jd57bk5ar8@group.calendar.google.com/public/full?alt=json-in-script&callback=render&orderby=starttime&max-results=30&singleevents=true&sortorder=ascending&futureevents=true"></script>
 
+  [1]: http://www.apache.org/foundation/marks/events.html
+  [2]: http://lanyrd.com/guides/apache-software-and-technologies/
