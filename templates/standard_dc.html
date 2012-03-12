@@ -1,0 +1,129 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<!--
+
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE- 2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+  <link rel="shortcut icon" href="/images/concom-icon.ico" type="image/x-icon" />
+  <link href="/style/bootstrap.css" rel="stylesheet">
+  <style type="text/css">
+  	body {
+    	padding-top: 60px;
+    	padding-bottom: 40px;
+  	}
+  	.sidebar-nav {
+    	padding: 9px 0;
+    	color: #808080;
+  	}
+  	.sidebar-nav h4 {
+    	color: #606060;
+  	}
+  	footer {
+  		color: #A0A0A0;
+  	}
+	</style>  
+  <link href="/style/bootstrap-responsive.css" rel="stylesheet" type="text/css>
+
+  <!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+  <!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+  <![endif]-->
+
+  <!-- Le fav and touch icons -->
+  <link rel="shortcut icon" href="/images/favicon.ico">
+  <title>{% block title %}{% endblock %}</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+	<ul class="breadcrumb navbar-fixed-top">
+		<li><a href="/">Apache Events</a> <span class="divider">/</span></li>
+		<li><a href="/event/">Upcoming</a> <span class="divider">/</span></li>
+		<li class="active">Apache BarCamp DC</li>		
+	</ul>
+ 	<div class="container">
+
+ 		<div class="container-fluid">
+ 			 	<!-- The Banner -->
+	      <div class="row-fluid">
+				  <div id="content" class="span12">
+				  	<img src="/images/BarCamp-DC.jpg"/>
+  				</div>
+				</div> 	
+				
+				<!--  The inner navigation for this particular event 	-->
+				<div class="navbar">
+					<div class="navbar-inner">
+						<div class="container">
+							<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+								<span class="icon-bar"></span>
+							</a>
+							<div class="nav-collapse">
+								<ul class="nav">
+									<li class="active"><a href="#">Home</a></li>
+									<li><a href="news.html">News</a></li>
+									<li><a href="registration.html">Registration</a></li>
+									<li><a href="sponsors.html">Sponsors</a></li>
+									<li><a href="venue.html">Where &amp; When</a></li>                            
+								</ul>
+							</div><!--/.nav-collapse -->
+						</div>
+					</div>
+				</div>
+				
+				<!-- Individual Page Content --> 
+				<div class="row-fluid">
+					<div class="span8">
+						{% block content %}{% endblock %}	
+					</div>
+
+					<div class="span4">
+							<div class="sidebar-nav">
+								{% filter markdown %}{% include "../content/event/2012/barcamp-dc/sidenav_dc.mdtext" %}{% endfilter %}
+							</div>
+						</div>  			
+					</div>
+  </div>
+			<hr/>
+
+      <footer id="footer">
+        Copyright &copy; 2011 The Apache Software Foundation, Licensed under
+        the <a href="http://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </footer>
+
+  </div>
+</div>
+    <script src="../assets/js/jquery.js"></script>
+    <script src="../assets/js/bootstrap-transition.js"></script>
+    <script src="../assets/js/bootstrap-alert.js"></script>
+    <script src="../assets/js/bootstrap-modal.js"></script>
+    <script src="../assets/js/bootstrap-dropdown.js"></script>
+    <script src="../assets/js/bootstrap-scrollspy.js"></script>
+    <script src="../assets/js/bootstrap-tab.js"></script>
+    <script src="../assets/js/bootstrap-tooltip.js"></script>
+    <script src="../assets/js/bootstrap-popover.js"></script>
+    <script src="../assets/js/bootstrap-button.js"></script>
+    <script src="../assets/js/bootstrap-collapse.js"></script>
+    <script src="../assets/js/bootstrap-carousel.js"></script>
+    <script src="../assets/js/bootstrap-typeahead.js"></script>
+</body>
+</html>
