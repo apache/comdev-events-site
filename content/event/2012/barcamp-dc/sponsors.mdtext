@@ -27,20 +27,20 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
 ### We are grateful to the following confirmed sponsors...
 
 <ul class="thumbnails">
-  <li class="span3" style="border:none;">
-    <a href="http://bti360.com" target="_blank" rel="nofollow" class="thumbnail">
+  <li class="span3">
+    <a href="http://bti360.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
       <img src="bti360.jpg" alt="">
     </a>
   </li>
 
   <li class="span3">
-    <a href="http://saic.com" target="_blank" rel="nofollow" class="thumbnail">
+    <a href="http://saic.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
       <img src="saic.jpg" alt="">
     </a>
   </li>
 
   <li class="span3">
-    <a href="http://www.boozallen.com/" target="_blank" rel="nofollow" class="thumbnail">
+    <a href="http://www.boozallen.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
       <img src="bah.jpg" alt="">
     </a>
   </li>
