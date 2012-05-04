@@ -1,4 +1,4 @@
-Title:     Sponsors - Apache BarCamp DC
+itle:     Sponsors - Apache BarCamp DC
 Notice:    Licensed to the Apache Software Foundation (ASF) under one
            or more contributor license agreements.  See the NOTICE file
            distributed with this work for additional information
@@ -32,11 +32,16 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
       <img src="bti360.jpg" alt="">
     </a>
   </li>
-<!--
+
   <li class="span3">
     <a href="http://saic.com" target="_blank" rel="nofollow" class="thumbnail">
       <img src="saic.jpg" alt="">
     </a>
   </li>
--->
+
+  <li class="span3">
+    <a href="http://www.boozallen.com/" target="_blank" rel="nofollow" class="thumbnail">
+      <img src="bah.jpg" alt="">
+    </a>
+  </li>
 </ul>
