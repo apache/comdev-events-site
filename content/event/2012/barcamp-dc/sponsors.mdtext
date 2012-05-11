@@ -1,4 +1,4 @@
-itle:     Sponsors - Apache BarCamp DC
+Title:     Sponsors - Apache BarCamp DC
 Notice:    Licensed to the Apache Software Foundation (ASF) under one
            or more contributor license agreements.  See the NOTICE file
            distributed with this work for additional information
@@ -26,22 +26,38 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
 
 ### We are grateful to the following confirmed sponsors...
 
-<ul class="thumbnails">
-  <li class="span3">
-    <a href="http://bti360.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
-      <img src="bti360.jpg" alt="">
-    </a>
-  </li>
 
-  <li class="span3">
-    <a href="http://saic.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
-      <img src="saic.jpg" alt="">
-    </a>
-  </li>
+ <div class="row">
+	<div class="span3">
+	    <a href="http://bti360.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	      <img src="bti360.jpg" title="bti360"/>
+	    </a>
+	  </div>
+	  <div class="span3">
+	    <a href="http://saic.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	      <img src="saic.jpg" title="Science Applications International Corporation"/>
+	    </a>
+	  </div>
+   </div>
+  <div class="row">&nbsp;</div>
+  <div class="row">
+	  <div class="span4 offset1">
+	    <a href="http://www.boozallen.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	      <img src="bah.jpg" title="Booz Allen Hamilton"/>
+	    </a>
+	  </div>
+     </div>
+  <div class="row">&nbsp;</div>
+  <div class="row">
+	<div class="span2 offset1">
+	    <a href="http://www.nearinfinity.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	      <img src="nic_logo_gray.png" title="Near Infinity"/>
+	    </a>
+	  </div>
+	  <div class="span2">
+	    <a href="http://www.alfresco.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	      <img src="alfresco.png" title="Alfresco"/>
+	    </a>
+	  </div>
+     </div>
 
-  <li class="span3">
-    <a href="http://www.boozallen.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
-      <img src="bah.jpg" alt="">
-    </a>
-  </li>
-</ul>
