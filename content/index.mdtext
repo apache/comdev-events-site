@@ -16,8 +16,32 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-
 Welcome to the Apache Events site.
 
 Here you will find information about upcoming events, as well as
 information on how to organise your own Apache events.
+
+To get started, please make use of the links to the left of the page.
+
+== ApacheCon ==
+
+ApacheCon is the official conference of the Apache Software Foundation. ApacheCon, in common with all Apache events, 
+exists to support, develop and grow our communities. At ApacheCon, current and future users, along with those who build
+on top of the software produced by the foundation, have the chance to learn from the developers and experts behind our
+projects, software and community. It provides a chance to expand your knowledge, learn about current and future projects,
+share what you known on software, development and community, and brings people together to celebrate the best of the
+foundation and what it produces.
+
+Individual ApacheCons have their own dedicated websites. Information on the current/future events should normally be available
+on the dedicated [ApacheCon site](http://www.apachecon.com/).
+
+=== ApacheCon Europe 2012 ===
+
+ApacheCon Europe 2012 will take place on the 5th-9th November 2012, in Sinsheim, Germany. The dedicated website for the 
+event will shortly be available at [http://www.apachecon.eu/](http://www.apachecon.eu/).
+
+=== ApacheCon North America 2013 ===
+
+ApacheCon Europe 2013 will be taking place between 24th February and 2nd March 2013, with the main conference on 
+26th-28th February. It will be held in Portland, Oregon. The dedicated website for the event will shortly be available at
+[http://na.apachecon.com/](http://na.apachecon.com/)
