@@ -32,3 +32,13 @@ ApacheCons) to join them to help.
 | Subscription address: | [small-events-discuss-subscribe@apache.org](mailto:small-events-discuss-subscribe@apache.org) |
 | Archives: | [Web archives](http://mail-archives.apache.org/mod_mbox/www-small-events-discuss/) |
 | Use: | Discussions on future small events, such as BarCampApaches, Meetups, Retreats and Hackathons<br>Used for discussing and planning small events that are not yet ready to seek final approval |
+
+
+In addition to the two public lists, there is also the concom list. This
+is open to all Apache committers, and is privately archived.
+
+| ConCom (Committers Only) | concom@apache.org               |
+|--------------------------|---------------------------------|
+| Subscription address:    | [concom-subscribe@apache.org](mailto:concom-discuss-subscribe@apache.org) |
+| Subscription note:       | All subscriptions are moderated, please subscribe with your @apache.org address |
+| Use: | Policy, budgets, discussions with external parties which cannot be done in private etc. Not normally used for event planning. |

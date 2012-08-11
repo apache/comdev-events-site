@@ -161,6 +161,11 @@ dt {
 }
 
 /* tables */
+thead tr, thead th, 
+tbody tr, tbody td {
+    margin: 0;
+    outline: 0 none;
+}
 thead th {
     background: none repeat scroll 0 0 #BBBBBB;
     border-bottom: 2px solid #888888;
