@@ -159,3 +159,19 @@ dt {
   display: inline;
   float: left;
 }
+
+/* tables */
+thead th {
+    background: none repeat scroll 0 0 #BBBBBB;
+    border-bottom: 2px solid #888888;
+    padding: 0.4em 1em 0.2em;
+}
+tbody td {
+    background: none repeat scroll 0 0 #EEEEEE;
+    border-bottom: 1px solid #BBBBBB;
+    border-top: 1px solid #BBBBBB;
+}
+th, td {
+    padding: 0.2em 1em;
+    text-align: left;
+}
