@@ -4,6 +4,7 @@ package path;
 our @patterns = (
     [qr!^/.*\.html$!,   normal_page => {} ],
     [qr!^/.*barcamp-dc.*\.mdtext$!, normal_page => { template=>"standard_dc_markdown.html" } ],
+    [qr!^/.*barcamp-bos.*\.mdtext$!, normal_page => { template=>"standard_bos_markdown.html" } ],
     [qr!^/.*\.mdtext$!, normal_page => { template=>"standard_markdown.html" } ],
     [qr!^/.*\.redirect$!, redirect => {} ],
 );
