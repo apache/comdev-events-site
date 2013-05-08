@@ -8,7 +8,7 @@ May 19th, 2013 starting at 9AM EST.
 <div>
   <img alt="Hippo" src="hippo.png" title="hippo"  style="height=50px" />
 </div>
-<div>
+<div style="margin-top: 10px">
   <img alt="Hippo" src="basis.png" title="Basis"  style="height=50px" />
 </div>  
 
