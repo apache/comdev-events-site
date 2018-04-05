@@ -16,14 +16,21 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-Welcome to the Apache Events site.
+Welcome to the Apache Events listing!
 
-Here you will find information about upcoming events, as well as
-information on how to organise your own Apache events.
+The Apache Software Foundation (ASF) runs a number of events with our 
+many Apache projects - [follow us on Twitter @ApacheCon](https://twitter.com/ApacheCon).  The ASF also provides permissions in certain 
+cases for groups or companies to [run your own events about Apache software](https://www.apache.org/foundation/marks/events).
 
-To get started, please make use of the links to the left of the page.
+## Apache Roadshow Berlin - June 2018
 
-## ApacheCon
+Join us in conjunction with FOSS Backstage on [11-14 June 2018 in Berlin for Apache Roadshow](https://apachecon.com/euroadshow18/)!
+
+## ApacheCon - September 2018
+
+![ApacheCon Logo](https://www.apache.org/events/current-event-234x60.png)
+
+[ApacheCon North America will be held 24-27 September 2018 in Montreal!](https://apachecon.com/acna18/)
 
 ApacheCon is the official conference of the Apache Software Foundation. ApacheCon, in common with all Apache events, 
 exists to support, develop and grow our communities. At ApacheCon, current and future users, along with those who build
@@ -32,13 +39,7 @@ projects, software and community. It provides a chance to expand your knowledge,
 share what you known on software, development and community, and brings people together to celebrate the best of the
 foundation and what it produces.
 
-Individual ApacheCons have their own dedicated websites. Information on the current/future events should normally be available
-on the dedicated [ApacheCon site](http://www.apachecon.com/).
+### About This Website
 
-### ApacheCon Europe
-
-ApacheCon Europe will be held in Seville (Sevilla), Spain, November 14-18th 2016. For details, see [ApacheCon.com](http://apachecon.com/).
-
-### ApacheCon North America
-
-We'll be announcing dates, and a location, for ApacheCon North America in the coming weeks. Stay tuned!
+See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/).  
+You may also want to [see our current event listing](https://www.apache.org/events/).
