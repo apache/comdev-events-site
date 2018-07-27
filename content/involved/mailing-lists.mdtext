@@ -16,29 +16,32 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-The Conferences Committee oversees two public mailing lists (plus several private ones).
-These two lists are open to all, and we encourage people interested in helping with
-running Apache events (from the smallest of meetups through to the largest of
-ApacheCons) to join them to help.
+There are several main mailing lists on which discussion and planning of Apache
+Software Foundation events occurs:
+
+
+| ApacheCon Announce | announce@apachecon.com |
+|-------------------|------------------------------|
+| Subscription address: | [announce-subscribe@apachecon.com](mailto:announce-subscribe@apachecon.com) |
+| Archives: | [Web archives](https://lists.apache.org/list.html?announce@apachecon.com) |
+| Use: | Read-only: Announcements of, and details about, Apache events |
 
 | ApacheCon Discuss | apachecon-discuss@apache.org |
 |-------------------|------------------------------|
 | Subscription address: | [apachecon-discuss-subscribe@apache.org](mailto:apachecon-discuss-subscribe@apache.org) |
-| Archives: | [Web archives](http://mail-archives.apache.org/mod_mbox/www-apachecon-discuss/) |
-| Use: | Discussions on the future of ApacheCon, and future ApacheCons.<br>(Discussions for current and upcoming ApacheCons which have been approved occur on other lists)|
+| Archives: | [Web archives](https://lists.apache.org/list.html?apachecon-discuss@apache.org) |
+| Use: | Public discussion of Apache events |
 
-| Small Events Discuss | small-events-discuss@apache.org |
-|----------------------|---------------------------------|
-| Subscription address: | [small-events-discuss-subscribe@apache.org](mailto:small-events-discuss-subscribe@apache.org) |
-| Archives: | [Web archives](http://mail-archives.apache.org/mod_mbox/www-small-events-discuss/) |
-| Use: | Discussions on future small events, such as BarCampApaches, Meetups, Retreats and Hackathons<br>Used for discussing and planning small events that are not yet ready to seek final approval |
-
-
-In addition to the two public lists, there is also the concom list. This
-is open to all Apache committers, and is privately archived.
-
-| ConCom (Committers Only) | concom@apache.org               |
+| Community Development | dev@community.apache.org               |
 |--------------------------|---------------------------------|
-| Subscription address:    | [concom-subscribe@apache.org](mailto:concom-subscribe@apache.org) |
-| Subscription note:       | All subscriptions are moderated, please subscribe with your @apache.org address |
-| Use: | Policy, budgets, discussions with external parties which cannot be done in public etc. Not normally used for event planning. |
+| Subscription address:    | [dev-subscribe@community.apache.org](mailto:dev-subscribe@community.apache.org) |
+| Archives:       | [Web archives](https://lists.apache.org/list.html?dev@community.apache.org) |
+| Use: | Since events are produced and organized by the Apache [community development](http://community.apache.org) PMC, most event discussion starts on the ComDev mailing list |
+
+| Planners (Planning committee members only) | planners@apachecon.com |
+|--------------------------|---------------------------------|
+| Subscription address:    | [planners-subscribe@apachecon.com](mailto:planners-subscribe@apachecon.com) |
+| Subscription note:       | All subscriptions are moderated. Since budget and other confidential matters are discussed here, this list is not available to the public. Contact V.P. Conferences if you have questions. |
+| Archives: | [(Private) Web archives](https://lists.apache.org/list.html?planners@apachecon.com) |
+| Use: | Policy, budgets, discussions with external parties which cannot be done in public. Used for detailed planning of events. |
+
