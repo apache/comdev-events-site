@@ -18,13 +18,11 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
 
 
 The Apache Software Foundation (ASF) runs a number of events with for many Apache projects - [follow us on Twitter @ApacheCon](https://twitter.com/ApacheCon).  The ASF also provides permissions in certain 
-cases for groups or companies to [run your own events about Apache software](https://www.apache.org/foundation/marks/events).  Upcoming events include:
+cases for groups or companies to [run your own events about Apache software](https://www.apache.org/foundation/marks/events). 
 
-## Apache Roadshow Berlin - June 2018
+## Upcoming events include:
 
-Join us in conjunction with FOSS Backstage on [11-14 June 2018 in Berlin for Apache Roadshow](https://apachecon.com/euroadshow18/)!
-
-## ApacheCon - September 2018
+### ApacheCon - September 2018
 
 ![ApacheCon Logo](https://www.apache.org/events/current-event-234x60.png)
 
@@ -37,8 +35,25 @@ projects, software and community. It provides a chance to expand your knowledge,
 share what you known on software, development and community, and brings people together to celebrate the best of the
 foundation and what it produces.
 
-### About This Website
+### DC Roadshow - October 2018
 
-See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/).  
-You may also want to [see our current event listing](https://www.apache.org/events/).
+*Details coming soon*
+
+### Chicago Roadshow - 2019 
+
+*Details coming soon*
+
+## Recent events:
+
+### Apache Roadshow Berlin - June 2018
+
+We recently held the Berlin Apache Roadshow at the Berlin
+Kulturbrauerei. Videos, presentations, and photos are on the [event
+website](http://apachecon.com/euroadshow18/).
+
+## About This Website
+
+ - See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/).  
+ - Discussion of the content here happens on our [various mailing
+   lists](https://events.apache.org/involved/mailing-lists.html)
 
