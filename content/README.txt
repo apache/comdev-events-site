@@ -11,9 +11,12 @@ the next upcoming event).
 
 - Add a small image and link (where {size} = 125x125 or 234x60)
 
-<a  href="https://www.apache.org/events/current-event.html">
-  <img src="https://www.apache.org/events/current-event-{size}.png"/>
+<a  href="https://events.apache.org/current-event.html">
+  <img src="https://www.apache.org/images/current-event-{size}.png"/>
 </a>
+
+NOTE: this page, in turn, redirects to the current or upcoming event, 
+which is usually https://apachecon.com/
 
 - (or) Add larger banners with an iframe or hardcoded div:
   https://apache.org/ads/adserver.txt
@@ -22,8 +25,8 @@ the next upcoming event).
 # How ComDev/VP, Conferences Maintains These current-event & Meetup Pages
 
 * Maintenance of current-event* files for PMC inclusion:
-- update text in content/events/current-event.mdtext
-- replace content/events/current-event-*.png files with the new versions from content/ads/ApacheCon
+- update text in content/current-event.mdtext
+- replace content/images/current-event-*.png files with the new versions from content/ads/ApacheCon
 
 See also content/ads/README.txt
 
