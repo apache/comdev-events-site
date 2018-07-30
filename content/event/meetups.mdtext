@@ -29,17 +29,13 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday July 29 [Informal Mixer at Doc's](https://www.meetup.com/linuxaustin/events/253200169/), Austin, TX, US
-* Sunday July 29 [Meetup via hangouts](https://www.meetup.com/CalimaFramework/events/253080473/), No venue specified; group is based in Cali, CO
-* Sunday July 29 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/253108191/), Dubai, AE
-* Sunday July 29 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/252742390/), Plano, TX, US
 * Monday July 30 [CI/CD bei TrackCode mit Jenkins, Helm und Kubernetes](https://www.meetup.com/Cloud-Lab-Bielefeld/events/252395905/), Bielefeld, DE
 * Monday July 30 [Joint Meetup with the Kubernetes and Cloud Native Kansas City](https://www.meetup.com/Elastic-Kansas-City-Meetup/events/252475561/), Kansas City, MO, US
-* Monday July 30 [July Data Engineering Meetup, Sydney](https://www.meetup.com/Sydney-Data-Engineering-Meetup/events/252700789/), Sydney, AU
 * Monday July 30 [Machine Learning Study Jam Part 2](https://www.meetup.com/GDGSTL/events/252760406/), Saint Louis, MO, US
 * Monday July 30 [Hands-on: Functional REST services using Http4s and doobie](https://www.meetup.com/scaladus/events/252931835/), Düsseldorf, DE
 * Tuesday July 31 [NEW DATE: Tues, July 31st - Breakfast - Journey to improved patient outcomes](https://www.meetup.com/AI-and-Big-Data-Healthcare-Meetup/events/251308485/), Washington, DC, US
 * Tuesday July 31 [.NET Bratislava Meetup #5](https://www.meetup.com/NET-Bratislava-Meetup/events/252932697/), Bratislava, SK
+* Tuesday July 31 [Kick-Off Meetup Streeterville (Location TBD - Multiple Times)](https://www.meetup.com/Chicago-Secrets-of-Mobile-Apps-Meetup/events/253153428/), No venue specified; group is based in Chicago, IL, US
 * Tuesday July 31 [5 Steps to Build streaming systems- Neha Narkhede ( CTO at Confluent)](https://www.meetup.com/apache-kafka-sydney/events/252647571/), Sydney, AU
 * Tuesday July 31 [grazPHP #4](https://www.meetup.com/Graz-PHP/events/252901066/), Graz, AT
 * Tuesday July 31 [Free Big Data Spark Hands-on Bootcamp](https://www.meetup.com/Big-Data-IOT-101/events/252074533/), Fremont, CA, US
@@ -83,9 +79,12 @@ N.B. Dates are in local-time
 * Friday August 03 [Pizza Lunch MixR - Camarillo](https://www.meetup.com/VC-Developers/events/252972210/), Camarillo, CA, US
 * Friday August 03 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/250476461/), Ottawa, ON, CA
 * Saturday August 04 [Spark Saturday: Hands-on Spark SQL & DataFrames Workshop using Apache Spark 2.3](https://www.meetup.com/datariders/events/251952473/), Santa Clara, CA, US
+* Saturday August 04 [Inteligencia Artificial, Deep Learning reconocimiento objetos para seguridad](https://www.meetup.com/saxsaBigDataMexico/events/253199354/), No venue specified; group is based in México City, MX
 * Saturday August 04 [August Elastic Meetup](https://www.meetup.com/Elasticsearch-Explorers/events/252602744/), Bangalore, IN
 * Saturday August 04 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253053594/), Pune, IN
+* Saturday August 04 [Configuring networking with "nmcli"](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/252412805/), Atlanta, GA, US
 * Saturday August 04 [DevOps/AWS Demo session on 28-July at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253058579/), No venue specified; group is based in Pune, IN
+* Sunday August 05 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/253274972/), Plano, TX, US
 * Monday August 06 [FREE SAMPLE CLASS - Beginner Python & Math for Data Science (08.06)](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/252955501/), San Francisco, CA, US
 * Monday August 06 [Aprendamos de HTTPS con Let's Encrypt (EPICO)](https://www.meetup.com/PHPColMeetup/events/253228628/), Bogotá, CO
 * Monday August 06 [Setting up ML and AI pipelines from ingestion to production on Azure](https://www.meetup.com/DFW-Data-Science/events/252937717/), Irving , TX, US
@@ -93,6 +92,7 @@ N.B. Dates are in local-time
 * Tuesday August 07 [Kafka — A Streaming Data Platform](https://www.meetup.com/virtualJUG/events/252941953/), No venue specified; group is based in London, 17, GB
 * Tuesday August 07 [Elastic {ON} 2018 Updates ](https://www.meetup.com/San-Antonio-Elastic-Fantastics/events/252238067/), San Antonio, TX, US
 * Tuesday August 07 [Inaugural Meetup: Cloud-Native and Kubernetes](https://www.meetup.com/Los-Angeles-Cloud-Native-and-Kubernetes-Meetup/events/252629882/), Los Angeles, CA, US
+* Tuesday August 07 [Вебинар: Горизонтальное масштабирование баз данных](https://www.meetup.com/Moscow-In-Memory-Computing-Meetup/events/253295912/), No venue specified; group is based in Moscow, RU
 * Wednesday August 08 [AEM Gems feat. CloudTech: Adobe Cloud Platform - the Heart of Experience Cloud](https://www.meetup.com/AEM-Technologist-Group/events/252896824/), San Jose, CA, US
 * Wednesday August 08 [Let's talk AD Integration (Satellite + Ansible), Smart Management + Insights](https://www.meetup.com/RHUG-Chicago/events/252675748/), Chicago , IL, US
 * Wednesday August 08 [Druid Bay Area Meetup @ Lyft](https://www.meetup.com/druidio/events/252515792/), San Francisco, CA, US
@@ -112,6 +112,7 @@ N.B. Dates are in local-time
 * Thursday August 09 [Hands on workshop - Autonomous Performance and Security for Hybrid Clouds](https://www.meetup.com/sj-DevOps/events/252951182/), San Francisco, CA, US
 * Thursday August 09 [Real User Measurement Insights](https://www.meetup.com/Web-Performance-NY/events/252979942/), New York, NY, US
 * Thursday August 09 [Kick Back & Code](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/253206237/), Washington, DC, US
+* Thursday August 09 [ELK Stack -  Introduccion y Migracion de BD MySQL con Logstash](https://www.meetup.com/Elastic-Monterrey-User-Group/events/253269316/), Monterrey, MX
 * Thursday August 09 [Livestream: Blockchain Unpacked: Gregory Simon, CEO Loyyal & Pres. Bitcoin Assn.](https://www.meetup.com/Metis-Chicago-Data-Science/events/253066667/), Chicago, IL, US
 * Saturday August 11 [Data Engineering and Data Science Dojo](https://www.meetup.com/Data-Science-and-Engineering-Club/events/252969672/), Dublin, IE
 * Saturday August 11 [Blockchain Technical Deep Dive Session#1](https://www.meetup.com/indibloc/events/252967901/), NOIDA, IN
