@@ -29,14 +29,9 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Monday July 30 [CI/CD bei TrackCode mit Jenkins, Helm und Kubernetes](https://www.meetup.com/Cloud-Lab-Bielefeld/events/252395905/), Bielefeld, DE
-* Monday July 30 [Joint Meetup with the Kubernetes and Cloud Native Kansas City](https://www.meetup.com/Elastic-Kansas-City-Meetup/events/252475561/), Kansas City, MO, US
-* Monday July 30 [Machine Learning Study Jam Part 2](https://www.meetup.com/GDGSTL/events/252760406/), Saint Louis, MO, US
-* Monday July 30 [Hands-on: Functional REST services using Http4s and doobie](https://www.meetup.com/scaladus/events/252931835/), Düsseldorf, DE
 * Tuesday July 31 [NEW DATE: Tues, July 31st - Breakfast - Journey to improved patient outcomes](https://www.meetup.com/AI-and-Big-Data-Healthcare-Meetup/events/251308485/), Washington, DC, US
 * Tuesday July 31 [.NET Bratislava Meetup #5](https://www.meetup.com/NET-Bratislava-Meetup/events/252932697/), Bratislava, SK
 * Tuesday July 31 [Kick-Off Meetup Streeterville (Location TBD - Multiple Times)](https://www.meetup.com/Chicago-Secrets-of-Mobile-Apps-Meetup/events/253153428/), No venue specified; group is based in Chicago, IL, US
-* Tuesday July 31 [5 Steps to Build streaming systems- Neha Narkhede ( CTO at Confluent)](https://www.meetup.com/apache-kafka-sydney/events/252647571/), Sydney, AU
 * Tuesday July 31 [grazPHP #4](https://www.meetup.com/Graz-PHP/events/252901066/), Graz, AT
 * Tuesday July 31 [Free Big Data Spark Hands-on Bootcamp](https://www.meetup.com/Big-Data-IOT-101/events/252074533/), Fremont, CA, US
 * Tuesday July 31 [Code Matters With Ben Evans & Steve Poole! ](https://www.meetup.com/skillsmatter/events/252398899/), London, GB
@@ -75,6 +70,7 @@ N.B. Dates are in local-time
 * Thursday August 02 [Scala Central #19](https://www.meetup.com/Scala-Central/events/252942776/), London, GB
 * Thursday August 02 [Kick Back & Code - Special Edition - FREE PREVIEW: VueJS Workshop](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/253228533/), Washington, DC, US
 * Thursday August 02 [Productionalizing Spark streaming applications](https://www.meetup.com/Phoenix-Hadoop-User-Group/events/251429778/), Tempe, AZ, US
+* Thursday August 02 [Data Science Meetup](https://www.meetup.com/Data-Science-Meetup-Freiburg/events/253298763/), Freiburg, DE
 * Thursday August 02 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/253226780/), Fort Wayne, IN, US
 * Friday August 03 [Pizza Lunch MixR - Camarillo](https://www.meetup.com/VC-Developers/events/252972210/), Camarillo, CA, US
 * Friday August 03 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/250476461/), Ottawa, ON, CA
@@ -102,12 +98,14 @@ N.B. Dates are in local-time
 * Wednesday August 08 [Serverless Web Applications](https://www.meetup.com/Serverless-Toronto/events/253011233/), Toronto, ON, CA
 * Wednesday August 08 [ScalaWAW #11 - Warsaw shore - Scala Infinity Flame Wars!](https://www.meetup.com/ScalaWAW/events/253127609/), Warsaw, PL
 * Wednesday August 08 [Security: Detect abnormal behavior in Cloud Native Applications](https://www.meetup.com/cloud-native-muc/events/253165753/), München, DE
+* Wednesday August 08 [Getting Started with Kubernetes](https://www.meetup.com/sj-DevOps/events/253319533/), San Francisco, CA, US
 * Wednesday August 08 [Kubernetes Guatemala Meetup #3: K8s Workshop](https://www.meetup.com/Kubernetes-Guatemala/events/252945547/), No venue specified; group is based in Guatemala, GT
 * Wednesday August 08 [Operators and Developers of Distributed Systems](https://www.meetup.com/Cassandra-Seattle-Users/events/253079329/), No venue specified; group is based in Seattle, WA, US
 * Thursday August 09 [Cloud Native Java, part deux by Josh Long from Pivotal](https://www.meetup.com/Miami-Java-User-Group/events/248773738/), Weston, FL, US
 * Thursday August 09 [Blockchain Unpacked SF: Gregory Simon, CEO Loyyal & President Bitcoin  Assn.](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/253065831/), San Francisco, CA, US
 * Thursday August 09 [Learning PWA's (Progressive Web Apps)](https://www.meetup.com/ionic-philly/events/253173315/), Philadelphia, PA, US
 * Thursday August 09 [Real World Data Science Deployment with Architect (drink and snacks provided)](https://www.meetup.com/Houston-Machine-Learning/events/253210382/), Houston, TX, US
+* Thursday August 09 ["Starting Up" with Google Cloud 101](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/253312083/), Tel Aviv-Yafo, IL
 * Thursday August 09 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/251704320/), Vancouver, BC, CA
 * Thursday August 09 [Hands on workshop - Autonomous Performance and Security for Hybrid Clouds](https://www.meetup.com/sj-DevOps/events/252951182/), San Francisco, CA, US
 * Thursday August 09 [Real User Measurement Insights](https://www.meetup.com/Web-Performance-NY/events/252979942/), New York, NY, US
@@ -117,3 +115,9 @@ N.B. Dates are in local-time
 * Saturday August 11 [Data Engineering and Data Science Dojo](https://www.meetup.com/Data-Science-and-Engineering-Club/events/252969672/), Dublin, IE
 * Saturday August 11 [Blockchain Technical Deep Dive Session#1](https://www.meetup.com/indibloc/events/252967901/), NOIDA, IN
 * Saturday August 11 [August Elastic Meetup ](https://www.meetup.com/Delhi-Elastic-Fantastics/events/252590946/), Delhi, IN
+* Saturday August 11 [DevOps/AWS Demo session on 14-July at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253245757/), No venue specified; group is based in Pune, IN
+* Saturday August 11 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/253283232/), Dubai, AE
+* Monday August 13 [Blockchain & Big Data : Decentralised Data, Internet & Value - Panel 13 Aug Lon](https://www.meetup.com/Big-Data-Jobs-in-London/events/252796845/), London, GB
+* Monday August 13 [Monthly Spark, Big Data, and Data Enginering Meetup](https://www.meetup.com/apache-spark-slc/events/252622476/), Salt Lake City, UT, US
+* Monday August 13 [Build a Robust and Reliable Infrastructure to Eliminate Single Point of Failure](https://www.meetup.com/dfw-wordpress-ninjas/events/252602340/), Plano, TX, US
+* Tuesday August 14 [Choosing Cassandra](https://www.meetup.com/melbourne-distributed/events/251908762/), Melbourne, AU
