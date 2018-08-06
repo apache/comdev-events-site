@@ -29,7 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday August 05 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/253274972/), Plano, TX, US
 * Monday August 06 [FREE SAMPLE CLASS - Beginner Python & Math for Data Science (08.06)](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/252955501/), San Francisco, CA, US
 * Monday August 06 [Aprendamos de HTTPS con Let's Encrypt (EPICO)](https://www.meetup.com/PHPColMeetup/events/253228628/), Bogotá, CO
 * Monday August 06 [The Colorado Springs Open Source Software Meetup Group Monthly Meetup](https://www.meetup.com/csopensource/events/253050297/), No venue specified; group is based in Colorado Springs, CO, US
@@ -51,7 +50,7 @@ N.B. Dates are in local-time
 * Wednesday August 08 [Big data systems for operational analytics](https://www.meetup.com/SF-Big-Analytics/events/252678379/), San Francisco, CA, US
 * Wednesday August 08 [How Uber Uses Open Source Big Data Technologies](https://www.meetup.com/UberEvents/events/252916656/), Palo Alto, CA, US
 * Wednesday August 08 [AI in Production: x-post VanPyData - Python Hypothesis Testing for ML in prod.](https://www.meetup.com/LearnDataScience/events/252982842/), Vancouver, BC, CA
-* Wednesday August 08 [Serverless Web Applications](https://www.meetup.com/Serverless-Toronto/events/253011233/), Toronto, ON, CA
+* Wednesday August 08 [Application Server-less Web Applications](https://www.meetup.com/Serverless-Toronto/events/253011233/), Toronto, ON, CA
 * Wednesday August 08 [Redmon PASS User Group: August meeting](https://www.meetup.com/Redmond-PASS-User-Group-and-Data-Professionals-Meetup/events/253357622/), Redmond, WA, US
 * Wednesday August 08 [ScalaWAW #11 - Warsaw shore - Scala Infinity Flame Wars!](https://www.meetup.com/ScalaWAW/events/253127609/), Warsaw, PL
 * Wednesday August 08 [Security: Detect abnormal behavior in Cloud Native Applications](https://www.meetup.com/cloud-native-muc/events/253165753/), München, DE
@@ -65,16 +64,17 @@ N.B. Dates are in local-time
 * Thursday August 09 [Learning PWA's (Progressive Web Apps)](https://www.meetup.com/ionic-philly/events/253173315/), Philadelphia, PA, US
 * Thursday August 09 [Real World Data Science Deployment with Architect (drink and snacks provided)](https://www.meetup.com/Houston-Machine-Learning/events/253210382/), Houston, TX, US
 * Thursday August 09 ["Starting Up" with Google Cloud 101](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/253312083/), Tel Aviv-Yafo, IL
-* Thursday August 09 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/251704320/), Vancouver, BC, CA
+* Thursday August 09 [Learn Data Science by Doing Kaggle Competitions: Demand Prediction](https://www.meetup.com/LearnDataScience/events/251704320/), Vancouver, BC, CA
 * Thursday August 09 [Hands on workshop - Autonomous Performance and Security for Hybrid Clouds](https://www.meetup.com/sj-DevOps/events/252951182/), San Francisco, CA, US
 * Thursday August 09 [Real User Measurement Insights](https://www.meetup.com/Web-Performance-NY/events/252979942/), New York, NY, US
 * Thursday August 09 [Kick Back & Code](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/253206237/), Washington, DC, US
 * Thursday August 09 [ELK Stack -  Introduccion y Migracion de BD MySQL con Logstash](https://www.meetup.com/Elastic-Monterrey-User-Group/events/253269316/), Monterrey, MX
 * Thursday August 09 [Livestream: Blockchain Unpacked: Gregory Simon, CEO Loyyal & Pres. Bitcoin Assn.](https://www.meetup.com/Metis-Chicago-Data-Science/events/253066667/), Chicago, IL, US
-* Friday August 10 [Performance Bike Mountain Group Ride for Intermediate and Beginners Night ride!!](https://www.meetup.com/Performance-Peoria-MeetNRide/events/253155932/), Phoenix, AZ, US
 * Saturday August 11 [Data Engineering and Data Science Dojo](https://www.meetup.com/Data-Science-and-Engineering-Club/events/252969672/), Dublin, IE
 * Saturday August 11 [Blockchain Technical Deep Dive Session#1](https://www.meetup.com/indibloc/events/252967901/), NOIDA, IN
+* Saturday August 11 [Monthly Community Meetup](https://www.meetup.com/hyscala/events/253506100/), No venue specified; group is based in Hyderabad, IN
 * Saturday August 11 [August Elastic Meetup ](https://www.meetup.com/Delhi-Elastic-Fantastics/events/252590946/), Delhi, IN
+* Saturday August 11 [Coding Workshop - Full Stack - C3](https://www.meetup.com/Coding-Crash-Course/events/253532226/), Detroit, MI, US
 * Saturday August 11 [DevOps/AWS Demo session on 14-July at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253245757/), No venue specified; group is based in Pune, IN
 * Saturday August 11 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/253283232/), Dubai, AE
 * Sunday August 12 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/253494047/), Plano, TX, US
@@ -95,6 +95,8 @@ N.B. Dates are in local-time
 * Tuesday August 14 [Clojure MXNet with Carin Meier](https://www.meetup.com/Virtual-Clojure-Meetup/events/252506971/), No venue specified; group is based in Durham, NC, US
 * Tuesday August 14 [Guaranteed fresh: Defining a Data team’s relationship with the business](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/events/253062539/), New York, NY, US
 * Tuesday August 14 [Deep Learning - Intro Sequence to Sequence Learning (Keras/TensorFlow)](https://www.meetup.com/nj-datascience/events/253139439/), Princeton, NJ, US
+* Tuesday August 14 [BookClub: Practical Statistics for Data Scientists - 2: Sampling Distributions](https://www.meetup.com/data-engineering-munich/events/253519477/), München, DE
+* Tuesday August 14 [TRIVIA NIGHT:  Tropicana / Ft. Apache - Streets of New York Pizza](https://www.meetup.com/Las-Vegas-Pub-Trivia-Music-Bingo-Meetup/events/253517374/), Las Vegas, NV, US
 * Wednesday August 15 [Learn about Oracle APEX with David Peak at RMOUG's Summer Workshop](https://www.meetup.com/RMOUG-Meetup/events/252855724/), Parker, CO, US
 * Wednesday August 15 [Apache Gobblin Community Monthly Video Conference](https://www.meetup.com/Big-Data-Meetup-LinkedIn/events/252856061/), No venue specified; group is based in Mountain View, CA, US
 * Wednesday August 15 [Elixir, Natural Language Processing](https://www.meetup.com/TechConfluence/events/252130624/), No venue specified; group is based in Denver, CO, US
@@ -120,3 +122,4 @@ N.B. Dates are in local-time
 * Saturday August 18 [A Machine Learning Look at Individual Florida Dept. of Education Test Scores](https://www.meetup.com/Orlando-MLDS/events/253335895/), Orlando, FL, US
 * Saturday August 18 [DevOps/AWS Demo session on 14-July at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253251003/), No venue specified; group is based in Pune, IN
 * Saturday August 18 [FORT APACHE - USA 1948- 127 minutos - B/N](https://www.meetup.com/cine_version_original/events/253232538/), Madrid, ES
+* Monday August 20 [2018 Bootcamp #2 ](https://www.meetup.com/Big-Data-Adelaide-Bootcamp/events/253127937/), Adelaide, AU
