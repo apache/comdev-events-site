@@ -29,15 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Thursday August 16 [Apache Junction Business Wake Up hosted by SMRBA](https://www.meetup.com/BusinessWakeUp/events/253681845/), Apache Junction, AZ, US
-* Thursday August 16 [Learn how Airflow is being used by Return Path, Nike and Lyft at scale](https://www.meetup.com/Bellevue-Artificial-Intelligence-Meetup/events/252927172/), Seattle, WA, US
-* Thursday August 16 [Tutorials: GluonNLP toolkit and OCR with Apache MXNet](https://www.meetup.com/Apache-MXNet-Seattle-meetup/events/253104242/), Seattle, WA, US
-* Thursday August 16 [Kubernetes SF: TensorFlow on Kubernetes and Multicloud CI/CD](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/253147136/), San Francisco, CA, US
-* Thursday August 16 [Integrar GraphQL a Django + Entiende el poder de los datos con Spark](https://www.meetup.com/pythonbaq/events/253244234/), Barranquilla, CO
-* Thursday August 16 [AWS Roadshow İstanbul: Best Practices & Hard Lessons Learned of Serverless Apps](https://www.meetup.com/Serverless-Turkey/events/253301999/), Istanbul, TR
-* Thursday August 16 [August: Informal meetup and Q&A](https://www.meetup.com/Austin-Cassandra-Meetup/events/253132454/), Austin, TX, US
-* Thursday August 16 [KI  versus Mensch - Gedankenspiele](https://www.meetup.com/Bonn-Data-Science-Meetup/events/253095315/), Bonn, DE
-* Thursday August 16 [(ONLINE Event) - Data Science 101 ... What you need to know !](https://www.meetup.com/Big-Data-Hadoop-Ingest-Transform-Apex-Atlanta-Online/events/253669777/), No venue specified; group is based in Atlanta, GA, US
 * Friday August 17 [Live Chat with Metis Admissions (Final Application Deadline Monday, August 20th)](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/253623344/), San Francisco, CA, US
 * Friday August 17 [ML/DL Study Group](https://www.meetup.com/Big-Data-AI/events/252222116/), Austin, TX, US
 * Saturday August 18 [1-day Hands-on Image Recognition workshop using Apache Spark and BigDL](https://www.meetup.com/datariders/events/252497163/), Mountain View, CA, US
@@ -47,7 +38,6 @@ N.B. Dates are in local-time
 * Saturday August 18 [Coding Workshop - Full Stack - C3](https://www.meetup.com/Coding-Crash-Course/events/253730994/), Detroit, MI, US
 * Saturday August 18 [WOAP - Last minute Welly on a Plate Burger ](https://www.meetup.com/The-Welly-Immersive/events/253807524/), Wellington, NZ
 * Saturday August 18 [A Machine Learning Look at Individual Florida Dept. of Education Test Scores](https://www.meetup.com/Orlando-MLDS/events/253335895/), Orlando, FL, US
-* Saturday August 18 [DevOps/AWS new Batch  on 18 Aug at 04:00 PM](https://www.meetup.com/Spark-Scala-Pune/events/253251003/), No venue specified; group is based in Pune, IN
 * Saturday August 18 [FORT APACHE - USA 1948- 127 minutos - B/N](https://www.meetup.com/cine_version_original/events/253232538/), Madrid, ES
 * Sunday August 19 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/253528811/), Plano, TX, US
 * Monday August 20 [[1 hr Free] PipelineAI, GPU, TPU, Spark, TensorFlow, Kubernetes, Kafka, Scikit](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-SF-East-Bay/events/253787349/), San Francisco, CA, US
@@ -63,9 +53,11 @@ N.B. Dates are in local-time
 * Tuesday August 21 [Why's it gotta be batch? + Lightning Talks!](https://www.meetup.com/Austin-Apache-Kafka-Meetup-Stream-Data-Platform/events/253755551/), Austin, TX, US
 * Tuesday August 21 [CLOUD ENGINEERING NYC- rsvp link in description!! ](https://www.meetup.com/DataStax-UserGroup-NewYork/events/253766755/), New York, NY, US
 * Tuesday August 21 [Productionalizing Spark Streaming and Kafka Applications](https://www.meetup.com/tordatascience/events/253515454/), Toronto, ON, CA
+* Tuesday August 21 [Building End-to-End Data Science Platforms](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-New-York/events/253849280/), New York, NY, US
 * Tuesday August 21 [PHP+Beer DT](https://www.meetup.com/indyphp/events/248691245/), Indianapolis, IN, US
 * Tuesday August 21 [Monthly Dinner Meeting - Soulman's BBQ](https://www.meetup.com/dfw-wordpress-ninjas/events/245344180/), Addison, US
 * Tuesday August 21 [Lumberjack package / Beyond R: Apache Arrow based data science platform](https://www.meetup.com/R-User-Group-Rhein-Neckar/events/251593075/), Heidelberg, DE
+* Tuesday August 21 [Weekly Live Chat: Inside Info on the latest Mobile App Technologies & Trends](https://www.meetup.com/Chicago-Secrets-of-Mobile-Apps-Meetup/events/253831362/), No venue specified; group is based in Chicago, IL, US
 * Tuesday August 21 [Scala Taiwan #26 - Miserable Future](https://www.meetup.com/Scala-Taiwan-Meetup/events/253641978/), Taipei, TW
 * Wednesday August 22 [AEM Gems: AEM Query and Index Troubleshooting](https://www.meetup.com/AEM-Technologist-Group/events/253776922/), San Jose, CA, US
 * Wednesday August 22 [Coffee and Cassandra - Comcast discusses use cases w/ DSE Cassandra](https://www.meetup.com/Philadelphia-DataStax-Cassandra-Interest-group/events/253336018/), Philadelphia, PA, US
@@ -94,7 +86,7 @@ N.B. Dates are in local-time
 * Thursday August 23 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/252908684/), Vancouver, BC, CA
 * Thursday August 23 [Call to Code AI](https://www.meetup.com/Big-Data-AI/events/252871037/), Austin, TX, US
 * Thursday August 23 [Big Data Ingest for Data Scientists](https://www.meetup.com/Data-Science-Phoenix/events/253737092/), Phoenix, AZ, US
-* Thursday August 23 [Jupyter, the Enterprise & More](https://www.meetup.com/Big-Data-Developers-in-NYC/events/253667181/), New York, NY, US
+* Thursday August 23 [Jupyter at Scale - Deep Learning & More](https://www.meetup.com/Big-Data-Developers-in-NYC/events/253667181/), New York, NY, US
 * Thursday August 23 [PythonKC Summer Meetup](https://www.meetup.com/pythonkc/events/251854986/), Lawrence, KS, US
 * Thursday August 23 [Magento Meetup Tokyo](https://www.meetup.com/Magento-Meetup-Tokyo/events/253324161/), Tokyo, JP
 * Friday August 24 [Upotreba Yarn workspace-ova u Node/React/React Native](https://www.meetup.com/MeCoDe/events/253446776/), Chakovec, HR
@@ -131,6 +123,7 @@ N.B. Dates are in local-time
 * Wednesday August 29 [BDAM 8/29:CDAP in Cloud, Extreme OLAP w Apache Kylin, Twitter Reviews & DataStax](https://www.meetup.com/BigDataApps/events/253429041/), Sunnyvale, CA, US
 * Wednesday August 29 [Kotlin DSL & Kafka/Akka Streams](https://www.meetup.com/Advanced-Java-Estonia/events/253565335/), Tallinn, EE
 * Wednesday August 29 [Investigating Complex Relationships in Graphs](https://www.meetup.com/Metis-Chicago-Data-Science/events/253628253/), Chicago, IL, US
+* Wednesday August 29 [Dataplane Services](https://www.meetup.com/futureofdata-budapest/events/253852036/), Budapest, HU
 * Wednesday August 29 [[Advanced] Data Science Reading Group :: Bayesian Personalized Ranking](https://www.meetup.com/LearnDataScience/events/252908427/), Vancouver, BC, CA
 * Wednesday August 29 [Adobe Experience Cloud Meetup - 6th Edition](https://www.meetup.com/Melbourne-Adobe-Experience-Cloud/events/253367900/), Melbourne, AU
 * Wednesday August 29 [3º Meetup de Big Data RJ + 10 Meetup de Analytics em Tudo](https://www.meetup.com/Big-Data-Rio-de-Janeiro/events/252971560/), Rio de Janeiro, BR
@@ -142,3 +135,10 @@ N.B. Dates are in local-time
 * Wednesday August 29 [Elastic Machine Learning @Pivotal Labs](https://www.meetup.com/Elasticsearch-Los-Angeles/events/244376286/), Santa Monica, CA, US
 * Wednesday August 29 [Entrepreneurs, come discuss how to fund your startup ideas!](https://www.meetup.com/openvswitch/events/253644216/), Menlo Park, CA, US
 * Wednesday August 29 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/252632352/), Fishers, IN, US
+* Thursday August 30 [Data Analytics Meetup, Hosted by CCG](https://www.meetup.com/CCG-DAM/events/253614551/), Tampa, FL, US
+* Thursday August 30 [Open Source Performance Test Automation mit JMeter, Selenium und Taurus](https://www.meetup.com/Tools-for-Testing-in-the-DevOps-Era-Vienna/events/253174348/), Wien, AT
+* Thursday August 30 [Catch the SPARK with Databricks](https://www.meetup.com/CloudAnalyticsDC/events/253310989/), Arlington, VA, US
+* Thursday August 30 [brumPHP August: Introduction to Serverless PHP](https://www.meetup.com/brumphp/events/252625865/), Birmingham, GB
+* Thursday August 30 [PostgreSQL with Apache Ignite: Faster Transactions and Analytics](https://www.meetup.com/postgres-nyc/events/252852884/), New York, NY, US
+* Thursday August 30 [Tools for AI/ML in the Real World](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/events/253064538/), New York, NY, US
+* Friday August 31 [Practical Challenges and solutions in creating advanced ML predictive model.](https://www.meetup.com/Big-Data-Developers-in-Delhi/events/253782451/), New Delhi, IN
