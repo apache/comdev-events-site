@@ -29,24 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Thursday August 23 [Cloudera Sessions México 2018](https://www.meetup.com/Meetup-de-Cloudera-en-Mexico/events/252940710/), México City, MX
-* Thursday August 23 [Livestream: Using MapD Kernel for Jupyter Notebook](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/253099873/), San Francisco, CA, US
-* Thursday August 23 [Leer snel setup & beheer van omgevingen met Packer, Vagrant, Virtualbox & Docker](https://www.meetup.com/Oracle-Developer-Meetup/events/252835212/), Nieuwegein, NL
-* Thursday August 23 [Introduction to Artificial Intelligence (AI)](https://www.meetup.com/big-data-developers-in-san-francisco/events/253552233/), San Francisco, CA, US
-* Thursday August 23 [TensorFlow Probability and how Yelp use ML to identify popular dishes](https://www.meetup.com/SF-Big-Analytics/events/252731150/), San Francisco, CA, US
-* Thursday August 23 [Tonight's menu: Kubernetes; amped app performance, distributed databases & Thai!](https://www.meetup.com/Bay-Area-In-Memory-Computing/events/252983625/), Menlo Park, CA, US
-* Thursday August 23 [Workshop: Dockerizing Symfony to Maximize Microservices](https://www.meetup.com/achieverstech/events/253061924/), Toronto, ON, CA
-* Thursday August 23 [Using MapD Kernel for Jupyter Notebook](https://www.meetup.com/Metis-New-York-Data-Science/events/253099070/), New York, NY, US
-* Thursday August 23 [Guillaume Chau Vuejs and Vue CLI-3 (Limited spots available)](https://www.meetup.com/VueJSMeetupAmsterdam/events/253128656/), Amsterdam, NL
-* Thursday August 23 [Join the most successful free networking event in Gilbert](https://www.meetup.com/Gilbert-Elite-Networking-powered-by-Rockstar-Connect/events/253138391/), Gilbert, AZ, US
-* Thursday August 23 [Learn Data Science by Doing Kaggle Competitions: Restaurant Visitor Forecasting](https://www.meetup.com/LearnDataScience/events/252908684/), Vancouver, BC, CA
-* Thursday August 23 [Call to Code AI](https://www.meetup.com/Big-Data-AI/events/252871037/), Austin, TX, US
-* Thursday August 23 [Big Data Ingest for Data Scientists](https://www.meetup.com/Data-Science-Phoenix/events/253737092/), Phoenix, AZ, US
-* Thursday August 23 [Kick Back & Code](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/253887378/), Washington, DC, US
-* Thursday August 23 [Jupyter at Scale - Deep Learning & More](https://www.meetup.com/Big-Data-Developers-in-NYC/events/253667181/), New York, NY, US
-* Thursday August 23 [Monthly Meetup](https://www.meetup.com/pythonsd/events/252768967/), San Diego, CA, US
-* Thursday August 23 [PythonKC Summer Meetup](https://www.meetup.com/pythonkc/events/251854986/), Lawrence, KS, US
-* Thursday August 23 [Magento Meetup Tokyo](https://www.meetup.com/Magento-Meetup-Tokyo/events/253324161/), Tokyo, JP
 * Friday August 24 [Upotreba Yarn workspace-ova u Node/React/React Native](https://www.meetup.com/MeCoDe/events/253446776/), Chakovec, HR
 * Saturday August 25 [Hack the Tower](https://www.meetup.com/hyscala/events/253720250/), No venue specified; group is based in Hyderabad, IN
 * Saturday August 25 [Build a computer vision related deep learning model using Keras & TensorFlow](https://www.meetup.com/Bangalore-Spark-Enthusiasts/events/247275326/), Bangalore, IN
@@ -82,8 +64,9 @@ N.B. Dates are in local-time
 * Tuesday August 28 ["Improving Apache Spark™ In-Memory Computing with Apache Ignite™"](https://www.meetup.com/big-bang-Data-science-Solutions/events/253752437/), Atlanta, GA, US
 * Tuesday August 28 [August 2018 Meetup](https://www.meetup.com/Singapore-Python-User-Group/events/253835796/), 149598, SG
 * Tuesday August 28 [Hands-on: Functional Parsers in Scala](https://www.meetup.com/scaladus/events/254001628/), Düsseldorf, DE
+* Tuesday August 28 [Livestream: Julia: Language Features for Data Science](https://www.meetup.com/Metis-Chicago-Data-Science/events/254047358/), Seattle, WA, US
 * Tuesday August 28 [Melbourne Adobe Experience Cloud Meetup 6th Edition](https://www.meetup.com/AEM-Technologist-Group/events/253613582/), No venue specified; group is based in San Jose, CA, US
-* Wednesday August 29 [Join us for the first Birmingham RHUG!](https://www.meetup.com/Birmingham-RHUG/events/252901392/), Birmingham, AL, US
+* Wednesday August 29 [Join us for another great Birmingham RHUG!](https://www.meetup.com/Birmingham-RHUG/events/252901392/), Birmingham, AL, US
 * Wednesday August 29 [Livestream: Investigating Complex Relationships in Graphs](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/253649594/), San Francisco, CA, US
 * Wednesday August 29 [The SPOTLIGHT Mixer for August 2018](https://www.meetup.com/SPOTLIGHTSeniorServicesLasVegas/events/253962929/), Las Vegas, NV, US
 * Wednesday August 29 [ Software Development Talks ](https://www.meetup.com/LimerickAISD/events/252738966/), Limerick , IE
@@ -119,7 +102,7 @@ N.B. Dates are in local-time
 * Friday August 31 [Practical Challenges and solutions in creating advanced ML predictive model.](https://www.meetup.com/Big-Data-Developers-in-Delhi/events/253782451/), New Delhi, IN
 * Friday August 31 [Reunión Mensual Agosto 2018](https://www.meetup.com/Mexicali-Open-Source/events/253254292/), Mexicali, MX
 * Saturday September 01 [Configuring storage with "fdisk" (standard partitioning) as well as LVM basics](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/253621148/), Atlanta, GA, US
-* Saturday September 01 [Spark on Kubernetes](https://www.meetup.com/Bangalore-Apache-Spark-Meetup/events/253867959/), No venue specified; group is based in Bangalore, IN
+* Saturday September 01 [Spark on Kubernetes](https://www.meetup.com/Bangalore-Apache-Spark-Meetup/events/253867959/), Bangalore, IN
 * Saturday September 01 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253236162/), Pune, IN
 * Saturday September 01 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253803820/), No venue specified; group is based in Pune, IN
 * Monday September 03 [Unique AI Capabilities for Digital Experiences](https://www.meetup.com/Big-Data-Israel/events/253843134/), Holon , IL
@@ -142,9 +125,26 @@ N.B. Dates are in local-time
 * Wednesday September 05 [OpenShift Container Platform and Re-thinking Security in the Container Age](https://www.meetup.com/Philadelphia-RHUG/events/253786577/), Berwyn, PA, US
 * Wednesday September 05 [Web Performance Meetup!](https://www.meetup.com/Atlanta-Web-Performance-Group/events/252076338/), Atlanta, GA, US
 * Wednesday September 05 [Angular Birmingham](https://www.meetup.com/Angular-Birmingham/events/253389759/), Birmingham, GB
+* Wednesday September 05 [Intro to Apache Sqoop and Apache Hive](https://www.meetup.com/python-plus-data-science/events/254047822/), New York, NY, US
 * Wednesday September 05 [(1) VS Code Extension Development; (2) Graph DBs & Query Languages](https://www.meetup.com/SeaLang/events/250965934/), Bellevue, WA, US
 * Wednesday September 05 [Real-Time, Multi-Cloud ML/AI with PipelineAI, TensorFlow, GPU, TPU, Spark, Kafka](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/252781281/), San Francisco, CA, US
 * Wednesday September 05 [Introduction to the Semantic Web](https://www.meetup.com/TriangleAI/events/253137830/), Durham, NC, US
 * Wednesday September 05 [Triangle AI: Introduction to the Semantic Web](https://www.meetup.com/splatspace/events/253137912/), Durham, NC, US
 * Wednesday September 05 [Livestream: Scalable Automatic Machine Learning with H2O](https://www.meetup.com/Metis-Chicago-Data-Science/events/253653719/), Chicago, IL, US
+* Thursday September 06 [Gainesville MUFON David Toon "Search for ET Vehicles in Solar Satellite Imagery"](https://www.meetup.com/Florida-MUFON-UFO-Research-and-Investigations/events/253677102/), Gainesville, FL, US
+* Thursday September 06 [Apache MXNet for Deep Learning -  OCR with MXNet ](https://www.meetup.com/futureofdata-princeton/events/253312744/), Princeton, NJ, US
+* Thursday September 06 [Intro to Kafka](https://www.meetup.com/Boulder-Women-in-Machine-Learning-and-Data-Science/events/253845214/), Boulder, CO, US
+* Thursday September 06 [Build Streaming Applications with Apache Kafka using KSQL and SMTs](https://www.meetup.com/Kafka-ATL/events/253855733/), Atlanta, GA, US
 * Thursday September 06 [Istio in the real world](https://www.meetup.com/Melbourne-Kubernetes-Meetup/events/253968335/), Melbourne, AU
+* Thursday September 06 [ Apache Net Beans 9.0](https://www.meetup.com/Deep-Java-Dev/events/253973248/), Beograd, RS
+* Thursday September 06 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/252908686/), Vancouver, BC, CA
+* Thursday September 06 [Event-Driven Micro Apps with CQRS & Kafka, building Microservices](https://www.meetup.com/Updater-Tech-Talks/events/253756554/), New York, NY, US
+* Thursday September 06 [Cas d'usages Terraform et Nomad](https://www.meetup.com/Sophia-Antipolis-HashiCorp-User-Group/events/251397471/), Alpes-Maritimes, FR
+* Thursday September 06 [Data Warehousing with Spark (Take II)](https://www.meetup.com/Dublin-Spark-Meetup/events/253305569/), Dublin, IE
+* Thursday September 06 [[DS Project] Hands-on Workshop - Crime Prediction in Toronto with Python](https://www.meetup.com/WeCloudData/events/253984426/), Toronto, ON, CA
+* Thursday September 06 [Productionalizing Spark streaming applications](https://www.meetup.com/Phoenix-Hadoop-User-Group/events/253767467/), Tempe, AZ, US
+* Thursday September 06 [Apache Kafka and KSQL in Action: Let’s Build a Streaming Data Pipeline!](https://www.meetup.com/apachekafkamadrid/events/251264347/), Madrid, ES
+* Thursday September 06 [Introduction à l'actor model : Implémentation d'une API avec Akka Http (Scala)](https://www.meetup.com/fastdata/events/252667566/), Paris, FR
+* Thursday September 06 [Ionic - Stencil & TBA talks](https://www.meetup.com/Ionic-Zurich/events/253486322/), Zürich, CH
+* Thursday September 06 [Simply Business' Data Platform, by Dani Solà Lagares](https://www.meetup.com/Spark-Barcelona/events/254032553/), Barcelona, ES
+* Thursday September 06 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/251605229/), Fort Wayne, IN, US
