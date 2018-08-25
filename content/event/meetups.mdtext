@@ -29,9 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Friday August 24 [Upotreba Yarn workspace-ova u Node/React/React Native](https://www.meetup.com/MeCoDe/events/253446776/), Chakovec, HR
-* Saturday August 25 [Hack the Tower](https://www.meetup.com/hyscala/events/253720250/), No venue specified; group is based in Hyderabad, IN
-* Saturday August 25 [Build a computer vision related deep learning model using Keras & TensorFlow](https://www.meetup.com/Bangalore-Spark-Enthusiasts/events/247275326/), Bangalore, IN
 * Saturday August 25 [Going over basic Linux commands and configuring users, groups and permissions](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/253620563/), Atlanta, GA, US
 * Saturday August 25 [Coding Workshop - Full Stack - C3](https://www.meetup.com/Coding-Crash-Course/events/253759314/), Detroit, MI, US
 * Saturday August 25 [DevOps/AWS Demo session on 25 Aug at 04:15 PM](https://www.meetup.com/Spark-Scala-Pune/events/253605640/), No venue specified; group is based in Pune, IN
@@ -44,7 +41,6 @@ N.B. Dates are in local-time
 * Monday August 27 [Active Directory, Security and Pizza](https://www.meetup.com/datagold/events/253999812/), Tel Aviv-Yafo, IL
 * Tuesday August 28 [August AtACE Session: Adobe Experience Manager and Adobe Sensei](https://www.meetup.com/AEM-Technologist-Group/events/252347075/), San Jose, CA, US
 * Tuesday August 28 [[Partner Conference] Global Big Data Conference ](https://www.meetup.com/San-Francisco-AI-Meetup/events/252850162/), SANTA CLARA, CA, US
-* Tuesday August 28 [[Partner Conference] Global Big Data Conference](https://www.meetup.com/Technical-Marketers-Meetup/events/252850267/), SANTA CLARA, CA, US
 * Tuesday August 28 [6th Global Big Data/ML/AI Conference - $200 Off @ Santa Clara Convention Center](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/254021369/), Santa Clara, CA, US
 * Tuesday August 28 [Advanced Financial Data Science & AI Bootcamp](https://www.meetup.com/London-Advanced-Financial-Data-Science-AI-Bootcamp/events/252100285/), London, GB
 * Tuesday August 28 [Run Machine Learning at Scale with Spark](https://www.meetup.com/Calgary-Open-Source-Meetup/events/253453489/), No venue specified; group is based in Calgary, AB, CA
@@ -114,6 +110,7 @@ N.B. Dates are in local-time
 * Tuesday September 04 [Reactive Micronaut Microservices - Jeff Scott Brown: Co Spgs Open Source Meetup](https://www.meetup.com/csopensource/events/253452305/), No venue specified; group is based in Colorado Springs, CO, US
 * Tuesday September 04 [Future of Data Meetup: Data Ingestion Using Nifi, Kafka and Storm](https://www.meetup.com/futureofdata-zurich/events/253091012/), Zürich, CH
 * Tuesday September 04 [Open Source Performance Test Automation mit JMeter, Selenium und Taurus](https://www.meetup.com/Test-tools-fur-DevOps-Munchen/events/253160169/), Munich, DE
+* Tuesday September 04 [BDM59 (NEW LOCATION!): Deep Learning Pipelines on satellite images](https://www.meetup.com/Big-Data-Montreal/events/254038299/), Montréal , QC, CA
 * Tuesday September 04 [Towards Writing Scalable Spark Apps & Pyspark and the Apache Arrow Integration](https://www.meetup.com/Spark-London/events/253160403/), London, GB
 * Tuesday September 04 [Presentation: Simplified Data Ingestion with Apache Daffodil and DFDL](https://www.meetup.com/FredWebTech/events/253810672/), Frederick, MD, US
 * Tuesday September 04 [Spark Catalyst: A Functional Query Optimization Engine](https://www.meetup.com/no-fun/events/253684597/), New Orleans, LA, US
@@ -123,7 +120,7 @@ N.B. Dates are in local-time
 * Wednesday September 05 [A look into the future of Kibana](https://www.meetup.com/Elasticsearch-Boston/events/253275536/), Cambridge, MA, US
 * Wednesday September 05 [Scalable Automatic Machine Learning with H2O](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/253653587/), San Francisco, CA, US
 * Wednesday September 05 [OpenShift Container Platform and Re-thinking Security in the Container Age](https://www.meetup.com/Philadelphia-RHUG/events/253786577/), Berwyn, PA, US
-* Wednesday September 05 [Web Performance Meetup!](https://www.meetup.com/Atlanta-Web-Performance-Group/events/252076338/), Atlanta, GA, US
+* Wednesday September 05 [Web Performance Meetup - Featuring Split](https://www.meetup.com/Atlanta-Web-Performance-Group/events/252076338/), Atlanta, GA, US
 * Wednesday September 05 [Angular Birmingham](https://www.meetup.com/Angular-Birmingham/events/253389759/), Birmingham, GB
 * Wednesday September 05 [Intro to Apache Sqoop and Apache Hive](https://www.meetup.com/python-plus-data-science/events/254047822/), New York, NY, US
 * Wednesday September 05 [(1) VS Code Extension Development; (2) Graph DBs & Query Languages](https://www.meetup.com/SeaLang/events/250965934/), Bellevue, WA, US
@@ -148,3 +145,11 @@ N.B. Dates are in local-time
 * Thursday September 06 [Ionic - Stencil & TBA talks](https://www.meetup.com/Ionic-Zurich/events/253486322/), Zürich, CH
 * Thursday September 06 [Simply Business' Data Platform, by Dani Solà Lagares](https://www.meetup.com/Spark-Barcelona/events/254032553/), Barcelona, ES
 * Thursday September 06 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/251605229/), Fort Wayne, IN, US
+* Friday September 07 [Pizza Lunch MixR - Camarillo](https://www.meetup.com/VC-Developers/events/253558351/), Camarillo, CA, US
+* Friday September 07 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/243363307/), Ottawa, ON, CA
+* Saturday September 08 [[Free 2-Hr]PipelineAI: Continuous Train + Deploy TensorFlow Models in Production](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-New-York/events/253974640/), New York, NY, US
+* Saturday September 08 [Aplicaciones WEB en JAVA con acceso a Bases de Datos - SEMINARIO GRATUITO](https://www.meetup.com/cgingenieria/events/253912450/), Ciudad Autónoma de Buenos Aires, AR
+* Saturday September 08 [Data Engineering Workshop](https://www.meetup.com/Data-Science-and-Engineering-Club/events/253702254/), Dublin, IE
+* Saturday September 08 [AIOUG-NIChapter Autonomous Tech Day](https://www.meetup.com/All-India-Oracle-Users-Group-North-India-Chapter/events/253898045/), gurgaon, IN
+* Saturday September 08 [Monthly Community Meetup](https://www.meetup.com/hyscala/events/253919349/), No venue specified; group is based in Hyderabad, IN
+* Saturday September 08 [Data Science hackathon (register via EventBrite)](https://www.meetup.com/London-Data-Science-Workshop/events/253970491/), London, GB
