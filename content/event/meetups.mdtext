@@ -29,11 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Friday August 31 [Angular Hack 1](https://www.meetup.com/SnackandHack/events/253904010/), London, GB
-* Friday August 31 [Practical Challenges and solutions in creating advanced ML predictive model.](https://www.meetup.com/Big-Data-Developers-in-Delhi/events/253782451/), New Delhi, IN
-* Saturday September 01 [Spark on Kubernetes, and State Management in Structured Streaming](https://www.meetup.com/Bangalore-Apache-Spark-Meetup/events/253867959/), Bangalore, IN
-* Saturday September 01 [Artificial Intelligence Day 2018](https://www.meetup.com/Aegis-IBM-BIG-DATA/events/254140855/), Mumbai, IN
-* Saturday September 01 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253236162/), Pune, IN
 * Saturday September 01 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/253803820/), No venue specified; group is based in Pune, IN
 * Sunday September 02 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/254162185/), Plano, TX, US
 * Monday September 03 [Unique AI Capabilities for Digital Experiences](https://www.meetup.com/Big-Data-Israel/events/253843134/), Holon , IL
@@ -87,6 +82,7 @@ N.B. Dates are in local-time
 * Thursday September 06 [Ionic - Stencil & OneSignal](https://www.meetup.com/Ionic-Zurich/events/253486322/), Zürich, CH
 * Thursday September 06 [Simply Business' Data Platform, by Dani Solà Lagares](https://www.meetup.com/Spark-Barcelona/events/254032553/), Barcelona, ES
 * Thursday September 06 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/251605229/), Fort Wayne, IN, US
+* Thursday September 06 [Mississauga Big Data Meetup 30](https://www.meetup.com/Mississauga-Big-Data-Analytics-Meetup/events/254239822/),  Mississauga,, ON, CA
 * Friday September 07 [Pizza Lunch MixR - Camarillo](https://www.meetup.com/VC-Developers/events/253558351/), Camarillo, CA, US
 * Friday September 07 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/243363307/), Ottawa, ON, CA
 * Saturday September 08 [[Free 2-Hr]PipelineAI: Continuous Train + Deploy TensorFlow Models in Production](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-New-York/events/253974640/), New York, NY, US
@@ -125,7 +121,7 @@ N.B. Dates are in local-time
 * Tuesday September 11 [Serverless C'ville](https://www.meetup.com/cville-tech/events/253811460/), Charlottesville, VA, US
 * Tuesday September 11 [Managing Your Metadata with Project Egeria ](https://www.meetup.com/Big-Data-Developers-in-NYC/events/253974350/), New York, NY, US
 * Tuesday September 11 [Elasticsearch - Under the hood + Embryo selection using AI](https://www.meetup.com/Big-Data-Novi-Sad/events/254234788/), Novi Sad, RS
-* Tuesday September 11 [BDM59 (NEW LOCATION!): Deep Learning Pipelines on satellite images](https://www.meetup.com/Big-Data-Montreal/events/254038299/), Montréal , QC, CA
+* Tuesday September 11 [New York Apache Zeppelin & Data Science Meetup Kickoff](https://www.meetup.com/New-York-Apache-Zeppelin-Data-Science/events/254242603/), New York, NY, US
 * Tuesday September 11 [Serious Data Science - Learn, Explore, Build data science knowledge and skills!](https://www.meetup.com/novadeeplearning/events/249173479/), Sterling, US
 * Tuesday September 11 [AWS Portsmouth User Group Meetup](https://www.meetup.com/aws-portsmouth-user-group/events/250454400/), Kittery, ME, US
 * Wednesday September 12 [Mobile World Congress Americas](https://www.meetup.com/laphonegap/events/250854325/), Los Angeles, CA, US
@@ -152,12 +148,14 @@ N.B. Dates are in local-time
 * Wednesday September 12 [Introduction to Deep Learning and TensorFlow (for beginners)](https://www.meetup.com/datariders/events/253786679/), San Francisco, CA, US
 * Wednesday September 12 [The State of Blockchain: Talks by Brian Behlendorf & Industry Panel](https://www.meetup.com/Hyperledger-Los-Angeles/events/253795098/), Los Angeles, CA, US
 * Wednesday September 12 [Dataflow, Apache Beam and Highlights from Google Next!](https://www.meetup.com/GDG-Cloud-Austin/events/254250466/), Austin, TX, US
+* Wednesday September 12 [Deploy Backing Services (Postgres, Redis and Minio) to Kubernetes](https://www.meetup.com/Silicon-Valley-Postgres/events/254269227/), Palo Alto, US
 * Wednesday September 12 [Dinner and Book Discussion- Apaches by Lorenzo Carcaterra](https://www.meetup.com/Bremerton-Book-Club-Meetup/events/250932415/), Bremerton, WA, US
 * Wednesday September 12 [WiHADS #2](https://www.meetup.com/Healthcare-Analytics-Data-Science/events/248899825/), No venue specified; group is based in Paris, FR
 * Wednesday September 12 [App Search and a surprise](https://www.meetup.com/Silicon-Valley-Elastic-Fantastics/events/254161616/), Mountain View, CA, US
 * Thursday September 13 [Data Science Salon LA Conference](https://www.meetup.com/Los-Angeles-DataOps-for-Big-Data-and-Machine-Learning-Meetup/events/254188085/), Santa Monica, CA, US
 * Thursday September 13 [Introduction to Serverless Computing with IBM Cloud Functions](https://www.meetup.com/IBM-Code-Bay-Area-Meetup/events/252286630/), San Francisco, CA, US
 * Thursday September 13 [Digital Transformation: Gaining a Competitive Advantage with Data and Diversity](https://www.meetup.com/Chicago-Women-in-Big-Data/events/252133057/), Chicago, IL, US
+* Thursday September 13 [PyNight Hackathon](https://www.meetup.com/San-Diego-Data-Science-Meetup/events/254280910/), San Diego, CA, US
 * Thursday September 13 [Smart contract voor je eigen munt op de Ethereum blockchain](https://www.meetup.com/DEVdev/events/253332450/), Deventer, NL
 * Thursday September 13 [Elastic meetup: Introduction to Elasticsearch, and what's new in 6.3](https://www.meetup.com/Ottawa-Elasticsearch-Meetup/events/252728366/), Kanata, ON, CA
 * Thursday September 13 [User Stories: Alluxio production use cases with Presto and Hive (NYC)](https://www.meetup.com/Alluxio/events/254150089/), New York, NY, US
@@ -168,3 +166,9 @@ N.B. Dates are in local-time
 * Thursday September 13 [Data Pipelines und Splunk](https://www.meetup.com/Bonn-Data-Science-Meetup/events/253868868/), 53123 Bonn, DE
 * Thursday September 13 [Scala meetup v8](https://www.meetup.com/meetup-group-kyiv-scala-group/events/253975346/), Kyiv, UA
 * Thursday September 13 [Linux Meetup is Back](https://www.meetup.com/linuxaustin/events/254165825/), Austin, TX, US
+* Thursday September 13 [BigDataX Presents: Python Spark Tutorial by Natalino Busa](https://www.meetup.com/BigDataX/events/254274012/), Singapore, SG
+* Friday September 14 [Getting started with Go](https://www.meetup.com/MeCoDe/events/253673670/), Chakovec, HR
+* Friday September 14 [ML/DL Study Group](https://www.meetup.com/Big-Data-AI/events/252516187/), Austin, TX, US
+* Saturday September 15 [#3 JenkinsPune Chapter Meet.Looking for Speakers](https://www.meetup.com/Pune-Jenkins-Area-Meetup/events/253138348/), pune, IN
+* Saturday September 15 [Quarterly Large Scale Production Engineering (LSPE) meet up](https://www.meetup.com/lspe-in/events/244024249/), Bangalore, IN
+* Saturday September 15 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/254020039/), No venue specified; group is based in Pune, IN
