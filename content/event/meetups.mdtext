@@ -29,10 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday October 21 [What Makes Something Sacred?](https://www.meetup.com/MarylandSocratesCafe/events/255353014/), Takoma Park, MD, US
-* Sunday October 21 [ Information Session - Introduction to Big Data Analytics](https://www.meetup.com/tordatascience/events/255450766/), Toronto, ON, CA
-* Sunday October 21 [Information Session - Introduction to Big Data Analytics](https://www.meetup.com/WeCloudData/events/255490982/), Toronto, ON, CA
-* Sunday October 21 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255557505/), Plano, TX, US
 * Monday October 22 [[5 Day Training Course] Neural Networks and Deep Learning](https://www.meetup.com/TensorFlow-Madrid/events/252020106/), No venue specified; group is based in Madrid, ES
 * Monday October 22 [Coaching Others to Manage Workplace Emotions](https://www.meetup.com/Women-in-Big-Data-Meetup/events/255251628/), Palo Alto, CA, US
 * Monday October 22 [[Underscore] 2018-10: From Zero to FP](https://www.meetup.com/underscore/events/254614984/), Tel Aviv-Yafo, IL
@@ -44,7 +40,6 @@ N.B. Dates are in local-time
 * Tuesday October 23 [Apache Ignite: The In-Memory Hammer In Your Data Science Toolkit ](https://www.meetup.com/Metis-New-York-Data-Science/events/254379968/), New York, NY, US
 * Tuesday October 23 [Using Apache Airflow to Manage Big Data & ML Operations in the Cloud](https://www.meetup.com/Bay-Area-Big-Data-Ops-ML/events/255241879/), Mountain View, CA, US
 * Tuesday October 23 [Introduction à Apache Kafka & présentation de notre Datalab](https://www.meetup.com/Apache-Kafka-Suisse-Romande/events/255253350/), Lausanne, CH
-* Tuesday October 23 [Inaugural Meetup: Cloud-Native and Kubernetes](https://www.meetup.com/Dallas-Cloud-Native-and-Kubernetes-Meetup/events/252630349/), No venue specified; group is based in Dallas, TX, US
 * Tuesday October 23 [Kibana Canvas 6.5 preview](https://www.meetup.com/Austin-Elastic-Fantastics/events/254620581/), Austin, TX, US
 * Tuesday October 23 [Stream Processing with Apache Kafka & Apache Samza](https://www.meetup.com/Stream-Processing-Meetup-LinkedIn/events/255016589/), Sunnyvale, CA, US
 * Tuesday October 23 [StreamSets at Cargill and phData](https://www.meetup.com/Twin-Cities-StreamSets-User-Group/events/255176133/), Hopkins, MN, US
@@ -57,6 +52,7 @@ N.B. Dates are in local-time
 * Tuesday October 23 [Meet for SPEED](https://www.meetup.com/Web-Performance-NY/events/252219422/), New York, NY, US
 * Tuesday October 23 [Flutter no es un grupo de rock Aleman](https://www.meetup.com/CrossDvlup/events/255396760/), Madrid, ES
 * Wednesday October 24 [Cross Post: AEM BE Meetup at hosted by iDA Mediafoundry ](https://www.meetup.com/AEM-Technologist-Group/events/254556750/), Kontich, BE
+* Wednesday October 24 [Entrepreneurs, come discuss the funding strategy for your startup!](https://www.meetup.com/openvswitch/events/255667281/), Menlo Park, CA, US
 * Wednesday October 24 [Jakub Háva (H2O.ai): Next Generation of Machine Learning on Apache Spark](https://www.meetup.com/commercial-workshops/events/255453586/), Praha, CZ
 * Wednesday October 24 [AEM Developer Meetup BE #4 - ida mediafoundry](https://www.meetup.com/AEM-Developer-Meetup-BE/events/254548211/), Kontich, BE
 * Wednesday October 24 [Apache Ignite in the Big Data Ecosystem](https://www.meetup.com/futureofdata-newyork/events/253873404/), New York, NY, US
@@ -71,8 +67,10 @@ N.B. Dates are in local-time
 * Wednesday October 24 [BigDataX Presents: Apache Drill](https://www.meetup.com/BigDataX/events/255383922/), 018989, SG
 * Wednesday October 24 [2º Elastic Meetup Fortaleza](https://www.meetup.com/Fortaleza-Elastic-Fantastics/events/255271157/), Fortaleza, BR
 * Wednesday October 24 [ETL e Dw 3.0 com Azure Databricks Delta](https://www.meetup.com/BSB-AI-Big-Data-Analytics/events/255611744/), No venue specified; group is based in Brasília, BR
+* Thursday October 25 [Apache Junction Business Wake Up hosted by SMRBA](https://www.meetup.com/BusinessWakeUp/events/255670400/), Apache Junction, AZ, US
 * Thursday October 25 [Breakfast Insights by TI Media & Notonthehighstreet](https://www.meetup.com/Big-Data-London-Online/events/255608500/), London, GB
 * Thursday October 25 [Apache Kafka Meetup @ Paf](https://www.meetup.com/Helsinki-Apache-Kafka-Meetup/events/255224651/), Helsinki, FI
+* Thursday October 25 [Game Night](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/255562656/), APACHE JUNCTION, AZ, US
 * Thursday October 25 [How IMC powers next-generation trading; how banks are using distributed systems](https://www.meetup.com/NYC-In-Memory-Computing-Meetup/events/254701726/), New York, NY, US
 * Thursday October 25 [Kafka streams and monitoring](https://www.meetup.com/Zagreb-Kafka/events/254887995/), Zagreb, HR
 * Thursday October 25 [DevOps Exchange San Francisco October Meetup](https://www.meetup.com/DevOps-Exchange-SanFrancisco/events/254969027/), San Francisco, CA, US
@@ -132,7 +130,7 @@ N.B. Dates are in local-time
 * Tuesday October 30 [Time Series Analysis in Python](https://www.meetup.com/python-plus-data-science/events/255011731/), New York, NY, US
 * Tuesday October 30 [Processing Streaming Data with KSQL w/ ***Special guest***](https://www.meetup.com/Milano-Kafka-meetup/events/255094035/), Milano, IT
 * Tuesday October 30 [Artificial Intelligence - What you need to Know?](https://www.meetup.com/Big-Data-and-Analytics-World/events/255282286/), No venue specified; group is based in Washington, DC, US
-* Tuesday October 30 [Kubernetes SF: Deploying TiDB/TiKV & What is KubeDirector?](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/255431002/), San Francisco, CA, US
+* Tuesday October 30 [Stateful Apps Need Not Be Spooky - Tools & a Use Case](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/255431002/), San Francisco, CA, US
 * Tuesday October 30 [BookClub: Practical Statistics for Data Scientists - 5: Classification](https://www.meetup.com/data-engineering-munich/events/255641965/), München, DE
 * Wednesday October 31 [ODSC WEST 2018](https://www.meetup.com/San-Francisco-ODSC/events/251927373/), Burlingame, CA, US
 * Wednesday October 31 [Open Data Science Conf SF Bay Oct 31-Nov 3 2018 @ Hyatt Regency, Burlingame, CA](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/254786621/), Burlingame, CA, US
@@ -168,3 +166,6 @@ N.B. Dates are in local-time
 * Saturday November 03 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253277641/), Pune, IN
 * Saturday November 03 [Info Session - Introduction to Machine Learning](https://www.meetup.com/tordatascience/events/255583000/), Toronto, ON, CA
 * Saturday November 03 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/255334873/), No venue specified; group is based in Pune, IN
+* Sunday November 04 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255734519/), Plano, TX, US
+* Monday November 05 [Cloud Native Israel 2018](https://www.meetup.com/IGTCloud/events/251876853/), Tel Aviv-Yafo, IL
+* Monday November 05 [Secure data flows from Edge To Core with Apache NiFi and MiNiFi](https://www.meetup.com/futureofdata-sydney/events/255597024/), Sydney, AU
