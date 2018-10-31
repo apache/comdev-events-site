@@ -29,35 +29,13 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Tuesday October 30 [October AtACE Session: Creating a site structure to support your global business](https://www.meetup.com/AEM-Technologist-Group/events/252347279/), San Jose, CA, US
-* Tuesday October 30 [Serverless NYC All-Day Workshops & Conference ❣️ all-workshop pass just 💲2️5️‼️](https://www.meetup.com/mysqlnyc/events/255590465/), New York, NY, US
-* Tuesday October 30 [Elastic{ON} Tour Denver](https://www.meetup.com/Denver-Elastic-Fantastics/events/254854851/), Denver, CO, US
-* Tuesday October 30 [H2O AI World London 2018](https://www.meetup.com/Delhi-Artificial-Intelligence-Deep-Learning/events/255886503/), Greater London, GB
-* Tuesday October 30 [Game Night](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/255820170/), Gilbert, AZ, US
-* Tuesday October 30 [NewsWhip and Confluent talk Kafka](https://www.meetup.com/Dublin-Apache-Kafka-Meetup-by-Confluent/events/254187520/), Dublin, IE
-* Tuesday October 30 [TensorFlowJS + Redis Streams:  High Performance ML/AI Predictions at the Edge](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/254846318/), San Francisco, CA, US
-* Tuesday October 30 [The Rise of the Operational Analytic Data Stores](https://www.meetup.com/hadoopsf/events/255430648/), San Francisco, CA, US
-* Tuesday October 30 [Apache Kafka: Lessons learned ](https://www.meetup.com/REWE-Digital-Events-Cologne/events/255664731/), Köln, DE
-* Tuesday October 30 [Go Ottawa!](https://www.meetup.com/Ottawa-Go-Meetup/events/255320880/), Ottawa, ON, CA
-* Tuesday October 30 [Scaling Kafka in Kubernetes with and without Datadog Kafka-Kit](https://www.meetup.com/Apache-Kafka-NYC/events/244427142/), New York, NY, US
-* Tuesday October 30 [Operators & Developers of Distributed Systems w/ Joseph Jacks and Luc Perkins](https://www.meetup.com/Seattle-Scalability-Meetup/events/254221035/), Seattle, WA, US
-* Tuesday October 30 [PHP Horror Stories](https://www.meetup.com/Cincinnati-PHP-Meetup/events/255648395/), Cincinnati, OH, US
-* Tuesday October 30 [Fast and Easy Big Data Stream Processing](https://www.meetup.com/Austin-Java-Users-Group/events/255761929/), Austin , TX, US
-* Tuesday October 30 [soiree Observabilité](https://www.meetup.com/GDG-Cloud-Paris/events/255661562/), Paris, FR
-* Tuesday October 30 [Time Series Analysis in Python](https://www.meetup.com/python-plus-data-science/events/255011731/), New York, NY, US
-* Tuesday October 30 [Processing Streaming Data with KSQL w/ ***Special guest***](https://www.meetup.com/Milano-Kafka-meetup/events/255094035/), Milano, IT
-* Tuesday October 30 [Artificial Intelligence - What you need to Know?](https://www.meetup.com/Big-Data-and-Analytics-World/events/255282286/), No venue specified; group is based in Washington, DC, US
-* Tuesday October 30 [Stateful Apps Need Not Be Spooky - Tools & a Use Case](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/255431002/), San Francisco, CA, US
-* Tuesday October 30 [BookClub: Practical Statistics for Data Scientists - 5: Classification](https://www.meetup.com/data-engineering-munich/events/255641965/), München, DE
-* Tuesday October 30 [Weekly Live Chat: Inside Info on the latest Mobile App Technologies & Trends](https://www.meetup.com/Chicago-Secrets-of-Mobile-Apps-Meetup/events/255801203/), No venue specified; group is based in Chicago, IL, US
 * Wednesday October 31 [ODSC WEST 2018](https://www.meetup.com/San-Francisco-ODSC/events/251927373/), Burlingame, CA, US
 * Wednesday October 31 [Open Data Science Conf SF Bay Oct 31-Nov 3 2018 @ Hyatt Regency, Burlingame, CA](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/254786621/), Burlingame, CA, US
 * Wednesday October 31 [AEM Gems: SPA Editor SDK Deep Dive - Part 1 - React](https://www.meetup.com/AEM-Technologist-Group/events/255603034/), San Jose, CA, US
-* Wednesday October 31 [Learn More about OpenNebula - Cloud Platform](https://www.meetup.com/Hyderabad-OpenNebula-Meetup/events/254092344/), Hyderabad, IN
+* Wednesday October 31 [Pathfinder and D&D Event](https://www.meetup.com/Explorers-Emporium-Adventurers/events/255845865/), Apache Junction, AZ, US
 * Wednesday October 31 [Apache Mesos & Running DC/OS in production](https://www.meetup.com/ITNEXT/events/246830958/), Utrecht, NL
 * Wednesday October 31 [Streaming things with Kafka and Spark](https://www.meetup.com/Big-things-are-happening-here/events/255521836/), Tel Aviv-Yafo, IL
 * Wednesday October 31 [Jak zatrudnić robota? O automatyzacji zadań - dla każdego.](https://www.meetup.com/Enterprise-Tech-Solutions-Meetup/events/255742562/), Katowice, PL
-* Wednesday October 31 [Kick start Spark ML](https://www.meetup.com/meetup-group-cCWLmyvd/events/255052822/), No venue specified; group is based in Singapore, SG
 * Wednesday October 31 [Our first Kafka Meetup in Bangkok with a guest speaker from Confluent](https://www.meetup.com/Bangkok-Kafka/events/255619397/), Bangkok, TH
 * Wednesday October 31 [One Hour, One Latte, One Micro Fiction -- Could we do it?](https://www.meetup.com/Apache-Junction-Beginning-Writers-Meetup/events/255596190/), Apache Junction, AZ, US
 * Wednesday October 31 [Scale By the Bay 2018: Regular Admission Ends October 31st](https://www.meetup.com/SF-Spark-and-Friends/events/253351201/), San Francisco, CA, US
@@ -72,10 +50,11 @@ N.B. Dates are in local-time
 * Thursday November 01 [Serverless NYC @ Google](https://www.meetup.com/Serverless-NYC/events/255480424/), New York, NY, US
 * Thursday November 01 [Tech Tower](https://www.meetup.com/studentnode/events/255634626/), Stockholm, SE
 * Thursday November 01 [Accelerating Computation of DNN and TonY: Distributed TensorFlow on Hadoop](https://www.meetup.com/SF-Big-Analytics/events/255650722/), San Francisco, CA, US
-* Thursday November 01 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/254465149/), Vancouver, BC, CA
+* Thursday November 01 [Learn Data Science by Doing Kaggle Competitions: Movie Review Sentiment Analysis](https://www.meetup.com/LearnDataScience/events/254465149/), Vancouver, BC, CA
 * Thursday November 01 [Automating Apache Kafka](https://www.meetup.com/melbourne-distributed/events/254783329/), Melbourne, AU
 * Thursday November 01 [Artificial Intelligence & Machine Learning Use-Cases: Learn How Nielsen uses ML!](https://www.meetup.com/HADOOP-data/events/255745073/), New York, NY, US
 * Thursday November 01 [Big Data Analytics Hands-on Open Class](https://www.meetup.com/tordatascience/events/255754762/), Toronto, ON, CA
+* Thursday November 01 [Machine Learning & Artificial Intelligence Use Cases: Using ML at Nielsen, etc.](https://www.meetup.com/Big-Data-Ingest-New-York/events/255973583/), New York, NY, US
 * Thursday November 01 [Kick Back & Code: A-Frame Adventures](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/255692513/), Washington, DC, US
 * Thursday November 01 [TBD](https://www.meetup.com/Phoenix-Hadoop-User-Group/events/253455343/), Tempe, AZ, US
 * Thursday November 01 [Apache Spark for Amateurs ](https://www.meetup.com/python-plus-data-science/events/255100746/), New York, NY, US
@@ -94,11 +73,13 @@ N.B. Dates are in local-time
 * Saturday November 03 [Join us for breakfast, presentation, and  hike at Apache Wash](https://www.meetup.com/Sierra-Club-Grand-Canyon-Chapter/events/255113194/), Scottsdale, AZ, US
 * Saturday November 03 [Data Science hackathon (register via EventBrite)](https://www.meetup.com/London-Data-Science-Workshop/events/255526985/), London, GB
 * Saturday November 03 [Docker - Meetup - Chennai](https://www.meetup.com/Chennai-Devops-Group/events/255931708/), Chennai, IN
+* Saturday November 03 [Learn More about OpenNebula - Cloud Platform](https://www.meetup.com/Hyderabad-OpenNebula-Meetup/events/254092344/), Hyderabad, IN
 * Saturday November 03 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253277641/), Pune, IN
 * Saturday November 03 [上海Spark + AI第十五次聚会](https://www.meetup.com/Shanghai-Apache-Spark-AI-Meetup/events/255788956/), Shanghai, CN
 * Saturday November 03 [Info Session - Introduction to Machine Learning](https://www.meetup.com/tordatascience/events/255583000/), Toronto, ON, CA
 * Saturday November 03 [Artificial Intelligence : Advanced Image Recognition with Mask R-CNN](https://www.meetup.com/Pune-AI-IOT-Big-Data-Analytics-Meetup/events/255763837/), Pune, IN
 * Saturday November 03 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/255334873/), No venue specified; group is based in Pune, IN
+* Sunday November 04 [Flink China Meetup@上海站 - 计算之美，何止于快](https://www.meetup.com/Flink-China/events/255739568/), Shanghai, CN
 * Sunday November 04 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255734519/), Plano, TX, US
 * Monday November 05 [Cloud Native Israel 2018](https://www.meetup.com/IGTCloud/events/251876853/), Tel Aviv-Yafo, IL
 * Monday November 05 [MesosCon 2018](https://www.meetup.com/Bay-Area-Mesos-User-Group/events/255427599/), San Francisco, CA, US
@@ -111,7 +92,7 @@ N.B. Dates are in local-time
 * Monday November 05 [TigerGraphDB: Extracting Machine Learning features from graphs hands on workshop](https://www.meetup.com/DFW-Data-Science/events/255860343/), Plano, TX, US
 * Monday November 05 [Performance Data Modeling at Scale](https://www.meetup.com/Minneapolis-St-Paul-Cassandra-Meetup/events/255017912/), Brooklyn Park, MN, US
 * Monday November 05 [Distributed Training on MXNet & Gluon;  Uncertainty in Deep Learning in Medicine](https://www.meetup.com/berlin-machine-learning/events/246637745/), Berlin, DE
-* Monday November 05 [¡Ven a conocernos!](https://www.meetup.com/Meetup-Big-Data-DataHack-Madrid/events/255793737/), Madrid, ES
+* Monday November 05 [¡Ven a conocer datahack Madrid!](https://www.meetup.com/Meetup-Big-Data-DataHack-Madrid/events/255793737/), Madrid, ES
 * Tuesday November 06 [Apache Spark -  Advanced Tuning, Programming, and Fundamentals](https://www.meetup.com/Boulder-Cloud-Lunch-Meetup/events/255804835/), Boulder, CO, US
 * Tuesday November 06 [FREE SAMPLE CLASS - SQL Fundamentals (11.06)](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/255609377/), No venue specified; group is based in San Francisco, CA, US
 * Tuesday November 06 [Using Elastic to Power a Custom, Open-source Chatbot](https://www.meetup.com/Elasticsearch-Boston/events/254856612/), Boston, MA, US
@@ -132,6 +113,7 @@ N.B. Dates are in local-time
 * Wednesday November 07 [Entrepreneurs, come discuss how to bootstrap a Unicorn startup!](https://www.meetup.com/openvswitch/events/255885159/), Menlo Park, CA, US
 * Wednesday November 07 [Data Showdown 2018](https://www.meetup.com/Melbourne-Kubernetes-Meetup/events/254524451/), Melbourne, AU
 * Wednesday November 07 [Searching Your Data with Elasticsearch](https://www.meetup.com/web414/events/254583745/), Milwaukee, WI, US
+* Wednesday November 07 [Future of Data: Real Time Stream Processing with Apache Flink](https://www.meetup.com/futureofdata-vienna/events/254138753/), Vienna, AT
 * Wednesday November 07 [Say No to Speeding with Real-Time Analytics](https://www.meetup.com/WSO2-User-Group-New-York/events/255166523/), New York, NY, US
 * Wednesday November 07 [Introduction to Stream Processing](https://www.meetup.com/Londonjavacommunity/events/255359959/), London, GB
 * Wednesday November 07 [Introduction to Stream Processing with Hazelcast and London Java Community](https://www.meetup.com/Hazelcast-User-Group-London-HUGL/events/255361748/), London, GB
@@ -141,10 +123,10 @@ N.B. Dates are in local-time
 * Wednesday November 07 [From Passive to Active Threat Hunting with the Elastic Stack](https://www.meetup.com/Phoenix-Elastic-Fantastics/events/255818779/), Phoenix, AZ, US
 * Wednesday November 07 [[Advanced] Data Science Reading Group ::  StarSpace: Embed All The Things!](https://www.meetup.com/LearnDataScience/events/255346674/), Vancouver, BC, CA
 * Wednesday November 07 [Trusting AI : AI Fairness](https://www.meetup.com/Big-Data-Developers-in-NYC/events/255613362/), New York, NY, US
-* Wednesday November 07 [Future of Data: Real Time Stream Processing with Apache Flink](https://www.meetup.com/futureofdata-vienna/events/254138753/), Vienna, AT
 * Wednesday November 07 [Lightning Talks || Python Applications](https://www.meetup.com/Pyladies-LA/events/254903299/), Los Angeles, CA, US
 * Wednesday November 07 [Databricks and Snowflake.  Better Together.](https://www.meetup.com/Los-Angeles-Databricks-Users-Group/events/255556438/), Los Angeles, CA, US
 * Wednesday November 07 [Alexa + Elasticsearch ("Alexticsearch")](https://www.meetup.com/Elasticsearch-Toronto/events/255659724/), Toronto, ON, CA
+* Wednesday November 07 [IT talk Kharkiv: Apache Cordova & Ionic Framework Overview](https://www.meetup.com/IT-talk-Kharkiv/events/255964855/), Kharkiv, UA
 * Wednesday November 07 [Performance Meetup!](https://www.meetup.com/Atlanta-Web-Performance-Group/events/252076356/), Atlanta, GA, US
 * Wednesday November 07 [November Atlanta Web Performance Meetup](https://www.meetup.com/Atlanta-Web-Performance-Group/events/255745923/), Atlanta, GA, US
 * Thursday November 08 [PHP.RUHR Web Development Conference #phpruhr18](https://www.meetup.com/phpruhr/events/244978329/), Dortmund, DE
@@ -156,14 +138,16 @@ N.B. Dates are in local-time
 * Thursday November 08 [Machine Learning from Brain Computing Interfaces (BCI)](https://www.meetup.com/novadeeplearning/events/255249882/), Reston, VA, US
 * Thursday November 08 [Two Topics: Achieving CI/CD and Demystifying CQRS, ES and DDD](https://www.meetup.com/achieverstech/events/255564267/), Toronto, ON, CA
 * Thursday November 08 [Metis New York Open House ft. Parker Dixon and Andrea Sorcinelli](https://www.meetup.com/Metis-New-York-Data-Science/events/255778441/), New York, NY, US
-* Thursday November 08 [Metis Chicago Open House ft. Alumni Tiffany Li](https://www.meetup.com/Metis-Chicago-Data-Science/events/255779477/), Chicago, IL, US
+* Thursday November 08 [Metis Chicago Open House ft. Alumni Tiffany Li and Courtney Stepien](https://www.meetup.com/Metis-Chicago-Data-Science/events/255779477/), Chicago, IL, US
 * Thursday November 08 [Metis San Francisco Open House ft. Alumni TBA](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/255780311/), San Francisco, CA, US
 * Thursday November 08 [VideoCoin Token, Architecture and Network](https://www.meetup.com/VideoStreaming/events/255821064/), San Jose, CA, US
+* Thursday November 08 [Secure data flows from Edge To Core with Apache NiFi and MiNiFi](https://www.meetup.com/futureofdata-melbourne/events/255989228/), Melbourne, AU
 * Thursday November 08 [Call to Code AI ](https://www.meetup.com/Big-Data-AI/events/255008849/), Austin, TX, US
 * Thursday November 08 [Autumn meetup](https://www.meetup.com/budapest-py/events/255415841/), Budapest, HU
 * Thursday November 08 [Pairing With The Future—Maximizing the collaborative potential of your software](https://www.meetup.com/linuxaustin/events/255163013/), Austin, TX, US
 * Thursday November 08 [Neues aus der Java-Welt: Das bringt CDI 2.0](https://www.meetup.com/jug-hamburg/events/255863090/), Hamburg, DE
 * Thursday November 08 [Ionic - Open Mic #2](https://www.meetup.com/Ionic-Zurich/events/255889834/), Zürich, CH
+* Thursday November 08 [Mi primer diseño con Apache Kafka](https://www.meetup.com/En-Mi-Local-Funciona-Barcelona/events/255963357/), Barcelona, ES
 * Thursday November 08 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/255188967/), Louisville , KY, US
 * Thursday November 08 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/254800602/), Fort Wayne, IN, US
 * Friday November 09 [AI Frontiers Conference](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/255674307/), San Jose, CA, US
@@ -183,4 +167,25 @@ N.B. Dates are in local-time
 * Monday November 12 [Streaming Data using Kafka And Natural Language Processing Use Case](https://www.meetup.com/DFW-Data-Engineering-Meetup/events/255952404/), Plano, TX, US
 * Monday November 12 [Alternative Data and Algorithms for Risk Modelling Product](https://www.meetup.com/eureka-seminars/events/254436488/), Singapore, SG
 * Monday November 12 [WooCommerce and Amazon Affiliate Marketing Made Easy](https://www.meetup.com/dfw-wordpress-ninjas/events/255893945/), Plano, TX, US
+* Tuesday November 13 [Livestream: Inside Advice from Women in Data Science](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/255834222/), San Francisco, CA, US
+* Tuesday November 13 [Mary Grygleski: Enterprise Hybrid Mobile App with a Cloud Native Backend](https://www.meetup.com/BoulderJavaUsersGroup/events/236144925/), Boulder, CO, US
+* Tuesday November 13 [Python Meet-Up|Spark and Livy: Best practices](https://www.meetup.com/Events-by-SoftServe/events/255765433/), No venue specified; group is based in L'viv, UA
+* Tuesday November 13 [Tracking commercial aircraft using a Raspberry Pi, Kafka, Vertica & Dataiku](https://www.meetup.com/Big-Data-and-Machine-Learning-London/events/245884560/), London, GB
+* Tuesday November 13 [Connected Data Platform: Hive 3.0 and Kafka Management](https://www.meetup.com/futureofdata-frankfurt/events/254822321/), Frankfurt, DE
+* Tuesday November 13 [Next Generation Open Source Data Infra (Iceberg, Spark and databases)](https://www.meetup.com/SF-Big-Analytics/events/255803681/), San Francisco, CA, US
+* Tuesday November 13 [Inside Advice from Women in Data Science](https://www.meetup.com/Metis-Chicago-Data-Science/events/255832789/), Chicago, IL, US
+* Tuesday November 13 [The Past, Present & Future of Presto, with special guests to be announced!](https://www.meetup.com/London-Presto-User-Group-Big-DataOps-Analytics/events/255856879/), London, GB
+* Tuesday November 13 [Exactly-once Semantics In Apache Kafka with Jay Kreps](https://www.meetup.com/Apache-Kafka-London/events/255858267/), London, GB
+* Tuesday November 13 [Joint meetup with the DataPhilly Meetup ](https://www.meetup.com/Philadelphia-Elastic-Fantastics/events/255864553/), Philadelphia, PA, US
+* Tuesday November 13 [Python Streaming Pipelines with Beam on Flink](https://www.meetup.com/Apache-Flink-London-Meetup/events/255967796/), London, GB
+* Tuesday November 13 [Allegro Tech Talks Warszawa #7 - BigData](https://www.meetup.com/allegrotech/events/255992902/), Warsaw, PL
+* Tuesday November 13 [Getting Started with Ionic 4](https://www.meetup.com/Ionic-Atlanta/events/254155890/), No venue specified; group is based in Atlanta, GA, US
+* Tuesday November 13 [Visual Spark Development with KNIME](https://www.meetup.com/KNIME-Users-Group-Austin/events/253741992/), Austin, TX, US
+* Tuesday November 13 [Elastic Stuttgart Resurrection MeetUp - with Elastic and mimacom](https://www.meetup.com/Elasticsearch-Stuttgart/events/255305387/), Stuttgart, DE
 * Tuesday November 13 [Manila Big Data Tech Meetup #6 - Apache Kafka and Airflow](https://www.meetup.com/Manila-BIG-DATA-Group/events/255511252/), Taguig, PH
+* Tuesday November 13 ["Official" November BARUG Meetup](https://www.meetup.com/R-Users/events/255755978/), San Francisco, CA, US
+* Tuesday November 13 [Serious Data Science - Learn, Explore, Build data science knowledge and skills!](https://www.meetup.com/novadeeplearning/events/249173490/), Sterling, US
+* Tuesday November 13 [AWS Portsmouth User Group Meetup](https://www.meetup.com/aws-portsmouth-user-group/events/254535268/), Kittery, ME, US
+* Tuesday November 13 [The future of React!](https://www.meetup.com/Whats-up-with-the-Front-End/events/255638537/), Leuven, BE
+* Tuesday November 13 [Meetup AWS #31 - Retour d'expérience Pernod Ricard](https://www.meetup.com/French-AWS-UG/events/255764923/), No venue specified; group is based in Paris, FR
+* Tuesday November 13 [Scala Taiwan #27 - Scala in the wild](https://www.meetup.com/Scala-Taiwan-Meetup/events/255992203/), Taipei, TW
