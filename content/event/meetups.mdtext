@@ -29,15 +29,11 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday November 04 [Performance Bike Mountain Group Ride for Intermediate and Beginners.](https://www.meetup.com/Performance-Peoria-MeetNRide/events/255926479/), Phoenix, AZ, US
-* Sunday November 04 [Meetup via hangouts](https://www.meetup.com/CalimaFramework/events/255949651/), No venue specified; group is based in Cali, CO
-* Sunday November 04 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255734519/), Plano, TX, US
 * Monday November 05 [Cloud Native Israel 2018](https://www.meetup.com/IGTCloud/events/251876853/), Tel Aviv-Yafo, IL
 * Monday November 05 [MesosCon 2018](https://www.meetup.com/Bay-Area-Mesos-User-Group/events/255427599/), San Francisco, CA, US
 * Monday November 05 [CSOSUG - The Talking App: Voice-enabling Spring Applications with Craig Walls](https://www.meetup.com/csopensource/events/255146175/), No venue specified; group is based in Colorado Springs, CO, US
 * Monday November 05 [Flutter Study Jam](https://www.meetup.com/GDGSTL/events/252879817/), Saint Louis, MO, US
 * Monday November 05 [Infrastructure as Code](https://www.meetup.com/Cloud-Lab-Bielefeld/events/254547502/), Bielefeld, DE
-* Monday November 05 [Secure data flows from Edge To Core with Apache NiFi and MiNiFi](https://www.meetup.com/futureofdata-sydney/events/255597024/), Sydney, AU
 * Monday November 05 [Processing IoT Data from End to End with MQTT and Apache Kafka](https://www.meetup.com/Apache-Kafka-Germany-Munich/events/255747151/), 80636, DE
 * Monday November 05 [Apache Zeppelin & Data Science](https://www.meetup.com/futureofdata-siliconvalley/events/255791469/), Santa Clara, CA, US
 * Monday November 05 [TigerGraphDB: Extracting Machine Learning features from graphs hands on workshop](https://www.meetup.com/DFW-Data-Science/events/255860343/), Plano, TX, US
@@ -101,6 +97,7 @@ N.B. Dates are in local-time
 * Thursday November 08 [Metis San Francisco Open House ft. Halle Ritter and Owen Carey](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/255780311/), San Francisco, CA, US
 * Thursday November 08 [VideoCoin Token, Architecture and Network](https://www.meetup.com/VideoStreaming/events/255821064/), San Jose, CA, US
 * Thursday November 08 [Secure data flows from Edge To Core with Apache NiFi and MiNiFi](https://www.meetup.com/futureofdata-melbourne/events/255989228/), Melbourne, AU
+* Thursday November 08 [Style your Career (Ladies networking event)](https://www.meetup.com/Divergence-Data-Science-Meetup/events/256040535/), Addison, TX, US
 * Thursday November 08 [Autumn meetup](https://www.meetup.com/budapest-py/events/255415841/), Budapest, HU
 * Thursday November 08 [Pairing With The Future—Maximizing the collaborative potential of your software](https://www.meetup.com/linuxaustin/events/255163013/), Austin, TX, US
 * Thursday November 08 [Neues aus der Java-Welt: Das bringt CDI 2.0](https://www.meetup.com/jug-hamburg/events/255863090/), Hamburg, DE
@@ -165,7 +162,7 @@ N.B. Dates are in local-time
 * Wednesday November 14 [Machine Learning Workflows at Scale](https://www.meetup.com/Big-Data-Developers-in-NYC/events/256079698/), Princeton, NJ, US
 * Wednesday November 14 [Redmond PASS User Group Meeting](https://www.meetup.com/Redmond-PASS-User-Group-and-Data-Professionals-Meetup/events/254595148/), Redmond, WA, US
 * Wednesday November 14 [Livestream: Writing a Python Package](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/254422680/), San Francisco, CA, US
-* Wednesday November 14 [Save the Date: Apache Drill User Group with use cases, new features & more](https://www.meetup.com/Bay-Area-Apache-Drill-User-Group/events/255727785/), Santa Clara, CA, US
+* Wednesday November 14 [Netflix’s Personalization Infrastructure & Secondary Indexes w/ Apache Drill](https://www.meetup.com/Bay-Area-Apache-Drill-User-Group/events/255727785/), Santa Clara, CA, US
 * Wednesday November 14 [Analyse Customer Data and Recommend Products with PixieDust](https://www.meetup.com/IBM-Code-Bristol/events/255933839/), Bristol, GB
 * Wednesday November 14 [Moscow Apache Ignite Meetup #5](https://www.meetup.com/Moscow-Apache-Ignite-Meetup/events/255995526/), Moscow, RU
 * Wednesday November 14 [Big Data Utah Meeting ](https://www.meetup.com/BigDataUtah/events/255004580/), murray, UT, US
@@ -181,9 +178,14 @@ N.B. Dates are in local-time
 * Thursday November 15 [The Pain & Gain of Reactive Pipelines, Microservices, & Distributed Tech!](https://www.meetup.com/Fast-Data-CVille/events/255757230/), Charlottesville, VA, US
 * Thursday November 15 [November Elastic Meetup, Delhi NCR](https://www.meetup.com/Delhi-Elastic-Fantastics/events/255957593/), No venue specified; group is based in Delhi, IN
 * Thursday November 15 [Azure Data Lake Analytics](https://www.meetup.com/Nashville-Data-Engineers/events/256078781/), Nashville, TN, US
+* Thursday November 15 [Using ESRally & Prometheus to set Elasticsearch dynamic SLAs](https://www.meetup.com/New-York-City-Elastic-Fantastics/events/254830228/), New York, NY, US
 * Thursday November 15 [Cloud Native & Kubernetes Warsaw Regular Meetup at Google HQ (15th November) ](https://www.meetup.com/Cloud-Native-Kubernetes-Warsaw/events/255632203/), Warsaw, PL
 * Thursday November 15 [Managing your CI/CD Pipeline: DevOps and Testing Best Practices ](https://www.meetup.com/Open-Source-Tools-for-Testing-in-DevOps-Era-Belgium-Meetup/events/255739893/), Brussels, BE
 * Thursday November 15 [Introducing Apache Kafka](https://www.meetup.com/Jakarta-Kafka/events/255836745/), Jakarta, ID
+* Thursday November 15 [Introduction to Open Source](https://www.meetup.com/Kumasi-WordPress-Meetup/events/255957922/), Kumasi, GH
+* Thursday November 15 [Kubernetes and service mesh for the Enterprise - leveraging Consul Connect](https://www.meetup.com/Melbourne-Kubernetes-Meetup/events/255991851/), Docklands, AU
 * Thursday November 15 [Upcoming Apache Spark 2.4 and MLflow: new tools for Big Data and ML ](https://www.meetup.com/Spark-More-Milano/events/255996001/), Milano, IT
 * Thursday November 15 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/255285359/), Vancouver, BC, CA
 * Thursday November 15 [Usage of Apache Phoenix Statistics to Scale the Salesforce Platform](https://www.meetup.com/Boulder-Denver-Big-Data/events/255951786/), Louisville, CO, US
+* Thursday November 15 [Druid: History and The Future of Operational Analytics Data Store](https://www.meetup.com/Apache-Druid-Atlanta/events/254819889/), Atlanta, GA, US
+* Thursday November 15 [Austin Cassandra Users Monthly Meetup](https://www.meetup.com/Austin-Cassandra-Meetup/events/255650076/), Austin, TX, US
