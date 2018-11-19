@@ -29,10 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday November 18 [Introduction to Data Science Job Market - Data Science Toolbox Info Session](https://www.meetup.com/tordatascience/events/256418574/), Toronto, ON, CA
-* Sunday November 18 [Meetup via hangouts](https://www.meetup.com/CalimaFramework/events/256359832/), No venue specified; group is based in Cali, CO
-* Sunday November 18 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912640/), Plano, TX, US
-* Monday November 19 [Apache Ignite and GridGain: in-memory computing for IoT, banking and more!](https://www.meetup.com/Spark-More-Milano/events/255855768/), Milano, IT
 * Monday November 19 [[1 hr Free] PipelineAI, GPU, TPU, Spark, TensorFlow, Kubernetes, Kafka, Scikit](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-LA/events/253831179/), Los Angeles, CA, US
 * Monday November 19 [Revision: Blockchain & the new data economy: Design your own tokenized ecosystem](https://www.meetup.com/opensource-future/events/256242243/), Berlin, DE
 * Monday November 19 ["Load & Continuous testing Tools" Meetup - Haifa](https://www.meetup.com/TestIL/events/255225232/), Haifa, IL
@@ -69,17 +65,17 @@ N.B. Dates are in local-time
 * Wednesday November 21 [IoT Belfast 16 - AR/VR + Drones](https://www.meetup.com/IoTBelfast/events/253946807/), Belfast BT2 8HS, GB
 * Wednesday November 21 [Software Analytics with Graphs & Using Cypher in Apache Spark](https://www.meetup.com/graphdb-berlin/events/255430954/), Berlin, DE
 * Wednesday November 21 [AEM Meetup Düsseldorf](https://www.meetup.com/AEM-User-Group-Deutschland/events/255768386/), Düsseldorf, DE
-* Wednesday November 21 [Top 10 New Features in PHP 7](https://www.meetup.com/Cincinnati-PHP-Meetup/events/256161614/), Cincinnati, OH, US
 * Wednesday November 21 [Meet Apache Kafka: data streaming in your hands](https://www.meetup.com/DevDays/events/256171507/), Napoli, IT
 * Wednesday November 21 [Premier Meetup Airflow Paris (#1 - 21/11/2018)](https://www.meetup.com/Paris-Apache-Airflow-Meetup/events/255336471/), Levallois-Perret, FR
+* Wednesday November 21 [Deep Learning for Image Recognition in industrial setting: a Tenaris use case](https://www.meetup.com/Data-Science-Milan/events/256523479/), Dalmine, IT
 * Wednesday November 21 [Raffle to win tickets to Scala eXchange London 2018](https://www.meetup.com/futureofdata-budapest/events/256201891/), N1 0QH, GB
 * Thursday November 22 [Apache Spark Workshop @idealo](https://www.meetup.com/idealo-Tech-Events-Berlin/events/255556015/), 10969 Berlin, DE
 * Thursday November 22 [A Talk from Dr. Will Radford:  Machine Learning at Canva](https://www.meetup.com/melbourne-search/events/256053224/), Melbourne, AU
 * Thursday November 22 [Consdata Tech | Event sourcing w praktyce | ](https://www.meetup.com/Consdata/events/255338440/), Poznan, PL
+* Thursday November 22 [November Sydney Data Engineering Meetup](https://www.meetup.com/Sydney-Data-Engineering-Meetup/events/255623523/), Sydney, AU
 * Thursday November 22 [Perth Elastic Meetup 1.0](https://www.meetup.com/Perth-Elastic-Fantastics/events/255786793/), Perth, AU
 * Thursday November 22 [Getting Started with Apache Ignite as a Distributed Database](https://www.meetup.com/Big-Data-Analytics-Meetup-Group/events/256429166/), Melbourne, AU
 * Thursday November 22 [The Great Docker London Christmas Edition - November 22nd](https://www.meetup.com/Docker-London/events/249221928/), London, GB
-* Thursday November 22 [November Sydney Data Engineering Meetup](https://www.meetup.com/Sydney-Data-Engineering-Meetup/events/255623523/), Sydney, AU
 * Thursday November 22 [Dutch Mesos User Group #3 - @Lunatech Amsterdam](https://www.meetup.com/Dutch-Mesos-User-Group/events/255970744/), Amsterdam, NL
 * Thursday November 22 [Elastic Meetup on Machine Learning ](https://www.meetup.com/Elastic-Mexico-City-User-Group/events/256188219/), Mexico City, MX
 * Thursday November 22 [ Kubernetes-as-a-Service](https://www.meetup.com/cloud-native-muc/events/255662040/), München, DE
@@ -95,8 +91,8 @@ N.B. Dates are in local-time
 * Saturday November 24 [Apache Spark For Machine Learning & Data Science](https://www.meetup.com/Hyderabad-Python-Meetup-Group/events/256034088/), Hyderabad, IN
 * Saturday November 24 [Inteligencia Artificial, reconocimiento objetos para seguridad con GPUs ](https://www.meetup.com/saxsaBigDataMexico/events/256422049/), No venue specified; group is based in México City, MX
 * Saturday November 24 [Event streaming con Apache Kafka](https://www.meetup.com/Cylicon-Valley/events/256508275/), Valladolid, ES
+* Saturday November 24 [AWS/DEVOPS new batch on 24th November. At 01:00pm it's paid training](https://www.meetup.com/Spark-Scala-Pune/events/254941016/), No venue specified; group is based in Pune, IN
 * Saturday November 24 [Introduction to Open Source (Introducción al Open Source)](https://www.meetup.com/WordPress-Barranquilla/events/255803415/), Barranquilla, CO
-* Saturday November 24 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/254941016/), No venue specified; group is based in Pune, IN
 * Saturday November 24 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/256316476/), Dubai, AE
 * Sunday November 25 [Yah ML- Intro to Google Cloud Machine Learning](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/256403603/), Tel-Aviv, IL
 * Sunday November 25 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912655/), Plano, TX, US
@@ -169,3 +165,8 @@ N.B. Dates are in local-time
 * Saturday December 01 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253277692/), Pune, IN
 * Saturday December 01 [Neural Networks for Time Series Prediction](https://www.meetup.com/Orlando-MLDS/events/256392131/), Orlando, FL, US
 * Saturday December 01 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/256431293/), No venue specified; group is based in Pune, IN
+* Sunday December 02 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912667/), Plano, TX, US
+* Monday December 03 [[5 Day Training Course] Neural Networks and Deep Learning](https://www.meetup.com/TensorFlow-Munchen/events/251985346/), No venue specified; group is based in München, DE
+* Monday December 03 [Functional Programming and Big Data Analytics in Scala](https://www.meetup.com/eureka-seminars/events/254436598/), Singapore, SG
+* Monday December 03 [PyData Meetup - Data & ML @Go-Jek - December 2018](https://www.meetup.com/PyData-SG/events/256401144/), Singapore, SG
+* Tuesday December 04 [Top 10 New Features in PHP 7](https://www.meetup.com/Cincinnati-PHP-Meetup/events/256161614/), Cincinnati, OH, US
