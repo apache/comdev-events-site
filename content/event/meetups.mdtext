@@ -29,10 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Saturday November 24 [Introduction to Apache Spark in one Saturday ](https://www.meetup.com/Uppsala-Big-Data-Meetup/events/256429260/), Uppsala, SE
-* Saturday November 24 [Inteligencia Artificial, reconocimiento objetos para seguridad con GPUs ](https://www.meetup.com/saxsaBigDataMexico/events/256422049/), No venue specified; group is based in México City, MX
-* Saturday November 24 [Introduction to Open Source (Introducción al Open Source)](https://www.meetup.com/WordPress-Barranquilla/events/255803415/), Barranquilla, CO
-* Saturday November 24 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/256316476/), Dubai, AE
 * Sunday November 25 [Yah ML- Intro to Google Cloud Machine Learning](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/256403603/), Tel-Aviv, IL
 * Sunday November 25 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912655/), Plano, TX, US
 * Monday November 26 [We've got 2 tickets for the Scala eXchange event in London!](https://www.meetup.com/Madrid-Apache-Spark-Meetup/events/256623187/), No venue specified; group is based in Madrid, ES
@@ -85,6 +81,7 @@ N.B. Dates are in local-time
 * Wednesday November 28 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/255536664/), Fishers, IN, US
 * Wednesday November 28 [Apache Nifi : Présentation et roadmap](https://www.meetup.com/Paris-Data-Engineers-Meetup/events/256142234/), Paris, FR
 * Thursday November 29 [Apache Junction Business Wake Up hosted by SMRBA](https://www.meetup.com/BusinessWakeUp/events/256649802/), Apache Junction, AZ, US
+* Thursday November 29 [Special edition Birmingham RHUG on Red Hat's Mobile Portfolio Center!](https://www.meetup.com/Birmingham-RHUG/events/256576218/), Birmingham, AL, US
 * Thursday November 29 [Livestream: Building a Modern Data Stack for the Healthcare Industry](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/256223425/), San Francisco, CA, US
 * Thursday November 29 [Distributed Stream Processing with Apache Kafka: Process Absurd Amounts of Data](https://www.meetup.com/Bowling-Green-Web-Developers-Meetup/events/256383883/), Bowling Green, KY, US
 * Thursday November 29 [Game Night](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/256661845/), APACHE JUNCTION, AZ, US
@@ -119,10 +116,11 @@ N.B. Dates are in local-time
 * Friday November 30 [Pub/Sub Temelleri ve Apache Kafka Tecrübeleri](https://www.meetup.com/Devnot-Yazilimci-Bulusmalari/events/255639985/), Istanbul, TR
 * Saturday December 01 [Monolitos, Microlitos, Microservicios usando Java / Jakarta EE    ](https://www.meetup.com/ecuadorjug/events/247559174/), Quito, EC
 * Saturday December 01 [Monkey Conf 2018](https://www.meetup.com/CrossDvlup/events/255777341/), Madrid, ES
+* Saturday December 01 [Monolitos, Microlitos, Microservicios usando Java / Jakarta EE](https://www.meetup.com/MedellinJUG/events/256673332/), No venue specified; group is based in Medellín, CO
 * Saturday December 01 [December Elastic Meetup](https://www.meetup.com/Pune-ElasticSearch-Meetup/events/256338014/), Pune, IN
 * Saturday December 01 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253277692/), Pune, IN
+* Saturday December 01 [AWS/DEVOPS new batch from coming sat1-Dec at 01:00PM its paid classroom training](https://www.meetup.com/Spark-Scala-Pune/events/256431293/), No venue specified; group is based in Pune, IN
 * Saturday December 01 [Neural Networks for Time Series Prediction](https://www.meetup.com/Orlando-MLDS/events/256392131/), Orlando, FL, US
-* Saturday December 01 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/256431293/), No venue specified; group is based in Pune, IN
 * Sunday December 02 [London Clojure Workshops day 2018 (to warm you up for ClojureX)](https://www.meetup.com/London-Clojurians/events/254693569/), London, GB
 * Sunday December 02 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912667/), Plano, TX, US
 * Monday December 03 [Colo Spgs Open Source: Introduction to Apache Openwhisk Serverless Platform](https://www.meetup.com/csopensource/events/256359361/), No venue specified; group is based in Colorado Springs, CO, US
@@ -143,6 +141,7 @@ N.B. Dates are in local-time
 * Tuesday December 04 [Apache MXNet Vancouver Meetup #2](https://www.meetup.com/Apache-MXNet-Vancouver-Meetup/events/256550255/), Vancouver, BC, CA
 * Tuesday December 04 [Top 10 New Features in PHP 7](https://www.meetup.com/Cincinnati-PHP-Meetup/events/256161614/), Cincinnati, OH, US
 * Tuesday December 04 [Kubernetes to the rescue & Ceph cluster on K8S using Rook](https://www.meetup.com/Munchen-Kubernetes-Meetup/events/256177844/), München, DE
+* Tuesday December 04 [Data Science, Machine Learning, and Kubernetes with Mesophere's DC/OS](https://www.meetup.com/ldsphx/events/256675495/), Phoenix, AZ, US
 * Tuesday December 04 [Meet for SPEED](https://www.meetup.com/Web-Performance-NY/events/252219424/), New York, NY, US
 * Tuesday December 04 [Architectural trends in Big Data and mobile applications](https://www.meetup.com/Barcelona-Software-Architecture-Meetup/events/256581932/), Barcelona , ES
 * Wednesday December 05 [FREE - Apache Cassandra Workshop by Instaclustr](https://www.meetup.com/Big-Data-Analytics-Meetup-Group/events/256556527/), No venue specified; group is based in Melbourne, AU
@@ -194,4 +193,5 @@ N.B. Dates are in local-time
 * Friday December 07 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/256036762/), Ottawa, ON, CA
 * Friday December 07 [Apache Kafka® Rethinked: From Messaging to a Streaming Data Platform](https://www.meetup.com/Sao-Paulo-Apache-Kafka-Meetup-by-Confluent/events/256438308/), São Paulo, BR
 * Saturday December 08 [December Elastic Meetup](https://www.meetup.com/Elasticsearch-Explorers/events/253957152/), Bangalore, IN
+* Saturday December 08 [Advanced Analytics with Apache Spark](https://www.meetup.com/Katy-Data-Analytics-Machine-Learning/events/256044143/), Katy, TX, US
 * Saturday December 08 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/256431294/), No venue specified; group is based in Pune, IN
