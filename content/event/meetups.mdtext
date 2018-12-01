@@ -29,18 +29,10 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Friday November 30 [Learning to rank in production and user modeling for image search](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/251175757/), Amsterdam, NL
-* Friday November 30 [Silesia JUG #34 - Apache Spark job - how to build quality in?](https://www.meetup.com/Silesia-JUG/events/255994659/), Katowice, PL
-* Friday November 30 [Info Session - Introduction to Python for Data Science](https://www.meetup.com/tordatascience/events/256637894/), Toronto, ON, CA
-* Friday November 30 [Pub/Sub Temelleri ve Apache Kafka Tecrübeleri](https://www.meetup.com/Devnot-Yazilimci-Bulusmalari/events/255639985/), Istanbul, TR
-* Friday November 30 [ROUGH LANGUAGE $500 Poetry Slam & Holiday Concert w/Cristina Rae & more!](https://www.meetup.com/Atlanta-Live-Music-Poetry-Lovers/events/256651145/), Atlanta, GA, US
 * Saturday December 01 [Cloud related sessions at DevFest 2018](https://www.meetup.com/GDG-Cloud-Warszawa/events/256694076/), Warsaw, PL
 * Saturday December 01 [Monkey Conf 2018](https://www.meetup.com/CrossDvlup/events/255777341/), Madrid, ES
-* Saturday December 01 [December Elastic Meetup](https://www.meetup.com/Pune-ElasticSearch-Meetup/events/256338014/), Pune, IN
-* Saturday December 01 [Pydata's Google Machine Learning Crash Course with Tensorflow](https://www.meetup.com/Aegis-IBM-BIG-DATA/events/256806475/), Mumbai, IN
-* Saturday December 01 [Learn More about OpenNebula - Cloud Platform](https://www.meetup.com/Hyderabad-OpenNebula-Meetup/events/256686138/), Hyderabad, IN
-* Saturday December 01 [AWS/DEVOPS new batch from coming sat1-Dec at 01:00PM its paid classroom training](https://www.meetup.com/Spark-Scala-Pune/events/256431293/), No venue specified; group is based in Pune, IN
 * Saturday December 01 [Neural Networks for Time Series Prediction](https://www.meetup.com/Orlando-MLDS/events/256392131/), Orlando, FL, US
+* Saturday December 01 [Bigdata / BigQuery / Kubernetes](https://www.meetup.com/GDG-Cloud-Istanbul/events/256805056/), Istanbul, TR
 * Saturday December 01 [Hadoop Administration and Optimization](https://www.meetup.com/Apache-Hadoop-Ecosystem/events/256799444/), Bangalore, IN
 * Sunday December 02 [London Clojure Workshops day 2018 (to warm you up for ClojureX)](https://www.meetup.com/London-Clojurians/events/254693569/), London, GB
 * Sunday December 02 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255912667/), Plano, TX, US
@@ -174,7 +166,7 @@ N.B. Dates are in local-time
 * Wednesday December 12 [December Red Hat Users Group Meeting](https://www.meetup.com/Detroit-Area-RHUG/events/255296888/), Royal Oak , MI, US
 * Wednesday December 12 [Procesamiento distribuido en Big Data: Introducción a Spark ](https://www.meetup.com/SciDataUCM/events/256755704/), Madrid, ES
 * Wednesday December 12 [ServerlessPHL Special Speaker: Paul Johnston](https://www.meetup.com/ServerlessPHL/events/256218658/), Philadelphia, PA, US
-* Wednesday December 12 [An App a Day- Powerapps to build your own life](https://www.meetup.com/Poland-apps-and-flow/events/256565307/), Warsaw, PL
+* Wednesday December 12 [An App a Day- Powerapps to build your own life](https://www.meetup.com/Poland-apps-and-flow/events/256565307/), Warszawa, PL
 * Wednesday December 12 [In-Memory Computing merriment in Menlo Park!](https://www.meetup.com/Bay-Area-In-Memory-Computing/events/256735661/), Menlo Park, CA, US
 * Wednesday December 12 [Redmond PASS User Group Meeting](https://www.meetup.com/Redmond-PASS-User-Group-and-Data-Professionals-Meetup/events/254595158/), Redmond, WA, US
 * Wednesday December 12 [Apache Beam!  ](https://www.meetup.com/San-Francisco-Apache-Beam/events/256348972/), San Francisco, CA, US
@@ -186,7 +178,6 @@ N.B. Dates are in local-time
 * Wednesday December 12 [DataPivo 12th December - Marketing Technology](https://www.meetup.com/dataheads/events/256721388/), Brno, CZ
 * Thursday December 13 [Scala eXchange London 2018 - Europe's Largest Annual Scala Conference](https://www.meetup.com/meetup-group-kyiv-scala-group/events/256321751/), No venue specified; group is based in Kyiv, UA
 * Thursday December 13 [Scala eXchange @Skills Matter](https://www.meetup.com/London-Functionals/events/256568611/), London, N1 0QH, GB
-* Thursday December 13 [新一代分佈式數據庫 (A new generation of distributed databases!)](https://www.meetup.com/Hong-Kong-In-Memory-Computing-Meetup/events/256789506/), No venue specified; group is based in Hong Kong, HK
 * Thursday December 13 [PyNight Hackathon](https://www.meetup.com/San-Diego-Data-Science-Meetup/events/256754431/), San Diego, CA, US
 * Thursday December 13 [Commitment detection in emails and dialog generation with IL and IRL](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/251175761/), Amsterdam, NL
 * Thursday December 13 [How To Get Your Site Hacked with Michael Kubiaczyk](https://www.meetup.com/Code-Star-Night/events/255474882/), Nieuwegein, NL
@@ -200,4 +191,7 @@ N.B. Dates are in local-time
 * Thursday December 13 [Airflow Gathering December Meeting](https://www.meetup.com/Apache-Airflow-Gathering/events/255431359/), Austin, TX, US
 * Thursday December 13 [The present state of operational analytics and Apache Druid](https://www.meetup.com/PyData-Atlanta/events/255458627/), Atlanta, GA, US
 * Thursday December 13 [9th Druid meetup](https://www.meetup.com/Druid-Seoul/events/256706501/), 성남시, KR
+* Thursday December 13 [Elastic Rennes Meetup #2 - NLP et autocompletion puis Machine Learning](https://www.meetup.com/ElasticFR/events/256835792/), Rennes, FR
 * Thursday December 13 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/256374185/), Louisville , KY, US
+* Friday December 14 [新一代分佈式數據庫 (A new generation of distributed databases!)](https://www.meetup.com/Hong-Kong-In-Memory-Computing-Meetup/events/256789506/), Hong Kong, HK
+* Saturday December 15 [Kubernetes Meetup (New features Deep-Dive & production usecases)](https://www.meetup.com/Bangalore-Kubernetes-Meetup/events/256773687/), Bangalore, IN
