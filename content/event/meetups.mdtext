@@ -29,12 +29,9 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday December 09 [Make Apps Efficient with Serverless ](https://www.meetup.com/IBMCloud-Dubai/events/256434800/), Dubai, AE
-* Sunday December 09 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/256710603/), Plano, TX, US
 * Monday December 10 [[20% DISCOUNT] Zero to Deep Learning 5 day Bootcamp - San Francisco](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/256399313/), No venue specified; group is based in Palo Alto, CA, US
 * Monday December 10 [Build your app with Kubernetes, Istio and advanced services like Watson (free)](https://www.meetup.com/Seattle-Data-Engineering/events/256448859/), Seattle, WA, US
 * Monday December 10 [Rancher Rodeo Cologne (Q4)](https://www.meetup.com/cloudssky/events/251857327/), Cologne, DE
-* Monday December 10 [Elastic Brisbane December meetup](https://www.meetup.com/Elastic-Brisbane-User-Group/events/256738580/), Brisbane, AU
 * Monday December 10 [Game Night](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/256960602/), Gilbert, AZ, US
 * Monday December 10 [Power Up full stack app development with Low Code](https://www.meetup.com/Big-Data-Developers-in-NYC/events/256821339/), 10022, NY, US
 * Monday December 10 [DevOps and Deploying Data Science models on Kubernetes](https://www.meetup.com/IBM-Cloud-Dublin/events/256882112/), Dublin 2, IE
@@ -63,6 +60,7 @@ N.B. Dates are in local-time
 * Tuesday December 11 [Deep Learning 101 - Holiday Edition](https://www.meetup.com/futureofdata-siliconvalley/events/256729828/), Santa Clara, CA, US
 * Tuesday December 11 [Data science pipelines to improve efficiency from development to deployment](https://www.meetup.com/San-Francisco-Big-Data-Science/events/256849504/), San Francisco, CA, US
 * Tuesday December 11 [The Journey to Google Cloud with Uri Cusnir - MyPermissions](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/256882124/), Tel-Aviv, IL
+* Tuesday December 11 [Kafka Streams and Scala - Developing Stream Processing Applications](https://www.meetup.com/WarsawScala/events/257085621/), Warsaw, PL
 * Tuesday December 11 [Holiday Gathering and Catch Up](https://www.meetup.com/dc-java/events/256326710/), Columbia, MD, US
 * Tuesday December 11 [Azure Containers & Azure Cost Efficiency](https://www.meetup.com/Azure-Thames-Valley/events/256435361/), Maidenhead, GB
 * Tuesday December 11 ["Official" December 2018 BARUG Meetup](https://www.meetup.com/R-Users/events/256730447/), Menlo Park, US
@@ -74,6 +72,7 @@ N.B. Dates are in local-time
 * Tuesday December 11 [Building AI and creating Trust and Transparency](https://www.meetup.com/Big-Data-Developers-in-Miami/events/256549922/), Miami, FL, US
 * Tuesday December 11 [Soirée Apache Camel](https://www.meetup.com/Toulouse-Java-User-Group/events/256744337/), Toulouse, FR
 * Tuesday December 11 [Using Apache Kafka From Go by Javier Sanz](https://www.meetup.com/go-mad/events/256806284/), Madrid, ES
+* Tuesday December 11 [Big Data e Inteligencia Artificial.  VIII Semana Impulso TIC](https://www.meetup.com/Impulso-TIC-Asturias/events/257080449/), Oviedo, ES
 * Wednesday December 12 [December Red Hat Users Group Meeting](https://www.meetup.com/Detroit-Area-RHUG/events/255296888/), Royal Oak , MI, US
 * Wednesday December 12 [Procesamiento distribuido en Big Data: Introducción a Spark ](https://www.meetup.com/SciDataUCM/events/256755704/), Madrid, ES
 * Wednesday December 12 [Saiba por quê a análise de dados em tempo real é ‘cool’ para seus negócios](https://www.meetup.com/bluetalks/events/256954057/), São Paulo, BR
@@ -116,6 +115,7 @@ N.B. Dates are in local-time
 * Thursday December 13 [Elastic Rennes Meetup #2 - NLP et autocompletion puis Machine Learning](https://www.meetup.com/ElasticFR/events/256835792/), Rennes, FR
 * Thursday December 13 [Amazon Sagemaker ile Makine öğrenmesi ve .NET Core ile AWS Lambda](https://www.meetup.com/Serverless-Turkey/events/256899754/), Istanbul, TR
 * Thursday December 13 [¡Analizando tu IoT con Databricks y mucho ingenio!](https://www.meetup.com/CrossDvlup/events/257009083/), Madrid, ES
+* Thursday December 13 [Van een monoliet naar een schaalbare applicatie (.Net)](https://www.meetup.com/DEVdev/events/257028170/), Deventer, NL
 * Thursday December 13 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/256374185/), Louisville , KY, US
 * Thursday December 13 [Monthly Social](https://www.meetup.com/Fort-Wayne-Linux-Users-Group/events/254800611/), Fort Wayne, IN, US
 * Friday December 14 [Neural Networks Lunch and Learn at Galvanize!](https://www.meetup.com/python-plus-data-science/events/257008053/), New York, NY, US
@@ -123,6 +123,7 @@ N.B. Dates are in local-time
 * Saturday December 15 [Kubernetes Meetup (New features Deep-Dive & production usecases)](https://www.meetup.com/Bangalore-Kubernetes-Meetup/events/256773687/), Bangalore, IN
 * Saturday December 15 [Primer meetup: Aplicaciones móviles](https://www.meetup.com/Aplicaciones-Hibridas-Peru/events/256479770/), No venue specified; group is based in Lima, PE
 * Saturday December 15 [IoT Data analytics with Lambda Architecture](https://www.meetup.com/Pune-Big-Data-Conference-Group/events/256964209/), Pune, IN
+* Saturday December 15 [Machine Learning in the age of increasing Data Privacy Consciousness](https://www.meetup.com/Hyderabad-Python-Meetup-Group/events/257097738/), No venue specified; group is based in Hyderabad, IN
 * Saturday December 15 [Angular UI Library Training](https://www.meetup.com/Amexio/events/253277692/), Pune, IN
 * Saturday December 15 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/256534902/), No venue specified; group is based in Pune, IN
 * Sunday December 16 [PyData Tel Aviv #18 - Tools for Humankind](https://www.meetup.com/PyData-Tel-Aviv/events/256232456/), Tel Aviv, IL
@@ -155,8 +156,13 @@ N.B. Dates are in local-time
 * Thursday December 20 [Snowflake: Nowoczesna hurtownia danych w chmurze](https://www.meetup.com/nosql-warsaw/events/256772371/), Warsaw, PL
 * Thursday December 20 [MongoDB User Group Munich goes Christmas Market](https://www.meetup.com/Muenchen-MongoDB-User-Group/events/256755494/), München, DE
 * Thursday December 20 [Getting Started with Apache® Ignite™ as a Distributed Database](https://www.meetup.com/Shanghai-In-Memory-Computing-Meetup/events/256841194/), Shanghai, CN
+* Thursday December 20 [Ищем и находим - встреча ElasticsearchMsk 20.12.18](https://www.meetup.com/Elasticsearch-Moscow/events/257085317/), Moscow, RU
 * Thursday December 20 [BookClub: Practical Statistics - Chapter 7: Unsupervised Learning](https://www.meetup.com/data-engineering-munich/events/256760323/), München, DE
+* Thursday December 20 [DevClub 10th anniversary: DevOps track](https://www.meetup.com/Tallinn-DevOps-Meetup/events/257076424/), Tallinn, EE
 * Thursday December 20 [Scala Taiwan #28 - Typeclasses everywhere](https://www.meetup.com/Scala-Taiwan-Meetup/events/256889503/), Taipei, TW
 * Saturday December 22 [Using "find" and "grep" to locate files by name, user, permissions and more](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/255925857/), Atlanta, GA, US
 * Saturday December 22 [DevOps/AWS Demo session on 11th Aug at 04:30 PM](https://www.meetup.com/Spark-Scala-Pune/events/256534908/), No venue specified; group is based in Pune, IN
 * Saturday December 22 [Call to Code AI ](https://www.meetup.com/Big-Data-AI/events/252871096/), Austin, TX, US
+* Saturday December 22 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/257074476/), Dubai, AE
+* Sunday December 23 [AI and Data Science Day, Pune](https://www.meetup.com/Aegis-IBM-BIG-DATA/events/257073454/), No venue specified; group is based in Mumbai, IN
+* Sunday December 23 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/255930003/), Plano, TX, US
