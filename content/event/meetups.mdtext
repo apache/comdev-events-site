@@ -29,8 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday January 20 [NLP & Object Classification: 2 tech-talks from international 1st prize winners](https://www.meetup.com/Machine_Learning_and_Big_Data_hands_on/events/257655043/), Tel-Aviv, IL
-* Sunday January 20 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/257433409/), Plano, TX, US
 * Monday January 21 [[1 hr Free] PipelineAI, GPU, TPU, Spark, TensorFlow, Kubernetes, Kafka, Scikit](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup-LA/events/257296910/), Los Angeles, CA, US
 * Monday January 21 [Angular Kraków #3](https://www.meetup.com/Angular-Krakow/events/257957049/), Kraków, PL
 * Monday January 21 [PyWaw #82](https://www.meetup.com/PyWaw-Python-Warsaw-User-Group/events/257892145/), Warsaw, PL
@@ -43,6 +41,7 @@ N.B. Dates are in local-time
 * Tuesday January 22 [Elastic Brno meetup #2](https://www.meetup.com/CZ-Elastic-Fantastics/events/257777327/), Brno, CZ
 * Tuesday January 22 [Unified Big Data Analytics - Any stack, Any Cloud](https://www.meetup.com/DataCouncil-AI-Boston-Data-Engineering-Science/events/257911438/), Boston, MA, US
 * Tuesday January 22 [Meet Alibaba Cloud, discover the Chinese market and expand your network!](https://www.meetup.com/datagold/events/257925077/), Tel Aviv-Yafo, IL
+* Tuesday January 22 [Kafka Streams, Scala, stateful stream processing i Docker](https://www.meetup.com/WarsawScala/events/258247640/), Warsaw, PL
 * Tuesday January 22 [Introduction to Statistical Learning](https://www.meetup.com/python-plus-data-science/events/257187248/), New York, NY, US
 * Tuesday January 22 [GraphQL, Ionic, and State Management Part 2](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/257297502/), Washington, DC, US
 * Tuesday January 22 [Happy 2019 with elasticsearch, druid and kinesis + 6.5 update](https://www.meetup.com/Elasticsearch-Toronto/events/257758052/), Toronto, ON, CA
@@ -63,10 +62,12 @@ N.B. Dates are in local-time
 * Wednesday January 23 [Coding Outside of IT: Lessons on Automation From Risk Reporting](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/events/257347488/), New York, NY, US
 * Wednesday January 23 [ReactJS and AEM: integration approaches, best practices, gotchas and pitfalls](https://www.meetup.com/London-Adobe-AEM-Meetup/events/257105931/), London, GB
 * Wednesday January 23 [Seguridad para WordPress](https://www.meetup.com/Costa-Rica-WordPress-Meetup/events/257130486/), San Jose, CR
+* Wednesday January 23 [One Hour, One Latte, One Micro Fiction -- Could we do it?](https://www.meetup.com/Apache-Junction-Beginning-Writers-Meetup/events/257949282/), Apache Junction, AZ, US
 * Wednesday January 23 [Alexa, encantado de conocerte](https://www.meetup.com/CrossDvlup/events/258098353/), Madrid, ES
 * Thursday January 24 [Re-Work Deep Learning Summit - Jan 24-25 - San Francisco](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/258108092/), San Francisco, CA, US
 * Thursday January 24 [Agile Integration with APIs & Containers Workshop](https://www.meetup.com/Red-Hat-San-Diego/events/257958345/), San Diego, CA, US
 * Thursday January 24 [Developer UnConference Zürich, Switzerland](https://www.meetup.com/Big-Data-Developers-Switzerland/events/253811598/), Zürich, CH
+* Thursday January 24 [Курс "Анализ больших данных с Apache Spark"](https://www.meetup.com/BigDataSchool/events/257508055/), Москва, RU
 * Thursday January 24 [Command line tricks for developers, from alias to z](https://www.meetup.com/MeCoDe/events/258161366/), Chakovec, HR
 * Thursday January 24 [FREE Seminar: Job Design Best Practices, Part 3 & 4](https://www.meetup.com/Boston-Talend-User-Group/events/257407774/), Burlington, MA, US
 * Thursday January 24 [Join us for the Honolulu RHUG kick-off party!](https://www.meetup.com/Honolulu-RHUG/events/257862614/), Honolulu, HI, US
@@ -92,6 +93,7 @@ N.B. Dates are in local-time
 * Thursday January 24 [Data Exploration using PrestoDB + Airflow Data Pipelines For Machine Learning](https://www.meetup.com/barcelona-data-science-machine-learning/events/257986711/), 08039, ES
 * Thursday January 24 [Spark Structured Streams](https://www.meetup.com/Miami-Scala-Enthusiasts/events/258107483/), No venue specified; group is based in Miami, FL, US
 * Thursday January 24 [Special Guest Speaker -  Peter Wang, CTO & Co-Founder Anaconda](https://www.meetup.com/Big-Data-AI/events/250110446/), Austin, TX, US
+* Thursday January 24 [Magento Meetup Tokyo](https://www.meetup.com/Magento-Meetup-Tokyo/events/257852648/), Tokyo, JP
 * Friday January 25 [A road to a machine learning project](https://www.meetup.com/datalabmx/events/258174155/), Zapopan, MX
 * Friday January 25 [HN Kansai #69 in Osaka](https://www.meetup.com/Hacker-News-Kansai/events/256911896/), 大阪市, JP
 * Saturday January 26 [DevFest](https://www.meetup.com/GDGSTL/events/254042701/), Saint Louis, MO, US
@@ -144,6 +146,7 @@ N.B. Dates are in local-time
 * Thursday January 31 [Machine Learning Spain XXXIV](https://www.meetup.com/MachineLearningSpain/events/258092562/), Madrid, ES
 * Thursday January 31 [Save your time building modern web apps with Vaadin Platform and Mateu MDD](https://www.meetup.com/BarcelonaJUG/events/257968416/), Barcelona, ES
 * Thursday January 31 [What does Netflix, NTT and Rubicon Project have in common? Apache Druid.](https://www.meetup.com/Apache-Druid-Atlanta/events/257997322/), No venue specified; group is based in Atlanta, GA, US
+* Thursday January 31 [Speeding up PySpark with Arrow, by Ruben Berenguel](https://www.meetup.com/Spark-Barcelona/events/258139339/), Barcelona, ES
 * Friday February 01 [Red Hat User Lunch: OpenShift, Istio & Application Networking for Microservices](https://www.meetup.com/Red-Hat-Orange-County-CA/events/256349629/), Irvine, CA, US
 * Friday February 01 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/257541838/), Ottawa, ON, CA
 * Friday February 01 [DataMass Meetup #1: Deep Learning - an introduction](https://www.meetup.com/DataMass/events/257155208/), Gdańsk, PL
@@ -151,3 +154,5 @@ N.B. Dates are in local-time
 * Saturday February 02 [Vagrant - Quick Start (installation, core commands, box management and more..)](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/257191142/), Atlanta, GA, US
 * Saturday February 02 [Big Data Series - Hadoop FileSystem and MapReduce](https://www.meetup.com/Dataioticshub/events/257306123/), Noida, IN
 * Saturday February 02 [Angular UI Library Training](https://www.meetup.com/Amexio/events/254110657/), Pune, IN
+* Saturday February 02 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/258236111/), Dubai, AE
+* Sunday February 03 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/257433421/), Plano, TX, US
