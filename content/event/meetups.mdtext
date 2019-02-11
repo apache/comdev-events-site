@@ -29,9 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday February 10 [Kafka Hands on Tutorial  (hangouts will be available)](https://www.meetup.com/tech-bay-area/events/258663265/), Mountain View, CA, US
-* Sunday February 10 [Meetup via hangouts](https://www.meetup.com/CalimaFramework/events/258685595/), No venue specified; group is based in Cali, CO
-* Sunday February 10 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/257433424/), Plano, TX, US
 * Monday February 11 [Game Night CHILI'S RESTAURANT](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/258719450/), mesa, AZ, US
 * Monday February 11 [Machine Learning on AWS ](https://www.meetup.com/awsugmum/events/258612070/), Mumbai, IN
 * Monday February 11 [Distributed Training with Apache MXNet using Horovod](https://www.meetup.com/deep-learning-with-mxnet/events/258481987/), East Palo Alto, CA, US
@@ -57,6 +54,7 @@ N.B. Dates are in local-time
 * Wednesday February 13 [AWS AI/ML Workshop by Slalom and AWS](https://www.meetup.com/Women-in-Big-Data-Meetup/events/258339654/), East Palo Alto, CA, US
 * Wednesday February 13 [Big Data on Azure Workshop](https://www.meetup.com/Chicago-Analytics-and-Data-Science-in-the-Cloud/events/258363011/), Downers Grove, IL, US
 * Wednesday February 13 [Using Apache Cassandra and Apache Kafka to scale next gen applications](https://www.meetup.com/Big-Data-Analytics-Meetup-Group/events/257299627/), Melbourne, AU
+* Wednesday February 13 [Data Ethics: Exploring Vice and Virtue in Big Data](https://www.meetup.com/Big-Data-Developers-in-Boston/events/258845714/), Boston, MA, US
 * Wednesday February 13 [BDAM 02/13: Maintaining full data lineage; Migration & Change Data Capture: CDAP](https://www.meetup.com/BigDataApps/events/257120249/), Palo Alto, CA, US
 * Wednesday February 13 [Property-based Testing in ScalaTest 3.1](https://www.meetup.com/scalator/events/258051581/), No venue specified; group is based in Toronto, ON, CA
 * Wednesday February 13 [Apache Flink @ Teralytics](https://www.meetup.com/Apache-Flink-Meetup-Zurich/events/258131778/), Zürich, CH
@@ -102,6 +100,7 @@ N.B. Dates are in local-time
 * Monday February 18 [[1 hr Free] PipelineAI, GPU, TPU, Spark, TensorFlow, Kubernetes, Kafka, Scikit](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/255563617/), San Francisco, CA, US
 * Monday February 18 [You Can’t Improve What You Don’t Measure: How to Design A/B Online Metrics](https://www.meetup.com/melbourne-search/events/258342129/), Melbourne, AU
 * Monday February 18 [Josh Aas on Certificate Transparency](https://www.meetup.com/Skyway-Software-Symposium/events/258415792/), Minneapolis, MN, US
+* Monday February 18 [LeedsDevops - February 2019 Meetup](https://www.meetup.com/LeedsDevops/events/258742295/), Leeds, GB
 * Monday February 18 [Apache Heron Hands-On (Monthly)](https://www.meetup.com/Apache-Heron-Bay-Area/events/255517255/), Palo Alto, CA, US
 * Tuesday February 19 [RMOUG Training Days 2019](https://www.meetup.com/RMOUG-Meetup/events/258167375/), Westminster, CO, US
 * Tuesday February 19 [Morning Coffee](https://www.meetup.com/Divergence-Data-Science-Meetup/events/258710499/), Addison, TX, US
@@ -131,6 +130,7 @@ N.B. Dates are in local-time
 * Tuesday February 19 [Service Mesh and Sidecars with Istio and Envoy](https://www.meetup.com/Kubernetes-Cloud-Native-Online-Meetup/events/258268637/), No venue specified; group is based in San Francisco, CA, US
 * Tuesday February 19 [Pipelines, the next generation data-centric software //Monolith to microservices](https://www.meetup.com/fastdata/events/258522505/), Paris, FR
 * Tuesday February 19 [Profiling and Caching Spark applications with Qubole OSS](https://www.meetup.com/Spark-Barcelona/events/258760166/), Barcelona, ES
+* Tuesday February 19 [Overview of Convolutional neural networks for Computer Vision (Web session)](https://www.meetup.com/Orlando-MLDS/events/258857226/), No venue specified; group is based in Orlando, FL, US
 * Wednesday February 20 [Cloud Native Week 2 days Production-Grade Kubernetes](https://www.meetup.com/Cloud-Native-Kubernetes-Warsaw/events/256435732/), Warsaw, PL
 * Wednesday February 20 [Apache Gobblin Community Monthly Video Conference](https://www.meetup.com/Big-Data-Meetup-LinkedIn/events/258115921/), No venue specified; group is based in Mountain View, CA, US
 * Wednesday February 20 [Releasing Often, TBD, TBD Feb 2018 Tech Confluence](https://www.meetup.com/TechConfluence/events/257714009/), No venue specified; group is based in Denver, CO, US
@@ -153,6 +153,7 @@ N.B. Dates are in local-time
 * Wednesday February 20 [Elastic Stack Presentations @Verizon Digital Media Services](https://www.meetup.com/Elasticsearch-Los-Angeles/events/257316447/), Los Angeles, CA, US
 * Wednesday February 20 [Au delà des brokers: un tour de l'environnement Kafka](https://www.meetup.com/JUG-Montpellier/events/258321867/), Montpellier, FR
 * Wednesday February 20 [DevOps & Infrastructure NRW](https://www.meetup.com/devops-duesseldorf/events/258700322/), 40221 Düsseldorf, DE
+* Wednesday February 20 [One Hour, One Latte, One Micro Fiction -- Could we do it?](https://www.meetup.com/Apache-Junction-Beginning-Writers-Meetup/events/258737390/), Apache Junction, AZ, US
 * Thursday February 21 [How to Build a Data Catalog to Smartly Exploit Your Data Assets](https://www.meetup.com/Big-Data-Warehousing/events/258739879/), New York, NY, US
 * Thursday February 21 [Job Design Best Practices, Part 3 & 4](https://www.meetup.com/DFW-Talend-User-Group/events/258507730/), Southlake, TX, US
 * Thursday February 21 [Join the most successful free networking event in Gilbert](https://www.meetup.com/Gilbert-Elite-Networking-powered-by-Rockstar-Connect/events/258278079/), Gilbert, AZ, US
@@ -191,5 +192,7 @@ N.B. Dates are in local-time
 * Saturday February 23 [Kick-off meetup for 2019 with Elasticsearch](https://www.meetup.com/DigitalOceanManila/events/258357032/), Pasig, PH
 * Saturday February 23 [MeetUp[2] - Elastic Users Group with DigitalOcean Manila](https://www.meetup.com/Philippines-Elastic-Fantastics/events/258486743/), Pasig, PH
 * Saturday February 23 [Free Big Data Open Class - Getting Started with Apache Spark on AWS](https://www.meetup.com/tordatascience/events/258732101/), Toronto, ON, CA
+* Saturday February 23 [Quantile Regression workflows workshop](https://www.meetup.com/Orlando-MLDS/events/258855219/), Orlando, FL, US
 * Saturday February 23 [Lick: An Erotic Evening for Ladies Who Love Ladies](https://www.meetup.com/Lesbians-Love-Atlanta/events/258511933/), Atlanta, GA, US
 * Sunday February 24 [Machine Learning Introduction And Usecases](https://www.meetup.com/Chennai-Bigdata-Hadoop-Spark-Meetup/events/258288103/), Chennai, IN
+* Sunday February 24 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/258797625/), Plano, TX, US
