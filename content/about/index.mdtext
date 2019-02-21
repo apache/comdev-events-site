@@ -16,17 +16,25 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-The Apache Software Foundation runs, or participates in some fashion in,
+The Apache Software Foundation (ASF) runs, or participates in some fashion in,
 a number of different types of
 events, which different target audiences and goals, to educate about our
 projects and about the Foundation, and to build the communities.
 
-The main types of events are:
+The main types of event we work with around Apache projects are:
 
-  - [ApacheCon](/about/apachecon/index.html)
-  - [Roadshows](/about/roadshow.html)
-  - [Endorsed events](/about/endorsed.html)
-  - [Meetups](/event/meetups.html)
+  - [ApacheCon](/about/apachecon/index.html) - the ASF's official conference
+  - [Roadshows](/about/roadshow.html) - bringing Apache content around the world
+  - [Endorsed events](/about/endorsed.html) - run by third parties using Apache brands
+  - [Meetups](/event/meetups.html) - smaller events run by many communities
 
-If you want to organize your own event, we strongly encourage you to
-[coordinate with us](/organize/index.html). Thanks.
+If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to
+[coordinate with us](/organize/index.html). We also list [Apache project-related Meetups](/event/meetups.html) regularly.
+
+
+## About This Website
+
+ - This website is maintained by volunteers, various conference Planners, and the [VP, Conferences for the ASF](//whimsy.apache.org/foundation/orgchart/vp-conference). 
+ - See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/), which uses the [Apache CMS system](//www.apache.org/dev/cmsref.html) to build and publish content.
+ - Got questions or ideas? Come discuss events on our [mailing
+   lists](https://events.apache.org/involved/mailing-lists.html)!
