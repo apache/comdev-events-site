@@ -16,14 +16,16 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
            specific language governing permissions and limitations
            under the License.
 
-The Apache Software Foundation (ASF) runs, or participates in, a number
-of events throughout the year. These events have three main purposes:
+Welcome to the Apache Software Foundation (ASF) events homepage!
+
+The ASF runs and participates in a number
+of events related to our Apache projects throughout the year. These events have three main purposes:
 
  * Educate the world about the work and mission of the ASF
- * Technical information about our various projects
+ * Provide technical information about our many Apache projects
  * Build developer and user communities
 
-Upcoming events include:
+## Upcoming Events
 
 * [ApacheCon North America 2019 in Las Vegas, September 9-13](https://apachecon.com/acna19/index.html)
 * ApacheCon Europe 2019 in Berlin (Details coming soon!)
@@ -34,9 +36,11 @@ Upcoming events include:
 Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
 the latest news and announcements.
 
-## About This Website
+## Past Events & Get Involved
 
- - See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/).  
- - Discussion of the content here happens on our [various mailing
-   lists](https://events.apache.org/involved/mailing-lists.html)
+  - See the [archive of past ApacheCon events](//archive.apachecon.com/), stretching back to 1998!
+  - Want to get involved? [Volunteers are welcome](//events.apache.org/involved/) on a variety of tasks.
+  - Running your own Apache-branded event? Be sure to [get trademark permission](//www.apache.org/foundation/marks/events.html).
+
+ApacheCon and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
 
