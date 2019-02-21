@@ -1,7 +1,9 @@
-This directory is for promoting ApacheCon and other ASF-sponsored events.
+This directory is the source code for the https://events.apache.org/ domain.
+Use https://www.apache.org/dev/cms.html#usage to build and deploy.
+Questions?  Ask planners@apachecon.com
 
 
-# How-To add ApacheCon event promotion to your project site
+# How-To add an ApacheCon event promotion to your project site
 
 All PMCs are asked to help promote ApacheCon and other major Apache 
 sponsored events by adding some form of img link to their homepages, 
@@ -22,15 +24,15 @@ which is usually https://apachecon.com/
   https://apache.org/ads/adserver.txt
 
 
-# How ComDev/VP, Conferences Maintains These current-event & Meetup Pages
+# How ComDev/VP, Conferences Maintains current-event & Meetup Pages
 
 * Maintenance of current-event* files for PMC inclusion:
 - update text in content/current-event.mdtext
 - replace content/images/current-event-*.png files with the new versions from content/ads/ApacheCon
 
-See also content/ads/README.txt
+See also the main website's content/ads/README.txt
 
-* Maintenance of meetups.html
+* Maintenance of event/meetups.html
 
 0a) Check out https://svn.apache.org/repos/asf/comdev/tools
 0b) Learn how to use the ASF CMS. Instructions are here: https://cms.apache.org/ (scroll to the bottom)
@@ -39,6 +41,6 @@ See also content/ads/README.txt
 
 2) Edit meetups.mdtext and do a sanity check. 'Apache' matches a lot of things that are not the ASF, such as hiking groups in Apache Junction, Arizona, and several drawing and spiritual groups. Delete those lines.
 
-3) Visit the page at https://apache.org/events/meetups.html and click your Apache CMS bookmarklet from step 0b
+3) Visit the page at https://events.apache.org/event/meetups.html and click your Apache CMS bookmarklet from step 0b
 
 4) Copy/Paste the contents of meetups.mdtext into the body of that page, replacing all the events from the previous week. Publish that page.
