@@ -25,23 +25,34 @@ Coordination of ApacheCon happens on two lists:
  * The public apachecon-discuss@apache.org mailing list for general
    discussion, calls for volunteers, announcements, and so on.
 
-There will eventually be a discussion here as to why there are the two
-lists.
+At this time, we can use help in the following areas - typically for each ApacheCon that happens.
+ To volunteer, please send email to the *apachecon-discuss* mailing list indicating your availability.
 
-At this time, we can use help in the following areas. To volunteer, please send email to the *apachecon-discuss* mailing list indicating your availability.
+## Calls For Papers
 
+The CFP for each ApacheCon draws hundreds of submissions about projects all 
+around the ASF.  We always need volunteers who can show up **on time** 
+when the CFP closes to help rate talks and schedule specific tracks.
+Many Apache PMCs are now managing their own tracks or co-located events 
+at ApacheCon, which is great.
+
+## Promotions and Publicity
+
+While the ApacheCon Planners work with VP, Marketing & Publicity for some 
+basic services, we always could use Apache committers retweeting and 
+amplifying the official notices about conferences.  
+
+Follow [@ApacheCon](https://twitter.com/apachecon) and [@TheASF](https://twitter.com/apachecon), and help spread their message about upcoming events.
 
 ## Website
 
-  * Keep this website updated. Possibly make it look better.
-  * Work with Infra and maybe Nick Burch to move the site to something that's
-markdown-based, rather than editing raw HTML as though it was 1998.
-  * Keep the wiki updated for the current event
+  * Keep this `events.apache.org` [website source code updated](https://svn.apache.org/repos/asf/concom/site/trunk/content). Possibly make it look better.
+  * Work with Infra and the planning team to improve the site design.
   * At the end of the event, archive the current event information to the past events area, and start the new event section.
 
 ## Hackathon Coordinator
 
-  * Alert projects that the hackathon is available. Encourage them to
+  * Alert projects that a hackathon is available for each conference. Encourage them to
     have a plan ahead of time as to what they'll work on
   * Make signs for the various tables
   * Welcome people and help them find the community that they're looking for
@@ -58,7 +69,7 @@ Identify people that can participate in a "meet the experts" area. Determine wha
     
   * Write up web page defining the lightning talks
   * Promote the lightning talks to our community
-  * Work with LT MCs to pre-register volunteers that want to speak<
+  * Work with LightningTalk MCs to pre-register volunteers that want to speak<
   * (Maybe) find an organization that wants to sponsor this event and
     work with Producer to determine the nature of the event and when it will be
 
