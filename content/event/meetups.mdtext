@@ -29,8 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday March 03 [Free Apache Spark One day Hands-On Workshop](https://www.meetup.com/Big-Data-IOT-101/events/258922412/), Santa Clara, CA, US
-* Sunday March 03 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/259286221/), Plano, TX, US
 * Monday March 04 [Divergence Academy Orientation ](https://www.meetup.com/Divergence-Data-Science-Meetup/events/259303799/), Addison, TX, US
 * Monday March 04 [Audit Class Python Data Science Class with BAiNYC [Free Session] 888-349-0502](https://www.meetup.com/New-York-Python-Big-Data-Science-Bootcamp-Course-by-BAiNYC/events/259307022/), Elmhurst, US
 * Monday March 04 [Game Night - Barro’s Pizza 10861 E Baseline Rd Mesa](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/259315105/), Mesa, AZ, US
@@ -66,7 +64,6 @@ N.B. Dates are in local-time
 * Wednesday March 06 [Elastic APM + What's new in Elastic 6.5 and 6.6](https://www.meetup.com/Oslo-Elastic-Fantastics/events/259063157/), Oslo, NO
 * Wednesday March 06 [Introduction to Serverless, Managed Data Science & Machine Learning](https://www.meetup.com/Toronto-Talend-User-Group/events/258730094/), Toronto, ON, CA
 * Wednesday March 06 [RMS and Apache Arrow](https://www.meetup.com/Tech-Talk-Presented-By-RMS/events/259397577/), Lafayette, CO, US
-* Wednesday March 06 [How to make your Company AI Ready?](https://www.meetup.com/Big-Data-and-Analytics-World/events/256840642/), Tysons, VA, US
 * Wednesday March 06 [Apache Ozone](https://www.meetup.com/St-Louis-Big-Data-IDEA/events/257350366/), SAINT LOUIS, MO, US
 * Wednesday March 06 [Introduction to Apache Cassandra™ & Classification and Clustering Algorithms](https://www.meetup.com/CassandraSF/events/258876501/), San Francisco, CA, US
 * Wednesday March 06 [Introduction: What is Apache Kafka, and What is a Streaming Platform?](https://www.meetup.com/Philadelphia-Kafka-meetup-group/events/258971581/), Philadelphia, PA, US
@@ -85,17 +82,16 @@ N.B. Dates are in local-time
 * Thursday March 07 [Convierta su Pantano de Datos Estancados en Catarata de Datos (Data Fall) ](https://www.meetup.com/saxsaBigDataMexico/events/259043155/), No venue specified; group is based in México City, MX
 * Thursday March 07 [Game Night ~ Barro’s Pizza 10861 E Baseline Rd Mesa](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/259249007/), Mesa, AZ, US
 * Thursday March 07 [Break out of the browser with TensorFlow.js](https://www.meetup.com/Groningen-Java-User-Group/events/257936800/), Groningen, NL
-* Thursday March 07 [[ZMIANA TERMINU!] 45 Spotkanie Data Community Lublin](https://www.meetup.com/PLSSUG/events/259184644/), 20-607 Lublin, PL
+* Thursday March 07 [45 Spotkanie Data Community Lublin](https://www.meetup.com/PLSSUG/events/259184644/), 20-607 Lublin, PL
 * Thursday March 07 [How to NoSQL with Scylla, the Cassandra-Successor with Extreme Performance](https://www.meetup.com/Bangalore-ScyllaDB-Users-Meetup/events/259304611/), Bengaluru, IN
 * Thursday March 07 [User Group: Introduction to Serverless, Managed Data Science & Machine Learning](https://www.meetup.com/Montreal_Talend_User_Group/events/258730059/), Montréal, QC, CA
 * Thursday March 07 [Building the next generation streaming platform with Kafka](https://www.meetup.com/Palma-Kafka/events/258288577/), Palma, ES
-* Thursday March 07 [App Mining Using Blockstack](https://www.meetup.com/SeattleMobileWebApps/events/258686660/), Bellevue, WA, US
 * Thursday March 07 [Session 3 - [Udemy] Python for Data Science and Machine Learning ...](https://www.meetup.com/novadeeplearning/events/258775879/), Reston, VA, US
 * Thursday March 07 [Sacramento RHUG - with special guest Elastic](https://www.meetup.com/Sacramento-RHUG/events/258884910/), Sacramento, CA, US
 * Thursday March 07 [Bloomreach Developers Unite: HST Architecture and Docker](https://www.meetup.com/Bloomreach-Experience-Manager-Meetup-Amsterdam/events/259188901/), Amsterdam, NL
 * Thursday March 07 [Improve Developer Productivity with Build Tools with Gradle CEO Hans Dockter](https://www.meetup.com/Skyway-Software-Symposium/events/259395368/), Bloomington, MN, US
 * Thursday March 07 [Cassandra monitoring, past, present and future & Ingest Data from RDBMS to C*](https://www.meetup.com/DataStax-Cassandra-South-Bay-Users/events/258048974/), Santa Clara, CA, US
-* Thursday March 07 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/258139938/), Vancouver, BC, CA
+* Thursday March 07 [Learn Data Science by Doing Kaggle Competitions: Insincere Questions](https://www.meetup.com/LearnDataScience/events/258139938/), Vancouver, BC, CA
 * Thursday March 07 [March Meeting: Kafka® (Apache, not Franz)](https://www.meetup.com/Roanoke-Valley-NET-User-Group/events/258501700/), Roanoke, VA, US
 * Thursday March 07 [Eine Einführung zu Site Reliability Engineering bei Google](https://www.meetup.com/Cloud-Native-Night/events/258698813/), Mainz, DE
 * Thursday March 07 [ recoreco - fast item-based recommendations](https://www.meetup.com/Rust-NYC/events/258983629/), New York, NY, US
@@ -116,6 +112,7 @@ N.B. Dates are in local-time
 * Sunday March 10 [You ran a search; answers any good? and building graph DB over Elasticsearch](https://www.meetup.com/Tel-Aviv-Elastic-Fantastics/events/258964990/), Tel Aviv-Yafo, IL
 * Sunday March 10 [Python Programming for Everyone](https://www.meetup.com/python4e/events/259117667/), Plano, TX, US
 * Monday March 11 [Architects Guide to Scalable Technologies: Cassandra, Kafka and Elasticsearch](https://www.meetup.com/Distributed-Data-Paris/events/259059252/), Paris, FR
+* Monday March 11 [Game Night - HUB Grill and Bar 1925 S Sossaman Rd Mesa.  Starting March 11th](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/259117504/), Mesa, AZ, US
 * Monday March 11 [Cleveland Big Data Meetup](https://www.meetup.com/Cleveland-Hadoop/events/257103076/), Mayfield Village, OH, US
 * Monday March 11 [Women's Day Celebration](https://www.meetup.com/GDGSTL/events/259300056/), Saint Louis, MO, US
 * Monday March 11 [Deep Learning With MXNET On Video: Ring & Xbox video demos ](https://www.meetup.com/deep-learning-with-mxnet/events/258901722/), East Palo Alto, CA, US
@@ -170,7 +167,11 @@ N.B. Dates are in local-time
 * Thursday March 14 [Natural Language Translation and Apache Spark Test Driven Development ](https://www.meetup.com/Spark-Singapore/events/259356318/), Singapore, SG
 * Thursday March 14 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/258591956/), Louisville , KY, US
 * Friday March 15 [Sparsely Activated Layers for NLP and Side Information for Recommendation](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/258294360/), Amsterdam, NL
+* Friday March 15 [Node.js vs Python](https://www.meetup.com/symphony-sarajevo/events/259355840/), Zenica, BA
 * Saturday March 16 [Pune Data Conference 2019](https://www.meetup.com/Pune-Big-Data-Conference-Group/events/257738958/), Pune, IN
 * Saturday March 16 [Warsztat #233 Apache Spark 2 - przetwarzanie Big Data](https://www.meetup.com/StacjaIT/events/259016641/), Warsaw, PL
 * Saturday March 16 [Data Science Meetup with Preferred.AI](https://www.meetup.com/Big-Data-Malaysia/events/259385733/), Kuala Lumpur, MY
 * Saturday March 16 [WordPress Meetup #13](https://www.meetup.com/Skopje-WordPress-Meetup/events/259358909/), Skopje, MK
+* Saturday March 16 [Erotic Poetry and Live Music at Apache Cafe](https://www.meetup.com/meetup-group-ryCqVcum/events/259455442/), Atlanta, GA, US
+* Sunday March 17 [Python Programming for Everyone](https://www.meetup.com/python4e/events/259298759/), Plano, TX, US
+* Wednesday March 20 [How to make your Company AI Ready?](https://www.meetup.com/Big-Data-and-Analytics-World/events/256840642/), Tysons, VA, US
