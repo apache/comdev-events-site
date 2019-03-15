@@ -29,30 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Thursday March 14 [Convierta su Pantano de Datos Estancados en Catarata de Datos (Data Fall) ](https://www.meetup.com/saxsaBigDataMexico/events/259043169/), No venue specified; group is based in México City, MX
-* Thursday March 14 [Game Night ~ Barro’s Pizza 10861 E Baseline Rd Mesa](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/259207177/), Mesa, AZ, US
-* Thursday March 14 [A Dash of Bazel, With a Sprinkle of Containers, and a Side of Kubernetes](https://www.meetup.com/Denver-Kubernetes-Meetup/events/259136208/), Denver, CO, US
-* Thursday March 14 [PyNight Hackathon](https://www.meetup.com/San-Diego-Data-Science-Meetup/events/259538409/), San Diego, CA, US
-* Thursday March 14 [Predictive analytics with data streams](https://www.meetup.com/Data-Science-Nottingham/events/258152707/), Nottingham, GB
-* Thursday March 14 ["AI in Autonomous Driving"  - Doors Open 6pm - Main Talk starts 6:30pm](https://www.meetup.com/LimerickAISD/events/258774446/), Limerick , IE
-* Thursday March 14 [Apache Kafka: Optimizing Your Deployment](https://www.meetup.com/Chicago-Area-Kafka-Enthusiasts/events/258868295/), Chicago, IL, US
-* Thursday March 14 [Discussions Around O16N & Data Ingestion Tooling](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-Amsterdam/events/258927356/), Amsterdam, NL
-* Thursday March 14 [NLP Coding Dojo (TIM - Acuris)](https://www.meetup.com/London-Data-Science-Workshop/events/259505056/), London, GB
-* Thursday March 14 [Evolution of the Data Pipeline in Agoda](https://www.meetup.com/Bangkok-Kafka/events/259540898/), Bangkok, TH
-* Thursday March 14 [SeattleJS March meetup at indeed!](https://www.meetup.com/seattlejs/events/250643326/), Seattle, WA, US
-* Thursday March 14 [An Evening with Envoy](https://www.meetup.com/Kubernetes-Cloud-Native-STL/events/258798607/), St. Louis, MO, US
-* Thursday March 14 [Graph Databases: insight, scandal and the speed you always wanted!](https://www.meetup.com/Los-Angeles-Big-Data-Users-Group/events/258887894/), Santa Monica, CA, US
-* Thursday March 14 [Examine the K8s Release Process & Day 2 Operations](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/258944295/), San Francisco, CA, US
-* Thursday March 14 [Near Real-time Big Data Platform w/ Spark & Alluxio - VIPShop eCommerce Use Case](https://www.meetup.com/Alluxio/events/259107976/), San Mateo, CA, US
-* Thursday March 14 [The Flavors of Ionic](https://www.meetup.com/The-Washington-Ionic-Framework-Meetup/events/259511353/), Washington, DC, US
-* Thursday March 14 [Getting AWS Big Data Certified: Learning Path and Advice from Industry Experts](https://www.meetup.com/tordatascience/events/259565059/), Toronto, ON, CA
-* Thursday March 14 [KSQL: A first look by a Spark programmer](https://www.meetup.com/Austin-Scala-Enthusiasts/events/258539959/), Austin, TX, US
-* Thursday March 14 [Set up your own CI/CD docker pipeline in AWS using gitlab](https://www.meetup.com/linuxaustin/events/258386755/), Austin, TX, US
-* Thursday March 14 [All about Data!](https://www.meetup.com/Technology-in-Adtech-Crealytics/events/259329958/), Berlin, DE
-* Thursday March 14 [Azure Databricks - Eine Schritt-für-Schritt-Anleitung zum einfachen Start](https://www.meetup.com/pass-bayern/events/257241915/), München, DE
-* Thursday March 14 [Java @ Rio #21 - JUnit 5 - Vale a pena migrar? & Apache DeltaSpike-Data](https://www.meetup.com/Java-at-Rio/events/258387041/), Rio de Janeiro, BR
-* Thursday March 14 [Natural Language Translation and Apache Spark Test Driven Development ](https://www.meetup.com/Spark-Singapore/events/259356318/), Singapore, SG
-* Thursday March 14 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/258591956/), Louisville , KY, US
 * Friday March 15 [Sparsely Activated Layers for NLP and Side Information for Recommendation](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/258294360/), Amsterdam, NL
 * Friday March 15 [GRUPO DE ESTUDIO DE TENSORFLOW](https://www.meetup.com/BA-Machine-Learning-Prctico/events/259592559/), Ciudad Autónoma de Buenos Aires, AR
 * Friday March 15 [Node.js vs Python](https://www.meetup.com/symphony-sarajevo/events/259355840/), Zenica, BA
@@ -62,6 +38,7 @@ N.B. Dates are in local-time
 * Saturday March 16 [Warsztat #233 Apache Spark 2 - przetwarzanie Big Data](https://www.meetup.com/StacjaIT/events/259016641/), Warsaw, PL
 * Saturday March 16 [Data Science Meetup with Preferred.AI](https://www.meetup.com/Big-Data-Malaysia/events/259385733/), Kuala Lumpur, MY
 * Saturday March 16 [Integración, extracción y visualización de grandes volúmenes de datos con Spark](https://www.meetup.com/saxsaBigDataMexico/events/259690084/), No venue specified; group is based in México City, MX
+* Saturday March 16 [AI, Data Science, Machine Learning Meetup, Kolkata](https://www.meetup.com/Aegis-IBM-BIG-DATA/events/259758621/), Kolkata, IN
 * Saturday March 16 [AWS NIGERIA USER GROUP - 2nd AWS Meetup Event](https://www.meetup.com/AWS-Nigeria-User-Group/events/259547033/), No venue specified; group is based in Lagos, NG
 * Saturday March 16 [WordPress Meetup #13](https://www.meetup.com/Skopje-WordPress-Meetup/events/259358909/), Skopje, MK
 * Saturday March 16 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/259439960/), Dubai, AE
@@ -123,7 +100,6 @@ N.B. Dates are in local-time
 * Wednesday March 20 [A spring with Stream Processing and Apache Flink](https://www.meetup.com/ITNEXT/events/258261295/), Utrecht, NL
 * Wednesday March 20 [Big Data & Biking: Bike Lane Uprising, a Cyclist-Led Civic Tech Platform](https://www.meetup.com/Chicago-Women-in-Big-Data/events/259390991/), Chicago, IL, US
 * Wednesday March 20 [1) Data Story Telling:People & Industry | 2) Apache Druid: Speed Dating w Data ](https://www.meetup.com/Orange-County-Advanced-Analytics-Meetup/events/258746845/), Irvine, CA, US
-* Wednesday March 20 [Application Bazaar 2019](https://www.meetup.com/Lightweight-Java-User-Group-Munchen/events/248063263/), No venue specified; group is based in München, DE
 * Wednesday March 20 [How to make your Company AI Ready?](https://www.meetup.com/Big-Data-and-Analytics-World/events/256840642/), Tysons, VA, US
 * Wednesday March 20 [Segmenting brain tissue using Apache MXNet](https://www.meetup.com/Deep-Learning-with-Apache-MXNet-San-Francisco/events/258175373/), San Francisco, CA, US
 * Wednesday March 20 [Data Science Lightning](https://www.meetup.com/LearnDataScience/events/258955943/), Vancouver, BC, CA
@@ -156,6 +132,7 @@ N.B. Dates are in local-time
 * Thursday March 21 [Containerizing Java Microservices Application](https://www.meetup.com/dc-jug/events/259505057/), Reston, VA, US
 * Thursday March 21 [Joint Meetup with Solstice Digital Innovation Meetup](https://www.meetup.com/Chicago-Elastic-Fantastics/events/259576415/), Chicago, IL, US
 * Thursday March 21 [GraphQL – Getting started and scaling using AWS AppSync and Amplify](https://www.meetup.com/Reactive-New-York/events/259682909/), New York, NY, US
+* Thursday March 21 [On the road with Bay Area Kubernetes Meetup](https://www.meetup.com/Silicon-Valley-Elastic-Fantastics/events/259766492/), Sunnyvale, CA, US
 * Thursday March 21 [Learn Data Science by Doing Kaggle Competitions: Humpback Whale Identification](https://www.meetup.com/LearnDataScience/events/258212380/), Vancouver, BC, CA
 * Thursday March 21 [Rapid API Development with OpenAPI Generator](https://www.meetup.com/sliceofapis/events/259373330/), San Francisco, CA, US
 * Thursday March 21 [Advanced Analytics on Apache Spark ](https://www.meetup.com/Houston-Data-Analytics-Meetup/events/259463581/), Houston, TX, US
@@ -199,5 +176,28 @@ N.B. Dates are in local-time
 * Tuesday March 26 [New York Python: Lightning Talks & Talk Practice Night!](https://www.meetup.com/Metis-New-York-Data-Science/events/259340445/), New York, NY, US
 * Tuesday March 26 [Celebrate Spring's arrival with Node.js, Kubernetes & In-Memory Databases! ](https://www.meetup.com/Bay-Area-In-Memory-Computing/events/259514018/), Menlo Park, CA, US
 * Tuesday March 26 [Deep Learning with MXNet Java API](https://www.meetup.com/Apache-MXNet-Seattle-meetup/events/258518574/), Seattle, WA, US
+* Tuesday March 26 ["Everything Data" Launch: Exploring data engineering](https://www.meetup.com/Everything-Data/events/259119470/), Belfast, GB
 * Tuesday March 26 [Using the Solr tagger to improve relevancy. (Bring Your Laptops)](https://www.meetup.com/Seattle-Solr-Lucene-Meetup/events/259273393/), Bellevue, WA, US
+* Tuesday March 26 [Big Data Hadoop & Spark Bootcamp - Learn in a fun way](https://www.meetup.com/Big-Data-IOT-101/events/259464008/), Fremont, CA, US
+* Tuesday March 26 [Leveraging the Power of Service Design to Boost Web Performance](https://www.meetup.com/Web-Performance-NY/events/259468319/), New York, NY, US
+* Tuesday March 26 [Meet the Elastic Community! What's New in Elastic Stack, Elastic App Search](https://www.meetup.com/Indonesia-Elastic-Fantastics/events/259589991/), Jakarta, ID
 * Tuesday March 26 [Livestream: Machine Learning on Source Code](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/259599353/), San Francisco, CA, US
+* Tuesday March 26 [Das literarische Duett – Frühlingserwachen mit Kafka und … ](https://www.meetup.com/Linux-Stammtisch-Munchen/events/259154280/), München, DE
+* Tuesday March 26 [Data Engineering in Practice](https://www.meetup.com/CTO-Roundtable-Berlin/events/259387107/), Berlin, DE
+* Tuesday March 26 [Change Data Capture et DataLake avec Hugo L. et Dimitri C. @OVH, Paris](https://www.meetup.com/Paris-Data-Engineers/events/259483812/), Paris, FR
+* Tuesday March 26 [[Online]NHibernate Avançado + Integração de Dados Automatizada com Apache NIFI](https://www.meetup.com/dotnet-Sao-Paulo/events/259736086/), São Paulo, BR
+* Wednesday March 27 [Online Meetup: Introduction to GraphQL, a query language for APIs](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/259270813/), No venue specified; group is based in San Francisco, CA, US
+* Wednesday March 27 [Java 11 Migration Made Easy](https://www.meetup.com/Polyglot-Languages-Runtimes-Java-JVM-nodejs-Swift/events/259754937/), Bengaluru, IN
+* Wednesday March 27 [Supercharging OLAP  on  Big Data](https://www.meetup.com/Big-Data-Meetup-LinkedIn/events/259676574/), Mountain View, CA, US
+* Wednesday March 27 [An introduction To Streaming Data and Stream Processing with Apache Kafka](https://www.meetup.com/RIG-Rochester-Infrastructure-Group/events/258102479/), Webster, NY, US
+* Wednesday March 27 [An introduction to Streaming Data & Stream Processing with Apache Kafka](https://www.meetup.com/RocDev/events/258906583/), Webster, NY, US
+* Wednesday March 27 [Transitioning from PyData stack to PySpark with Big Data](https://www.meetup.com/Metis-Seattle-Data-Science/events/258973807/), Seattle, WA, US
+* Wednesday March 27 [PyData Detroit Kickoff at Detroit Meets Night of Meetups Lightning Talks](https://www.meetup.com/PyData-Detroit/events/259294211/), Detroit, MI, US
+* Wednesday March 27 [The magic behind the FedEx Marketing Automation Platform](https://www.meetup.com/devops-engineers/events/259324315/), Amsterdam, NL
+* Wednesday March 27 [Toronto Apache Spark 2.0 (TAS 2.0)](https://www.meetup.com/TAS-2-0-Toronto-Apache-Spark/events/259329268/), Toronto, ON, CA
+* Wednesday March 27 [Sentiment analysis on streaming data](https://www.meetup.com/Desert-Data-Science-User-Group/events/259398982/), Tempe, AZ, US
+* Wednesday March 27 [Managing Autonomous Databases and Analytics with ML for Cloud Native Apps](https://www.meetup.com/openvswitch/events/259583726/), No venue specified; group is based in Mountain View, CA, US
+* Wednesday March 27 [ScalaWAW #14 - Functional Programming](https://www.meetup.com/ScalaWAW/events/259726106/), Warszawa, PL
+* Wednesday March 27 [Getting Started w/ Elastic & How Kenna uses Ansible with Elasticsearch](https://www.meetup.com/Chicago-Elastic-Fantastics/events/259733346/), Chicago, IL, US
+* Wednesday March 27 [[Advanced] Data Science Reading Group](https://www.meetup.com/LearnDataScience/events/258212383/), Vancouver, BC, CA
+* Wednesday March 27 [Using Solr's Tagger to Improve Relevancy and More](https://www.meetup.com/Portland-Lucene-Solr-Meetup/events/259140336/), No venue specified; group is based in Portland, OR, US
