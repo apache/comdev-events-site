@@ -13,7 +13,12 @@
 #  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 #  See the License for the specific language governing permissions and
 #  limitations under the License.
-#
+RewriteEngine On
+
+# Redirect to https
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://events.apachecon.com/$1 [R,L]
+
 
 # ApacheCon lives on its own domain
 Redirect temp /apachecon http://www.apachecon.com
