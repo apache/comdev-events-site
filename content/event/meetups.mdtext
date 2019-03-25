@@ -29,9 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday March 24 [Simplifying World of BigData Analytics for Newbies](https://www.meetup.com/Artificial-Intelligence-Toronto/events/259968980/), No venue specified; group is based in Toronto, ON, CA
-* Sunday March 24 [ML in the real world－NLP of legal documents and PyTorch - 6 common mistakes](https://www.meetup.com/Machine_Learning_and_Big_Data_hands_on/events/259669003/), Tel-Aviv, IL
-* Sunday March 24 [Python Programming for Everyone](https://www.meetup.com/TheLab-ms/events/259490808/), Plano, TX, US
 * Monday March 25 [Apache Roadshow: Washington, D.C.](https://www.meetup.com/Cybersecurity-Innovation-Forum/events/259503530/), Fairfax, VA, US
 * Monday March 25 [[10% OFF] Zero to Deep Learning 5 day Bootcamp - San Francisco](https://www.meetup.com/Advanced-Spark-and-TensorFlow-Meetup/events/257941538/), No venue specified; group is based in Mountain View, CA, US
 * Monday March 25 [Women in Data Science and Quantum Computing - March 25 ](https://www.meetup.com/Big-Data-Developers-in-NYC/events/259925539/), New York, NY, US
@@ -68,6 +65,7 @@ N.B. Dates are in local-time
 * Tuesday March 26 [Fireside Chat with Abdulrahman AlFozan (Facebook/MIT)](https://www.meetup.com/DevCRiyadh/events/259922786/), Riyadh, SA
 * Tuesday March 26 [Fireside Chat with Abdulrahman AlFozan (Fb Engineer/MIT) Andrew Yip](https://www.meetup.com/Saudi-Digital-Tech/events/259925672/), Riyadh, SA
 * Tuesday March 26 [Tips and Tricks about Apache Kafka in the Cloud for Java Developers](https://www.meetup.com/Auckland-Kafka/events/259962164/), Auckland, NZ
+* Tuesday March 26 [Distributed databases, Node.js & how to scale trivial workloads](https://www.meetup.com/Silicon-Valley-AI-Big-Data-Meetup/events/260034026/), Menlo Park, CA, US
 * Tuesday March 26 [Introduction to Zero-Knowledge Proofs & Enterprise Integration for Ethereum](https://www.meetup.com/eea-london/events/259855369/), London, GB
 * Tuesday March 26 [Deep Learning with MXNet Java API](https://www.meetup.com/Apache-MXNet-Seattle-meetup/events/258518574/), Seattle, WA, US
 * Tuesday March 26 ["Everything Data" Launch: Exploring data engineering](https://www.meetup.com/Everything-Data/events/259119470/), Belfast, GB
@@ -110,7 +108,6 @@ N.B. Dates are in local-time
 * Wednesday March 27 [Perfug #61 : Génération de code, moteur Catalyst… Démystifions Apache Spark !](https://www.meetup.com/PerfUG/events/254607751/), Paris, FR
 * Wednesday March 27 [Reactive Relational Database Connectivity](https://www.meetup.com/mannheim-java-usergroup/events/256201051/), Mannheim, DE
 * Wednesday March 27 [Open Source and Tech Writing](https://www.meetup.com/Write-The-Docs-London/events/258090597/), London, GB
-* Wednesday March 27 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/258582088/), Fishers, IN, US
 * Thursday March 28 [FREE - Apache Cassandra Workshop - London](https://www.meetup.com/Open-Source-Cassandra/events/259531059/), London, GB
 * Thursday March 28 [Game Night ~ Barro’s Pizza](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/259790922/), Mesa, AZ, US
 * Thursday March 28 [Terraform - Theorie und Praxis](https://www.meetup.com/Cloud-Lab-Bielefeld/events/257889644/), Bielefeld, DE
@@ -141,16 +138,19 @@ N.B. Dates are in local-time
 * Thursday March 28 [Scala Taiwan #30 - Bengal: Dotty Cats](https://www.meetup.com/Scala-Taiwan-Meetup/events/259864171/), Taipei, TW
 * Friday March 29 [Cloud Native & Kubernetes Meetup Tricity #5](https://www.meetup.com/Cloud-Native-Kubernetes-Tricity/events/259323798/), Gdańsk, PL
 * Friday March 29 [Grakn knowledge graph in the domain of biomedical sciences](https://www.meetup.com/nosql-warsaw/events/259870520/), Warszawa, PL
+* Friday March 29 [[Shai Harel Day 1] AI Aided Design & Manufacturing](https://www.meetup.com/Data-Science-Tbilisi/events/260025019/), Tbilisi, GE
 * Saturday March 30 [Ciclo IA Modulo 1: reconocimiento objetos con CNN Convolutive Neural Nets en GPU](https://www.meetup.com/saxsaBigDataMexico/events/259812137/), No venue specified; group is based in México City, MX
 * Saturday March 30 [Apache Spark at it's best](https://www.meetup.com/Pune-Developers-Community/events/259086255/), Pune, IN
 * Saturday March 30 [Talks with PyLadies](https://www.meetup.com/PyLadies-Bangalore-Chapter/events/259290295/), Bengaluru, IN
 * Saturday March 30 [March Elastic Meetup](https://www.meetup.com/Pune-ElasticSearch-Meetup/events/259818588/), Pune, IN
 * Saturday March 30 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/259862016/), Dubai, AE
+* Saturday March 30 [[Shai Harel Day 2] Structured Prediction and The Shattered Gradients Problem](https://www.meetup.com/Data-Science-Tbilisi/events/260025115/), Tbilisi, GE
 * Saturday March 30 [Community Based Care of Central Florida, Volunteering and Info Session](https://www.meetup.com/Orlando-MLDS/events/259762493/), Orlando, FL, US
 * Sunday March 31 [NLP & SPARK WORKSHOP, OBJECT DETECTION ON EMBEDDED DEVICES](https://www.meetup.com/Kharkiv-AI-Club/events/259953560/), Kharkiv, UA
 * Sunday March 31 [AWS Big Data - Trends, Use Cases, and Career Path](https://www.meetup.com/tordatascience/events/259912598/), Toronto, ON, CA
 * Monday April 01 [Ask Me Anything About the Metis Intro to Data Science Course](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/258708224/), San Francisco, CA, US
 * Monday April 01 [A Talk from Mr. Grant Ingersoll: Search as the new Data Warehouse](https://www.meetup.com/melbourne-search/events/259884273/), Melbourne, AU
+* Monday April 01 [Adding depth to the test pyramid: Colorado Springs Open Source Meetup](https://www.meetup.com/csopensource/events/259806788/), No venue specified; group is based in Colorado Springs, CO, US
 * Monday April 01 [TBD](https://www.meetup.com/Apache-Kafka-NYC/events/257989968/), No venue specified; group is based in New York, NY, US
 * Monday April 01 [The Power of Lightweight Transactions](https://www.meetup.com/Minneapolis-St-Paul-Cassandra-Meetup/events/259000536/), Minneapolis, MN, US
 * Monday April 01 [Improv for Technologists - You are a Storyteller](https://www.meetup.com/San-Francisco-Data-Engineering/events/259930328/), San Francisco, CA, US
@@ -162,10 +162,9 @@ N.B. Dates are in local-time
 * Tuesday April 02 [Microservices, Kafka Streams and KafkaEsque](https://www.meetup.com/Vienna-Kafka-meetup/events/259403482/), Wien, AT
 * Tuesday April 02 [Apache Druid Bay Area Meetup @ Unity Technologies](https://www.meetup.com/druidio/events/257291633/), San Francisco, US
 * Tuesday April 02 [Vortrag: "Entwicklung von event-getriebenen Systemen im Apache Kafka"](https://www.meetup.com/ObjektForum-Frankfurt/events/259466905/), Frankfurt, DE
-* Tuesday April 02 [Intro to Data Science with Python](https://www.meetup.com/python-plus-data-science/events/259969588/), No venue specified; group is based in New York, NY, US
 * Tuesday April 02 [Search Meetup Munich - April Edition](https://www.meetup.com/Search-Meetup-Munich/events/259981895/), München, DE
 * Tuesday April 02 [Serverless Bakış Açısı ve Ekosistemi](https://www.meetup.com/Serverless-Turkey/events/259663273/), Istanbul, TR
-* Tuesday April 02 [Introduction to Kubernetes and Google Kubernetes Engine](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/259954080/), No venue specified; group is based in Tel Aviv-Yafo, IL
+* Tuesday April 02 [Introduction to Kubernetes and Google Kubernetes Engine](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/259954080/), תל אביב יפו, IL
 * Tuesday April 02 [Spark Structured Streaming - HBase peers part 2: CDC on Apache Kafka](https://www.meetup.com/Bologna-Big-Data-Meetup/events/258618358/), Bologna, IT
 * Wednesday April 03 [Job Design Best Practices](https://www.meetup.com/Oslo-Talend-User-Group/events/258563486/), Oslo, NO
 * Wednesday April 03 [Apache Kafka and Kubernetes Day](https://www.meetup.com/Apache-Kafka-NYC/events/259594388/), New York, NY, US
@@ -196,7 +195,13 @@ N.B. Dates are in local-time
 * Thursday April 04 [Interactive Analysis of Twitter data using Spark and ElasticSearch](https://www.meetup.com/State-College-Data-X-Meetup/events/258778299/), State College, PA, US
 * Thursday April 04 [Session 4 - [Udemy] Python for Data Science and Machine Learning ...](https://www.meetup.com/novadeeplearning/events/258780471/), Reston, VA, US
 * Thursday April 04 [Sydney Data Engineering Meetup, April Edition](https://www.meetup.com/Sydney-Data-Engineering-Meetup/events/259575677/), Sydney, AU
+* Thursday April 04 [Metaprogramming for API design and CAPS: A Spark graph query engine](https://www.meetup.com/Scala-Geats/events/259694711/), Göteborg, SE
 * Thursday April 04 [SAVE THE DATE: Inova and Elasticsearch @ ICPH](https://www.meetup.com/AI-and-Big-Data-Healthcare-Meetup/events/259764320/), Fairfax, VA, US
 * Thursday April 04 [Operationalizing Kafka in the cloud, Benchmarks and SpotHero's uses ](https://www.meetup.com/Chicago-Area-Kafka-Enthusiasts/events/259766741/), Chicago, IL, US
 * Thursday April 04 [Flow on the process of business automation- An evening with Jon Levesque](https://www.meetup.com/Poland-apps-and-flow/events/259807245/), No venue specified; group is based in Copenhagen, DK
 * Thursday April 04 [Cassandra and Kubernetes](https://www.meetup.com/Boston-Open-Source-High-Scalability-Meetup/events/259936341/), No venue specified; group is based in Boston, MA, US
+* Thursday April 04 [An Introduction To Serverless PHP](https://www.meetup.com/PHP-Shropshire/events/260038465/), No venue specified; group is based in Telford, L6, GB
+* Thursday April 04 [Learn Data Science by Doing Kaggle Competitions: Classifying Fashion Images](https://www.meetup.com/LearnDataScience/events/258212384/), Vancouver, BC, CA
+* Thursday April 04 [Edinburgh Devops 4th April](https://www.meetup.com/Edinburgh-DevOps-Meetup/events/258988105/), Edinburgh, GB
+* Thursday April 04 [🐿️ Stream Processing Beyond Streaming with Apache Flink, by Co-Creator of Flink](https://www.meetup.com/mysqlnyc/events/259567701/), New York, NY, US
+* Thursday April 04 [Intro to Data Science with Python](https://www.meetup.com/python-plus-data-science/events/259969588/), No venue specified; group is based in New York, NY, US
