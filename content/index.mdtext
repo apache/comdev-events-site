@@ -27,11 +27,11 @@ of events related to our Apache projects throughout the year. These events have 
 
 ## Upcoming Events
 
-* [ApacheCon North America 2019 in Las Vegas, September 9-13](https://apachecon.com/acna19/index.html)
-* ApacheCon Europe 2019 in Berlin (Details coming soon!)
-* [Apache Roadshow Washington DC, March 25th 2019](https://apachecon.com/usroadshowdc19/)
-* [Apache Roadshow Chicago, May 13-14, 2019](https://apachecon.com/chiroadshow19/index.html)
-* [More upcoming events](https://events.apache.org/event/index.html)
+<ul id="events">
+ <li><i>List loading</i></li>
+</ul>
+
+For a complete list of events see our [calendar](calendar.html).
 
 Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
 the latest news and announcements.
