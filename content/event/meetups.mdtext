@@ -29,34 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Tuesday April 30 [ODSC East 2019](https://www.meetup.com/Data-Science-ODSC-Los-Angeles/events/257407060/), Boston, MA, US
-* Tuesday April 30 [5th Annual ODSC East Open Data Science Conference 2019! (Separate Registration)](https://www.meetup.com/Boston-AI-Network-Artificial-Intelligence-Group/events/257931255/), Boston, MA, US
-* Tuesday April 30 [Online Office Hour: Enabling Apache Spark for Hybrid Cloud | HDFS & AWS S3 demo](https://www.meetup.com/Alluxio/events/260258714/), No venue specified; group is based in San Francisco, CA, US
-* Tuesday April 30 [Cassandra Day - A free, one day workshop to learn about C*](https://www.meetup.com/DataStax-UserGroup-NewYork/events/260347046/), New York, NY, US
-* Tuesday April 30 [Cassandra & Azure Technical Workshop](https://www.meetup.com/Philadelphia-DataStax-Cassandra-Interest-group/events/260459500/), Malvern, PA, US
-* Tuesday April 30 [Data Integration Best Practices @ UPenn and The Future of Stitch & Talend Cloud](https://www.meetup.com/Philadelphia-Talend-User-Group/events/259366901/), Philadelphia, PA, US
-* Tuesday April 30 [Building Data Pipelines for Machine Learning](https://www.meetup.com/jaxbigdata/events/260288742/), Jacksonville, FL, US
-* Tuesday April 30 [2 Talks! Analyzing streaming data + Columnar Formatted Data for Analytics](https://www.meetup.com/Bay-Area-In-Memory-Computing/events/260653275/), Menlo Park, CA, US
-* Tuesday April 30 [Building a Serverless IIoT GraphQL API with Elastic Stack @Ticketmaster](https://www.meetup.com/Elasticsearch-Los-Angeles/events/257316397/), Los Angeles, CA, US
-* Tuesday April 30 [CEO/Founder of Qubole discusses Big Data in the Cloud: From Facebook to IoT](https://www.meetup.com/BigDataMadison/events/258887308/), Madison, WI, US
-* Tuesday April 30 [Python Workshop - From  Basic to AI Development](https://www.meetup.com/Big-Data-AI/events/259534670/), Austin, TX, US
-* Tuesday April 30 [The Reactive Revolution with Josh Long](https://www.meetup.com/Greater-Milwaukee-Java-Meetup/events/259930199/), Milwaukee, WI, US
-* Tuesday April 30 [ML at Scale using Apache Spark. Develop, Interpret and Monitor.](https://www.meetup.com/Washington-DC-Area-Spark-Interactive/events/259978379/), Rockville, MD, US
-* Tuesday April 30 [Operating PostgreSQL at Scale With OpenShift](https://www.meetup.com/charlotte_roundtable/events/260246706/), Charlotte, NC, US
-* Tuesday April 30 [Microservices to Analyze Event Streams &The Art and Science of Capacity Planning](https://www.meetup.com/KafkaBayArea/events/260545395/), Foster City, CA, US
-* Tuesday April 30 [Big Data, London v 10.0](https://www.meetup.com/Data-Natives-London/events/260565988/), London, GB
-* Tuesday April 30 [ Modern streaming data platform](https://www.meetup.com/DFW-Data-Engineering-Meetup/events/260709503/), Plano, TX, US
-* Tuesday April 30 [Supercharging Analytics with GPUs + Graph Databases for Data Analysis & ML](https://www.meetup.com/EDPP-MTL/events/260405539/), Montréal, QC, CA
-* Tuesday April 30 [Happiness is a Hybrid Cloud with Apache Cassandra +CAVIAR, drinks, prizes!](https://www.meetup.com/Big-Data-Ingest-New-York/events/261034440/), New York, NY, US
-* Tuesday April 30 [How to Easily Go Hybrid Cloud with Apache Cassandra + CAVIAR, drinks & prizes!](https://www.meetup.com/Handy-Tech-Talks/events/260767869/), New York, NY, US
-* Tuesday April 30 [Intro to Elastic Stack, Ingesting Data into Elastic via NiFi](https://www.meetup.com/Kuala-Lumpur-Elastic-Fantastics/events/260439821/), Kuala Lumpur, MY
-* Tuesday April 30 [How to Easily Go Hybrid Cloud 🌥️ with Apache Cassandra +CAVIAR, drinks, prizes!](https://www.meetup.com/mysqlnyc/events/260480844/), New York, NY, US
-* Tuesday April 30 [Next '19 Extended St. Louis](https://www.meetup.com/GDGSTL/events/260632371/), Saint Louis, MO, US
-* Tuesday April 30 [Data Science with Python - Trends, Use Cases and Job Market](https://www.meetup.com/tordatascience/events/260661371/), Toronto, ON, CA
-* Tuesday April 30 [Tech@Shopee x PUGS meetup](https://www.meetup.com/Singapore-Python-User-Group/events/260439972/), Singapore, SG
-* Tuesday April 30 [Druid, data pipelines and engineering - Hosting Imply](https://www.meetup.com/Druid-Israel/events/260506060/), Tel Aviv-Yafo, IL
-* Tuesday April 30 [Convolutional Neural Networks - Semantic Segmentation - Hands-on Session](https://www.meetup.com/nj-datascience/events/260649821/), Princeton, NJ, US
-* Tuesday April 30 [April SoCal Python meetup at Philosophie (Santa Monica)](https://www.meetup.com/socalpython/events/260856808/), Santa Monica, CA, US
 * Wednesday May 01 [CEO/Founder of Qubole discusses Big Data in the Cloud: From Facebook to IoT](https://www.meetup.com/Chicago-Analytics-and-Data-Science-in-the-Cloud/events/259959476/), Chicago, IL, US
 * Wednesday May 01 [The Reactive Revolution with Josh Long](https://www.meetup.com/Chicago-Spring-User-Group/events/259903186/), Chicago, IL, US
 * Wednesday May 01 [Hands-On -Active-everywhere database for hybrid cloud from DataStax ](https://www.meetup.com/digitalnatives/events/260448880/), Reston, VA, US
@@ -65,8 +37,9 @@ N.B. Dates are in local-time
 * Wednesday May 01 [[FREE] ODSC East 2019 Conference Meetup](https://www.meetup.com/open-source-data-science/events/260176994/), Boston, MA, US
 * Wednesday May 01 [Southampton Data Platform and Cloud Meeting - 1st May 2019](https://www.meetup.com/Southampton-Data-Platform-and-Cloud-Group/events/257131442/), Southampton, GB
 * Wednesday May 01 [Apache Beam meetup 7 at Datatonic: Beam at Lyft + datalake using Beam + schemas](https://www.meetup.com/London-Apache-Beam-Meetup/events/260526077/), London, GB
-* Wednesday May 01 [Online/ onsite: Jenkins  (theory, setup, jobs, CI / CD:  hands on )](https://www.meetup.com/tech-bay-area/events/260887138/), No venue specified; group is based in Mountain View, CA, US
+* Wednesday May 01 [Online/ onsite: Jenkins  (theory, setup, jobs, CI / CD:  hands on )](https://www.meetup.com/tech-bay-area/events/260887138/), Cupertino, CA, US
 * Wednesday May 01 [Introduction to Deep Learning - Applied Deep Learning Info Session](https://www.meetup.com/tordatascience/events/260953143/), Toronto, ON, CA
+* Wednesday May 01 [TBD](https://www.meetup.com/Phoenix-Hadoop-User-Group/events/261034954/), Tempe, AZ, US
 * Wednesday May 01 [Time Series SF ](https://www.meetup.com/Time-Series-SF/events/258656794/), San Francisco, CA, US
 * Wednesday May 01 [Pattern Matching: Match Me If You Can](https://www.meetup.com/ACCU-Bay-Area/events/260919533/), San Francisco, CA, US
 * Thursday May 02 [Cassandra Day: A free, one day workshop to learn about C*](https://www.meetup.com/DataStax-Cassandra-User-Group-Atlanta/events/260374100/), Roswell, GA, US
@@ -76,7 +49,6 @@ N.B. Dates are in local-time
 * Thursday May 02 [Data Engineering with Apache Spark](https://www.meetup.com/Baltimore-Scala/events/260072183/), Annapolis Junction, MD, US
 * Thursday May 02 [Session 5 - [Udemy] Python for Data Science and Machine Learning ...](https://www.meetup.com/novadeeplearning/events/258780498/), Reston, VA, US
 * Thursday May 02 [Our first Apache Kafka® Meetup in Bern](https://www.meetup.com/Bern-Kafka/events/260282429/), Bern, CH
-* Thursday May 02 [Taming Big Data with PySpark](https://www.meetup.com/Colombo-Data-Driven/events/260448414/), Colombo, LK
 * Thursday May 02 [PyData Eindhoven Edition](https://www.meetup.com/PyData-NL/events/260470095/), Eindhoven, NL
 * Thursday May 02 [Elasticsearch meetup at NI: Elastic Bots and Multitenancy](https://www.meetup.com/Austin-Elastic-Fantastics/events/260674326/), Austin, TX, US
 * Thursday May 02 [[Register at Bay.Area.AI] Applied Machine Learning: a Netflix Production](https://www.meetup.com/SF-Spark-and-Friends/events/260707906/), No venue specified; group is based in San Francisco, CA, US
@@ -157,6 +129,7 @@ N.B. Dates are in local-time
 * Thursday May 09 [Join us in Munich - To learn how to develop optimised Java Applications for C*](https://www.meetup.com/Distributed-Data-Berlin/events/260367993/), München, DE
 * Thursday May 09 [Virtual Meeting - Apache Spark Custom Streaming Sources](https://www.meetup.com/Miami-Scala-Enthusiasts/events/260507159/), No venue specified; group is based in Miami, FL, US
 * Thursday May 09 [The Blueprint Series #3: A modern approach to building Event-Driven Applications](https://www.meetup.com/big-data-ldn/events/260564318/), London, GB
+* Thursday May 09 [Info Session - Introduction to Machine Learning](https://www.meetup.com/tordatascience/events/261047904/), Toronto, ON, CA
 * Thursday May 09 [Austin Linux User Group Monthly Meeting](https://www.meetup.com/linuxaustin/events/260331975/), Austin, TX, US
 * Thursday May 09 [Getting Started with Apache Spark with Kevin Feasel](https://www.meetup.com/PASS-DC/events/255056894/), Alexandria, VA, US
 * Thursday May 09 [Java @ Rio #24 - Serverless with Java - Ivar Grimstad (Inglês)](https://www.meetup.com/Java-at-Rio/events/257898684/), Rio de Janeiro, BR
@@ -177,3 +150,19 @@ N.B. Dates are in local-time
 * Monday May 13 [Elasticsearch UG Meetup Q2 2019](https://www.meetup.com/ElasticSearch-Usergroup-Frankfurt/events/257367444/), No venue specified; group is based in Frankfurt, DE
 * Monday May 13 [Tuning WordPress for Maximum Performance and Speed](https://www.meetup.com/dfw-wordpress-ninjas/events/258736036/), Plano, TX, US
 * Monday May 13 [Reactive Relational Database Access with Mark Paluch](https://www.meetup.com/MalagaJUG/events/260806698/), Málaga, ES
+* Tuesday May 14 [3. Apache Flink Tel Aviv Meetup @ Bluevoyant](https://www.meetup.com/meetup-group-Apache-Flink-Meetup-Tel-Aviv/events/260473759/), Tel Aviv, IL
+* Tuesday May 14 [🧡💛💛💚💙Best Practices for Data Science on Apache Spark in Databricks🧡💛💛](https://www.meetup.com/pydata_seattle/events/259084861/), Bellevue, WA, US
+* Tuesday May 14 [Best Practices for Data Science on Apache Spark in Databricks](https://www.meetup.com/Seattle-Spark-Meetup/events/259146001/), Bellevue, WA, US
+* Tuesday May 14 [Schema Migrations & Distributed Database Management Software Projects](https://www.meetup.com/Distributed-Systems-Op-Dev-Meetup/events/260354090/), Portland, OR, US
+* Tuesday May 14 [GraalVM und Quarkus. Der Cloud Native JVM Stack.](https://www.meetup.com/Cloud-Lab-Bielefeld/events/260367349/), Bielefeld, DE
+* Tuesday May 14 [Office Hours with Rachel Pedreschi & Eric Graham](https://www.meetup.com/London-Apache-Druid-Meetup/events/260479393/), London, GB
+* Tuesday May 14 [Collaborative Data Science at Scale](https://www.meetup.com/futureofdata-princeton/events/260541092/), Princeton, NJ, US
+* Tuesday May 14 [It's all about SQL - Meet and Think@IBM Rhein-Main](https://www.meetup.com/meet-and-think-at-ibm/events/260846567/), Frankfurt am Main, DE
+* Tuesday May 14 [The State of Stateful & Securing K8s: Admission Control with OPA](https://www.meetup.com/San-Francisco-Kubernetes-Meetup/events/260678417/), San Francisco, CA, US
+* Tuesday May 14 [Reactive Relational Database Access with Mark Paluch](https://www.meetup.com/SVQJUG/events/256148846/), Sevilla, ES
+* Tuesday May 14 [Immutable and Automated Cloud 101, using Packer and Terraform](https://www.meetup.com/Cloud-Native-Night/events/260707479/), Mainz, DE
+* Tuesday May 14 [Time series Forecasting - ARIMA and R](https://www.meetup.com/nj-datascience/events/260766927/), Princeton, NJ, US
+* Wednesday May 15 [Techie Brekkie #6 // Guest to be announced soon // Lets talk about Cloud tech. ](https://www.meetup.com/Techie-Brekkie/events/261017961/), Bristol , GB
+* Wednesday May 15 [Rancher 2.2 User Meetup, Köln](https://www.meetup.com/Cologne-Cloud/events/260007288/), Köln, DE
+* Wednesday May 15 [KAFKA: Apache Kafka кластер администратор](https://www.meetup.com/BigDataSchool/events/259951651/), Москва, RU
+* Wednesday May 15 [High throughput ingestion of time series data with OpenTSDB, HBase, or Cassandra](https://www.meetup.com/Canberra-Big-Data-Meetup/events/260740458/), Canberra, AU
