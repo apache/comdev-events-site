@@ -29,9 +29,8 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Sunday May 12 [Bloom Filters & New Redis Modules for real-time Image Classification](https://www.meetup.com/Machine_Learning_and_Big_Data_hands_on/events/260610210/), Tel-Aviv, IL
-* Sunday May 12 [Python Programming for Everyone](https://www.meetup.com/python4e/events/260605393/), Plano, TX, US
 * Monday May 13 [Apache Roadshow Chicago!](https://www.meetup.com/Chicago-Women-in-Big-Data/events/261319492/), Chicago, IL, US
+* Monday May 13 [Audit Class Python Data Science Class with BAiNYC [Free Session] 888-349-0502](https://www.meetup.com/New-York-Python-Big-Data-Science-Bootcamp-Course-by-BAiNYC/events/261267460/), Queens, NY, US
 * Monday May 13 [How To Use Kafka and Druid to Tame Your Router Data](https://www.meetup.com/London-Apache-Druid-Meetup/events/260475908/), London, GB
 * Monday May 13 [Cleveland Big Data Meetup](https://www.meetup.com/Cleveland-Hadoop/events/258065039/), Mayfield Village, OH, US
 * Monday May 13 [An Intro to Apache Kafka® and KSQL: Stream Processing for Everyone!  ](https://www.meetup.com/Cleveland-Kafka/events/260895853/), Mayfield, OH, US
@@ -164,6 +163,7 @@ N.B. Dates are in local-time
 * Tuesday May 21 [Crea tu cache con Apache Ignite](https://www.meetup.com/Scala-Developers-Barcelona/events/261295890/), Barcelona, ES
 * Tuesday May 21 [Friendly Recursion Schemes and 12 Steps to Better Scala](https://www.meetup.com/ScalaMuc/events/261296096/), Munich, DE
 * Tuesday May 21 [Red Hat Developer Meetup #2](https://www.meetup.com/Red-Hat-Developer-Meetup/events/261349041/), Brno-střed-Veveří, CZ
+* Tuesday May 21 [Observability @ OVH : Des logs, des métriques et des scoubidoubidous](https://www.meetup.com/Montpellier-DevOps/events/261418722/), No venue specified; group is based in Montpellier, FR
 * Wednesday May 22 [The Apache Cassandra Event of the year](https://www.meetup.com/NYC-Cassandra-User-Group/events/260085802/), Fort Washington, MD, US
 * Wednesday May 22 [FREE- Apache Kafka Workshop London](https://www.meetup.com/Distributed-Data-London/events/261013034/), London, GB
 * Wednesday May 22 [Módulo 5: Instalación y uso de Arquitecturas de Big Data con Python y Jupyter](https://www.meetup.com/saxsaBigDataMexico/events/260868631/), No venue specified; group is based in México City, MX
@@ -178,6 +178,7 @@ N.B. Dates are in local-time
 * Wednesday May 22 [[Advanced] Data Science Reading Group](https://www.meetup.com/LearnDataScience/events/258212397/), Vancouver, BC, CA
 * Wednesday May 22 [The Business Impact of Application Latency (+ Brie, Caviar, Brandy & Freebies!)](https://www.meetup.com/HADOOP-data/events/261332116/), New York, NY, US
 * Wednesday May 22 [Introducing Apache Pulsar - Opening doors for ML and increased ROI](https://www.meetup.com/utah-data-engineering-meetup/events/261032242/), Midvale, UT, US
+* Wednesday May 22 [Konsesnsus w rozproszonych bazach danych przy uzyciu Rafta](https://www.meetup.com/nosql-warsaw/events/261417091/), Warsaw, PL
 * Wednesday May 22 [Lancaster Elastic User Group Monthly Meetup](https://www.meetup.com/Lancaster-Elastic-Fantastics/events/260895440/), Lancaster, PA, US
 * Wednesday May 22 [Livestream: Rocking Data Science Interviews!](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/258976621/), San Francisco, CA, US
 * Wednesday May 22 [Build a Fast Data Platform in a Data-Driven company: the Cerved use case](https://www.meetup.com/Milano-Kafka-meetup/events/260858565/), Milano, IT
@@ -193,5 +194,3 @@ N.B. Dates are in local-time
 * Thursday May 23 [May Data Science Meetup](https://www.meetup.com/Tampere-Data-Science/events/260723086/), Tampere, FI
 * Thursday May 23 [Advanced Kotlin](https://www.meetup.com/Codestar-Night/events/260564012/), Rotterdam, NL
 * Thursday May 23 [Kicking Your Database to the Curb and Fun with Kafka!](https://www.meetup.com/Boston-Apache-kafka-Meetup/events/260827245/), Boston, MA, US
-* Thursday May 23 [Apache Kafka® Streaming Use Cases at ING](https://www.meetup.com/Nurnberg-Kafka/events/260463389/), Nürnberg, DE
-* Thursday May 23 [KSQL: A Streaming SQL engine for Apache Kafka® and End-to-End Monitoring Tools](https://www.meetup.com/KafkaBayArea/events/261357097/), San Mateo, CA, US
