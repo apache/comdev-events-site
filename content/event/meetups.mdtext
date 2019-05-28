@@ -29,12 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Monday May 27 [Game Night - HUB Grill and Bar 1925 S Sossaman Mesa](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/261663302/), Mesa, AZ, US
-* Monday May 27 [WebCore meetup: Feature Policy, PageSpeed, and Web API best practices](https://www.meetup.com/WebCore/events/260637788/), Amsterdam, NL
-* Monday May 27 [Machine learning / Artificial intelligence with AWS](https://www.meetup.com/AWS-Swiss-User-Group-Zurich/events/261281826/), Zürich, CH
-* Monday May 27 [Big Data for Data Scientists: Trends and Use Cases](https://www.meetup.com/tordatascience/events/261554728/), Toronto, ON, CA
-* Monday May 27 [Info Session - Introduction to Machine Learning](https://www.meetup.com/tordatascience/events/261674321/), Toronto, ON, CA
-* Monday May 27 [Big Data  boot camp - Online ](https://www.meetup.com/SanKir-Big-Data-Group/events/261639660/), No venue specified; group is based in Bangalore, IN
 * Tuesday May 28 [ATACE | May : Creating Web Foundation with integrating AEM, Target, & Analytics](https://www.meetup.com/AEM-Technologist-Group/events/261345725/), San Jose, CA, US
 * Tuesday May 28 [The 10th Apache Kafka meetup](https://www.meetup.com/Kafka-Meetup-Utrecht/events/260303497/), Utrecht, NL
 * Tuesday May 28 [Reactive Manifesto 5 lat później - Krzysztof Ciesielski](https://www.meetup.com/Lublin-Java-User-Group/events/258473729/), Lublin, PL
@@ -42,9 +36,7 @@ N.B. Dates are in local-time
 * Tuesday May 28 [Context Buddy & Streaming pipelines using Apache Kafka](https://www.meetup.com/Krakow-Scala-User-Group/events/260926054/), Kraków, PL
 * Tuesday May 28 [Python Workshop - From  Basic to AI Development](https://www.meetup.com/Big-Data-AI/events/261114791/), Austin, TX, US
 * Tuesday May 28 [Kafka on Kubernetes: Does It Really Have To Be “The Hard Way”?](https://www.meetup.com/Dallas-Kafka/events/261230884/), Plano, TX, US
-* Tuesday May 28 [Introduction to the Coldbox MVC framework](https://www.meetup.com/Singapore-JavaScript-and-Coldbox-MVC-CFML-developers-group/events/261249501/), Singapore, SG
 * Tuesday May 28 [Beam @Unity and Schemas/Tech-Talk from Beam PMC](https://www.meetup.com/San-Francisco-Apache-Beam/events/261307629/), San Francisco, CA, US
-* Tuesday May 28 [Infracoders - May (Bonus)!](https://www.meetup.com/Infrastructure-Coders-Canberra/events/261630473/), Symonston, AU
 * Tuesday May 28 [The Pull Request That Wouldn't Merge && Survey of Data Tools (Session 2)](https://www.meetup.com/Seattle-Scalability-Meetup/events/259835712/), Seattle, WA, US
 * Tuesday May 28 [Apache Kafka Optimizing Your Deployment](https://www.meetup.com/Distributed-Data-Paris/events/261044220/), PARIS , FR
 * Tuesday May 28 [Beyond the Brokers: A Tour of the Apache Kafka® environment](https://www.meetup.com/Geneve-Apache-Kafka-Meetup-by-Confluent/events/261457046/), Carouge, CH
@@ -52,13 +44,13 @@ N.B. Dates are in local-time
 * Tuesday May 28 [Data processing and analysis automation for oil pipeline inspection](https://www.meetup.com/Spark-Barcelona/events/260736328/), Barcelona, ES
 * Tuesday May 28 [Data processing on GCP - kubernetes pipeline vs Dataflow / Apache Beam](https://www.meetup.com/GDG-Cloud-Belgium/events/261201365/), Gent, BE
 * Tuesday May 28 [მონაცემთა მეცნიერება თანამედროვე საბანკო ეკოსისტემაში](https://www.meetup.com/Data-Science-Tbilisi/events/261517873/), T'bilisi, GE
+* Wednesday May 29 [Taller Nivel 0: Ciencia de Datos, BigData, Hadoop, Spark, Jupyter con Python](https://www.meetup.com/saxsaBigDataMexico/events/261656760/), No venue specified; group is based in México City, MX
 * Wednesday May 29 [Talend's CIO Data Journey: Lessons Learned & Best Practices](https://www.meetup.com/BayArea-Talend-User-Group/events/260541637/), Redwood City, CA, US
 * Wednesday May 29 [Spark ETL and Canon for NLP](https://www.meetup.com/DataPhilly/events/260121079/), Philadelphia, PA, US
 * Wednesday May 29 [Idea to Reality: a session with InfoTrack](https://www.meetup.com/Sydney-Elastic-Fantastics/events/260937071/), Sydney, AU
 * Wednesday May 29 [The right model for the job - Vacancy recommendations at Randstad](https://www.meetup.com/Hands-on-Data-Science/events/261282161/), Diemen, NL
 * Wednesday May 29 [6. Treffen JUG-Koblenz](https://www.meetup.com/Java-User-Group-Koblenz/events/261282474/), Koblenz, DE
 * Wednesday May 29 [Data Science Lublin #4](https://www.meetup.com/Data-Science-Lublin/events/261447343/), Lublin, PL
-* Wednesday May 29 [Apache Kafka® is more ACID Than Your Database - Hosted with Accreditation@SGD](https://www.meetup.com/Singapore-Kafka-Meetup/events/261490148/), Singapore, SG
 * Wednesday May 29 [Essential Problem Solving Skills for Data Scientists (feat. Macy's)](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/events/261451543/), New York, NY, US
 * Wednesday May 29 [Info Session - Introduction to Machine Learning](https://www.meetup.com/tordatascience/events/261674531/), Toronto, ON, CA
 * Wednesday May 29 [Traveloka: How We Run Cloud-Scale Apache Spark in Production Since 2017](https://www.meetup.com/Spark-Singapore/events/261637175/), Singapore, SG
@@ -67,9 +59,10 @@ N.B. Dates are in local-time
 * Wednesday May 29 [Elastic Stack Meetup de Mayo](https://www.meetup.com/Barcelona-Elastic-Fantastics/events/261481983/), Barcelona, ES
 * Wednesday May 29 [Machine Learning Spain XXXVIII](https://www.meetup.com/MachineLearningSpain/events/261644881/), Madrid, ES
 * Wednesday May 29 [ML-Ops com Apache Marvin e Data Storytelling](https://www.meetup.com/PyData-Sao-Paulo/events/261648627/), São Paulo, BR
+* Wednesday May 29 [Meta Meetup Paris AWS/Serverless/Docker/Kubernetes](https://www.meetup.com/Kubernetes-Paris/events/261824633/), Paris, FR
 * Wednesday May 29 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/260755565/), Fishers, IN, US
 * Thursday May 30 [Event-driven Graph Analytics using Neo4j and Apache Kafka](https://www.meetup.com/Neo4j-Online-Meetup/events/261507675/), Online, CA, US
-* Thursday May 30 [Ciencia de Datos con Machine Learning en Spark, Jupyter y Python](https://www.meetup.com/saxsaBigDataMexico/events/261697797/), No venue specified; group is based in México City, MX
+* Thursday May 30 [Ciencia de Datos, Machine Learning en Spark, Jupyter, TensorFlow con Python](https://www.meetup.com/saxsaBigDataMexico/events/261697797/), No venue specified; group is based in México City, MX
 * Thursday May 30 [OmniSci and RAPIDS: An End-to-End Open-Source Data Science Workflow](https://www.meetup.com/open-source-data-science/events/261542255/), No venue specified; group is based in Cambridge, MA, US
 * Thursday May 30 [GAMES - VIP RV Resort- 401 S Ironwood Dr Apache Junction, AZ](https://www.meetup.com/Apache-Junction-Game-Night-Meetup/events/261362869/), Apache Junction, AZ, US
 * Thursday May 30 [[PyData Granada] Taller de Big Data: El Everest es pan comido](https://www.meetup.com/Granada-Geek/events/261343770/), Granada, ES
@@ -81,7 +74,7 @@ N.B. Dates are in local-time
 * Thursday May 30 [Melbourne Kuberbetes User Group May 2019](https://www.meetup.com/Melbourne-Kubernetes-Meetup/events/261303312/), Melbourne, AU
 * Thursday May 30 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/258212398/), Vancouver, BC, CA
 * Thursday May 30 [May Meetup Night](https://www.meetup.com/Boston-Apache-Spark-User-Group/events/259193570/), Danvers, MA, US
-* Thursday May 30 [Intelligent Robotic Process Automation Hands on Lab](https://www.meetup.com/openvswitch/events/261561585/), Santa Clara, CA, US
+* Thursday May 30 [Hands-on RPA Lab with Automation Anywhere](https://www.meetup.com/openvswitch/events/261561585/), Santa Clara, CA, US
 * Thursday May 30 [Cross Promotion event -  Panel discussion with Data Scientists](https://www.meetup.com/Big-Data-AI/events/261687846/), Austin, TX, US
 * Thursday May 30 [Create a Chatbot with AWS Lex, Lambda, and HERE](https://www.meetup.com/here-chicago/events/261057109/), Chicago, IL, US
 * Friday May 31 [Scale By the Bay 2019 CFP Open until May 31](https://www.meetup.com/SF-Spark-and-Friends/events/261084449/), No venue specified; group is based in San Francisco, CA, US
@@ -89,6 +82,7 @@ N.B. Dates are in local-time
 * Saturday June 01 [Create and configure file systems - mount, unmount, CIFS, NFS, set-GID, ACLs](https://www.meetup.com/Red-Hat-RHCSA-RHCE-Study-Group/events/260885577/), Atlanta, GA, US
 * Saturday June 01 [[Adopt-a-JSR Day] Adopt JSR 385 - Units of Measurement 2.0 for Java](https://www.meetup.com/Utrecht-Java-User-Group/events/261238917/), Nieuwegein, NL
 * Saturday June 01 [Angular UI Library Training](https://www.meetup.com/Amexio/events/260610147/), Pune, IN
+* Saturday June 01 [FREE Spark Streaming using Kafka with Hands-on exercise](https://www.meetup.com/SanKir-Big-Data-Group/events/261826868/), Bengaluru, IN
 * Saturday June 01 [Google Cloud Next Extended Singapore 2019: Data, AI and Devops](https://www.meetup.com/GCPUGSG/events/258359490/), Singapore, SG
 * Saturday June 01 [Scala Taiwan Mokumoku #8](https://www.meetup.com/Scala-Taiwan-Meetup/events/261634454/), Taiwan, TW
 * Saturday June 01 [Devopedia Write-a-thon (Free)](https://www.meetup.com/Devopedia/events/261756849/), Bengaluru, IN
@@ -118,6 +112,7 @@ N.B. Dates are in local-time
 * Tuesday June 04 [Building an integrated end-to-end ML pipeline for customer support optimization](https://www.meetup.com/Hamburg-R-User-Group/events/261041306/), Hamburg , DE
 * Tuesday June 04 [Data Science needs DAGs too - How to use Airflow for ML research and development](https://www.meetup.com/NYC-Apache-Airflow-Meetup/events/261332424/), New York, NY, US
 * Tuesday June 04 [OmniSci-StreamSets F1 Demo + Scaling StreamSets On Azure Kubernetes Service](https://www.meetup.com/San-Francisco-StreamSets-User-Group-Meetup/events/261489457/), San Francisco, CA, US
+* Tuesday June 04 [Big Data for Data Scientists: Trends and Use Cases](https://www.meetup.com/tordatascience/events/261814952/), Toronto, ON, CA
 * Tuesday June 04 [TensorFlow Dev Summit 2019 Summary + Deep Diving into GANs](https://www.meetup.com/Data-Science-Milan/events/261648816/), Milano, IT
 * Wednesday June 05 [Modulo 7: IA, Deep Learning, series de tiempo, RNN y aplicaciones en economia](https://www.meetup.com/saxsaBigDataMexico/events/260868729/), No venue specified; group is based in México City, MX
 * Wednesday June 05 [The Systems Behind AI](https://www.meetup.com/Haifa-Cloud-Technology/events/261779129/), חיפה, IL
@@ -126,6 +121,7 @@ N.B. Dates are in local-time
 * Wednesday June 05 [Airflow Meetup @Google Cloud](https://www.meetup.com/Bay-Area-Apache-Airflow-Incubating-Meetup/events/260712102/), Sunnyvale, CA, US
 * Wednesday June 05 [IoT Data Storage: Apache Cassandra, MongoDB, Redis (Meetup #34)](https://www.meetup.com/IoT-Hessen/events/261099466/), Frankfurt, DE
 * Wednesday June 05 [June Edition, Melbourne Data Engineering meetup](https://www.meetup.com/Melbourne-Data-Engineering-Meetup/events/261283044/), Melbourne, AU
+* Wednesday June 05 [Big Data, London v 11.0](https://www.meetup.com/Data-Natives-London/events/261421101/), London, GB
 * Wednesday June 05 [June: Detecting Online Credit Card Fraud with Apache Kafka Streams](https://www.meetup.com/Newcastle-Coders-Group/events/261507818/), No venue specified; group is based in Newcastle, AU
 * Wednesday June 05 [The Qubole Cricket Challenge - Data Engineering & Cricket, Combined](https://www.meetup.com/Big-Data-Detox-Sessions-London/events/261612312/), London, GB
 * Wednesday June 05 [Serverless with Knative by Mete Atamel](https://www.meetup.com/GDG-Cloud-Tel-Aviv/events/261667759/), Tel Aviv-Yafo, IL
@@ -141,6 +137,8 @@ N.B. Dates are in local-time
 * Wednesday June 05 [10 ways to deploy Apache Kafka® and have fun along the way](https://www.meetup.com/Barcelona-Kafka-Meetup/events/261449512/), Barcelona, ES
 * Wednesday June 05 [Dynamic Talks in St.Petersburg | Big Data митап СПб](https://www.meetup.com/GridDynamics-Big-Data/events/261639889/), Sankt-Peterburg, RU
 * Wednesday June 05 [Big Data y consultas analíticas sub-segundo sobre terabytes de datos con Kylin](https://www.meetup.com/DevAcademyES/events/261708081/), Madrid, ES
+* Wednesday June 05 [BookClub: Feature Engineering for Machine Learning - Chapter 3: Text Data](https://www.meetup.com/data-engineering-munich/events/261812047/), München, DE
+* Wednesday June 05 [2º Meetup Elastic Curitiba](https://www.meetup.com/Curitiba-Elastic-Fantastics/events/261821776/), Curitiba, BR
 * Thursday June 06 [Adobe Experience Manager Meetup - Pune](https://www.meetup.com/AEM-Technologist-Group/events/261478018/), Pune, IN
 * Thursday June 06 [Introduction to Serverless, Managed Data Science & Machine Learning](https://www.meetup.com/SoCal-Talend-User-Group/events/260818314/), Santa Monica, CA, US
 * Thursday June 06 [GAME OVER: Cyber attacks in the gaming industry ](https://www.meetup.com/gameforge-techtalks/events/261510515/), Karlsruhe, DE
@@ -169,3 +167,6 @@ N.B. Dates are in local-time
 * Saturday June 08 [June Elastic Meetup](https://www.meetup.com/Elasticsearch-Explorers/events/261033971/), Bengaluru, IN
 * Sunday June 09 [Play Underwater Hockey at Sun Devil Fitness Center (Summer 2019)](https://www.meetup.com/Phoenix-Underwater-Hockey/events/261622912/), Tempe, AZ, US
 * Sunday June 09 [Python Programming for Everyone](https://www.meetup.com/python4e/events/261436536/), Plano, TX, US
+* Monday June 10 [Efficient and Effortless WordPress Site Management on a Budget](https://www.meetup.com/dfw-wordpress-ninjas/events/260451603/), Plano, TX, US
+* Monday June 10 [RRT #0: Fare di più con meno](https://www.meetup.com/Redis-RealTime/events/261647478/), Milano, IT
+* Monday June 10 [4th Elastic Greece Meetup](https://www.meetup.com/Greece-Elastic/events/261735134/), Athina, GR
