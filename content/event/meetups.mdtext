@@ -29,20 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Monday June 24 [Audit Class Python Data Science Class with BAiNYC [Free Session] 888-349-0502](https://www.meetup.com/New-York-Python-Big-Data-Science-Bootcamp-Course-by-BAiNYC/events/262423578/), Queens, NY, US
-* Monday June 24 [Privacy (GDPR) & Big Data – Friends or foes?](https://www.meetup.com/Nuernberg-Big-Data/events/260077361/), Nürnberg, DE
-* Monday June 24 [ Machine Learning Workshop for Beginners](https://www.meetup.com/data-engineering-munich/events/261100681/), München, DE
-* Monday June 24 [Streaming with Kotlin Coroutines , Distributed Tracing and DWF with Bazel](https://www.meetup.com/JavaIL/events/261773924/), Tel Aviv-Yafo, IL
-* Monday June 24 [[Underscore] 2019-06: Killing The Unit Test, Concurrency With ZIO](https://www.meetup.com/underscore/events/262008904/), Tel Aviv-Yafo, IL
-* Monday June 24 [Open source fest w/ Alluxio & Ignite + Using In-Memory Computing to make money!](https://www.meetup.com/Bay-Area-In-Memory-Computing/events/262400462/), Menlo Park, CA, US
-* Monday June 24 [Talks from open-source Alluxio & Ignite + how to accelerate analytic queries!](https://www.meetup.com/Silicon-Valley-AI-Big-Data-Meetup/events/262510993/), Menlo Park, CA, US
-* Monday June 24 [An Introduction to Apache Kafka®](https://www.meetup.com/Chennai-Kafka/events/262138449/), Chennai, IN
-* Monday June 24 [Machine Learning Deployment with Spark and Amazon Sagemaker](https://www.meetup.com/tordatascience/events/262372472/), Toronto, ON, CA
-* Monday June 24 [All About Apache Heron (Monthly) With ACM](https://www.meetup.com/Apache-Heron-Bay-Area/events/259685024/), Sunnyvale, CA, US
-* Monday June 24 [All About Apache Pulsar (Monthly)](https://www.meetup.com/SF-Bay-Area-Apache-Pulsar-Meetup/events/261695223/), Palo Alto, CA, US
-* Monday June 24 [Free Workshop: Fundamentals of Big Data Analytics](https://www.meetup.com/Southern-California-Data-Science-and-Datapreneurship/events/260047662/), No venue specified; group is based in Rancho Cucamonga, CA, US
-* Monday June 24 [Moving from Batches to Real Time with Apache Kafka](https://www.meetup.com/atlantaIntelligentDevices/events/260697546/), Alpharetta, GA, US
-* Monday June 24 [Continuous Monitoring at PMI + Enriching Postal Addresses with the Elastic Stack](https://www.meetup.com/Elastic-Krakow/events/262282793/), Kraków, PL
 * Tuesday June 25 [FREE Apache Cassandra & Apache Kafka Workshop](https://www.meetup.com/Distributed-Data-Paris/events/261731718/), Paris, FR
 * Tuesday June 25 [Online Office Hour: Accelerating Spark in Kubernetes using Alluxio](https://www.meetup.com/Alluxio/events/261941353/), No venue specified; group is based in San Francisco, CA, US
 * Tuesday June 25 [Full Stek je moestuin met Node.js, Stencil, Sass, SVG en BLE](https://www.meetup.com/Groningen-Java-User-Group/events/258522450/), Groningen, NL
@@ -58,8 +44,6 @@ N.B. Dates are in local-time
 * Tuesday June 25 [Python User Meetup](https://www.meetup.com/Annapolis-Python-Meetup/events/262008724/), Annapolis, MD, US
 * Tuesday June 25 [Leveraging services in stream processor apps at Ticketmaster](https://www.meetup.com/Kafka-Phoenix/events/262138198/), Scottsdale, AZ, US
 * Tuesday June 25 [pandas on Apache Spark (ft Databricks cofounder) / AI-powered musical creativity](https://www.meetup.com/San-Francisco-PyData/events/262203749/), San Francisco, CA, US
-* Tuesday June 25 [Real Time Stream Processing with Kafka and KSQL - Hosted by Air New Zealand!](https://www.meetup.com/Auckland-Kafka/events/262401073/), Auckland, NZ
-* Tuesday June 25 [An Introduction to Apache Kafka® and Streaming Platforms](https://www.meetup.com/HongKong-Kafka/events/262402127/), Hong Kong, HK
 * Tuesday June 25 [Koalas: pandas APIs on Apache Spark/Magenta: Exploring the role on ML](https://www.meetup.com/spark-users/events/262453479/), San Francisco, CA, US
 * Tuesday June 25 [Hybrid Databases: The Yin and Yang of Transactional Analytical Processing](https://www.meetup.com/HADOOP-data/events/262260834/), New York, NY, US
 * Tuesday June 25 [Hybrid Databases: The Yin/Yang of Transactional Analytical Processing](https://www.meetup.com/Big-Data-Ingest-New-York/events/262260850/), New York, NY, US
@@ -69,6 +53,7 @@ N.B. Dates are in local-time
 * Tuesday June 25 [What's new in Elasticsearch? Configuring security, running on Kubernetes & more](https://www.meetup.com/Indonesia-Elastic-Fantastics/events/262220940/), Kota Jakarta Pusat, ID
 * Tuesday June 25 [SouJava Online-Conviértete en un Contributor de Open Source con Apache TomEE[ES]](https://www.meetup.com/SouJava/events/262402559/), No venue specified; group is based in São Paulo, BR
 * Tuesday June 25 [Introducing AWS Well-Architected Framework](https://www.meetup.com/Toronto-Data-Engineering-and-Cloud-Meetup/events/262424254/), Toronto, ON, CA
+* Tuesday June 25 [[AWS] Introducing AWS Well-Architected Framework](https://www.meetup.com/tordatascience/events/262424489/), Toronto, ON, CA
 * Tuesday June 25 [Tableau 101 - Introduction to Data Visualization and Tableau](https://www.meetup.com/toronto_data_analytics/events/262424654/), No venue specified; group is based in Toronto, ON, CA
 * Tuesday June 25 [DevOps Playground Edinburgh: Hands on with Apache JMeter!](https://www.meetup.com/DevOps-Playground-Edinburgh/events/260088514/), Edinburgh, GB
 * Tuesday June 25 [[Training] Just enough Scala for Spark // Ce qu'il faut de Scala pour Spark](https://www.meetup.com/Paris-Data-Engineers/events/261674662/), Paris, FR
@@ -79,8 +64,9 @@ N.B. Dates are in local-time
 * Wednesday June 26 [Apache Hadoop Contributors Meetup](https://www.meetup.com/Hadoop-Contributors/events/262055924/), Palo Alto, CA, US
 * Wednesday June 26 [Apache Gobblin Community Monthly Video Conference](https://www.meetup.com/Big-Data-Meetup-LinkedIn/events/259710468/), No venue specified; group is based in Mountain View, CA, US
 * Wednesday June 26 [Deploying a learning software platform w/ Serverless & Apache Kafka](https://www.meetup.com/IBM-Developer-SF-Bay-Area-Meetup/events/262099556/), No venue specified; group is based in San Francisco, CA, US
-* Wednesday June 26 [Ciencia de Datos, Machine Learning en Spark, Jupyter, TensorFlow con Python](https://www.meetup.com/saxsaBigDataMexico/events/262451851/), No venue specified; group is based in México City, MX
+* Wednesday June 26 [Webinar: Extending the H2O Driverless AI Platform with Your Recipes](https://www.meetup.com/San-Francisco-Big-Data-Science/events/262586279/), Mountain View, CA, US
 * Wednesday June 26 [Javier Ramirez: Get started with Open Distro for Elasticsearch for log analytics](https://www.meetup.com/Search-UG-Berlin/events/262092856/), Berlin, DE
+* Wednesday June 26 [Ciencia de Datos, Machine Learning en Spark, Jupyter, TensorFlow con Python](https://www.meetup.com/saxsaBigDataMexico/events/262451851/), No venue specified; group is based in México City, MX
 * Wednesday June 26 [Elastic at Expedia, What's new in Elasticsearch?](https://www.meetup.com/Delhi-Elastic-Fantastics/events/262028778/), Gurugram, IN
 * Wednesday June 26 [Apache Cassandra™ Data Modeling & Reactive Programming](https://www.meetup.com/DataStax-Cassandra-South-Bay-Users/events/262214898/), Santa Clara, CA, US
 * Wednesday June 26 [Cyber Threat Hunting with the Elastic Stack](https://www.meetup.com/Elasticsearch-Boston/events/261025164/), Boston, MA, US
@@ -116,10 +102,10 @@ N.B. Dates are in local-time
 * Thursday June 27 [DATAXDAY 2019 - The Data Centric Conférence in Paris](https://www.meetup.com/Paris-Data-Engineers/events/260694552/), Paris, FR
 * Thursday June 27 [FREE Apache Cassandra & Apache Kafka Workshop](https://www.meetup.com/Distributed-Data-Amsterdam/events/261731823/), Amsterdam, NL
 * Thursday June 27 [Complimentary Workshop: Managing Kubernetes at Scale](https://www.meetup.com/Dutch-Mesos-User-Group/events/261825394/), Rotterdam, NL
-* Thursday June 27 [CNN (Convolutive Neural Nets) con TensorFlow, DeepLearning con Python](https://www.meetup.com/saxsaBigDataMexico/events/262451868/), No venue specified; group is based in México City, MX
 * Thursday June 27 [Livestream: Lightning Talks & Talk Practice Night (Python)!](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/262128372/), San Francisco, CA, US
 * Thursday June 27 [The Changing Landscape of the Digital Workplace, with Lucidworks ](https://www.meetup.com/Calgary-SharePoint-and-Office-365-User-Group-CalSPOUG/events/262064069/), Calgary, AB, CA
 * Thursday June 27 [Getting started with Elastic ](https://www.meetup.com/Oslo-Elastic-Fantastics/events/262280879/), Oslo, NO
+* Thursday June 27 [CNN (Convolutive Neural Nets) con TensorFlow, DeepLearning con Python](https://www.meetup.com/saxsaBigDataMexico/events/262451868/), No venue specified; group is based in México City, MX
 * Thursday June 27 [The SPOTLIGHT Mixer for JUNE  2019](https://www.meetup.com/SPOTLIGHTSeniorServicesLasVegas/events/262505678/), Las Vegas, NV, US
 * Thursday June 27 [Canvas Deep Dive [DTC]](https://www.meetup.com/Denver-Elastic-Fantastics/events/262044825/), Englewood, CO, US
 * Thursday June 27 [Big Data Helsinki v 3.0 ](https://www.meetup.com/Big-Data-Helsinki/events/261616499/), Helsinki, FI
@@ -127,6 +113,7 @@ N.B. Dates are in local-time
 * Thursday June 27 [ Embedded Development & AI (Doors open at 6pm - first talk starts 6.30pm)](https://www.meetup.com/LimerickAISD/events/261938036/), Limerick , IE
 * Thursday June 27 [GSBC#47 Jak zbudować rozwiązanie przetwarzające terabajty danych z liczników?](https://www.meetup.com/Gliwice-Software-BarCamp/events/262039344/), Gliwice, PL
 * Thursday June 27 [New York Python: Lightning Talks & Talk Practice Night!](https://www.meetup.com/Metis-New-York-Data-Science/events/262126381/), New York, NY, US
+* Thursday June 27 [AI Needs an Infrastructure Agenda](https://www.meetup.com/Open-Source-Analytics-Costa-Mesa-CA-Meetup/events/262261048/), Costa Mesa, CA, US
 * Thursday June 27 [Open Big Data Achitecture and Service Mesh with Kubernetes and Istio](https://www.meetup.com/stockholm-hug/events/262285559/), Stockholm, SE
 * Thursday June 27 [ Everything you Wanted to Know about Kafka and Streaming Platforms](https://www.meetup.com/San-Antonio-Data-Science/events/262286020/), San Antonio, TX, US
 * Thursday June 27 [AI in Production: Generative Models for Dialog](https://www.meetup.com/LearnDataScience/events/262304429/), Vancouver, BC, CA
@@ -134,7 +121,6 @@ N.B. Dates are in local-time
 * Thursday June 27 [Learn Data Science by Doing Kaggle Competitions: CANCELLED THIS WEEK](https://www.meetup.com/LearnDataScience/events/261514251/), Vancouver, BC, CA
 * Thursday June 27 [Snap ML - Machine learning - 46 times faster](https://www.meetup.com/Big-Data-AI/events/260699481/), Austin, TX, US
 * Thursday June 27 [Cloud Native & Kubernetes Warsaw Meetup #14](https://www.meetup.com/Cloud-Native-Kubernetes-Warsaw/events/260639500/), Warszawa, PL
-* Thursday June 27 [Cloud Native Storage Orchestrators for Kubernetes](https://www.meetup.com/Cologne-Cloud/events/259074024/), Köln, DE
 * Thursday June 27 [Streaming mit Apache Kafka](https://www.meetup.com/JUGStuttgart/events/260942906/), Stuttgart, DE
 * Thursday June 27 [Open Source Reliability for Data Lake with Apache Spark by Michael Armbrust](https://www.meetup.com/Los-Angeles-Apache-Spark-Users-Group/events/261741352/), Los Angeles, CA, US
 * Thursday June 27 [Scala Days – updates from the world of Scala](https://www.meetup.com/All-Things-Scala-Cluj/events/261995727/), Cluj-Napoca, RO
@@ -153,18 +139,24 @@ N.B. Dates are in local-time
 * Thursday June 27 [Magento Meetup Tokyo](https://www.meetup.com/Magento-Meetup-Tokyo/events/261312389/), Tokyo, JP
 * Friday June 28 [Elasticsearch and Journalism Content Recommendation](https://www.meetup.com/SEA-Search-Engines-Amsterdam/events/258350177/), Amsterdam, NL
 * Friday June 28 [Introduction to Data Science Job Market - Data Science Fundamentals Info Session](https://www.meetup.com/tordatascience/events/262184056/), Toronto, ON, CA
+* Friday June 28 [Rio Cloud Computing Meetup #30](https://www.meetup.com/rio-cloud-computing-meetup/events/262594348/), Rio de Janeiro, BR
 * Friday June 28 [[Uri Goren Day 1] Natural Language Processing on Legal Texts](https://www.meetup.com/Data-Science-Tbilisi/events/261222435/), T'bilisi, GE
+* Friday June 28 [Ofertas trabajo bien remunerado en: Ciencia de Datos e Inteligencia Artificial](https://www.meetup.com/saxsaBigDataMexico/events/262594228/), No venue specified; group is based in México City, MX
+* Saturday June 29 [Livestream: PRIDE! Pop Up: Talk Tech w/ Trans Tech Social and Metis](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/262516098/), San Francisco, CA, US
 * Saturday June 29 [Mumbai June Elastic Meetup ](https://www.meetup.com/Mumbai-Elastic-Fantastics/events/261667419/), Mumbai, IN
 * Saturday June 29 [AI Driven Entity Resolution Case Study](https://www.meetup.com/Pune-Big-Data-Conference-Group/events/262089183/), Pune, IN
 * Saturday June 29 [Data Science hackathon (register via EventBrite)](https://www.meetup.com/London-Data-Science-Workshop/events/262226549/), London, GB
 * Saturday June 29 [Pydata's Google Cloud Study Jam ](https://www.meetup.com/Aegis-IBM-BIG-DATA/events/262549245/), Mumbai, IN
 * Saturday June 29 [[Uri Goren Day 2] Workshop on Deep Learning for NLP](https://www.meetup.com/Data-Science-Tbilisi/events/261222600/), T'bilisi, GE
+* Saturday June 29 [Livestream: PRIDE! Pop Up: Talk Tech w/ TransTech Social and Metis](https://www.meetup.com/Metis-Chicago-Data-Science/events/262514975/), Chicago, IL, US
 * Saturday June 29 [Wet-n-Wild & BBQ Sat June 29](https://www.meetup.com/Night-Owls-Last-Minute-Plans/events/262308520/), Las Vegas, NV, US
 * Saturday June 29 [Time Series Anomaly Detection and Forecasting](https://www.meetup.com/Orlando-MLDS/events/262275113/), Orlando, FL, US
 * Saturday June 29 [Seminar on Big  Data, Data Science and Machine Learning](https://www.meetup.com/Innosoft-Gulf-Big-Data-and-Data-Science/events/262549331/), دبي, AE
+* Sunday June 30 [Getting Started with Data Science (SQL)](https://www.meetup.com/tordatascience/events/262593271/), Toronto, ON, CA
 * Sunday June 30 [Python Programming for Everyone](https://www.meetup.com/python4e/events/261856692/), Plano, TX, US
 * Monday July 01 [DSAV: Анализ данных и визуализация в R](https://www.meetup.com/BigDataSchool/events/259951873/), Almaty, KZ
 * Monday July 01 [Ask Me Anything About the Metis Intro to Data Science Course](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/259962715/), San Francisco, CA, US
+* Monday July 01 [¡Todo sobre Arquitecturas reactivas: from zero to (almost) hero!](https://www.meetup.com/Meetup-Big-Data-DataHack-Madrid/events/262578505/), Madrid, ES
 * Monday July 01 [Apache Beam meetup 1 at Criteo](https://www.meetup.com/Paris-Apache-Beam-Meetup/events/261775884/), Paris, FR
 * Monday July 01 [Services, Deployments and Fun with Kafka War Stories](https://www.meetup.com/Big-things-are-happening-here/events/262449737/), Ramat Gan, IL
 * Tuesday July 02 [ Automatización de procesos de Big Data con Spark Streaming](https://www.meetup.com/saxsaBigDataMexico/events/262012018/), No venue specified; group is based in México City, MX
@@ -173,9 +165,11 @@ N.B. Dates are in local-time
 * Tuesday July 02 [Kafka Meetup #2](https://www.meetup.com/Hannover-Apache-Kafka/events/261711851/), Hannover , DE
 * Tuesday July 02 [Tools with Apache Arrow and Dask: Uwe Korn and Florian Jetter](https://www.meetup.com/PyData-Frankfurt/events/262007954/), Frankfurt am Main, DE
 * Tuesday July 02 [Apache Kafka® & New Ways of Stream Processing with KSQL](https://www.meetup.com/Vienna-Kafka-meetup/events/262314643/), Wien, AT
+* Tuesday July 02 [Apache Kafka® & New Ways of Stream Processing](https://www.meetup.com/Softwarearchitektur-Wien/events/262604725/), Vienna, AT
 * Tuesday July 02 [OpsSchool 4: Ask Me Anything Closing Event ](https://www.meetup.com/AppsFlyer/events/262420424/), Herzliya, IL
 * Tuesday July 02 [Monitoring Django Applications with Logstash](https://www.meetup.com/PyGRAZ/events/262266795/), Graz, AT
 * Tuesday July 02 [#2 Cloud Native Talks BR com Rafael Benevides](https://www.meetup.com/Cloud-Native-Computing-Talks-Brazil/events/262453355/), No venue specified; group is based in São Paulo, BR
+* Wednesday July 03 [Вебинар: Выводим Apache Ignite в продакшен. Чеклист](https://www.meetup.com/Moscow-Apache-Ignite-Meetup/events/262604928/), No venue specified; group is based in Moscow, RU
 * Wednesday July 03 [DataCouncil.ai Utrecht edition](https://www.meetup.com/DataCouncil-Amsterdam/events/261293428/), Utrecht, NL
 * Wednesday July 03 [Nie samym daily człowiek żyje – czyli o Agile w praktyce słów kilka.](https://www.meetup.com/Enterprise-Tech-Solutions-Meetup/events/262314694/), Katowice, PL
 * Wednesday July 03 [From Zero to Hero with Kafka® Connect](https://www.meetup.com/Apache-Kafka-Germany-Munich/events/262385125/), München, DE
@@ -190,7 +184,7 @@ N.B. Dates are in local-time
 * Thursday July 04 [6th Apache Flink Munich Meetup at Amazon](https://www.meetup.com/Apache-Flink-Meetup-Munich/events/261282757/), Munich, DE
 * Thursday July 04 [Our first Apache Kafka® Meetup in Dortmund](https://www.meetup.com/Dortmund-Kafka/events/261837230/), Dortmund, DE
 * Thursday July 04 [Kafka Hack Night](https://www.meetup.com/Bern-Hack-Night/events/262197657/), Bern, CH
-* Thursday July 04 [July Meetup at Lexis House](https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/262028664/), London, GB
+* Thursday July 04 [July Meetup: Migration Stories from LexisNexis and Brandwatch](https://www.meetup.com/Apache-Lucene-Solr-London-User-Group/events/262028664/), London, GB
 * Thursday July 04 [Serverless Workshop](https://www.meetup.com/IBM-Code-Edinburgh/events/262285617/), Edinburgh, GB
 * Thursday July 04 [Nerdzão #117 - Don't fear the Java](https://www.meetup.com/Nerdzao/events/262234430/), São Paulo, BR
 * Thursday July 04 [Strimzi: Distributed Streaming with Apache Kafka in Kubernetes](https://www.meetup.com/Istanbul-Java-User-Group/events/262262908/), İstanbul, TR
@@ -199,3 +193,5 @@ N.B. Dates are in local-time
 * Saturday July 06 [Przetwarzanie danych z Apache Spark](https://www.meetup.com/Stacja-IT-Trojmiasto/events/262223809/), Gdańsk, PL
 * Saturday July 06 [Stream Processing with Apache NiFi - Big Data Hackathon](https://www.meetup.com/OC-Expert-Camp-Munchen/events/262125051/), München, DE
 * Sunday July 07 [Python Programming for Everyone](https://www.meetup.com/python4e/events/262068867/), Plano, TX, US
+* Monday July 08 [Easy Site Migrations and Domain Changes](https://www.meetup.com/dfw-wordpress-ninjas/events/261427880/), Plano, TX, US
+* Tuesday July 09 [July Meetup ](https://www.meetup.com/Central-Coast-Developer-Meetup/events/262250744/), Erina, AU
