@@ -24,10 +24,10 @@ Notice:    Licensed to the Apache Software Foundation (ASF) under one
 The following are Meetups that we're aware of in the coming two weeks.
 We also [list the major Apache-related conferences](http://community.apache.org/calendars/) coming up separately.
 
-Please feel free to notify us (dev@community.apache.org) if you're
-aware of events that are missing, Thanks. Also, the instructions for updating this page are in the [README](/events/README.txt) file in this directory.
+Please notify us (dev@community.apache.org) if you're
+aware of events that are missing, or can help maintain this page. Thanks! Instructions for updating this page are in [this README](/README.txt); this page can be manually or automatically updated.
 
-N.B. Dates are in local-time
+**Note:** Dates are in local-time
 
 * Thursday June 27 [DATAXDAY 2019 - The Data Centric Conférence in Paris](https://www.meetup.com/Paris-Data-Engineers/events/260694552/), Paris, FR
 * Thursday June 27 [FREE Apache Cassandra & Apache Kafka Workshop](https://www.meetup.com/Distributed-Data-Amsterdam/events/261731823/), Amsterdam, NL
