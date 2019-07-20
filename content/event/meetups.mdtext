@@ -29,16 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Friday July 19 [Construindo uma Arquitetura Centrada em Dados (Data-Centric)](https://www.meetup.com/semantix-Brasil-Meetup/events/262810039/), No venue specified; group is based in São Paulo, BR
-* Friday July 19 [Java @ Rio #26 - Quarkus: Fast, Small,Innovative & Native & jBPM + Quarkus...](https://www.meetup.com/Java-at-Rio/events/258309794/), Rio de Janeiro, BR
-* Friday July 19 [[External Event] Human-centric approach to personal data ](https://www.meetup.com/Data-Science-Tbilisi/events/263091714/), Tbilisi, GE
-* Friday July 19 [AWS vs Azure, Force is Strong With Which One (Online Webinar)](https://www.meetup.com/edureka/events/263253661/), No venue specified; group is based in Bangalore, IN
-* Saturday July 20 [K-Means Clustering Algorithm Explained in 90 Minutes (Online Webinar)](https://www.meetup.com/edureka/events/263253266/), No venue specified; group is based in Bangalore, IN
-* Saturday July 20 [Elastic Chennai July Meetup](https://www.meetup.com/Chennai-Elastic-Fantastics/events/262310199/), Chennai, IN
-* Saturday July 20 [Building Scalable Data Pipelines with Kafka and Apache Spark](https://www.meetup.com/nairobi-jvm/events/262476516/), Nairobi, KE
-* Saturday July 20 [Deliver the potential of Big Data by building Enterprise Data Lake & Delta Lake](https://www.meetup.com/bengaluru-databricks-meetup-group/events/262188768/), Bengaluru, IN
-* Saturday July 20 [Will the data lake + delta lake  bring more value and insight ?](https://www.meetup.com/Coursebook/events/262502978/), Bengaluru, IN
-* Saturday July 20 [Developing a Hyperledger Smart Contract (Online Webinar)](https://www.meetup.com/edureka/events/263253849/), No venue specified; group is based in Bangalore, IN
 * Saturday July 20 [Titanic Data Analysis using Python (Online Webinar)](https://www.meetup.com/edureka/events/263253890/), No venue specified; group is based in Bangalore, IN
 * Sunday July 21 [Demystifying Chef for Configuration Management (Online Webinar)](https://www.meetup.com/edureka/events/263250626/), No venue specified; group is based in Bangalore, IN
 * Sunday July 21 [Hadoop and Spark Tutorial (Online Webinar)](https://www.meetup.com/edureka/events/263252464/), No venue specified; group is based in Bangalore, IN
@@ -129,6 +119,7 @@ N.B. Dates are in local-time
 * Saturday July 27 [Recurrent Neural Network Tutorial (Online Webinar)](https://www.meetup.com/edureka/events/263187505/), No venue specified; group is based in Bangalore, IN
 * Saturday July 27 [Meetup: Open Data and AI in Video Games](https://www.meetup.com/galsenai/events/262967495/), DAKAR, SN
 * Saturday July 27 [Serverless computing - The What, Why and How?](https://www.meetup.com/IBMDevConnect-Bangalore/events/263263740/), Bengaluru, IN
+* Saturday July 27 [KopDar PythonID Edisi Juli 2019](https://www.meetup.com/Python-ID/events/263310970/), South Jakarta, ID
 * Saturday July 27 [Jenkins Explained in 90 Minutes (Online Webinar)](https://www.meetup.com/edureka/events/263187460/), No venue specified; group is based in Bangalore, IN
 * Saturday July 27 [Amazon Webservices Services (AWS) Crash Course (Online Webinar) ](https://www.meetup.com/edureka/events/263187401/), No venue specified; group is based in Bangalore, IN
 * Sunday July 28 [Chef vs Puppet vs Ansible vs SaltStack (Online Webinar)](https://www.meetup.com/edureka/events/263187363/), No venue specified; group is based in Bangalore, IN
@@ -163,13 +154,18 @@ N.B. Dates are in local-time
 * Wednesday July 31 [[Advanced] Data Science Reading Group](https://www.meetup.com/LearnDataScience/events/261469719/), Vancouver, BC, CA
 * Wednesday July 31 [Automated Machine Learning](https://www.meetup.com/Machine-Learning-Utah/events/261850464/), Lehi, UT, US
 * Wednesday July 31 [Observability with Elastic Cloud on Kubernetes](https://www.meetup.com/Silicon-Valley-Elastic-Fantastics/events/263186384/), Mountain View, CA, US
-* Wednesday July 31 [Elastic Stack Presentations](https://www.meetup.com/Elasticsearch-Los-Angeles/events/261650921/), No venue specified; group is based in Santa Monica, CA, US
+* Wednesday July 31 [Elastic Stack @Verizon Digital Media Services](https://www.meetup.com/Elasticsearch-Los-Angeles/events/261650921/), Los Angeles, CA, US
 * Wednesday July 31 [Apache Kafka® at Google: Nubank's Event-Driven Architecture and Bridging to GCP](https://www.meetup.com/Sao-Paulo-Apache-Kafka-Meetup-by-Confluent/events/262824538/), São Paulo, BR
 * Wednesday July 31 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/262576661/), Fishers, IN, US
 * Thursday August 01 [August 2019 - Next-generation scalable data lakes with Delta Lake](https://www.meetup.com/Data-Engineering-San-Diego/events/263115283/), San Diego, CA, US
 * Thursday August 01 [Evolution of Yelp’s Elasticsearch-based Ranking Platform](https://www.meetup.com/Elasticsearch-San-Francisco/events/263053170/), San Francisco, CA, US
 * Thursday August 01 [How to Get the Highest ROI from AI](https://www.meetup.com/DataBrigade/events/263101569/), Bellevue, WA, US
 * Thursday August 01 [How to Build a Multi-DC Cassandra Cluster in AWS w/ OpsCenter LCM](https://www.meetup.com/Cassandra-DataStax-DC/events/263169446/), Washington, DC, US
+* Thursday August 01 [Info Session: Introduction to Data Visualization and Tableau](https://www.meetup.com/tordatascience/events/263296417/), Toronto, ON, CA
 * Thursday August 01 [SFNode Meetup at GitHub](https://www.meetup.com/sfnode/events/259589463/), San Francisco, CA, US
 * Thursday August 01 [Elastic August Meetup with Jakarta Kubernetes Group](https://www.meetup.com/Indonesia-Elastic-Fantastics/events/262196122/), South Jakarta City, ID
 * Thursday August 01 [Scripting in Elasticsearch](https://www.meetup.com/Search-Meetup-Karlsruhe/events/259589336/), Karlsruhe, DE
+* Friday August 02 [ Hands-On Educational: Workshop: Low Code AppDev with Oracle Autonomous Database](https://www.meetup.com/RMOUG-Meetup/events/263006509/), Parker, CO, US
+* Friday August 02 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/262004289/), Ottawa, ON, CA
+* Saturday August 03 [Spark's Cluster Manager](https://www.meetup.com/Apache-Spark-Masterclass/events/263087447/), No venue specified; group is based in Bangalore, IN
+* Saturday August 03 [Angular UI Library Training](https://www.meetup.com/Amexio/events/254110649/), Pune, IN
