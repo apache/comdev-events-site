@@ -29,15 +29,9 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Monday July 29 [Airflow for ML; Building on Airflow for Machine Learning with Databand](https://www.meetup.com/NYC-Apache-Airflow-Meetup/events/262971111/), New York, NY, US
-* Monday July 29 [A Tour of the New Elastic Stack Features](https://www.meetup.com/Elasticsearch-South-Africa/events/263162201/), Sandton, ZA
-* Monday July 29 [Apache Kafka 101](https://www.meetup.com/Mexico-Kafka/events/263046587/), Ciudad de México, MX
-* Monday July 29 [JVM MX Julio 2019](https://www.meetup.com/jvm-mx/events/263068178/), Mexico D.F., MX
-* Monday July 29 [Six tactics for maintaining quality under pressure](https://www.meetup.com/Endava-Development-Sofia/events/263383642/), Sofia, BG
 * Tuesday July 30 [Demystifying Data Science Day 1 (Free!): For Aspiring Data Scientists](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/262490471/), San Francisco, CA, US
 * Tuesday July 30 [ATACE | July: Learn and Examine the Experience Manager's Core Components](https://www.meetup.com/AEM-Technologist-Group/events/262804728/), San Jose, CA, US
 * Tuesday July 30 [Demystifying Data Science Day 1 (Free!): For Aspiring Data Scientists ](https://www.meetup.com/Metis-New-York-Data-Science/events/262486832/), New York, NY, US
-* Tuesday July 30 [DSS-2019-07:  ANANTH CHAKRAVARTHY and JON PATRICK](https://www.meetup.com/Data-Science-Sydney/events/262773982/), Sydney, AU
 * Tuesday July 30 [Scala collections 101 and beyond-AND-Real-time machine learn' using Apache Flink](https://www.meetup.com/budapest-scala/events/263025323/), Budapest, HU
 * Tuesday July 30 [Microservices Made Easy with Open Source](https://www.meetup.com/TDX-Meetups/events/263003020/), Coimbra, PT
 * Tuesday July 30 [Java Talk by EPAM, Wroclaw](https://www.meetup.com/EPAM-Tech-Talks-Wroc%C5%82aw/events/263027190/), Wrocław, PL
@@ -46,12 +40,14 @@ N.B. Dates are in local-time
 * Tuesday July 30 [London Data Science Meetup Dojo](https://www.meetup.com/London-Data-Science-Workshop/events/263371364/), London, GB
 * Tuesday July 30 [Azure Databricks/Python/Apache Spark Part 4 of 5](https://www.meetup.com/San-Diego-Technology-Immersion-Group-SDTIG/events/262787791/), San Diego, CA, US
 * Tuesday July 30 [Applying Bayesian Methods to Clustering Models (feat. Memorial Sloan Kettering)](https://www.meetup.com/Analytics-Data-Science-by-Dataiku-NY/events/263234384/), New York, NY, US
+* Tuesday July 30 [Fuentes de datos y cómo acceder a ellas](https://www.meetup.com/BA-Machine-Learning-Prctico/events/263409625/), Ciudad Autónoma de Buenos Aires, AR
 * Tuesday July 30 [Redis Streams + Spark Structured Streaming: Scale-out Your Continuous Apps](https://www.meetup.com/London-NoSQL-and-Big-Data/events/260491097/), London, GB
 * Tuesday July 30 [A gentle introduction to Apache Spark](https://www.meetup.com/Chester-Data-Insights/events/262772755/), Chester, GB
 * Tuesday July 30 [Leverage WeChat Mini Program Template Services to Boost Your Business](https://www.meetup.com/Data-Science-Shanghai/events/263383249/), Shanghai, CN
 * Wednesday July 31 [Demystifying Data Science Day 2 (Free!): Business Leaders & Practitioners](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/262490561/), San Francisco, CA, US
 * Wednesday July 31 [Wrangling Multimodal Data for Data Science Scenarios with big data technologies ](https://www.meetup.com/Women-in-Big-Data-Meetup/events/262356824/), Palo Alto, CA, US
 * Wednesday July 31 [O impacto da Inteligência Artificial na Industria 4.0](https://www.meetup.com/semantix-Brasil-Meetup/events/263093908/), No venue specified; group is based in São Paulo, BR
+* Wednesday July 31 [Integración de Bases de Datos Relacionales y MongoDB con SparkSQL Python ](https://www.meetup.com/saxsaBigDataMexico/events/263530920/), No venue specified; group is based in México City, MX
 * Wednesday July 31 [Top 10 Trending Technologies (Online Webinar)](https://www.meetup.com/edureka/events/263186943/), No venue specified; group is based in Bangalore, IN
 * Wednesday July 31 [Ускоряем и масштабируем существующие приложения при помощи Apache Ignite](https://www.meetup.com/Moscow-In-Memory-Computing-Meetup/events/263222642/), No venue specified; group is based in Moscow, RU
 * Wednesday July 31 [Engineering Excellence Meetup at LinkedIn](https://www.meetup.com/LinkedIn-NYC-Tech-Talks/events/262226585/), New York, NY, US
@@ -69,6 +65,7 @@ N.B. Dates are in local-time
 * Wednesday July 31 [Big Data em Real-Time com Apache Kafka e Databricks no Microsoft Azure](https://www.meetup.com/BSB-AI-Big-Data-Analytics/events/263496949/), Brasília, BR
 * Wednesday July 31 [Indy Big Data Monthly Meetup](https://www.meetup.com/IndyBigData/events/262576661/), Fishers, IN, US
 * Wednesday July 31 [Open Source Julio  Mexico 2019](https://www.meetup.com/Open-SOurce-Mexico-OSOM/events/262457420/), Guadalajara, MX
+* Thursday August 01 [Special Event: Overview of Data Science and Cybersecurity Immersive Programs](https://www.meetup.com/Divergence-Academy-Meetup/events/263558878/), Addison, TX, US
 * Thursday August 01 [Bootstrapping Data Science & Simple pipelines in Airflow](https://www.meetup.com/Cape-Town-Data-Science-Meetup/events/263390000/), Cape Town, ZA
 * Thursday August 01 [Testing an embedded application](https://www.meetup.com/MeCoDe/events/263382199/), Čakovec, HR
 * Thursday August 01 [August 2019 - Next-generation scalable data lakes with Delta Lake](https://www.meetup.com/Data-Engineering-San-Diego/events/263115283/), San Diego, CA, US
@@ -83,6 +80,7 @@ N.B. Dates are in local-time
 * Thursday August 01 [Elastic August Meetup with Jakarta Kubernetes Group](https://www.meetup.com/Indonesia-Elastic-Fantastics/events/262196122/), South Jakarta City, ID
 * Thursday August 01 [Scripting in Elasticsearch](https://www.meetup.com/Search-Meetup-Karlsruhe/events/259589336/), Karlsruhe, DE
 * Friday August 02 [ Hands-On Educational: Workshop: Low Code AppDev with Oracle Autonomous Database](https://www.meetup.com/RMOUG-Meetup/events/263006509/), Parker, CO, US
+* Friday August 02 [Aprendizaje Automatizado,  Ciencia de Datos, Jupyter TensorFlow Python](https://www.meetup.com/saxsaBigDataMexico/events/263530011/), No venue specified; group is based in México City, MX
 * Friday August 02 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/262004289/), Ottawa, ON, CA
 * Saturday August 03 [NGINX OSS and MORE with Silvia Briscoe](https://www.meetup.com/sofreeus/events/262736782/), Denver, CO, US
 * Saturday August 03 [Machine Learning Model Interpretability](https://www.meetup.com/Orlando-MLDS/events/263376853/), Orlando, FL, US
@@ -114,6 +112,7 @@ N.B. Dates are in local-time
 * Wednesday August 07 [Smooth Operator + Building & Delivering Dynamic Workloads at the Edge](https://www.meetup.com/Kubernetes-Colorado/events/263455581/), Boulder, CO, US
 * Wednesday August 07 [Info Session: Introduction to Data Visualization and Tableau](https://www.meetup.com/toronto_data_analytics/events/263487345/), Toronto, ON, CA
 * Wednesday August 07 [Introducción práctica a Apache Spark](https://www.meetup.com/Spark-Barcelona/events/263333019/), Barcelona, ES
+* Wednesday August 07 [Workshop 👩🏼‍💻: Introducción práctica a Apache Spark ](https://www.meetup.com/ironhackbcn/events/263548888/), Barcelona, ES
 * Wednesday August 07 [PLUG Central: Apache Guacamole with Keith Perry](https://www.meetup.com/Philadelphia-Linux-User-Group-Meetup/events/262906562/), Philadelphia, PA, US
 * Thursday August 08 [Adobe Summer Experience meetup](https://www.meetup.com/DetroitAdobe/events/263187254/), Troy, MI, US
 * Thursday August 08 [Kubernetes in Production | Spotinst | Kong mTLS](https://www.meetup.com/DevOps-Exchange-SanFrancisco/events/262831842/), San Francisco, CA, US
@@ -131,7 +130,7 @@ N.B. Dates are in local-time
 * Saturday August 10 [Mastering Data Science Engineering](https://www.meetup.com/Data-Science-and-Engineering-Club/events/263460098/), Dublin, IE
 * Saturday August 10 [Aug Meetup 2019 - Play with Java Monitoring](https://www.meetup.com/BangaloreOpenJUG/events/263277299/), Bengaluru, IN
 * Saturday August 10 [Stepping out for Coffee with JUG Bangalore](https://www.meetup.com/Elasticsearch-Explorers/events/263388000/), Bengaluru, IN
-* Saturday August 10 [Java Application Monitoring & Topic to be Announced ](https://www.meetup.com/Core-Java-Meetup-Bangalore/events/263192703/), Bengaluru, IN
+* Saturday August 10 [Java Application Monitoring, Quarkus and Kubernetes, & topic to be announced ](https://www.meetup.com/Core-Java-Meetup-Bangalore/events/263192703/), Bengaluru, IN
 * Saturday August 10 [Let's discuss LOST CHILDREN ARCHIVE by Valerie Luiselli](https://www.meetup.com/flyleafbooklovers/events/261261963/), Chapel Hill, NC, US
 * Sunday August 11 [Info Session: Introduction to SQL for Data Science](https://www.meetup.com/tordatascience/events/263270352/), Toronto, ON, CA
 * Sunday August 11 [Python Programming for Everyone](https://www.meetup.com/python4e/events/262539725/), Plano, TX, US
