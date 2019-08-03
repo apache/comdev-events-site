@@ -29,10 +29,6 @@ aware of events that are missing, Thanks. Also, the instructions for updating th
 
 N.B. Dates are in local-time
 
-* Friday August 02 [ Hands-On Educational: Workshop: Low Code AppDev with Oracle Autonomous Database](https://www.meetup.com/RMOUG-Meetup/events/263006509/), Parker, CO, US
-* Friday August 02 [Aprendizaje Automatizado,  Ciencia de Datos, Jupyter TensorFlow Python](https://www.meetup.com/saxsaBigDataMexico/events/263530011/), No venue specified; group is based in México City, MX
-* Friday August 02 [Getting Familiar with Raspbian, the OS of Raspberry Pi Device - Livestream](https://www.meetup.com/javascriptla/events/263588272/), No venue specified; group is based in Los Angeles, CA, US
-* Friday August 02 [Open Source Nerds and Nachos](https://www.meetup.com/opensourcenerdsandnachos/events/262004289/), Ottawa, ON, CA
 * Saturday August 03 [NGINX OSS and MORE with Silvia Briscoe](https://www.meetup.com/sofreeus/events/262736782/), Denver, CO, US
 * Saturday August 03 [Machine Learning Model Interpretability](https://www.meetup.com/Orlando-MLDS/events/263376853/), Orlando, FL, US
 * Sunday August 04 [Introduction to SQL for Data Science](https://www.meetup.com/tordatascience/events/263270291/), Toronto, ON, CA
@@ -51,11 +47,13 @@ N.B. Dates are in local-time
 * Tuesday August 06 [AWS Dev Day w/Qubole](https://www.meetup.com/Austin-AWS-Users/events/263014030/), Austin, TX, US
 * Tuesday August 06 [Introduction to DevOps Tools (Online Webinar)](https://www.meetup.com/edureka/events/263641422/), No venue specified; group is based in Bangalore, IN
 * Tuesday August 06 [Why & How To Use Python For Data Science? (Online Webinar)](https://www.meetup.com/edureka/events/263641515/), No venue specified; group is based in Bangalore, IN
+* Tuesday August 06 [Machine Learning Happy Hour](https://www.meetup.com/Seattle-Solr-Lucene-Meetup/events/263631606/), Seattle, WA, US
 * Tuesday August 06 [Triangle Data-In-Motion: Leveraging Apache Pulsar for Streaming Solutions](https://www.meetup.com/NC-RIoT-Regional-Internet-of-Things/events/262672426/), Raleigh, NC, US
 * Tuesday August 06 [Using Apache Cassandra and Kafka to Scale Next Gen Apps](https://www.meetup.com/aittg-boston/events/263114181/), Boston, MA, US
 * Tuesday August 06 [Big Data Boston Meetup: Apache Cassandra and Kafka](https://www.meetup.com/BigDataBoston/events/263190201/), Boston, MA, US
 * Tuesday August 06 [Using Apache Cassandra and Apache Kafka to Scale Next Gen Applications](https://www.meetup.com/Boston-Open-Source-High-Scalability-Meetup/events/263205367/), Boston, MA, US
 * Tuesday August 06 [Our first meetup in Pune: An introduction to Kafka and a talk about KSQL!](https://www.meetup.com/Pune-Kafka/events/263620362/), Pune, IN
+* Tuesday August 06 [[Confluent-Knoldus Meet-Up] An introduction to Kafka and talk about KSQL!](https://www.meetup.com/ReactivePune/events/263671027/), Pune, IN
 * Tuesday August 06 [GraphQL - Should You Be Using It?](https://www.meetup.com/dc-jug/events/262849426/), Herndon, VA, US
 * Tuesday August 06 [Landing a Data Analyst Job](https://www.meetup.com/toronto_data_analytics/events/263092956/), Toronto, ON, CA
 * Tuesday August 06 [Ask Me Anything About the Metis Beginner Python and Math for Data Science Course](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/263170068/), San Francisco , CA, US
@@ -97,6 +95,7 @@ N.B. Dates are in local-time
 * Thursday August 08 [Customize the CMS using Open UI](https://www.meetup.com/Bloomreach-Experience-Manager-Meetup-Amsterdam/events/263449289/), Amsterdam, NL
 * Thursday August 08 [Learn Data Science by Doing Kaggle Competitions](https://www.meetup.com/LearnDataScience/events/262527926/), Vancouver, BC, CA
 * Thursday August 08 [Data Science on the JVM with Apache Zeppelin](https://www.meetup.com/PhillyJUG/events/261596691/), Plymouth Meeting, PA, US
+* Thursday August 08 [[Data Engineering] Use Cases and Career Path](https://www.meetup.com/Toronto-Data-Engineering-and-Cloud-Meetup/events/263684911/), Toronto, ON, CA
 * Thursday August 08 [DDOS!](https://www.meetup.com/linuxaustin/events/262003381/), Austin, TX, US
 * Thursday August 08 [Java Bs As - Edición Agosto](https://www.meetup.com/Java-Bs-As/events/263379810/), CABA, AR
 * Thursday August 08 [Ionic, Angular, React, and IoT](https://www.meetup.com/ionic-louisville/events/263081095/), Louisville , KY, US
@@ -104,7 +103,7 @@ N.B. Dates are in local-time
 * Friday August 09 [Big Data Explained In 90 Minutes (Online Webinar)](https://www.meetup.com/edureka/events/263643202/), No venue specified; group is based in Bangalore, IN
 * Friday August 09 [Apache Spark Tutorial for Beginners (Online Webinar)](https://www.meetup.com/edureka/events/263643335/), No venue specified; group is based in Bangalore, IN
 * Friday August 09 [Selenium Tutorial For Beginners (Online Webinar)](https://www.meetup.com/edureka/events/263643459/), No venue specified; group is based in Bangalore, IN
-* Friday August 09 [Career Counselling, learn to CODE..!](https://www.meetup.com/career-in-tech/events/263221914/), 東京都, JP
+* Friday August 09 [Career Counselling, learn to CODE..!](https://www.meetup.com/career-in-tech/events/263221914/), Tōkyō-to, JP
 * Friday August 09 [Introduction to AWS Lambda (Online Webinar)](https://www.meetup.com/edureka/events/263643552/), No venue specified; group is based in Bangalore, IN
 * Friday August 09 [Learn Basics of SCALA - FREE](https://www.meetup.com/SanKir-Big-Data-Group/events/263638643/), Bengaluru, IN
 * Saturday August 10 [HDFS Explained In 90 Minutes (Online Webinar)](https://www.meetup.com/edureka/events/263643677/), No venue specified; group is based in Bangalore, IN
@@ -131,10 +130,12 @@ N.B. Dates are in local-time
 * Monday August 12 [Step by Step Explanation of How RPA Works (Online Webinar)](https://www.meetup.com/edureka/events/263652873/), No venue specified; group is based in Bangalore, IN
 * Tuesday August 13 [Free Apache Cassandra and Kafka Workshop](https://www.meetup.com/Seattle-AWS-Architects-Engineers/events/263134260/), Seattle, WA, US
 * Tuesday August 13 [ An introduction to Apache POI (the Java API for Microsoft Office Documents)](https://www.meetup.com/okcjug/events/263606130/), Oklahoma City, OK, US
+* Tuesday August 13 [Livestream: Coding and Algorithm Interview Practice](https://www.meetup.com/Metis-San-Francisco-Data-Science/events/263680930/), San Francisco, CA, US
 * Tuesday August 13 [Open Source Reliability for Data Lake with Apache Spark](https://www.meetup.com/Spark-NYC/events/263655238/), NYC, NY, US
 * Tuesday August 13 [Open Source Performance Testing Pt 1 - Introduction to Apache JMeter](https://www.meetup.com/ministry-of-testing-kansas-city/events/259698112/), Kansas City, MO, US
 * Tuesday August 13 [When Watson meets Alexa...](https://www.meetup.com/IBM-Code-Belgium-Luxembourg/events/262065747/), Willebroek, BE
 * Tuesday August 13 [Machine Learning Happy Hour](https://www.meetup.com/Machine-Learning-Happy-Hour/events/263614974/), Houston, TX, US
+* Tuesday August 13 [Houston Machine Learning Happy Hour](https://www.meetup.com/Houston-Machine-Learning_Happy-Hour/events/263677788/), Houston, TX, US
 * Tuesday August 13 [ClickHouse Data Warehouse in the South Bay!](https://www.meetup.com/San-Francisco-Bay-Area-ClickHouse-Meetup/events/262127500/), Mountain View, CA, US
 * Tuesday August 13 [Two world-class speakers - Grant Ingersoll & Saba Shah](https://www.meetup.com/All-Things-Open-RTP-Meetup/events/263099911/), Durham, NC, US
 * Tuesday August 13 [ Data Virtualization with PolyBase by Kevin Feasel](https://www.meetup.com/tripass/events/263590646/), Morrisville, US
@@ -154,8 +155,9 @@ N.B. Dates are in local-time
 * Thursday August 15 [PyNight Hackathon (Downtown)](https://www.meetup.com/San-Diego-Data-Science-Meetup/events/263103641/), San Diego, CA, US
 * Thursday August 15 [Cleveland Big Data - Hilary Mason!](https://www.meetup.com/Cleveland-Hadoop/events/263549187/), Mayfield Village, OH, US
 * Thursday August 15 [Machine Learning Happy Hour](https://www.meetup.com/Machine-Learning-Happy-Hour/events/263599441/), Austin, TX, US
+* Thursday August 15 [ICS Cyber Lessons Learned from the Field, and Time Series and IoT databases](https://www.meetup.com/Washington-DC-Cyber-Security-for-Control-Systems/events/263621852/), Arlington, VA, US
 * Thursday August 15 [August Edition, Sydney Data Engineering meetup](https://www.meetup.com/Sydney-Data-Engineering-Meetup/events/262277288/), Ultimo, AU
-* Thursday August 15 [Open Source Reliability for Data Lakes w/ Apache Spark by Michael Armbrust](https://www.meetup.com/Washington-DC-Area-Spark-Interactive/events/262974027/), No venue specified; group is based in Washington, DC, US
+* Thursday August 15 [Open Source Reliability for Data Lakes w/ Apache Spark by Michael Armbrust](https://www.meetup.com/Washington-DC-Area-Spark-Interactive/events/262974027/), Reston, VA, US
 * Thursday August 15 [Main Talk : "Exposure to Machine Learning and Neural Networks" ](https://www.meetup.com/LimerickAISD/events/262977314/), Limerick , IE
 * Thursday August 15 [Efficient Data Engineering with Apache Spark, Hive, and Alluxio on S3](https://www.meetup.com/Cloud-Data-Orchestration-Austin/events/263376990/), Austin, TX, US
 * Thursday August 15 [Serverless NYC @ Red Hat](https://www.meetup.com/Serverless-NYC/events/263660177/), New York, NY, US
@@ -164,3 +166,5 @@ N.B. Dates are in local-time
 * Thursday August 15 [Creating pipelines and doing performance analysis for Kafka Streams](https://www.meetup.com/KafkaBayArea/events/263468339/), San Francisco, CA, US
 * Thursday August 15 [Sushi & Scala](https://www.meetup.com/Berlin-Scala-Meetup/events/263551247/), Berlin, DE
 * Thursday August 15 [Austin Cassandra Users Monthly Meetup](https://www.meetup.com/Austin-Cassandra-Meetup/events/263380784/), Austin, TX, US
+* Friday August 16 [Running Distributed Apps with Redis Enterprise Active-Active on OpenShift](https://www.meetup.com/Red-Hat-Orange-County-CA/events/263581165/), Costa Mesa, CA, US
+* Saturday August 17 [Uczenie maszyn i ludzi - Sierpień Open Source](https://www.meetup.com/hs3city/events/263538741/), Gdansk, PL
