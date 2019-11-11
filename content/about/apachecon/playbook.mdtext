@@ -221,8 +221,8 @@ Main ApacheCon website, including separate archive.apachecon directories:
   https://svn.apache.org/repos/infra/apachecon/www.apachecon.com
   Flat HTML, published instantly upon checkin
   
-General event info page (in site CMS, includes generated meetups page):
-  https://www.apache.org/events/
+General event info page:
+  https://events.apache.org/
   https://svn.apache.org/repos/asf/concom/site/trunk/content/
   Managed by the Apache CMS, publishing is a separate step
   

@@ -24,7 +24,7 @@ which is usually https://apachecon.com/
   https://apache.org/ads/adserver.txt
 
 
-# How ComDev/VP, Conferences Maintains current-event & Meetup Pages
+# How ComDev/VP, Conferences Maintains current-event Pages
 
 * Maintenance of current-event* files for PMC inclusion:
 - update text in content/current-event.mdtext
@@ -32,15 +32,3 @@ which is usually https://apachecon.com/
 
 See also the main website's content/ads/README.txt
 
-* Maintenance of event/meetups.html
-
-0a) Check out https://svn.apache.org/repos/asf/comdev/tools
-0b) Learn how to use the ASF CMS. Instructions are here: https://cms.apache.org/ (scroll to the bottom)
-
-1) Every Monday morning, or every Friday night, run ./get_meetups in that directory
-
-2) Edit meetups.mdtext and do a sanity check. 'Apache' matches a lot of things that are not the ASF, such as hiking groups in Apache Junction, Arizona, and several drawing and spiritual groups. Delete those lines.
-
-3) Visit the page at https://events.apache.org/event/meetups.html and click your Apache CMS bookmarklet from step 0b
-
-4) Copy/Paste the contents of meetups.mdtext into the body of that page, replacing all the events from the previous week. Publish that page.
