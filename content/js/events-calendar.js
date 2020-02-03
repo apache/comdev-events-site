@@ -21,6 +21,7 @@ var opts = "?key=" + API_KEY
          + "&timeMin=" + now
          + "&singleEvents=true"
          + "&orderBy=startTime"
+         + "&timezone=America/New_York"
          + "&maxResults=20";
 // Fetch
 $.ajax({
