@@ -39,11 +39,13 @@ $.ajax({
              if (!when) {
                 when = ev.start.date;
              }
+             when = when.replace("T.*$","");
              if (ev.end) {
                var end = ev.end.dateTime;
                if (!end) {
                   end = ev.end.date;
                }
+               end = end.replace("T.*$","");
                if (end != when) {
                   when = when + " to " + end;
                }
