@@ -32,6 +32,7 @@ $.ajax({
        events.empty();
 
        var el = response['items'];
+       let reg = /T.*$/;
        if (el.length > 0) { 
           for (i = 0; i < el.length; i++) {
              var ev = el[i];
@@ -39,13 +40,13 @@ $.ajax({
              if (!when) {
                 when = ev.start.date;
              }
-             when = when.replace(".","x");
+             when = when.replace(reg,"");
              if (ev.end) {
                var end = ev.end.dateTime;
                if (!end) {
                   end = ev.end.date;
                }
-               end = end.replace("T.*","");
+               end = end.replace(reg,"");
                if (end != when) {
                   when = when + " to " + end;
                }
