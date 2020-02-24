@@ -33,6 +33,7 @@ $.ajax({
 
        var el = response['items'];
        let reg = /T.*$/;
+       let official = /(ApacheCon|Roadshow)/i;
        if (el.length > 0) { 
           for (i = 0; i < el.length; i++) {
              var ev = el[i];
@@ -63,7 +64,11 @@ $.ajax({
 
              var html = "<li>";
              if (link) { html += "<a href='" + link + "'>"; }
-             html += "<b>" + ev.summary + "</b>";
+             if ev.summary.match(official) {
+                 html += "<b>" + ev.summary + "</b>";
+             } else {
+                 html += ev.summary;
+             }
              if (link) { html += "</a>"; }
              html += " - <i>" + when + "</i>";
              if (ev.location) {
