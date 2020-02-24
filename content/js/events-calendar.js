@@ -64,10 +64,11 @@ $.ajax({
 
              var html = "<li>";
              if (link) { html += "<a href='" + link + "'>"; }
-             if ev.summary.match(official) {
-                 html += "<b>" + ev.summary + "</b>";
+             var name = ev.summary;
+             if name.match(official) {
+                 html += "<b>" + name + "</b>";
              } else {
-                 html += ev.summary;
+                 html += name;
              }
              if (link) { html += "</a>"; }
              html += " - <i>" + when + "</i>";
