@@ -52,9 +52,11 @@ the next upcoming event).
 
 - Add a small image and link (where {size} = 125x125 or 234x60)
 
+```text
 <a  href="https://events.apache.org/x/current-event.html">
   <img src="https://www.apache.org/events/current-event-{size}.png"/>
 </a>
+```
 
 NOTE: this page, in turn, redirects to the current or upcoming event,
 which is usually https://apachecon.com/
