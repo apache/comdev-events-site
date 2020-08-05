@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one or more
+    contributor license agreements.  See the NOTICE file distributed with
+    this work for additional information regarding copyright ownership.
+    The ASF licenses this file to You under the Apache License, Version 2.0
+    (the "License"); you may not use this file except in compliance with
+    the License.  You may obtain a copy of the License at
+
+       https://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+
+<html>
+<head>
+  <meta name="description" content="Apache Events"/>
+  <meta name="keywords" content="apache, apache events, apache community, opensource"/>
+
+  <title>{{ .Title }}</title>
+  <link rel="shortcut icon" href="/images/concom-icon.ico">
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <div id="banner">
+    <img id="logo" alt="Apache" src="/images/asf_logo.png" width="164">
+    {{ partial "breadcrumbs.html" . }}
+  </div>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>Events to Attend</h1>
+    <ul>
+      <li><a href="/event/index.html">Upcoming Events</a></li>
+      <li><a href="/event/calendar.html">Calendar</a></li>
+      <li><a href="/event/past-events.html">Past Events</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="/about/apachecon/index.html">ApacheCon</a></li>
+      <li><a href="/about/roadshow.html">Roadshows</a></li>
+      <li><a href="/about/endorsed.html">Endorsed events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/organize/index.html">Organize an event</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">{{ .Title }}</h1>
+    {{ block "main" . }}{{ end }}
+  </div>
+
+  <div id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; {{ now.Year }} The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br />
+        Apache and the Apache feather logos are trademarks of The Apache Software Foundation.
+      </p>
+    </div>
+  </div>
+</body>
+</html>
