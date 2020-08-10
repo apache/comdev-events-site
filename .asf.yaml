@@ -1,0 +1,14 @@
+github:
+  description: "Website sources for the Apache Events website"
+  homepage: https://events.apache.org
+  labels:
+    - apache
+    - community
+    - comdev
+    - events
+    - hugo
+
+notifications:
+  commits:      commits@community.apache.org
+  issues:       dev@community.apache.org
+  pullrequests: dev@community.apache.org
