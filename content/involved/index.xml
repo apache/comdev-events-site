@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Involveds on Apache Software Foundation Events</title>
+    <link>https://events.apache.org/involved.html</link>
+    <description>Recent content in Involveds on Apache Software Foundation Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://events.apache.org/involved/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Conferences and Events Mailing Lists</title>
+      <link>https://events.apache.org/involved/mailing-lists.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/involved/mailing-lists.html</guid>
+      <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
+   ApacheCon Announce announce@apachecon.com     Subscription address: announce-subscribe@apachecon.com   Archives: Web archives   Use: Read-only: Announcements of, and details about, Apache events       ApacheCon Discuss apachecon-discuss@apache.org     Subscription address: apachecon-discuss-subscribe@apache.org   Archives: Web archives   Use: Public discussion of Apache events       Community Development dev@community.</description>
+    </item>
+    
+    <item>
+      <title>Getting Involved in Apache Events</title>
+      <link>https://events.apache.org/involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/involved/</guid>
+      <description>There are a number of different ways to get involved with Events at Apache. Many of these come under the umbrella of the Conferences Committee, but some fall under different groups, such as the Apache Community Development Project.
+If you are an Apache Committer, and you&amp;rsquo;re interested in putting on an Apache Event, please see the Organising Events section for more help. If you are interested in helping others out with putting on an Apache Event, you are advised to join the appropriate mailing list, and volunteer for events there.</description>
+    </item>
+    
+  </channel>
+</rss>

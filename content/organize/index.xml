@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Organizes on Apache Software Foundation Events</title>
+    <link>https://events.apache.org/organize.html</link>
+    <description>Recent content in Organizes on Apache Software Foundation Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://events.apache.org/organize/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apache Event Logos</title>
+      <link>https://events.apache.org/organize/logos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/logos/</guid>
+      <description>The use of Apache Logos and Marks is controlled. For information on using Apache Logos and Marks in general, please see the Apache Trademark Policy. For information on using Apache Logos and Marks for external events, please see the Third Party Event Branding Policy.
+For events that have been approved to use Apache Logos (typically events being organized by Apache committers and projects, which have been approved by ConCom), a number of Event Logos are available.</description>
+    </item>
+    
+    <item>
+      <title>Organize an Apache Event</title>
+      <link>https://events.apache.org/organize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/</guid>
+      <description>If you want to host your own Apache project event, or propose a roadshow about the ASF, get in touch with us on the community development mailing list.
+Important! While we appreciate other parties producing events to tell the world about our many great Apache projects and communities, Apache trademarks and brands are also important to us. To use any Apache trademarks in conjunctions with events, you must request permission by following the</description>
+    </item>
+    
+    <item>
+      <title>Roadshow Bid Process</title>
+      <link>https://events.apache.org/organize/roadshow.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/roadshow.html</guid>
+      <description>DRAFT This is intended to document the bid process for running/hosting a Roadshow. In particular, if you want ASF budget for it.
+You need, at a minimum
+ Event char  Must be an ASF member Must be resident in the city where the event is proposed   Volunteers to support (how many?) City/Venue selected  University cities are preferred Local tech firms that can sponsor?   Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget  Leads on sponsorship helpful   Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event  To run a roadshow or other small event without ASF budget, you only need to:</description>
+    </item>
+    
+  </channel>
+</rss>
