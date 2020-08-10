@@ -88,7 +88,7 @@ pipeline {
                     env.COMMIT_MESSAGE2 = "Built from ${BUILD_URL}"
                     sh """
                         git add -A
-                        git commit -m \"${env.COMMIT_MESSAGE1}\" -m \"${env.COMMIT_MESSAGE2}\" | true
+                        git commit -m "${env.COMMIT_MESSAGE1}" -m "${env.COMMIT_MESSAGE2}" | true
                     """
                     
                     // Push the generated content for deployment
