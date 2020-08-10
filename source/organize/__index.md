@@ -11,4 +11,4 @@ development mailing list](/involved/mailing-lists.html).
 our many great Apache projects and communities, [Apache trademarks and brands](https://whimsy.apache.org/brand/list)
 are also important to us.  To use any Apache trademarks in conjunctions with events,
 you **must** request permission by following the  
-[Third Party Event Branding Policy](http://www.apache.org/foundation/marks/events.html).
+[Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html).

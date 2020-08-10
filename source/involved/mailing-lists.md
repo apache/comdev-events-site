@@ -21,7 +21,7 @@ Software Foundation events occurs:
 |--------------------------|---------------------------------|
 | Subscription address:    | [dev-subscribe@community.apache.org](mailto:dev-subscribe@community.apache.org) |
 | Archives:       | [Web archives](https://lists.apache.org/list.html?dev@community.apache.org) |
-| Use: | Since events are produced and organized by the Apache [community development](http://community.apache.org) PMC, most event discussion starts on the ComDev mailing list |
+| Use: | Since events are produced and organized by the Apache [community development](https://community.apache.org) PMC, most event discussion starts on the ComDev mailing list |
 
 | Planners (Planning committee members only) | planners@apachecon.com |
 |--------------------------|---------------------------------|

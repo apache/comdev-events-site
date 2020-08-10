@@ -12,4 +12,4 @@ If you are producing an Apache-related event, and using our brands and
 marks, we ask that contact us for our official approval. Along with
 this, we will also help promote these events, where possible and
 appropriate. Whether or not you want to collaborate with us on your
-event, you MUST adhere to our [branding policy](http://www.apache.org/foundation/marks/events.html).
+event, you MUST adhere to our [branding policy](https://www.apache.org/foundation/marks/events.html).

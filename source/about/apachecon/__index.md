@@ -44,7 +44,7 @@ the planning process for one specific conference.
 You can find out more about what ApacheCon events are in the works on
 the [ApacheCon website](https://apachecon.com/), and see what ApacheCons
 we've done in the past on
-[archive.apachecon.com](http://archive.apachecon.com/).
+[archive.apachecon.com](https://archive.apachecon.com/).
 
 Other event types include:
 

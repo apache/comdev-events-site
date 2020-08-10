@@ -5,10 +5,10 @@ slug: index
 
 The use of Apache Logos and Marks is controlled. For information on
 using Apache Logos and Marks in general, please see the
-[Apache Trademark Policy](http://www.apache.org/foundation/marks/).
+[Apache Trademark Policy](https://www.apache.org/foundation/marks/).
 For information on using Apache Logos and Marks for external events,
 please see the
-[Third Party Event Branding Policy](http://www.apache.org/foundation/marks/events.html).
+[Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html).
 
 For events that have been approved to use Apache Logos (typically
 events being [organized](/organize/) by Apache committers and projects, 
@@ -19,17 +19,17 @@ for print.
 
 ## Apache Software Foundation Logo
 
-<img src="http://www.apache.org/images/asf-logo.gif" alt="Foundation Logo" />
+<img src="https://www.apache.org/images/asf-logo.gif" alt="Foundation Logo" />
 
 High resolution and Vector Graphics versions of the Foundation Logo
-are available from the [Foundation Press Kit Page](http://www.apache.org/foundation/press/kit/)
+are available from the [Foundation Press Kit Page](https://www.apache.org/foundation/press/kit/)
 
 ## Apache Feather 
 
-<img src="http://www.apache.org/images/feather-small.gif" alt="Apache Feather" />
+<img src="https://www.apache.org/images/feather-small.gif" alt="Apache Feather" />
 
 High resolution and Vector Graphics versions of the Apache Feather Logo
-are available from the [Foundation Press Kit Page](http://www.apache.org/foundation/press/kit/)
+are available from the [Foundation Press Kit Page](https://www.apache.org/foundation/press/kit/)
 
 ## BarCampApache
 

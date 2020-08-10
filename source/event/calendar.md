@@ -11,6 +11,6 @@ style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></ifra
 This Calendar is also available as an [iCal feed][3]
 
 
-  [1]: http://www.apache.org/foundation/conferences.html
-  [2]: http://www.apache.org/foundation/marks/events.html
+  [1]: https://www.apache.org/foundation/conferences.html
+  [2]: https://www.apache.org/foundation/marks/events.html
   [3]: https://www.google.com/calendar/ical/nerseigospses068jd57bk5ar8%40group.calendar.google.com/public/basic.icsx

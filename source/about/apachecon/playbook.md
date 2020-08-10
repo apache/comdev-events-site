@@ -195,7 +195,7 @@ policy to ensure you're presenting the best face for ASF brands.
 * Tweet thanks to the sponsors
 * Tweet any videos, recordings that we have
 * Archive event information from https://wiki.apache.org/apachecon/FrontPage to event-specific page eg https://wiki.apache.org/apachecon/ACNA2016
-* Update the http://apacheon.com and http://archive.apachecon.com pages when needed
+* Update the https://apachecon.com and https://archive.apachecon.com pages when needed
 
 ## Websites
 
@@ -203,7 +203,7 @@ There are several different pages/directories that store event-related
 information, both about ApacheCon and other ASF related events.
 
 Main ApacheCon website, including separate archive.apachecon directories:
-  http://apachecon.com/
+  https://apachecon.com/
   https://svn.apache.org/repos/infra/apachecon/www.apachecon.com
   Flat HTML, published instantly upon checkin
   

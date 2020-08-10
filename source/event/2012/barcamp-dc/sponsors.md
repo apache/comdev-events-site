@@ -14,12 +14,12 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
 
  <div class="row">
 	<div class="span3">
-	    <a href="http://bti360.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	    <a href="https://bti360.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
 	      <img src="bti360.jpg" title="bti360"/>
 	    </a>
 	  </div>
 	  <div class="span3">
-	    <a href="http://saic.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	    <a href="https://saic.com" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
 	      <img src="saic.jpg" title="Science Applications International Corporation"/>
 	    </a>
 	  </div>
@@ -27,7 +27,7 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
   <div class="row">&nbsp;</div>
   <div class="row">
 	  <div class="span4 offset1">
-	    <a href="http://www.boozallen.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	    <a href="https://www.boozallen.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
 	      <img src="bah.jpg" title="Booz Allen Hamilton"/>
 	    </a>
 	  </div>
@@ -40,7 +40,7 @@ touch with the organizers at ‘sponsor at apachebarcampdc.com’
 	    </a>
 	  </div>
 	  <div class="span2">
-	    <a href="http://www.alfresco.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
+	    <a href="https://www.alfresco.com/" style="border:none;" target="_blank" rel="nofollow" class="thumbnail">
 	      <img src="alfresco.png" title="Alfresco"/>
 	    </a>
 	  </div>

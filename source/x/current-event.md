@@ -19,4 +19,4 @@ title: ApacheCon Events
 
 # ApacheCon
 
-ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to [ApacheCon.com](http://apachecon.com/).
+ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to [ApacheCon.com](https://apachecon.com/).
