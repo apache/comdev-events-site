@@ -22,6 +22,8 @@ This is the source code for the website of the [Apache Events website](https://e
     
 To get in touch with the Community Development PMC (responsible for the website) please use the [dev@community.apache.org](https://lists.apache.org/list.html?dev@community.apache.org) mailing list.
 
+The repository for the main Community Development website is at https://github.com/apache/comdev-site
+
 ## How to publish the website
 
 Changes to the `master` branch of this repository trigger the [events-site Jenkins Job](https://ci-builds.apache.org/job/Community%20Development/job/events-site/job/master/), which generates the website content and commits it to the `asf-site` branch of this repository. There's currently (April 2020) a lag of about ten minutes for the Jenkins job to start, if you commit directly to the GitHub repository.
