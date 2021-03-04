@@ -23,4 +23,3 @@ events which feature Apache projects and technologies.
 <script src="https://apis.google.com/js/client.js"></script>
 
   [1]: https://www.apache.org/foundation/marks/events.html
-  [2]: http://lanyrd.com/guides/apache-software-and-technologies/
