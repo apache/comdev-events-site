@@ -24,6 +24,25 @@ body {
 
 #banner {
   padding: 0 0 10px 10px;
+  color:black;
+  border-bottom: solid #EEE 1px;
+  background-color: #f5f8fa;
+}
+
+#banner .sitename {
+  text-transform: none;
+  font-weight: normal;
+  font-size:200%;
+  display:inline;
+}
+
+#banner .logo {
+  float:right;
+}
+
+.breadcrumbs {
+  display:block;
+  padding: 0.2em;
 }
 
 a {
@@ -43,7 +62,8 @@ a img { border: none; }
 
 h1,h2,h3,h4,h5,h6 {
   color: #193240;
-  text-transform:uppercase;
+  text-transform:capitalize;
+  border-left: solid #EEE 1px;
 }
 
 #content {
