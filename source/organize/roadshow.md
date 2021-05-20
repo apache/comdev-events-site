@@ -9,7 +9,7 @@ Roadshow. In particular, if you want ASF budget for it.
 
 You need, at a minimum
 
-* Event char
+* Event chair
     * Must be an ASF member
     * Must be resident in the city where the event is proposed
 * Volunteers to support (how many?)
