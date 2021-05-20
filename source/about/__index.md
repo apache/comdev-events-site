@@ -20,7 +20,6 @@ If you want to organize your own event that uses Apache brands or trademarks in 
 
 ## About This Website
 
- - This website is maintained by volunteers, various conference Planners, and the [VP, Conferences for the ASF](//whimsy.apache.org/foundation/orgchart/vp-conference). 
- - See the [source code for this website](https://svn.apache.org/repos/asf/concom/site/trunk/content/), which uses the [Apache CMS system](//www.apache.org/dev/cmsref.html) to build and publish content.
+ - This website is maintained by volunteers, various conference Planners, and the [VP, Conferences for the ASF](//whimsy.apache.org/foundation/orgchart/vp-conference).
  - Got questions or ideas? Come discuss events on our [mailing
    lists](https://events.apache.org/involved/mailing-lists.html)!
