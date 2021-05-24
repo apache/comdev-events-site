@@ -34,4 +34,4 @@ date = ["date", ":filename", "publishDate", "lastmod"]
 
 [params]
 repositoryUrl = "https://github.com/apache/comdev-events-site"
-repositorySourceBranch = "master"
+repositorySourceBranch = "main"
