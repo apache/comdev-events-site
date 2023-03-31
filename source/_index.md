@@ -2,6 +2,15 @@
 title: Apache Software Foundation Events
 ---
 
+<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
+<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+<div id="search"></div>
+<script>
+    window.addEventListener('DOMContentLoaded', (event) => {
+        new PagefindUI({ element: "#search" });
+    });
+</script>
+
 Welcome to the Apache Software Foundation (ASF) events homepage!
 
 The ASF runs and participates in a number
