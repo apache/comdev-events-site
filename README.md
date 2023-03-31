@@ -39,7 +39,7 @@ Other Apache websites that are built with Hugo should be listed by [this GitHub 
 
 ## How to test the website and changes on your own computer
 
-To generate the static website, execute `hugo` to generate and serve the website on `localhost:1313`.
+To generate the static website, execute `hugo` to generate the website under target/content.
 
 During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to 
 continuously (re)generate and serve the website on `localhost:1313`.
