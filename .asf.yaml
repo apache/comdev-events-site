@@ -1,3 +1,5 @@
+# See: https://cwiki.apache.org/confluence/display/INFRA/git+-+.asf.yaml+features
+
 github:
   description: "Website sources for the Apache Events website"
   homepage: https://events.apache.org
@@ -12,3 +14,15 @@ notifications:
   commits:      commits@community.apache.org
   issues:       dev@community.apache.org
   pullrequests: dev@community.apache.org
+
+# Looks like this may be needed to override the default host name
+publish:
+  whoami: asf-site
+  hostname: events.apache.org
+
+# Test site in preview/test; output to preview/test-staging
+# autostage will publish the site at comdev-events-test.staged.apache.org
+staging:
+  profile: ~
+  whoami:  asf-staging
+  autostage: preview/*
