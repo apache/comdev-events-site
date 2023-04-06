@@ -14,6 +14,5 @@ you **must** request permission by following the
 [Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html).
 
  * [Organizing a Roadshow event](roadshow)
- * [Running an event on Apache's online events platform](online)
 
 
