@@ -23,21 +23,6 @@
   </url>
   
   <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-lk/</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://events.apache.org/involved/mailing-lists.html</loc>
     <lastmod>2020-08-10T18:39:51+02:00</lastmod>
   </url>
@@ -69,7 +54,7 @@
   
   <url>
     <loc>https://events.apache.org/</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
+    <lastmod>2023-03-31T11:07:38+01:00</lastmod>
   </url>
   
   <url>
@@ -98,16 +83,6 @@
   </url>
   
   <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/news.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/news.html</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://events.apache.org/organize/</loc>
     <lastmod>2023-04-06T10:23:20-04:00</lastmod>
   </url>
@@ -118,53 +93,13 @@
   </url>
   
   <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/privacy.html</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/privacy.html</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/registration.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/registration.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://events.apache.org/organize/roadshow.html</loc>
     <lastmod>2021-05-20T15:32:16-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/sponsors.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/sponsors.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://events.apache.org/about/apachecon/volunteer.html</loc>
     <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2013/barcamp-bos/venue.html</loc>
-    <lastmod>2020-08-05T20:59:03+02:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://events.apache.org/event/2012/barcamp-dc/venue.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
   </url>
   
   <url>
