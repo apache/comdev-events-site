@@ -25,6 +25,8 @@ pipeline {
     environment {
         HUGO_VERSION = '0.63.2'
         DEPLOY_BRANCH = 'asf-site'
+        PAGEFIND_VERSION = '0.12.0'
+        PAGEFIND_HASH = '3e450176562b65359f855c04894ec2c07ffd30a8d08ef4d5812f8d3469d7a58f'
     }
 
     stages {
@@ -44,6 +46,16 @@ pipeline {
                         mv hugo ${env.HUGO_DIR}/bin/
                     """
 
+                    // Download Pagefind
+                    env.PAGEFIND_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
+                    sh "mkdir -p ${env.PAGEFIND_DIR}/bin"
+                    sh "wget --no-verbose -O ${env.PAGEFIND_DIR}/pagefind.tar.gz https://github.com/CloudCannon/pagefind/releases/download/v${PAGEFIND_VERSION}/pagefind-v${PAGEFIND_VERSION}-x86_64-unknown-linux-musl.tar.gz"
+                    // Verify the checksum
+                    def pagefind_hash = sha256 file: "${env.PAGEFIND_DIR}/pagefind.tar.gz"
+                    assert pagefind_hash == "${PAGEFIND_HASH}"
+                    // Unpack Pagefind
+                    sh "tar -C ${env.PAGEFIND_DIR}/bin -xkf ${env.PAGEFIND_DIR}/pagefind.tar.gz"
+
                     // Setup directory structure for generated content
                     env.TMP_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                     env.OUT_DIR = "${env.TMP_DIR}/content"
@@ -58,6 +70,7 @@ pipeline {
                     withEnv(["PATH+HUGO=${env.HUGO_DIR}/bin"]) {
                         sh "hugo --destination ${env.OUT_DIR}"
                     }
+                    sh "${env.PAGEFIND_DIR}/bin/pagefind --source ${env.OUT_DIR}"
                 }
             }
         }
