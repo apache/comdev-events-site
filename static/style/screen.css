@@ -99,7 +99,7 @@ h1,h2,h3,h4,h5,h6 {
   background-color: #F00;
   padding: 0.01em 1em;
   border-radius: 10px;
-  background: url(../images/rave_codehilite_bg.gif);
+  background-image: url(../images/rave_codehilite_bg.gif);
 }
 
 #navigation {
