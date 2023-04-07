@@ -44,8 +44,6 @@ our community, but are not official Foundation events.</em>
 ApacheCon and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
 
 
-<script src="/js/jquery.js"></script>
+<script src="/js/jquery.min.js"></script>
 <script src="/js/events-calendar.js"></script>
-<script src="https://apis.google.com/js/client.js"></script>
-
 

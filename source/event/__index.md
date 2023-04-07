@@ -18,8 +18,7 @@ For a complete list of events see our [calendar](calendar.html).
 In addition to Official Apache Events, there are a wide range of other
 events which feature Apache projects and technologies.
 
-<script src="/js/jquery.js"></script>
+<script src="/js/jquery.min.js"></script>
 <script src="/js/events-calendar.js"></script>
-<script src="https://apis.google.com/js/client.js"></script>
 
   [1]: https://www.apache.org/foundation/marks/events.html
