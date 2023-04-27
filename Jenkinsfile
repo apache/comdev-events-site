@@ -36,13 +36,15 @@ pipeline {
                 script {
                     // Capture last commit hash for final commit message
                     env.LAST_SHA = sh(script:'git log -n 1 --pretty=format:\'%H\'', returnStdout: true).trim()
-                    env.HUGO_DIR = sh(script:'dirname `which hugo`', returnStdout: true).trim()
-                    sh "echo Hugo path: '${env.HUGO_DIR}'"
+                    env.HUGO_PATH = sh(script:'which hugo', returnStdout: true).trim()
+                    sh "echo Hugo path: '${env.HUGO_PATH}'"
                     // Get current Hugo version (looks like hugo v0.111.3-5d4eb5154e1fed125ca8e9b5a0315c4180dab192+extended linux/amd64 ...)
                     // Use the location found above to ensure same hugo can be used later
-                    env.HUGO_VERSION_CURRENT = sh(script:'${HUGO_DIR}/hugo version | cut -f 2 -d" "|cut -d- -f 1|sed -e "s!^v!!"', returnStdout: true).trim()
+                    env.HUGO_VERSION_CURRENT = sh(script:'${HUGO_PATH} version | cut -f 2 -d" "|cut -d- -f 1|sed -e "s!^v!!"', returnStdout: true).trim()
                     sh "echo Hugo current: '${env.HUGO_VERSION_CURRENT}'"
                     sh "echo Hugo  target: '${HUGO_VERSION}'"
+                    // create the dir in case it is needed (simplifies tidyup)
+                    env.HUGO_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                 }
             }
         }
@@ -53,7 +55,6 @@ pipeline {
             steps {
                 script {
                     // Download Hugo
-                    env.HUGO_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                     sh "mkdir -p ${env.HUGO_DIR}/bin"
                     sh "wget --no-verbose -O ${env.HUGO_DIR}/hugo.tar.gz https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_Linux-64bit.tar.gz"
                     // Verify the checksum
@@ -61,7 +62,7 @@ pipeline {
                     assert hugo_hash == "${HUGO_HASH}"
                     // Unpack Hugo
                     sh "tar -C ${env.HUGO_DIR}/bin -xkf ${env.HUGO_DIR}/hugo.tar.gz"
-
+                    env.HUGO_PATH = "${env.HUGO_DIR}/bin/hugo"
                 }
             }
         }
@@ -95,7 +96,7 @@ pipeline {
         stage('Build') {
             steps {
                 script {
-                    sh "${HUGO_DIR}/bin/hugo --destination ${env.OUT_DIR}"
+                    sh "${HUGO_PATH} --destination ${env.OUT_DIR}"
                     sh "${PAGEFIND_DIR}/bin/pagefind --source ${env.OUT_DIR}"
                     sh "rm -f .hugo_build.lock"
                 }
