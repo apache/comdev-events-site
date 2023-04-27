@@ -43,7 +43,7 @@ pipeline {
         }
         stage("Install Hugo") {
             when {
-              expression { env.HUGO_VERSION_CURRENT != ${HUGO_VERSION} }
+              expression { env.HUGO_VERSION_CURRENT != HUGO_VERSION }
             }
             steps {
                 script {
