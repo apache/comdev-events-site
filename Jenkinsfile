@@ -36,7 +36,7 @@ pipeline {
                 script {
                     // Capture last commit hash for final commit message
                     env.LAST_SHA = sh(script:'git log -n 1 --pretty=format:\'%H\'', returnStdout: true).trim()
-                    env.HUGO_DIR = sh(script:'which hugo', returnStdout: true).trim()
+                    env.HUGO_DIR = sh(script:'dirname `which hugo`', returnStdout: true).trim()
                     sh "echo Hugo path: '${env.HUGO_DIR}'"
                     // Get current Hugo version (looks like hugo v0.111.3-5d4eb5154e1fed125ca8e9b5a0315c4180dab192+extended linux/amd64 ...)
                     // Use the location found above to ensure same hugo can be used later
