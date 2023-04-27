@@ -36,7 +36,17 @@ pipeline {
                 script {
                     // Capture last commit hash for final commit message
                     env.LAST_SHA = sh(script:'git log -n 1 --pretty=format:\'%H\'', returnStdout: true).trim()
-
+                    // Get current Hugo version
+                    env.HUGO_VERSION_CURRENT = sh(script:'hugo version | cut -f 2 -d" "|cut -d- -f 1', returnStdout: true).trim()
+                }
+            }
+        }
+        stage("Install Hugo") {
+            when {
+              expression { env.HUGO_VERSION_CURRENT != ${HUGO_VERSION} }
+            }
+            steps {
+                script {
                     // Download Hugo
                     env.HUGO_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                     sh "mkdir -p ${env.HUGO_DIR}/bin"
@@ -47,6 +57,12 @@ pipeline {
                     // Unpack Hugo
                     sh "tar -C ${env.HUGO_DIR}/bin -xkf ${env.HUGO_DIR}/hugo.tar.gz"
 
+                }
+            }
+        }
+        stage("Install Pagefind") {
+            steps {
+                script {
                     // Download Pagefind
                     env.PAGEFIND_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                     sh "mkdir -p ${env.PAGEFIND_DIR}/bin"
@@ -57,6 +73,12 @@ pipeline {
                     // Unpack Pagefind
                     sh "tar -C ${env.PAGEFIND_DIR}/bin -xkf ${env.PAGEFIND_DIR}/pagefind.tar.gz"
 
+                }
+            }
+        }
+        stage("Setup directory") {
+            steps {
+                script {
                     // Setup directory structure for generated content
                     env.TMP_DIR = sh(script:'mktemp -d', returnStdout: true).trim()
                     env.OUT_DIR = "${env.TMP_DIR}/content"
