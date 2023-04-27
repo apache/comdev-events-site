@@ -38,6 +38,8 @@ pipeline {
                     env.LAST_SHA = sh(script:'git log -n 1 --pretty=format:\'%H\'', returnStdout: true).trim()
                     // Get current Hugo version
                     env.HUGO_VERSION_CURRENT = sh(script:'hugo version | cut -f 2 -d" "|cut -d- -f 1', returnStdout: true).trim()
+                    sh "echo Hugo current: '${env.HUGO_VERSION_CURRENT}'"
+                    sh "echo Hugo  target: '${HUGO_VERSION}'"
                 }
             }
         }
