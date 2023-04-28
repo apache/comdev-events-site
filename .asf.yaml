@@ -20,8 +20,8 @@ publish:
   whoami: asf-site
   hostname: events.apache.org
 
-# Test site in preview/test; output to preview/test-staging
-# autostage will publish the site at comdev-events-test.staged.apache.org
+# Test site in preview/sample; output to preview/sample-staging
+# autostage will publish the site at community-sample.staged.apache.org
 staging:
   profile: ~
   whoami:  asf-staging
