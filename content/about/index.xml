@@ -5,11 +5,7 @@
     <link>https://events.apache.org/about.html</link>
     <description>Recent content in Abouts on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://events.apache.org/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://events.apache.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Apache Events</title>
       <link>https://events.apache.org/about/</link>
@@ -18,7 +14,7 @@
       <guid>https://events.apache.org/about/</guid>
       <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
 The main types of event we work with around Apache projects are:
- ApacheCon - the ASF&amp;rsquo;s official conference Roadshows - bringing Apache content around the world Endorsed events - run by third parties using Apache brands  If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
+ApacheCon - the ASF&amp;rsquo;s official conference Roadshows - bringing Apache content around the world Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
     </item>
     
     <item>
@@ -69,7 +65,8 @@ Many of the recommendations in here can, of course, be applied to any Apache eve
       
       <guid>https://events.apache.org/about/apachecon/volunteer.html</guid>
       <description>Volunteer to help at ApacheCon Coordination of ApacheCon happens on two lists:
- The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on.  At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.</description>
+The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on. At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.
+Calls For Papers The CFP for each ApacheCon draws hundreds of submissions about projects all around the ASF.</description>
     </item>
     
   </channel>

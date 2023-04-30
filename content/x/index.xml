@@ -1,22 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Xs on Apache Software Foundation Events</title>
+    <title>xes on Apache Software Foundation Events</title>
     <link>https://events.apache.org/x.html</link>
-    <description>Recent content in Xs on Apache Software Foundation Events</description>
+    <description>Recent content in xes on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://events.apache.org/x/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://events.apache.org/x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ApacheCon Events</title>
       <link>https://events.apache.org/x/current-event.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://events.apache.org/x/current-event.html</guid>
-      <description>var ref = document.referrer || &#34;https://www.apache.org/&#34;; var m = ref.match(/https?:\/\/([-_a-zA-Z0-9.]+)\/?/); if (m) { ref = m[1]; } else { ref = &#39;unknown&#39;; } location.href = &#34;https://apachecon.com/?ref=&#34; + ref;  ApacheCon ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to ApacheCon.</description>
+      <description>ApacheCon ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to ApacheCon.com.</description>
     </item>
     
   </channel>

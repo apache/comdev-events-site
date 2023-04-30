@@ -5,11 +5,7 @@
     <link>https://events.apache.org/</link>
     <description>Recent content on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    
-	<atom:link href="https://events.apache.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en</language><atom:link href="https://events.apache.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Apache Events</title>
       <link>https://events.apache.org/about/</link>
@@ -18,7 +14,7 @@
       <guid>https://events.apache.org/about/</guid>
       <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
 The main types of event we work with around Apache projects are:
- ApacheCon - the ASF&amp;rsquo;s official conference Roadshows - bringing Apache content around the world Endorsed events - run by third parties using Apache brands  If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
+ApacheCon - the ASF&amp;rsquo;s official conference Roadshows - bringing Apache content around the world Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
     </item>
     
     <item>
@@ -48,7 +44,7 @@ If you want to volunteer to help with ApacheCon, please join our mailing lists, 
       
       <guid>https://events.apache.org/involved/mailing-lists.html</guid>
       <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
-   ApacheCon Announce announce@apachecon.com     Subscription address: announce-subscribe@apachecon.com   Archives: Web archives   Use: Read-only: Announcements of, and details about, Apache events       ApacheCon Discuss apachecon-discuss@apache.org     Subscription address: apachecon-discuss-subscribe@apache.org   Archives: Web archives   Use: Public discussion of Apache events       Community Development dev@community.</description>
+ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events ApacheCon Discuss apachecon-discuss@apache.org Subscription address: apachecon-discuss-subscribe@apache.org Archives: Web archives Use: Public discussion of Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Since events are produced and organized by the Apache community development PMC, most event discussion starts on the ComDev mailing list Planners (Planning committee members only) planners@apachecon.</description>
     </item>
     
     <item>
@@ -58,9 +54,8 @@ If you want to volunteer to help with ApacheCon, please join our mailing lists, 
       
       <guid>https://events.apache.org/event/</guid>
       <description>Upcoming Apache events This is the list of upcoming official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
-List loading  For a complete list of events see our calendar.
-In addition to Official Apache Events, there are a wide range of other events which feature Apache projects and technologies.
-  </description>
+List loading For a complete list of events see our calendar.
+In addition to Official Apache Events, there are a wide range of other events which feature Apache projects and technologies.</description>
     </item>
     
     <item>
@@ -70,7 +65,7 @@ In addition to Official Apache Events, there are a wide range of other events wh
       
       <guid>https://events.apache.org/event/calendar.html</guid>
       <description>This Calendar is maintained by the Apache Conferences Committee (ConCom). It&amp;rsquo;s used to list official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
- This Calendar is also available as an iCal feed</description>
+This Calendar is also available as an iCal feed</description>
     </item>
     
     <item>
@@ -109,7 +104,7 @@ Information on past ApacheCons is also available on the ApacheCon Wiki</descript
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://events.apache.org/x/current-event.html</guid>
-      <description>var ref = document.referrer || &#34;https://www.apache.org/&#34;; var m = ref.match(/https?:\/\/([-_a-zA-Z0-9.]+)\/?/); if (m) { ref = m[1]; } else { ref = &#39;unknown&#39;; } location.href = &#34;https://apachecon.com/?ref=&#34; + ref;  ApacheCon ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to ApacheCon.</description>
+      <description>ApacheCon ApacheCon is the place to come to learn what Apache projects are doing, as well as a place for projects to come to build stronger project communities, as well as forge the bonds between projects. For more information about ApacheCon, please go to ApacheCon.com.</description>
     </item>
     
     <item>
@@ -151,7 +146,7 @@ Important! While we appreciate other parties producing events to tell the world 
       <guid>https://events.apache.org/organize/roadshow.html</guid>
       <description>DRAFT This is intended to document the bid process for running/hosting a Roadshow. In particular, if you want ASF budget for it.
 You need, at a minimum
- Event chair  Must be an ASF member Must be resident in the city where the event is proposed   Volunteers to support (how many?) City/Venue selected  University cities are preferred Local tech firms that can sponsor?   Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget  Leads on sponsorship helpful   Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event  To run a roadshow or other small event without ASF budget, you only need to:</description>
+Event chair Must be an ASF member Must be resident in the city where the event is proposed Volunteers to support (how many?) City/Venue selected University cities are preferred Local tech firms that can sponsor? Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget Leads on sponsorship helpful Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event To run a roadshow or other small event without ASF budget, you only need to:</description>
     </item>
     
     <item>
@@ -161,7 +156,8 @@ You need, at a minimum
       
       <guid>https://events.apache.org/about/apachecon/volunteer.html</guid>
       <description>Volunteer to help at ApacheCon Coordination of ApacheCon happens on two lists:
- The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on.  At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.</description>
+The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on. At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.
+Calls For Papers The CFP for each ApacheCon draws hundreds of submissions about projects all around the ASF.</description>
     </item>
     
   </channel>
