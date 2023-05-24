@@ -139,7 +139,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 #navigation li {
-  border-bottom: 1px solid #e6ebed; 
+  border-bottom: 1px solid #e6ebed;
   margin: 0.2em 0;
   padding: 0;
 }
@@ -181,7 +181,7 @@ dt {
 }
 
 /* tables */
-thead tr, thead th, 
+thead tr, thead th,
 tbody tr, tbody td {
     margin: 0;
     outline: 0 none;
