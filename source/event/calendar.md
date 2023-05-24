@@ -2,7 +2,7 @@
 title: Apache Conferences Calendar
 ---
 
-This Calendar is maintained by the [Apache Conferences Committee][1] (ConCom). It's used to list official Apache events, and 
+This Calendar is maintained by the [Apache Conferences Committee][1] (ConCom). It's used to list official Apache events, and
 those events which have been approved to use Apache Marks under the [Third Party Event Branding Policy][2].
 
 <iframe src="https://www.google.com/calendar/embed?src=nerseigospses068jd57bk5ar8%40group.calendar.google.com&ctz=America/New_York"

@@ -2,8 +2,8 @@
 title: ApacheCon playbook
 ---
 
-This playbook is focused at ApacheCon or Roadshow volunteers who are 
-actively involved in planning and running Apache events.  Please be sure 
+This playbook is focused at ApacheCon or Roadshow volunteers who are
+actively involved in planning and running Apache events.  Please be sure
 to bring your questions to the planners@ mailing list!
 
 # What to do before, during, and after an Apache event
@@ -23,9 +23,9 @@ This is a work in progress - please feel free to make suggestions!
 
 ## Before You Start
 
-Review the Event Branding Policy and secure permission for any 
+Review the Event Branding Policy and secure permission for any
 events not produced directly by the ASF or its contracted producer(s).
-If you are an Apache PMC running your own event, please review the 
+If you are an Apache PMC running your own event, please review the
 policy to ensure you're presenting the best face for ASF brands.
 
   https://www.apache.org/foundation/marks/events
@@ -43,7 +43,7 @@ policy to ensure you're presenting the best face for ASF brands.
       network drop for reg desk.
     * Room for media training - consult with [ASF Marketing & Publicity](//www.apache.org/press/#contact)
     * Board room for monthly board meeting (if the conference falls [during board meeting](//www.apache.org/foundation/board/calendar)). Consult with
-      secretary@apache.org 
+      secretary@apache.org
 
 * Communication
     * Notify members@, commiters@ and all dev@ and users@ lists of an
@@ -58,7 +58,7 @@ policy to ensure you're presenting the best face for ASF brands.
 
  - Establish budget for paid digital ad campaign for Roadshows three months before date of event.
 
- - Coordinate with M&P to research spend options, negotiate rate, and secure media buy for digital advertising campaigns for Roadshows. 
+ - Coordinate with M&P to research spend options, negotiate rate, and secure media buy for digital advertising campaigns for Roadshows.
 
  - Coordinate with M&P/Central Services to create artwork for online promotions and digital ad campaigns.
 
@@ -139,7 +139,7 @@ policy to ensure you're presenting the best face for ASF brands.
       publicly for sponsoring (coordinate with producer/fundraising)
         * Twitter
         * Blog post on blogs.apache.org
-    * Ask PMCs about upcoming or recent major releases that we can 
+    * Ask PMCs about upcoming or recent major releases that we can
       announce at the event. Keep press@apache.org in the loop on this,
       as well as our press contact at producer.
     * Update the wiki - https://wiki.apache.org/apachecon/FrontPage -
@@ -199,19 +199,19 @@ policy to ensure you're presenting the best face for ASF brands.
 
 ## Websites
 
-There are several different pages/directories that store event-related 
+There are several different pages/directories that store event-related
 information, both about ApacheCon and other ASF related events.
 
 Main ApacheCon website, including separate archive.apachecon directories:
   https://apachecon.com/
   https://svn.apache.org/repos/infra/apachecon/www.apachecon.com
   Flat HTML, published instantly upon checkin
-  
+
 General event info page:
   https://events.apache.org/
   https://svn.apache.org/repos/asf/concom/site/trunk/content/
   Managed by the Apache CMS, publishing is a separate step
-  
+
 ComDev Event Calendar listing:
   https://community.apache.org/calendars/
   https://community.apache.org/about/#about-this-website

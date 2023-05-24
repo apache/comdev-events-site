@@ -11,8 +11,8 @@ title: ApacheCon Events
   var m = ref.match(/https?:\/\/([-_a-zA-Z0-9.]+)\/?/);
   if (m) {
     ref = m[1];
-  } else { 
-    ref = 'unknown'; 
+  } else {
+    ref = 'unknown';
   }
   location.href = "https://apachecon.com/?ref=" + ref;
 </script>

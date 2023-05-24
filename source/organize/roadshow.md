@@ -27,5 +27,5 @@ To run a roadshow or other small event without ASF budget, you only need to:
 
 * Follow our branding guidelines - https://www.apache.org/foundation/marks/events
 * [Tell us about it](mailto:planners@apachecon.com)
-* Have an Apache member involved in the planning 
+* Have an Apache member involved in the planning
 
