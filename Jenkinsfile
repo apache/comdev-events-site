@@ -200,7 +200,7 @@ Build: ${env.BUILD_URL}
                         to: "dev@community.apache.org",
                         recipientProviders: [[$class: 'DevelopersRecipientProvider']],
                         from: 'Jenkins <jenkins@ci-builds.apache.org>',
-                        subject: "[website] Jenkins job ${env.JOB_NAME}#${env.BUILD_NUMBER} back to normal",
+                        subject: "[events-website] Jenkins job ${env.JOB_NAME}#${env.BUILD_NUMBER} back to normal",
                         body: """
 The build for ${env.JOB_NAME} completed successfully and is back to normal.
 
