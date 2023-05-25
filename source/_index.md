@@ -29,11 +29,10 @@ of events related to our Apache projects throughout the year. These events have 
 Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
 the latest news and announcements.
 
-<em>Disclaimer: Events called 'ApacheCon' or 'Apache Roadshow' (events
-in bold) are
-official Apache Software Foundation events. Other listed events are put
-on by projects, or third-party producers, and are listed here to support
-our community, but are not official Foundation events.</em>
+<em>Disclaimer: Events called 'ApacheCon', 'Apache Roadshow' or 'Community over Code' (events in
+bold) are official Apache Software Foundation events. Other listed events are put on by projects,
+or third-party producers, and are listed here to support our community, but are not official
+Foundation events.</em>
 
 ## Past Events & Get Involved
 
