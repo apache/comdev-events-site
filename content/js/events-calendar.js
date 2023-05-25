@@ -33,7 +33,7 @@ $.ajax({
 
        var el = response['items'];
        let reg = /T.*$/;
-       let official = /(ApacheCon|Roadshow)/;
+       let official = /(ApacheCon|Roadshow|Community (O|o)ver Code)/;
        if (el.length > 0) {
           for (i = 0; i < el.length; i++) {
              var ev = el[i];
