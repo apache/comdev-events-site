@@ -20,6 +20,8 @@ of events related to our Apache projects throughout the year. These events have 
  * Provide technical information about our many Apache projects
  * Build developer and user communities
 
+Note that the [ASF Travel Assistance Committee](https://tac.apache.org/) provides financial assistance for selected ASF events, to those who would otherwise be unable to attend them.
+
 ## Upcoming Events
 
 <ul id="events">
