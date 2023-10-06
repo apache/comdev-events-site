@@ -11,8 +11,6 @@ title: Apache Software Foundation Events
     });
 </script>
 
-Welcome to the Apache Software Foundation (ASF) events homepage!
-
 The ASF runs and participates in a number
 of events related to our Apache projects throughout the year. These events have three main purposes:
 
