@@ -2,8 +2,15 @@
 title: ApacheCon Events
 ---
 
+<!--
+    The URL to which this page redirects should agree with
+    https://github.com/apache/www-site/blob/main/content/events/current-event.md
+    and the default event in
+    https://www.apachecon.com/event-images/snippet.js
+-->
+
 <noscript>
-  <meta http-equiv="refresh" content="1; url=https://apachecon.com/">
+  <meta http-equiv="refresh" content="1; url=https://communityovercode.org/">
 </noscript>
 
 <script type="text/javascript">
@@ -11,10 +18,10 @@ title: ApacheCon Events
   var m = ref.match(/https?:\/\/([-_a-zA-Z0-9.]+)\/?/);
   if (m) {
     ref = m[1];
-  } else { 
-    ref = 'unknown'; 
+  } else {
+    ref = 'unknown';
   }
-  location.href = "https://apachecon.com/?ref=" + ref;
+  location.href = "https://communityovercode.org/?ref=" + ref;
 </script>
 
 # ApacheCon

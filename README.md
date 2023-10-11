@@ -1,11 +1,11 @@
-<!--                                                                                                                                                                                                    
+<!--
 Licensed to the Apache Software Foundation (ASF) under one or more
 contributor license agreements.  See the NOTICE file distributed with
 this work for additional information regarding copyright ownership.
 The ASF licenses this file to You under the Apache License, Version 2.0
 (the "License"); you may not use this file except in compliance with
 the License.  You may obtain a copy of the License at
-   
+
     http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
@@ -19,7 +19,7 @@ limitations under the License.
 This is the source code for the website of the [Apache Events website](https://events.apache.org/), hosted at:
 
     https://events.apache.org/
-    
+
 To get in touch with the Community Development PMC (responsible for the website) please use the [dev@community.apache.org](https://lists.apache.org/list.html?dev@community.apache.org) mailing list.
 
 The repository for the main Community Development website is at https://github.com/apache/comdev-site
@@ -41,7 +41,7 @@ Other Apache websites that are built with Hugo should be listed by [this GitHub 
 
 To generate the static website, execute `hugo` to generate the website under target/content.
 
-During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to 
+During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to
 continuously (re)generate and serve the website on `localhost:1313`.
 
 # How-To add an ApacheCon event promotion to your project site

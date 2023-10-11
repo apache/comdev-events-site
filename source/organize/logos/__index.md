@@ -11,7 +11,7 @@ please see the
 [Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html).
 
 For events that have been approved to use Apache Logos (typically
-events being [organized](/organize/) by Apache committers and projects, 
+events being [organized](/organize/) by Apache committers and projects,
 which have been approved by ConCom), a number of Event Logos are
 available. Some of these can be used as-is by approved events,
 others provide a useful starting point when designing logos, especially
@@ -24,7 +24,7 @@ for print.
 High resolution and Vector Graphics versions of the Foundation Logo
 are available from the [Foundation Press Kit Page](https://www.apache.org/foundation/press/kit/)
 
-## Apache Feather 
+## Apache Feather
 
 <img src="https://www.apache.org/images/feather-small.gif" alt="Apache Feather" />
 

@@ -6,11 +6,16 @@ slug: index
 ## Upcoming Apache events
 
 This is the list of upcoming official Apache events, and
-those events which have been approved to use Apache Marks under the 
+those events which have been approved to use Apache Marks under the
 [Third Party Event Branding Policy][1].
 
 <ul id="events">
+<script>
  <li><i>List loading</i></li>
+</script>
+<noscript>
+ <li><i>Sorry, this requires Javascript</i></li>
+</noscript>
 </ul>
 
 For a complete list of events see our [calendar](calendar.html).

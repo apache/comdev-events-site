@@ -16,17 +16,17 @@ At this time, we can use help in the following areas - typically for each Apache
 
 ## Calls For Papers
 
-The CFP for each ApacheCon draws hundreds of submissions about projects all 
-around the ASF.  We always need volunteers who can show up **on time** 
+The CFP for each ApacheCon draws hundreds of submissions about projects all
+around the ASF.  We always need volunteers who can show up **on time**
 when the CFP closes to help rate talks and schedule specific tracks.
-Many Apache PMCs are now managing their own tracks or co-located events 
+Many Apache PMCs are now managing their own tracks or co-located events
 at ApacheCon, which is great.
 
 ## Promotions and Publicity
 
-While the ApacheCon Planners work with VP, Marketing & Publicity for some 
-basic services, we always could use Apache committers retweeting and 
-amplifying the official notices about conferences.  
+While the ApacheCon Planners work with VP, Marketing & Publicity for some
+basic services, we always could use Apache committers retweeting and
+amplifying the official notices about conferences.
 
 Follow [@ApacheCon](https://twitter.com/apachecon) and [@TheASF](https://twitter.com/apachecon), and help spread their message about upcoming events.
 
@@ -52,7 +52,7 @@ Preferably someone that lives local to the venue: Update the website to indicate
 Identify people that can participate in a "meet the experts" area. Determine what this entails. Coordinate scheduling of this event with Producer and VP Conferences. Promote the event.
 
 ## Lightning Talks
-    
+
   * Write up web page defining the lightning talks
   * Promote the lightning talks to our community
   * Work with LightningTalk MCs to pre-register volunteers that want to speak<

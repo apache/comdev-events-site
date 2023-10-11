@@ -5,11 +5,11 @@ slug: index
 
 There are a number of different ways to get involved with Events at Apache.
 Many of these come under the umbrella of the Conferences Committee, but
-some fall under different groups, such as the 
+some fall under different groups, such as the
 [Apache Community Development Project](https://community.apache.org/).
 
 If you are an Apache Committer, and you're interested in putting on an
-Apache Event, please see the [Organising Events](/organize/index.html) 
+Apache Event, please see the [Organising Events](/organize/index.html)
 section for more help. If you are interested in helping others out with
 putting on an Apache Event, you are advised to join the appropriate
 [mailing list](mailing-lists.html), and volunteer for events there.
@@ -34,7 +34,7 @@ information on finding speakers.
 
 If you are putting on an external event, and you are interested in
 having an Apache track, or an Apache barcamp / hackathon style event,
-please contact 
+please contact
 [ConCom, the Conference Committee](https://www.apache.org/foundation/conferences.html)
 to discuss the possibility.
 

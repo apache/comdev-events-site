@@ -8,9 +8,9 @@ Its primary goals are education and community building. We try to
 produce one each calendar year somewhere in North America and Europe,
 and are working on expanding this to the rest of the world.
 
-If you want to volunteer to help with ApacheCon, please 
-[join our mailing lists](/involved/mailing-lists.html), 
-and see what [volunteer opportunities](/about/apachecon/volunteer.html) we have, 
+If you want to volunteer to help with ApacheCon, please
+[join our mailing lists](/involved/mailing-lists.html),
+and see what [volunteer opportunities](/about/apachecon/volunteer.html) we have,
 bearing in mind that it sometimes gets out of date.
 
 ## What Is An ApacheCon?
@@ -25,7 +25,7 @@ are some components that you can count on happening at every ApacheCon.
    way, ApacheCon resembles a convention of Apache project conferences.
  - There will be a hackathon space where projects can gather to work on
    code, or work out community issues.
- - There will be a **State of the Feather** Keynote by the President or 
+ - There will be a **State of the Feather** Keynote by the President or
    other officer, providing an overview of the ASF's accomplishments.
  - There will be a PGP key signing.
  - An Apache BarCamp will held, typically on the day before or after the
@@ -33,12 +33,12 @@ are some components that you can count on happening at every ApacheCon.
  - The event is usually 3 days or more.
 
 ApacheCon is the one annual event for the particular continent in
-question. As such, it draws an international audience, both in 
+question. As such, it draws an international audience, both in
 speakers and attendees.
 
 The documentation around how to plan an ApacheCon may be found in the
-[ApacheCon Playbook](/about/apachecon/playbook.html).  Most planning tasks 
-are done by volunteers who commit to help - at least a little - throughout 
+[ApacheCon Playbook](/about/apachecon/playbook.html).  Most planning tasks
+are done by volunteers who commit to help - at least a little - throughout
 the planning process for one specific conference.
 
 You can find out more about what ApacheCon events are in the works on

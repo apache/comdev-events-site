@@ -17,7 +17,7 @@ if (!events) {
 
 // Options
 var now = (new Date()).toISOString();
-var opts = "?key=" + API_KEY 
+var opts = "?key=" + API_KEY
          + "&timeMin=" + now
          + "&singleEvents=true"
          + "&orderBy=startTime"
@@ -33,8 +33,8 @@ $.ajax({
 
        var el = response['items'];
        let reg = /T.*$/;
-       let official = /(ApacheCon|Roadshow)/;
-       if (el.length > 0) { 
+       let official = /(ApacheCon|Roadshow|Community (O|o)ver Code)/;
+       if (el.length > 0) {
           for (i = 0; i < el.length; i++) {
              var ev = el[i];
              var when = ev.start.dateTime;
