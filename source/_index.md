@@ -23,7 +23,12 @@ Note that the [ASF Travel Assistance Committee](https://tac.apache.org/) provide
 ## Upcoming Events
 
 <ul id="events">
+<script>
  <li><i>List loading</i></li>
+</script>
+<noscript>
+ <li><i>Sorry, this requires Javascript</i></li>
+</noscript>
 </ul>
 
 Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
