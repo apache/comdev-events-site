@@ -44,6 +44,8 @@ To generate the static website, execute `hugo` to generate the website under tar
 During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to
 continuously (re)generate and serve the website on `localhost:1313`.
 
+Use the hostname `events-site.local` to avoid https redirection by the .htaccess file
+
 # How-To add an ApacheCon event promotion to your project site
 
 All PMCs are asked to help promote ApacheCon and other major Apache

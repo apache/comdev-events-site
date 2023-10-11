@@ -17,6 +17,8 @@ RewriteEngine On
 
 # Redirect to https
 RewriteCond %{HTTPS} !=on
+# For local testing, use the hostname events-site.local to avoid https redirection
+RewriteCond %{HTTP_HOST} !=events-site.local
 RewriteRule ^/?(.*) https://events.apache.org/$1 [R,L]
 
 
