@@ -19,3 +19,6 @@ RewriteEngine On
 
 # ApacheCon lives on its own domain
 Redirect temp /apachecon https://www.apachecon.com
+
+# Redirect to current CoC event website
+Redirect /x/current-event.html https://eu.communityovercode.org/
