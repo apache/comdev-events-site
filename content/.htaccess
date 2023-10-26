@@ -15,10 +15,7 @@
 #  limitations under the License.
 RewriteEngine On
 
-# Redirect to https
-RewriteCond %{HTTPS} !=on
-RewriteRule ^/?(.*) https://events.apache.org/$1 [R,L]
-
+# Redirect to https is done elsewhere
 
 # ApacheCon lives on its own domain
 Redirect temp /apachecon https://www.apachecon.com
