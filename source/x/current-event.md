@@ -10,7 +10,7 @@ title: ApacheCon Events
 -->
 
 <noscript>
-  <meta http-equiv="refresh" content="1; url=https://communityovercode.org/">
+  <meta http-equiv="refresh" content="1; url=https://eu.communityovercode.org/">
 </noscript>
 
 <script type="text/javascript">
@@ -21,7 +21,7 @@ title: ApacheCon Events
   } else {
     ref = 'unknown';
   }
-  location.href = "https://communityovercode.org/?ref=" + ref;
+  location.href = "https://eu.communityovercode.org/?ref=" + ref;
 </script>
 
 # ApacheCon
