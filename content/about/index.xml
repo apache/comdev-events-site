@@ -7,17 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About Apache Events</title>
-      <link>https://events.apache.org/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://events.apache.org/about/</guid>
-      <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
-The main types of event we work with around Apache projects are:
-ApacheCon - the ASF&amp;rsquo;s official conference Roadshows - bringing Apache content around the world Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses Apache brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
-    </item>
-    
-    <item>
       <title>About Apache Roadshows</title>
       <link>https://events.apache.org/about/roadshow.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -35,6 +24,17 @@ While not a traditional roadshow (ie, a traveling event with multiple stops), we
       <guid>https://events.apache.org/about/apachecon/</guid>
       <description>ApacheCon is the official conference of the Apache Software Foundation. Its primary goals are education and community building. We try to produce one each calendar year somewhere in North America and Europe, and are working on expanding this to the rest of the world.
 If you want to volunteer to help with ApacheCon, please join our mailing lists, and see what volunteer opportunities we have, bearing in mind that it sometimes gets out of date.</description>
+    </item>
+    
+    <item>
+      <title>About ASF Events</title>
+      <link>https://events.apache.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/</guid>
+      <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
+The main types of event we work with around ASF projects are:
+Community Over Code - the ASF&amp;rsquo;s official conference Roadshows - bringing ASF content around the world Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses ASF brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
     </item>
     
     <item>
