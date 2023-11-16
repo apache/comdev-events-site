@@ -18,10 +18,10 @@ While not a traditional roadshow (ie, a traveling event with multiple stops), we
     
     <item>
       <title>About ApacheCon</title>
-      <link>https://events.apache.org/about/apachecon/</link>
+      <link>https://events.apache.org/about/commcode/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/apachecon/</guid>
+      <guid>https://events.apache.org/about/commcode/</guid>
       <description>ApacheCon is the official conference of the Apache Software Foundation. Its primary goals are education and community building. We try to produce one each calendar year somewhere in North America and Europe, and are working on expanding this to the rest of the world.
 If you want to volunteer to help with ApacheCon, please join our mailing lists, and see what volunteer opportunities we have, bearing in mind that it sometimes gets out of date.</description>
     </item>
@@ -49,10 +49,10 @@ If you are producing an Apache-related event, and using our brands and marks, we
     
     <item>
       <title>ApacheCon playbook</title>
-      <link>https://events.apache.org/about/apachecon/playbook.html</link>
+      <link>https://events.apache.org/about/commcode/playbook.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/apachecon/playbook.html</guid>
+      <guid>https://events.apache.org/about/commcode/playbook.html</guid>
       <description>This playbook is focused at ApacheCon or Roadshow volunteers who are actively involved in planning and running Apache events. Please be sure to bring your questions to the planners@ mailing list!
 What to do before, during, and after an Apache event This is a set of recommended actions that an event organizer may do before, during, and after ApacheCon.
 Many of the recommendations in here can, of course, be applied to any Apache event or Roadshow, including third-party events, or project events run by PMCs.</description>
@@ -60,10 +60,10 @@ Many of the recommendations in here can, of course, be applied to any Apache eve
     
     <item>
       <title>Volunteer to help at ApacheCon</title>
-      <link>https://events.apache.org/about/apachecon/volunteer.html</link>
+      <link>https://events.apache.org/about/commcode/volunteer.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/apachecon/volunteer.html</guid>
+      <guid>https://events.apache.org/about/commcode/volunteer.html</guid>
       <description>Volunteer to help at ApacheCon Coordination of ApacheCon happens on two lists:
 The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on. At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.
 Calls For Papers The CFP for each ApacheCon draws hundreds of submissions about projects all around the ASF.</description>
