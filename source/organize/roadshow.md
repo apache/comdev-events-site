@@ -2,30 +2,37 @@
 title: Roadshow Bid Process
 ---
 
-## DRAFT
+<i>This document is a draft</i>
+---
 
-This is intended to document the bid process for running/hosting a
-Roadshow. In particular, if you want ASF budget for it.
+This document outlines the bid process for running/hosting a Roadshow, especially if you're seeking ASF budget for it.
 
-You need, at a minimum
+### Requirements
 
-* Event chair
-    * Must be an ASF member
-    * Must be resident in the city where the event is proposed
-* Volunteers to support (how many?)
-* City/Venue selected
-    * University cities are preferred
-    * Local tech firms that can sponsor?
-* Local keynote suggestion
-* Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event
-* Budget
-    * Leads on sponsorship helpful
-* Contribute to event "runbook" as output from the event
+To proceed with a Roadshow bid, you need, at a minimum:
 
+- **Event chair**
+  - Must be an ASF member
+  - Must be a resident in the city where the event is proposed
+- **Volunteers to support**
+  - Determine the number needed based on the scale of the event
+- **City/Venue selection**
+  - Preferably in university cities
+  - Consider local tech firms that can sponsor
+- **Local keynote suggestion**
+- **Proposed timeline**
+  - Starting with Call for Papers (CFP)
+  - Going through schedule, speaker notification, the event itself, and post-event activities
+- **Budget**
+  - Leads on sponsorship are helpful
+- **Contribution to event "runbook"**
+  - As an output from the event
 
-To run a roadshow or other small event without ASF budget, you only need to:
+### Steps for Running a Roadshow without ASF Budget
 
-* Follow our branding guidelines - https://www.apache.org/foundation/marks/events
-* [Tell us about it](mailto:planners@apachecon.com)
-* Have an Apache member involved in the planning
+If you intend to run a Roadshow or other small event without ASF budget, you only need to:
+
+- Follow our [branding guidelines](https://www.apache.org/foundation/marks/events)
+- [Inform us](mailto:planners@apachecon.com) about your event
+- Have an Apache member involved in the planning process
 

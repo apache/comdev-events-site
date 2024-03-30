@@ -13,6 +13,6 @@ are also important to us.  To use any Apache trademarks in conjunctions with eve
 you **must** request permission by following the
 [Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html).
 
- * [Organizing a Roadshow event](roadshow)
+ * [Organizing a Roadshow event](/organize/roadshow.html)
 
 

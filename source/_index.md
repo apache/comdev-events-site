@@ -1,53 +1,35 @@
----
-title: Apache Software Foundation Events
----
+# Welcome to Apache Events
 
-<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search" });
-    });
-</script>
+## About Apache Events
 
-The ASF runs and participates in a number
-of events related to our Apache projects throughout the year. These events have three main purposes:
+Apache Events is your gateway to staying updated with all the latest events happening within the [Apache Software Foundation](https://www.apache.org) community. Here's what you need to know:
 
- * Educate the world about the work and mission of the ASF
- * Provide technical information about our many Apache projects
- * Build developer and user communities
+- **[General Information](/about/)**: Get acquainted with the general information about Apache Events.
+- **[Community Over Code](/about/commcode/)**: Explore Community Over Code, our flagship event, where developers, users, and contributors come together to learn and collaborate on the latest technologies.
+- **[Roadshows](/about/roadshow.html)**: Discover Apache Roadshows, a series of events held worldwide to promote Apache projects and foster community engagement.
+- **[Endorsed Events](/about/endorsed.html)**: Learn about events endorsed by the Apache Software Foundation.
 
-Note that the [ASF Travel Assistance Committee](https://tac.apache.org/) provides financial assistance for selected ASF events, to those who would otherwise be unable to attend them.
+## Getting Involved
 
-## Upcoming Events
+Are you passionate about open source and want to contribute? Here's how you can get involved:
 
-<ul id="events">
-<script>
- <li><i>List loading</i></li>
-</script>
-<noscript>
- <li><i>Sorry, this requires Javascript</i></li>
-</noscript>
-</ul>
+- **[Introduction](/involved/)**: Learn about the various ways you can contribute to Apache Events and the wider Apache Software Foundation community.
+- **[Organize an Event](/organize/)**: Interested in organizing an event? Find out how you can contribute to the Apache Events calendar.
+- **[Mailing Lists](/involved/mailing-lists.html)**: Join our mailing lists to stay connected with the community and receive updates about upcoming events.
 
-Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
-the latest news and announcements.
+## Explore ASF
 
-<em>Disclaimer: Events called 'ApacheCon', 'Apache Roadshow' or 'Community over Code' (events in
-bold) are official Apache Software Foundation events. Other listed events are put on by projects,
-or third-party producers, and are listed here to support our community, but are not official
-Foundation events.</em>
+Discover more about the Apache Software Foundation:
 
-## Past Events & Get Involved
+- **[Apache Software Foundation](https://www.apache.org)**: Visit the official website of the Apache Software Foundation to learn about its mission, projects, and community.
+- **[Community Development](https://community.apache.org)**: Dive into community development resources and initiatives aimed at fostering collaboration and growth within the ASF community.
+- **Events**: The ASF runs and participates in a number of events related to our Apache projects throughout the year. These events have three main purposes:
+  - Educate the world about the work and mission of the ASF
+  - Provide technical information about our many Apache projects
+  - Build developer and user communities
+- **[Travel Assistance](https://tac.apache.org/)**: Note that the ASF Travel Assistance Committee provides financial assistance for selected ASF events, to those who would otherwise be unable to attend them.
+- **[Thanks](https://www.apache.org/foundation/thanks.html)**: Show your appreciation to individuals and organizations that have contributed to the Apache Software Foundation.
+- **[Become a Sponsor](https://www.apache.org/foundation/sponsorship.html)**: Interested in sponsoring the Apache Software Foundation? Find out how you can contribute and support our mission.
+- **[Security](https://www.apache.org/security/)**: Learn about the security measures and policies implemented by the Apache Software Foundation to ensure the safety and integrity of its projects and community.
 
-  - See the [archive of past ApacheCon events](//archive.apachecon.com/), stretching back to 1998!
-  - Want to get involved? [Volunteers are welcome](//events.apache.org/involved/) on a variety of tasks.
-  - Running your own Apache-branded event? Be sure to [get trademark permission](//www.apache.org/foundation/marks/events.html).
-
-ApacheCon and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
-
-
-<script src="/js/jquery.min.js"></script>
-<script src="/js/events-calendar.js"></script>
-
+Stay connected with us for the latest updates on Apache Events and join us in shaping the future of open source innovation!

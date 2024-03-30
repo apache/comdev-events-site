@@ -17,61 +17,109 @@
 -->
 
 <html>
-<head>
-  <meta name="description" content="Apache Events"/>
-  <meta name="keywords" content="apache, apache events, apache community, opensource"/>
+  <head>
+    <meta name="description" content="Apache Events" />
+    <meta
+      name="keywords"
+      content="apache, apache events, apache community, opensource"
+    />
 
-  <title>{{ .Title }}</title>
+    <title>{{ .Title }}</title>
 
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link href="/style/screen.css" rel="stylesheet" type="text/css">
-</head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="/style/screen.css" rel="stylesheet" type="text/css" />
+  </head>
 
-<body>
-  {{ partial "banner.html" . }}
+  <body>
+    <div class="sidebar">
+      <ul>
+        <div class="logo" onclick="window.open('https://www.apache.org')">
+          <img alt="ASF website" src="/images/asf_logo.png" />
+        </div>
+        <li><a href="/"><b>Home</b></a></li>
+        <li>
+          <b>Events To Attend</b>
+          <ul>
+            <li><a href="/event/">View Calendar</a></li>
+          </ul>
+        </li>
+        <li>
+          <b>About Apache Events</b>
+          <ul>
+            <li><a href="/about/">General information</a></li>
+            <li><a href="/about/commcode/">Community Over Code</a></li>
+            <li><a href="/about/roadshow.html">Roadshows</a></li>
+            <li><a href="/about/endorsed.html">Endorsed events</a></li>
+          </ul>
+        </li>
+        <li>
+          <b>Getting Involved</b>
+          <ul>
+            <li><a href="/involved/">Introduction</a></li>
+            <li><a href="/organize/">Organize an event</a></li>
+            <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+          </ul>
+        </li>
+        <li>
+          <b>ASF</b>
+          <ul>
+            <li>
+              <a href="https://www.apache.org" target="_blank"
+                >Apache Software Foundation</a
+              >
+            </li>
+            <li>
+              <a href="https://community.apache.org" target="_blank"
+                >Community Development</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.apache.org/foundation/thanks.html"
+                target="_blank"
+                >Thanks</a
+              >
+            </li>
+            <li>
+              <a
+                href="https://www.apache.org/foundation/sponsorship.html"
+                target="_blank"
+                >Become a Sponsor</a
+              >
+            </li>
+            <li>
+              <a href="https://www.apache.org/security/" target="_blank"
+                >Security</a
+              >
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </div>
 
-  <div id="navigation">
-    <ul>
-      <li><a href="/index.html">Home</a></li>
-    </ul>
-
-    <h1>Events to Attend</h1>
-    <ul>
-      <li><a href="/event/index.html">Upcoming Events</a></li>
-      <li><a href="/event/calendar.html">Calendar</a></li>
-      <li><a href="/event/past-events.html">Past Events</a></li>
-    </ul>
-
-    <h1>About Apache Events</h1>
-    <ul>
-      <li><a href="/about/index.html">General information</a></li>
-      <li><a href="/about/apachecon/index.html">ApacheCon</a></li>
-      <li><a href="/about/roadshow.html">Roadshows</a></li>
-      <li><a href="/about/endorsed.html">Endorsed events</a></li>
-    </ul>
-
-    <h1>Getting Involved</h1>
-    <ul>
-      <li><a href="/involved/index.html">Introduction</a></li>
-      <li><a href="/organize/index.html">Organize an event</a></li>
-      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
-    </ul>
-
-    <h1>ASF</h1>
-    <ul>
-      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
-      <li><a href="https://community.apache.org">Community Development</a></li>
-      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
-      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
-      <li><a href="https://www.apache.org/security/">Security</a></li>
-    </ul>
-  </div>
-
-  <div id="content">
-    <h1 class="title">{{ .Title }}</h1>
-    {{ block "main" . }}{{ end }}
-  </div>
-
-  {{ partial "footer.html" . }}
-</body>
+    <div class="content">
+      <h1 class="title">{{ .Title }}</h1>
+      <div style="min-height: 80vh">{{ block "main" . }}{{ end }}</div>
+      <footer id="footer">
+        <div class="copyright">
+          <p>
+            Copyright &copy; {{ now.Year }} The Apache Software Foundation,
+            Licensed under the
+            <a href="https://www.apache.org/licenses/LICENSE-2.0"
+              >Apache License, Version 2.0</a
+            >.
+            <br />
+            Apache and the Apache feather logos are trademarks of The Apache
+            Software Foundation.
+            <br />
+            This website is generated from the
+            <a href="https://github.com/apache/comdev-events-site"
+              >comdev-events-site</a
+            >
+            repository.
+          </p>
+        </div>
+      </footer>
+    </div>
+  </body>
 </html>

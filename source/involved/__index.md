@@ -3,41 +3,32 @@ title: Getting Involved in Apache Events
 slug: index
 ---
 
-There are a number of different ways to get involved with Events at Apache.
-Many of these come under the umbrella of the Conferences Committee, but
-some fall under different groups, such as the
-[Apache Community Development Project](https://community.apache.org/).
+There are several ways to get involved with Events at Apache. Many of these opportunities fall under the umbrella of the Conferences Committee, while others are managed by different groups, such as the [Apache Community Development Project](https://community.apache.org/).
 
-If you are an Apache Committer, and you're interested in putting on an
-Apache Event, please see the [Organising Events](/organize/index.html)
-section for more help. If you are interested in helping others out with
-putting on an Apache Event, you are advised to join the appropriate
-[mailing list](mailing-lists.html), and volunteer for events there.
-This could be for a project specific event, such as a Hackathon or
-Meetup, for a foundation wide event, such as a BarCamp or Retreat,
-or a larger event such as a Roadshow or a Project / Project Cluster
-related small conference.
+### Organizing Events
 
-If you are interested in putting on an external event making use of
-Apache Brands and Marks, please see the
-[Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html)
-for information on the approval process and requirements.
+If you're an Apache Committer and interested in organizing an Apache Event, please refer to the [Organizing Events](/organize/index.html) section for guidance.
 
-If you are interested in speaking about Apache at external events, then please see
-[Apache Speakers Resources](https://community.apache.org/speakers/index.html) that are
-maintained by the [Apache Community Development Project](https://community.apache.org/).
+### Volunteering for Events
 
-If you are putting on an external event, and would like a small number of
-speakers for it to talk about Apache Projects and Technologies, please see the
-[Apache Speakers Resources](https://community.apache.org/speakers/index.html) for
-information on finding speakers.
+If you're keen on assisting with Apache Events, consider joining the appropriate [mailing list](mailing-lists.html) and volunteering for events. Opportunities range from project-specific events like Hackathons or Meetups to foundation-wide events like BarCamps or Retreats, as well as larger events such as Roadshows or Project/Project Cluster-related small conferences.
 
-If you are putting on an external event, and you are interested in
-having an Apache track, or an Apache barcamp / hackathon style event,
-please contact
-[ConCom, the Conference Committee](https://www.apache.org/foundation/conferences.html)
-to discuss the possibility.
+### Third Party Event Branding
 
-If you are interested in attending an Apache Event, or an Apache
-related event, please see the [Calendar](/event/calendar.html) to discover
-what is coming up.
+For those interested in hosting an external event utilizing Apache Brands and Marks, review the [Third Party Event Branding Policy](https://www.apache.org/foundation/marks/events.html) for information on the approval process and requirements.
+
+### Speaking Opportunities
+
+Explore the [Apache Speakers Resources](https://community.apache.org/speakers/index.html) maintained by the [Apache Community Development Project](https://community.apache.org/) if you're interested in speaking about Apache at external events.
+
+### Finding Speakers
+
+If you need speakers for your external event to discuss Apache Projects and Technologies, consult the [Apache Speakers Resources](https://community.apache.org/speakers/index.html) for guidance on finding speakers.
+
+### Hosting Apache Tracks or BarCamps/Hackathons
+
+For inquiries about hosting an Apache track or an Apache barcamp/hackathon-style event at your external event, please contact the [ConCom, the Conference Committee](https://www.apache.org/foundation/conferences.html) to discuss the possibilities.
+
+### Attend an Event
+
+If you're interested in attending an Apache Event or an Apache-related event, check out the [Calendar](/event/) to discover upcoming events.
