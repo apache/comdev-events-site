@@ -1,202 +1,278 @@
-/*
-* Licensed to the Apache Software Foundation (ASF) under one or more
-* contributor license agreements.  See the NOTICE file distributed with
-* this work for additional information regarding copyright ownership.
-* The ASF licenses this file to You under the Apache License, Version 2.0
-* (the "License"); you may not use this file except in compliance with
-* the License.  You may obtain a copy of the License at
-*
-*     http://www.apache.org/licenses/LICENSE-2.0
-*
-* Unless required by applicable law or agreed to in writing, software
-* distributed under the License is distributed on an "AS IS" BASIS,
-* WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-* See the License for the specific language governing permissions and
-* limitations under the License.
-*/
+/* Define modern font properties */
+:root {
+  --font-family: "Roboto", Arial, sans-serif;
+  --font-size-base: 16px;
+  --font-size-large: 1.25rem;
+  --font-size-small: 0.875rem;
+  --font-weight-normal: 400;
+  --font-weight-bold: 700;
+  --line-height-base: 1.5;
+}
+
+/* Apply modern font properties */
 body {
-  color: white;
-  font-family: Arial,Helvetica,sans-serif;
-  font-size: 12pt;
-  background: url(../images/rave_bg.jpg) no-repeat top right;
-  margin: 0;
+  font-family: var(--font-family);
+  font-size: var(--font-size-base);
+  line-height: var(--line-height-base);
+  color: #333;
+  /* Base text color */
+  background-color: #f7f7f7;
+  /* Base background color */
 }
 
-#banner {
-  padding: 0 0 10px 10px;
-  color:black;
-  border-bottom: solid #EEE 1px;
-  background-color: #f5f8fa;
+/* Headers */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: var(--font-weight-bold);
+  color: #444;
+  /* Header text color */
 }
 
-#banner .sitename {
-  text-transform: none;
-  font-weight: normal;
-  font-size:200%;
-  display:inline;
+/* Paragraphs */
+p {
+  margin-bottom: 1rem;
+  /* Add some spacing between paragraphs */
 }
 
-#banner .logo {
-  float:right;
-}
-
-.breadcrumbs {
-  display:block;
-  padding: 0.2em;
-}
-
+/* Links */
 a {
-  color: #107EC0;
-}
-
-a:visited {
- color: #107EC0;
+  color: #007bff;
+  /* Link color */
+  text-decoration: none;
+  /* Remove default underline */
 }
 
 a:hover {
- color: #107EC0;
- background-color: #e6ebed;
+  text-decoration: underline;
+  /* Underline on hover */
 }
 
-a img { border: none; }
-
-h1,h2,h3,h4,h5,h6 {
-  color: #193240;
-  text-transform:capitalize;
-  border-left: solid #EEE 1px;
+/* Buttons */
+button,
+input[type="submit"] {
+  padding: 0.5rem 1rem;
+  font-size: var(--font-size-base);
+  font-weight: var(--font-weight-bold);
+  border: none;
+  border-radius: 4px;
+  background-color: #007bff;
+  /* Button background color */
+  color: #fff;
+  /* Button text color */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
 
-#content {
-  margin: 20px 150px 20px 250px;
-  padding: 0 8px 40px;
-  color: #333;
+button:hover,
+input[type="submit"]:hover {
+  background-color: #0056b3;
+  /* Darker background color on hover */
 }
 
-#content h1,h2,h3,h4,h5,h6 {
-  font-weight: normal;
-  margin: 10px 0 15px;
-  padding: 5px 0;
+/* Lists */
+ul,
+ol {
+  padding-left: 1.25rem;
+  /* Add some indentation for lists */
 }
 
-#content h1 {
-  font-size: 1.4em;
-  padding: 15px;
+/* Images */
+img {
+  max-width: 100%;
+  /* Ensure images don't overflow their containers */
+  height: auto;
+  /* Maintain aspect ratio */
 }
 
-#content h2 {
-  font-size: 1.2em;
-  margin-top: 2em;
-  border-bottom: 1px solid #a3afb6;
-}
-
-#content h3,h4,h5,h6 {
-  border-bottom: none;
-  font-size: 1em;
-  margin-bottom: 0;
-}
-
-.codehilite {
-  background-color: #F00;
-  padding: 0.01em 1em;
-  border-radius: 10px;
-  background-image: url(../images/rave_codehilite_bg.gif);
-}
-
-#navigation {
-  border: 1px solid #e6ebed;
-  border-left: none;
-  -moz-border-radius: 0 10px 10px 0;
-  border-radius: 0 10px 10px 0;
-  font-size: 0.9em;
-  color: #003;
-  float: left;
-  padding: 15px 15px 5px 25px;
-  width: 180px;
-  background: none repeat scroll 0 0 #f5f8fa;
-  margin: 20px 0 20px 0;
-}
-
-#navigation img {
-  padding-bottom: 15px;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
-
-#navigation h1 {
-  color: #000;
-  font-size: 1em;
-  padding: 0;
-  margin-top: 0.8em;
-  margin-bottom: 0;
-  border-bottom: 1px solid #a3afb6;
-}
-
-#navigation ul {
-  margin: 0 0;
-  padding: 0;
-  list-style: none;
-}
-
-#navigation li {
-  border-bottom: 1px solid #e6ebed;
-  margin: 0.2em 0;
-  padding: 0;
-}
-
-#navigation li a {
+/* Sidebar */
+body {
+  font-family: Arial, sans-serif;
   margin: 0;
-  text-decoration:none;
+  padding: 0;
 }
 
-#navigation li a:hover {
-  color: #193240;
-  background: none;
-}
-
-#footer {
-  margin: 20px 150px 20px 250px;
-  border-top: 1px solid #ccc;
-  color:#666;
-  font-size: 0.8em;
-  padding: 0 8px;
-  text-align: center;
-}
-
-#asf-logo {
-  width: 180px;
+.sidebar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 250px;
+  background-color: #272727;
+  color: #ddd;
   padding-top: 20px;
+  transition: width 0.3s;
 }
 
-#events li {
-  padding-top: 0.2em;
+.sidebar:hover {
+  width: 300px;
 }
 
-/* definition lists */
-dd {}
-dl {}
-dt {
-  display: inline;
-  float: left;
+.sidebar ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
 }
 
-/* tables */
-thead tr, thead th,
-tbody tr, tbody td {
-    margin: 0;
-    outline: 0 none;
+.sidebar li {
+  padding: 10px 20px;
+  transition: background-color 0.3s;
 }
-thead th {
-    background: none repeat scroll 0 0 #BBBBBB;
-    border-bottom: 2px solid #888888;
-    padding: 0.4em 1em 0.2em;
+
+.sidebar ul ul li:hover {
+  background-color: #555;
 }
-tbody td {
-    background: none repeat scroll 0 0 #EEEEEE;
-    border-bottom: 1px solid #BBBBBB;
-    border-top: 1px solid #BBBBBB;
+
+.sidebar a {
+  color: inherit;
+  text-decoration: none;
 }
-th, td {
-    padding: 0.2em 1em;
-    text-align: left;
+
+.sidebar ul ul {
+  max-height: 0px;
+  opacity: 0;
+  list-style-type: none;
+  padding-left: 20px;
+  margin-top: 10px;
+  transition: all 1s;
+}
+
+.sidebar:hover ul ul {
+  max-height: 500px;
+  opacity: 1;
+}
+
+.sidebar ul ul li {
+  padding: 8px 0;
+  padding-left: 20px;
+}
+
+.logo {
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: -20px;
+  padding-top: 10px;
+  cursor: pointer;
+  background-color: #eaeaea;
+}
+
+.logo img {
+  width: 90%;
+  /* Adjust as needed */
+}
+
+.content {
+  margin-left: 250px;
+  /* Adjust according to sidebar width */
+  padding: 20px;
+  /* Adjust as needed */
+  transition: margin-left 0.3s;
+  /* Added transition */
+  position: relative;
+  /* Added */
+}
+
+.content::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  /* Semi-transparent black overlay */
+  z-index: 500;
+  pointer-events: none;
+  /* Ensure overlay is behind content */
+  opacity: 0;
+  /* Initially invisible */
+  transition: opacity 0.3s;
+  /* Added transition */
+}
+
+.sidebar:hover+.content::before {
+  opacity: 1;
+  /* Make overlay visible when sidebar is hovered */
+}
+
+.sidebar:hover+.content {
+  margin-left: 300px;
+  padding-left: 20px;
+}
+
+/* Footer */
+#footer {
+  background-color: #272727;
+  /* Background color for the footer */
+  color: #ddd;
+  /* Text color */
+  padding: 20px;
+  /* Padding around the content */
+  text-align: center;
+  /* Center align text */
+}
+
+.copyright {
+  font-size: 14px;
+  /* Font size for the copyright text */
+}
+
+.copyright p {
+  margin: 0;
+  /* Remove default margin */
+}
+
+/* Footer Links */
+#footer a {
+  color: #ddd;
+  /* Link color */
+  text-decoration: underline;
+  /* Underline links */
+}
+
+#footer a:hover {
+  color: #ccc;
+  /* Color of links on hover */
+}
+
+/* Table Setup */
+.table {
+  width: 100%;
+  border-collapse: collapse;
+  /* Collapse table borders */
+  border-spacing: 0;
+  /* Remove spacing between table cells */
+}
+
+.table th,
+.table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  /* Border around table cells */
+}
+
+.table th {
+  background-color: #f2f2f2;
+  /* Background color for table header cells */
+  font-weight: bold;
+}
+
+.table tr:nth-child(even) {
+  background-color: #f2f2f2;
+  /* Alternate row background color */
+}
+
+.calcontain {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  margin-bottom: 25px;
+}
+
+#calendar {
+  width: 50%;
 }
