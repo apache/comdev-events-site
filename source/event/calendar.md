@@ -5,7 +5,7 @@ title: Apache Conferences Calendar
 This Calendar is maintained by the [Apache Conferences Committee][1] (ConCom). It's used to list official Apache events, and
 those events which have been approved to use Apache Marks under the [Third Party Event Branding Policy][2].
 
-The calendar is available [from https://www.google.com][4]:
+The calendar is available [from https://www.google.com][4]
 
 This Calendar is also available as an [iCal feed][3]
 
