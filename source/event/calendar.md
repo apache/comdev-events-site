@@ -13,3 +13,4 @@ This Calendar is also available as an [iCal feed][3]
   [1]: https://www.apache.org/foundation/conferences.html
   [2]: https://www.apache.org/foundation/marks/events.html
   [3]: https://www.google.com/calendar/ical/nerseigospses068jd57bk5ar8%40group.calendar.google.com/public/basic.ics
+  [4]: https://www.google.com/calendar/embed?src=nerseigospses068jd57bk5ar8%40group.calendar.google.com&ctz=UTC
