@@ -2,6 +2,7 @@ name: Fetch the Google Calendar
 
 on:
   workflow_dispatch:
+  push:
   # schedule:
     #  - cron: '01 18 * * *'
 
