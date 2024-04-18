@@ -1,0 +1,507 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p324b1fsnin3oa0o\"",
+ "summary": "Apache Conferences & Events",
+ "description": "",
+ "updated": "2024-04-16T16:35:20.661Z",
+ "timeZone": "America/Los_Angeles",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3396478494468000\"",
+   "id": "4durem2litvi92nrg78q1qmqbl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NGR1cmVtMmxpdHZpOTJucmc3OHExcW1xYmwgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-10-25T13:07:27.000Z",
+   "updated": "2023-10-25T13:07:27.234Z",
+   "summary": "Kafka Summit India 2024",
+   "description": "https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about",
+   "location": "Bengaluru",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-02"
+   },
+   "end": {
+    "date": "2024-05-03"
+   },
+   "transparency": "transparent",
+   "iCalUID": "4durem2litvi92nrg78q1qmqbl@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3426554200536000\"",
+   "id": "6scddpejutghvhl4be4g531nqb",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NnNjZGRwZWp1dGdodmhsNGJlNGc1MzFucWIgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-04-16T14:18:20.000Z",
+   "updated": "2024-04-16T14:18:20.268Z",
+   "summary": "Traffic Server Spring Summit",
+   "description": "https://cwiki.apache.org/confluence/display/TS/Spring+2024+Summit",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2024-05-07"
+   },
+   "end": {
+    "date": "2024-05-10"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6scddpejutghvhl4be4g531nqb@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3426570587942000\"",
+   "id": "3hbqcho107fkt5mhilkuahrnf2",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=M2hicWNobzEwN2ZrdDVtaGlsa3VhaHJuZjIgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-01-31T16:54:06.000Z",
+   "updated": "2024-04-16T16:34:53.971Z",
+   "summary": "Pulsar Summit -  Virtual",
+   "location": "EMEA",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-05-14T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-05-14T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "3hbqcho107fkt5mhilkuahrnf2@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3426570641322000\"",
+   "id": "02o4jak1i05a6dpbeoem9qrles",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDJvNGphazFpMDVhNmRwYmVvZW05cXJsZXMgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-02-24T12:10:11.000Z",
+   "updated": "2024-04-16T16:35:20.661Z",
+   "summary": "Iceberg Summit",
+   "description": "https://iceberg-summit.org/",
+   "location": "Virtual (North America Timezones)",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-05-14T04:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-05-15T04:30:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "transparency": "transparent",
+   "iCalUID": "02o4jak1i05a6dpbeoem9qrles@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3398906451784000\"",
+   "id": "12aekn53jb4qdi6u0gnii9cfeq",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MTJhZWtuNTNqYjRxZGk2dTBnbmlpOWNmZXEgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-05-24T13:03:29.000Z",
+   "updated": "2023-11-08T14:20:25.892Z",
+   "summary": "Community Over Code EU, 2024",
+   "description": "https://eu.communityovercode.org",
+   "location": "EU",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2024-06-03"
+   },
+   "end": {
+    "date": "2024-06-06"
+   },
+   "transparency": "transparent",
+   "iCalUID": "12aekn53jb4qdi6u0gnii9cfeq@google.com",
+   "sequence": 6,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3417552995234000\"",
+   "id": "5dolob0u7jcn86m3ui9lpkkri4",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWRvbG9iMHU3amNuODZtM3VpOWxwa2tyaTQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-02-24T12:07:56.000Z",
+   "updated": "2024-02-24T12:08:17.617Z",
+   "summary": "NuttX International Workshop, 2024",
+   "description": "https://events.nuttx.apache.org/",
+   "location": "Tokyo, Japan",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-06-13T04:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-06-14T04:30:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "transparency": "transparent",
+   "iCalUID": "5dolob0u7jcn86m3ui9lpkkri4@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3412519600866000\"",
+   "id": "7eh7aclth37ajhu1vrondcae1v",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2VoN2FjbHRoMzdhamh1MXZyb25kY2FlMXYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-01-26T09:02:47.000Z",
+   "updated": "2024-01-26T09:03:20.433Z",
+   "summary": "Community over Code Asia 2024",
+   "description": "https://asia.communityovercode.org/",
+   "location": "Hangzhou, Zhejiang, China",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-07-26T02:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-07-28T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "7eh7aclth37ajhu1vrondcae1v@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3415501872938000\"",
+   "id": "1dv10v7ntte92ts2tun8ptk8lt",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWR2MTB2N250dGU5MnRzMnR1bjhwdGs4bHQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-02-12T15:13:41.000Z",
+   "updated": "2024-02-12T15:15:36.469Z",
+   "summary": "Airflow Summit North America",
+   "description": "https://airflowsummit.org/",
+   "location": "San Francisco, CA, USA",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2024-09-10"
+   },
+   "end": {
+    "date": "2024-09-13"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1dv10v7ntte92ts2tun8ptk8lt@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3370079705042000\"",
+   "id": "1d085fam4evsd2457772prg61i",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWQwODVmYW00ZXZzZDI0NTc3NzJwcmc2MWkgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-03-06T20:41:13.000Z",
+   "updated": "2023-05-25T18:37:32.521Z",
+   "summary": "Current 2024: The Next Generation of Kafka Summit",
+   "description": "https://www.kafka-summit.org/",
+   "location": "Austin, TX, USA",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-09-17T00:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-09-18T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1d085fam4evsd2457772prg61i@google.com",
+   "sequence": 4,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3404846082702000\"",
+   "id": "1krl7eacdvuvf0rpt52jercjp1",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MWtybDdlYWNkdnV2ZjBycHQ1MmplcmNqcDEgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-12-12T23:17:21.000Z",
+   "updated": "2023-12-12T23:17:21.351Z",
+   "summary": "Community Over Code",
+   "description": "https://communityovercode.org/",
+   "location": "Denver, CO, USA",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-10-07T00:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-10-10T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "1krl7eacdvuvf0rpt52jercjp1@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3420716393690000\"",
+   "id": "71adshq9v1828gh6522pekvd3d",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFhZHNocTl2MTgyOGdoNjUyMnBla3ZkM2QgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-08-29T20:43:19.000Z",
+   "updated": "2024-03-13T19:29:56.845Z",
+   "summary": "Flink Forward",
+   "description": "https://www.flink-forward.org/",
+   "location": "Berlin, Germany",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-10-21T00:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-10-24T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "71adshq9v1828gh6522pekvd3d@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3413907496104000\"",
+   "id": "05sde01iuhd4mosanlkp66fl4p",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDVzZGUwMWl1aGQ0bW9zYW5sa3A2NmZsNHAgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-02-03T09:49:08.000Z",
+   "updated": "2024-02-03T09:49:08.052Z",
+   "summary": "Pulsar Summit",
+   "location": "North America",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-10-29T02:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-10-29T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "05sde01iuhd4mosanlkp66fl4p@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3417552557716000\"",
+   "id": "06ts34fv1td30ai2qbsjtjvv8p",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDZ0czM0ZnYxdGQzMGFpMnFic2p0anZ2OHAgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-02-24T12:03:50.000Z",
+   "updated": "2024-02-24T12:04:38.858Z",
+   "summary": "Doris Summit",
+   "location": "Asia",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-11-02T05:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-11-02T05:30:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "transparency": "transparent",
+   "iCalUID": "06ts34fv1td30ai2qbsjtjvv8p@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3413440274890000\"",
+   "id": "5b9ueenge6sag6ds71k0ovni8e",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWI5dWVlbmdlNnNhZzZkczcxazBvdm5pOGUgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-01-31T16:55:37.000Z",
+   "updated": "2024-01-31T16:55:37.445Z",
+   "summary": "Pulsar Summit",
+   "location": "APAC",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-11-22T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-11-22T10:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "5b9ueenge6sag6ds71k0ovni8e@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3407564158026000\"",
+   "id": "65hl4m75r9sok5geau3lctel8t",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjVobDRtNzVyOXNvazVnZWF1M2xjdGVsOHQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-12-28T16:47:16.000Z",
+   "updated": "2023-12-28T16:47:59.013Z",
+   "summary": "Flink Forward Asia 2024",
+   "location": "Shanghai, China and Singapore",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2024-12-06T02:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2024-12-08T10:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "transparency": "transparent",
+   "iCalUID": "65hl4m75r9sok5geau3lctel8t@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3386683847594000\"",
+   "id": "2nshbfi1vd0kk0gmf019r007rl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mm5zaGJmaTF2ZDBrazBnbWYwMTlyMDA3cmwgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-08-29T20:45:23.000Z",
+   "updated": "2023-08-29T20:45:23.797Z",
+   "summary": "Flink Forward",
+   "location": "United States",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-10-07T00:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2025-10-10T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "2nshbfi1vd0kk0gmf019r007rl@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  }
+ ]
+}
