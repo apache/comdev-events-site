@@ -2,9 +2,8 @@ name: Fetch the Google Calendar
 
 on:
   workflow_dispatch:
-  push:
-  # schedule:
-    #  - cron: '01 18 * * *'
+  schedule:
+     - cron: '10 10 * * *'
 
 permissions:
   contents: write
