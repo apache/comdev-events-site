@@ -1,0 +1,34 @@
+name: Fetch the Google Calendar
+
+on:
+  workflow_dispatch:
+  # schedule:
+    #  - cron: '01 18 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Curl calendar
+      run: |
+        cd static/js
+        echo "download calendar"
+        bash ../../getcalendar.sh
+        echo "preparing to push change(s)"
+        git add .
+        if git commit -m "Add updates"
+        then
+            git push
+            echo "Changed!"
+            exit 0
+        else
+          echo "No change"
+          true # ensure success
+        fi
+      env: # for gh
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
