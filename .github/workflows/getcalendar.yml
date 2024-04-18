@@ -17,6 +17,8 @@ jobs:
     - uses: actions/checkout@v4
     - name: Curl calendar
       run: |
+        git config user.email "dev@community.apache.org"
+        git config user.name "Community Developers"
         cd static/js
         echo "download calendar"
         bash ../../getcalendar.sh
