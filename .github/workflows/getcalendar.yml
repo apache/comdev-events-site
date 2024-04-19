@@ -21,6 +21,7 @@ jobs:
         cd static/js
         echo "download calendar"
         bash ../../getcalendar.sh
+        git status
         echo "preparing to push change(s)"
         git add .
         if git commit -m "Add updates"
