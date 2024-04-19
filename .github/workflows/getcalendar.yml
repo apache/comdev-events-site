@@ -1,0 +1,38 @@
+name: Fetch the Google Calendar
+
+on:
+  workflow_dispatch: # only works in default branch
+  push:
+  schedule: # only works in default branch
+     - cron: '50 9 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-calendar:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+    - name: Curl calendar
+      run: |
+        git config user.email "dev@community.apache.org"
+        git config user.name "Community Developers"
+        cd static/js
+        echo "download calendar"
+        bash ../../getcalendar.sh
+        git status
+        echo "preparing to push change(s)"
+        git add .
+        if git commit -m "Add updates"
+        then
+            git push
+            echo "Changed!"
+            exit 0
+        else
+          echo "No change"
+          true # ensure success
+        fi
+      env: # for gh
+        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
