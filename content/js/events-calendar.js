@@ -1,13 +1,4 @@
-// This uses the Google Calendar v3 API to fetch details of the
-//  events held in the shared Apache events calendar
-// That calendar is available to any Apache member who asks, the ID
-//  of it is : nerseigospses068jd57bk5ar8@group.calendar.google.com
-var CALENDAR_ID = "nerseigospses068jd57bk5ar8@group.calendar.google.com";
-// Google Calendar API key, valid for *.apache.org and localhost
-var API_KEY = "AIzaSyDJkXq1faq2G5NkFkFTh9Sikdpc2YXTVXs";
-
-// We only need read-only access for our needs
-var SCOPES = ['https://www.googleapis.com/auth/calendar.readonly'];
+// Update the calendar page from the json file
 
 // Where to put things
 var events = $('#events');
@@ -15,18 +6,10 @@ if (!events) {
   events = $('body').append("<ul id='events'/>");
 }
 
-// Options
-var now = (new Date()).toISOString();
-var opts = "?key=" + API_KEY
-         + "&timeMin=" + now
-         + "&singleEvents=true"
-         + "&orderBy=startTime"
-         + "&timezone=America/New_York"
-         + "&maxResults=20";
 // Fetch
 $.ajax({
     type: 'GET',
-    url: encodeURI('https://www.googleapis.com/calendar/v3/calendars/' + CALENDAR_ID + '/events' + opts),
+    url: encodeURI('/js/calendar.json'),
     dataType: 'json',
     success: function (response) {
        events.empty();
