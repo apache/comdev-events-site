@@ -1,8 +1,9 @@
 name: Fetch the Google Calendar
 
 on:
-  workflow_dispatch:
-  schedule:
+  workflow_dispatch: # only works in default branch
+  push:
+  schedule: # only works in default branch
      - cron: '50 9 * * *'
 
 permissions:
