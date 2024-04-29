@@ -28,5 +28,5 @@ your ideas.
 
 ### Other event types include:
 
-  - [ApacheCon](/about/apachecon/index.html)
+  - [Community Over Code](/about/commcode/index.html)
   - [Endorsed events](/about/endorsed.html)
