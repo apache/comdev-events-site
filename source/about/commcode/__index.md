@@ -15,7 +15,7 @@ bearing in mind that it sometimes gets out of date.
 
 ## What Is Community Over Code?
 
-While Community Oer Code events vary from year to year and location to location, there
+While Community Over Code events vary from year to year and location to location, there
 are some components that you can count on happening at every Community Over Code.
 
  - Community Over Code has at least 4 tracks of technical content, and often more.
