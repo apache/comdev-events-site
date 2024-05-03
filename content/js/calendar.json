@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3396478494468000\"",
-   "id": "4durem2litvi92nrg78q1qmqbl",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NGR1cmVtMmxpdHZpOTJucmc3OHExcW1xYmwgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2023-10-25T13:07:27.000Z",
-   "updated": "2023-10-25T13:07:27.234Z",
-   "summary": "Kafka Summit India 2024",
-   "description": "https://www.kafka-summit.org/events/kafka-summit-bangalore-2024/about",
-   "location": "Bengaluru",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2024-05-02"
-   },
-   "end": {
-    "date": "2024-05-03"
-   },
-   "transparency": "transparent",
-   "iCalUID": "4durem2litvi92nrg78q1qmqbl@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3426554200536000\"",
    "id": "6scddpejutghvhl4be4g531nqb",
    "status": "confirmed",
