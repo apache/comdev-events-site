@@ -10,36 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3426554200536000\"",
-   "id": "6scddpejutghvhl4be4g531nqb",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NnNjZGRwZWp1dGdodmhsNGJlNGc1MzFucWIgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-04-16T14:18:20.000Z",
-   "updated": "2024-04-16T14:18:20.268Z",
-   "summary": "Traffic Server Spring Summit",
-   "description": "https://cwiki.apache.org/confluence/display/TS/Spring+2024+Summit",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2024-05-07"
-   },
-   "end": {
-    "date": "2024-05-10"
-   },
-   "transparency": "transparent",
-   "iCalUID": "6scddpejutghvhl4be4g531nqb@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3426570587942000\"",
    "id": "3hbqcho107fkt5mhilkuahrnf2",
    "status": "confirmed",
