@@ -10,38 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3426570641322000\"",
-   "id": "02o4jak1i05a6dpbeoem9qrles",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDJvNGphazFpMDVhNmRwYmVvZW05cXJsZXMgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-02-24T12:10:11.000Z",
-   "updated": "2024-04-16T16:35:20.661Z",
-   "summary": "Iceberg Summit",
-   "description": "https://iceberg-summit.org/",
-   "location": "Virtual (North America Timezones)",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-05-14T04:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-05-15T04:30:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "02o4jak1i05a6dpbeoem9qrles@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3398906451784000\"",
    "id": "12aekn53jb4qdi6u0gnii9cfeq",
    "status": "confirmed",
