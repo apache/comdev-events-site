@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3398906451784000\"",
-   "id": "12aekn53jb4qdi6u0gnii9cfeq",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MTJhZWtuNTNqYjRxZGk2dTBnbmlpOWNmZXEgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2023-05-24T13:03:29.000Z",
-   "updated": "2023-11-08T14:20:25.892Z",
-   "summary": "Community Over Code EU, 2024",
-   "description": "https://eu.communityovercode.org",
-   "location": "EU",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2024-06-03"
-   },
-   "end": {
-    "date": "2024-06-06"
-   },
-   "transparency": "transparent",
-   "iCalUID": "12aekn53jb4qdi6u0gnii9cfeq@google.com",
-   "sequence": 6,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3417552995234000\"",
    "id": "5dolob0u7jcn86m3ui9lpkkri4",
    "status": "confirmed",
