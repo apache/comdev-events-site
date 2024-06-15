@@ -10,38 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3417552995234000\"",
-   "id": "5dolob0u7jcn86m3ui9lpkkri4",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NWRvbG9iMHU3amNuODZtM3VpOWxwa2tyaTQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-02-24T12:07:56.000Z",
-   "updated": "2024-02-24T12:08:17.617Z",
-   "summary": "NuttX International Workshop, 2024",
-   "description": "https://events.nuttx.apache.org/",
-   "location": "Tokyo, Japan",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-06-13T04:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-06-14T04:30:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "5dolob0u7jcn86m3ui9lpkkri4@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3412519600866000\"",
    "id": "7eh7aclth37ajhu1vrondcae1v",
    "status": "confirmed",
