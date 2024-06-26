@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32cddelqj3loc0o\"",
+ "etag": "\"p32k8j9m2p3roc0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2024-06-20T22:06:36.383Z",
+ "updated": "2024-06-25T20:13:34.585Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -163,6 +163,35 @@
    },
    "iCalUID": "71adshq9v1828gh6522pekvd3d@google.com",
    "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3438692829170000\"",
+   "id": "71fnsphfd8v59ttp2bp4202tf6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NzFmbnNwaGZkOHY1OXR0cDJicDQyMDJ0ZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2024-06-25T20:13:34.000Z",
+   "updated": "2024-06-25T20:13:34.585Z",
+   "summary": "Druid Summit",
+   "location": "on-line",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2024-10-22"
+   },
+   "end": {
+    "date": "2024-10-23"
+   },
+   "transparency": "transparent",
+   "iCalUID": "71fnsphfd8v59ttp2bp4202tf6@google.com",
+   "sequence": 0,
    "eventType": "default"
   },
   {
