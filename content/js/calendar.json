@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32k8j9m2p3roc0o\"",
+ "etag": "\"p33cd96trujv8c0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2024-06-25T20:13:34.585Z",
+ "updated": "2024-06-28T18:18:49.063Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -167,14 +167,14 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3438692829170000\"",
+   "etag": "\"3439197458126000\"",
    "id": "71fnsphfd8v59ttp2bp4202tf6",
    "status": "confirmed",
    "htmlLink": "https://www.google.com/calendar/event?eid=NzFmbnNwaGZkOHY1OXR0cDJicDQyMDJ0ZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
    "created": "2024-06-25T20:13:34.000Z",
-   "updated": "2024-06-25T20:13:34.585Z",
+   "updated": "2024-06-28T18:18:49.063Z",
    "summary": "Druid Summit",
-   "location": "on-line",
+   "location": "Redwood City, CA, USA",
    "creator": {
     "email": "markt@gsuite.cloud.apache.org"
    },
@@ -184,14 +184,16 @@
     "self": true
    },
    "start": {
-    "date": "2024-10-22"
+    "dateTime": "2024-10-22T04:00:00-07:00",
+    "timeZone": "Europe/London"
    },
    "end": {
-    "date": "2024-10-23"
+    "dateTime": "2024-10-22T04:30:00-07:00",
+    "timeZone": "Europe/London"
    },
    "transparency": "transparent",
    "iCalUID": "71fnsphfd8v59ttp2bp4202tf6@google.com",
-   "sequence": 0,
+   "sequence": 1,
    "eventType": "default"
   },
   {
