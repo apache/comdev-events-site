@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3412519600866000\"",
-   "id": "7eh7aclth37ajhu1vrondcae1v",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=N2VoN2FjbHRoMzdhamh1MXZyb25kY2FlMXYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-01-26T09:02:47.000Z",
-   "updated": "2024-01-26T09:03:20.433Z",
-   "summary": "Community over Code Asia 2024",
-   "description": "https://asia.communityovercode.org/",
-   "location": "Hangzhou, Zhejiang, China",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-07-26T02:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-07-28T09:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "7eh7aclth37ajhu1vrondcae1v@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3415501872938000\"",
    "id": "1dv10v7ntte92ts2tun8ptk8lt",
    "status": "confirmed",
