@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3415501872938000\"",
-   "id": "1dv10v7ntte92ts2tun8ptk8lt",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWR2MTB2N250dGU5MnRzMnR1bjhwdGs4bHQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-02-12T15:13:41.000Z",
-   "updated": "2024-02-12T15:15:36.469Z",
-   "summary": "Airflow Summit North America",
-   "description": "https://airflowsummit.org/",
-   "location": "San Francisco, CA, USA",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2024-09-10"
-   },
-   "end": {
-    "date": "2024-09-13"
-   },
-   "transparency": "transparent",
-   "iCalUID": "1dv10v7ntte92ts2tun8ptk8lt@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3370079705042000\"",
    "id": "1d085fam4evsd2457772prg61i",
    "status": "confirmed",
