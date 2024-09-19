@@ -10,39 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3370079705042000\"",
-   "id": "1d085fam4evsd2457772prg61i",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWQwODVmYW00ZXZzZDI0NTc3NzJwcmc2MWkgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2023-03-06T20:41:13.000Z",
-   "updated": "2023-05-25T18:37:32.521Z",
-   "summary": "Current 2024: The Next Generation of Kafka Summit",
-   "description": "https://www.kafka-summit.org/",
-   "location": "Austin, TX, USA",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-09-17T00:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-09-18T10:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "1d085fam4evsd2457772prg61i@google.com",
-   "sequence": 4,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3404846082702000\"",
    "id": "1krl7eacdvuvf0rpt52jercjp1",
    "status": "confirmed",
