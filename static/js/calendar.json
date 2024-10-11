@@ -1,44 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32kf7u61ra0oi0o\"",
+ "etag": "\"p334ftedsna28i0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2024-10-09T16:22:16.089Z",
+ "updated": "2024-10-10T18:36:53.853Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
-  {
-   "kind": "calendar#event",
-   "etag": "\"3404846082702000\"",
-   "id": "1krl7eacdvuvf0rpt52jercjp1",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MWtybDdlYWNkdnV2ZjBycHQ1MmplcmNqcDEgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2023-12-12T23:17:21.000Z",
-   "updated": "2023-12-12T23:17:21.351Z",
-   "summary": "Community Over Code",
-   "description": "https://communityovercode.org/",
-   "location": "Denver, CO, USA",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-10-07T00:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-10-10T10:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "1krl7eacdvuvf0rpt52jercjp1@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
   {
    "kind": "calendar#event",
    "etag": "\"3420716393690000\"",
