@@ -41,37 +41,6 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3439197458126000\"",
-   "id": "71fnsphfd8v59ttp2bp4202tf6",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NzFmbnNwaGZkOHY1OXR0cDJicDQyMDJ0ZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-06-25T20:13:34.000Z",
-   "updated": "2024-06-28T18:18:49.063Z",
-   "summary": "Druid Summit",
-   "location": "Redwood City, CA, USA",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-10-22T04:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-10-22T04:30:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "71fnsphfd8v59ttp2bp4202tf6@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3413907496104000\"",
    "id": "05sde01iuhd4mosanlkp66fl4p",
    "status": "confirmed",
