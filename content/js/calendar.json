@@ -10,36 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3413907496104000\"",
-   "id": "05sde01iuhd4mosanlkp66fl4p",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDVzZGUwMWl1aGQ0bW9zYW5sa3A2NmZsNHAgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-02-03T09:49:08.000Z",
-   "updated": "2024-02-03T09:49:08.052Z",
-   "summary": "Pulsar Summit",
-   "location": "North America",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-10-29T02:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-10-29T10:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "05sde01iuhd4mosanlkp66fl4p@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3417552557716000\"",
    "id": "06ts34fv1td30ai2qbsjtjvv8p",
    "status": "confirmed",
