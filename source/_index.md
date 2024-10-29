@@ -44,6 +44,7 @@ Foundation events.</em>
   - See the [archive of past ApacheCon events](//archive.apachecon.com/), stretching back to 1998!
   - Want to get involved? [Volunteers are welcome](//events.apache.org/involved/) on a variety of tasks.
   - Running your own Apache-branded event? Be sure to [get trademark permission](//www.apache.org/foundation/marks/events.html).
+  - [Promote upcoming ASF events](https://www.apachecon.com/event-images/) on your personal or project website.
 
 ApacheCon and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
 
