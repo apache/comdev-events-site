@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3417552557716000\"",
-   "id": "06ts34fv1td30ai2qbsjtjvv8p",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MDZ0czM0ZnYxdGQzMGFpMnFic2p0anZ2OHAgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-02-24T12:03:50.000Z",
-   "updated": "2024-02-24T12:04:38.858Z",
-   "summary": "Doris Summit",
-   "location": "Asia",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-11-02T05:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-11-02T05:30:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "06ts34fv1td30ai2qbsjtjvv8p@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3427625812538000\"",
    "id": "5hc771vgbmdl226tk3npteub08",
    "status": "confirmed",
