@@ -18,7 +18,11 @@ of events related to our Apache projects throughout the year. These events have 
  * Provide technical information about our many Apache projects
  * Build developer and user communities
 
-Note that the [ASF Travel Assistance Committee](https://tac.apache.org/) provides financial assistance for selected ASF events, to those who would otherwise be unable to attend them.
+Running a third party or project event? You must comply with the [events
+branding policy](https://www.apache.org/foundation/marks/events).
+
+The [ASF Travel Assistance Committee](https://tac.apache.org/) provides financial
+assistance for selected ASF events, to those who would otherwise be unable to attend them.
 
 ## Upcoming Events
 
@@ -41,12 +45,12 @@ Foundation events.</em>
 
 ## Past Events & Get Involved
 
-  - See the [archive of past ApacheCon events](//archive.apachecon.com/), stretching back to 1998!
-  - Want to get involved? [Volunteers are welcome](//events.apache.org/involved/) on a variety of tasks.
+  - See the [past ASF events](https://apachecon.com/history.html), stretching back to 1998!
+  - Want to get involved? [Volunteers are welcome](https:////events.apache.org/involved/) on a variety of tasks.
   - Running your own Apache-branded event? Be sure to [get trademark permission](//www.apache.org/foundation/marks/events.html).
   - [Promote upcoming ASF events](https://www.apachecon.com/event-images/) on your personal or project website.
 
-ApacheCon and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
+Community Over Code and all ASF-run events operate under the terms of the [ASF's Code of Conduct](//www.apache.org/foundation/policies/conduct.html).
 
 
 <script src="/js/jquery.min.js"></script>
