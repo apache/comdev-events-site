@@ -10,66 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3427625812538000\"",
-   "id": "5hc771vgbmdl226tk3npteub08",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NWhjNzcxdmdibWRsMjI2dGszbnB0ZXViMDggbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-04-22T19:08:26.000Z",
-   "updated": "2024-04-22T19:08:26.269Z",
-   "summary": "Cloudstack Collaboration Conference",
-   "location": "Madrid, Spain",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-11-20T01:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-11-22T09:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "5hc771vgbmdl226tk3npteub08@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
-   "etag": "\"3413440274890000\"",
-   "id": "5b9ueenge6sag6ds71k0ovni8e",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NWI5dWVlbmdlNnNhZzZkczcxazBvdm5pOGUgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-01-31T16:55:37.000Z",
-   "updated": "2024-01-31T16:55:37.445Z",
-   "summary": "Pulsar Summit",
-   "location": "APAC",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-11-22T01:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-11-22T10:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "5b9ueenge6sag6ds71k0ovni8e@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3455268986506000\"",
    "id": "65hl4m75r9sok5geau3lctel8t",
    "status": "confirmed",
