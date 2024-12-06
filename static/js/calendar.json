@@ -10,38 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3455268999156000\"",
-   "id": "6r7rmea8oqhqfe3sq8e49rsp3p",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NnI3cm1lYThvcWhxZmUzc3E4ZTQ5cnNwM3AgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2024-09-29T18:27:42.000Z",
-   "updated": "2024-09-29T18:28:19.578Z",
-   "summary": "Flink Forward Asia 2024",
-   "description": "\u003ca href=\"https://asia.flink-forward.org/\"\u003ehttps://asia.flink-forward.org/\u003c/a\u003e",
-   "location": "Jakarta, Indonesia",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2024-12-05T02:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2024-12-05T10:00:00-08:00",
-    "timeZone": "Europe/London"
-   },
-   "transparency": "transparent",
-   "iCalUID": "6r7rmea8oqhqfe3sq8e49rsp3p@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3386683847594000\"",
    "id": "2nshbfi1vd0kk0gmf019r007rl",
    "status": "confirmed",
