@@ -1,13 +1,101 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32kcffvrtaeok0o\"",
+ "etag": "\"p3348916dhnk8k0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2024-12-10T18:31:10.937Z",
+ "updated": "2025-01-09T07:23:09.373Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3472750844398000\"",
+   "id": "6dkf1rf2uk2qlgofnke9lkii10",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmRrZjFyZjJ1azJxbGdvZm5rZTlsa2lpMTAgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2025-01-08T22:30:22.000Z",
+   "updated": "2025-01-08T22:30:22.199Z",
+   "summary": "Iceberg Meetup",
+   "location": "Shenzhen, Guangdong Province, China",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2025-01-18"
+   },
+   "end": {
+    "date": "2025-01-19"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6dkf1rf2uk2qlgofnke9lkii10@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3472814778746000\"",
+   "id": "1tkp6g3j4r10lok89o859mstou",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MXRrcDZnM2o0cjEwbG9rODlvODU5bXN0b3UgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2025-01-09T07:23:09.000Z",
+   "updated": "2025-01-09T07:23:09.373Z",
+   "summary": "Iceberg Summit 2025",
+   "location": "San Francisco, CA, USA",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2025-04-07"
+   },
+   "end": {
+    "date": "2025-04-09"
+   },
+   "transparency": "transparent",
+   "iCalUID": "1tkp6g3j4r10lok89o859mstou@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3472749611756000\"",
+   "id": "5di7tmlirjog3g0snlrkr79em3",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWRpN3RtbGlyam9nM2cwc25scmtyNzllbTMgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2025-01-08T22:20:05.000Z",
+   "updated": "2025-01-08T22:20:05.878Z",
+   "summary": "Community over Code Asia 2025",
+   "location": "Beijing, China",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-07-24T17:00:00-07:00",
+    "timeZone": "Asia/Shanghai"
+   },
+   "end": {
+    "dateTime": "2025-07-27T02:00:00-07:00",
+    "timeZone": "Asia/Shanghai"
+   },
+   "iCalUID": "5di7tmlirjog3g0snlrkr79em3@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
   {
    "kind": "calendar#event",
    "etag": "\"3386683847594000\"",
