@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33897au4jqhom0o\"",
+ "etag": "\"p320elkk6ir0om0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-02-01T19:45:59.106Z",
+ "updated": "2025-02-13T17:27:54.400Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -93,6 +93,37 @@
     "timeZone": "Asia/Shanghai"
    },
    "iCalUID": "5di7tmlirjog3g0snlrkr79em3@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3478935348800000\"",
+   "id": "6j3php0l76drcm9u68brqc2j5v",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmozcGhwMGw3NmRyY205dTY4YnJxYzJqNXYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2025-02-13T15:48:21.000Z",
+   "updated": "2025-02-13T17:27:54.400Z",
+   "summary": "Community Over Code North America 2025",
+   "description": "https://communityovercode.org/",
+   "location": "Denver, CO, USA",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2025-09-11"
+   },
+   "end": {
+    "date": "2025-09-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "6j3php0l76drcm9u68brqc2j5v@google.com",
    "sequence": 0,
    "eventType": "default"
   },
