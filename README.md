@@ -44,27 +44,13 @@ To generate the static website, execute `hugo` to generate the website under tar
 During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to
 continuously (re)generate and serve the website on `localhost:1313`.
 
-# How-To add an ApacheCon event promotion to your project site
+# How-To add a Community Over Code event promotion to your project site
 
-All PMCs are asked to help promote ApacheCon and other major Apache
+All PMCs are asked to help promote Community Over Code and other major Apache
 sponsored events by adding some form of img link to their homepages,
-in whatever place works best for your site navigation.  Once you add
-the code, no further changes needed (will be auto-updated to be
-the next upcoming event).
+in whatever place works best for your site navigation.
 
-- Add a small image and link (where {size} = 125x125 or 234x60)
-
-```text
-<a  href="https://events.apache.org/x/current-event.html">
-  <img src="https://www.apache.org/events/current-event-{size}.png"/>
-</a>
-```
-
-NOTE: this page, in turn, redirects to the current or upcoming event,
-which is usually https://apachecon.com/
-
-- (or) Add larger banners with an iframe or hardcoded div:
-  https://apache.org/ads/adserver.txt
+The process for doing this is documented at https://apachecon.com/event-images/
 
 
 # How ComDev/VP, Conferences Maintains current-event Pages
