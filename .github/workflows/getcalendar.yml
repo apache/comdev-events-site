@@ -18,14 +18,14 @@ jobs:
     - name: Curl calendar
       run: |
         git config user.email "dev@community.apache.org"
-        git config user.name "Comdev by getcalendar.yml workflow"
+        git config user.name "Comdev automated workflow"
         cd static/js
         echo "download calendar"
         bash ../../getcalendar.sh
         git status
         echo "preparing to push change(s)"
         git add .
-        if git commit -m "Add updates"
+        if git commit -m "Add calendar updates" -m "Calendar updates are fetched by the getcalendar.yml workflow"
         then
             git push
             echo "Changed!"
