@@ -18,7 +18,7 @@ jobs:
     - name: Curl calendar
       run: |
         git config user.email "dev@community.apache.org"
-        git config user.name "Community Developers"
+        git config user.name "Comdev by getcalendar.yml workflow"
         cd static/js
         echo "download calendar"
         bash ../../getcalendar.sh
