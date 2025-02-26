@@ -30,6 +30,12 @@ Changes to the `main` branch of this repository trigger the [events-site Jenkins
 
 The [ASF's gitpubsub mechanism](https://blogs.apache.org/infra/entry/git_based_websites_available) then synchronizes that content to [https://events.apache.org/](https://events.apache.org/), usually within a few seconds. More details about the publication process can be found in the [ASF Documentation about Project sites](https://infra.apache.org/project-site.html). If for some reason this process fails, you can use [the self-service page from ASF Infra](https://selfserve.apache.org/) to trigger a resync of the git repo.
 
+There is also a GitHub Action workfile that runs daily (09:20 UTC).
+This fetches the Comdev calendar contents as a JSON file and updates the local copy.
+If there has been a change, this is committed to to main branch.
+In turn, this triggers the main site build as described above.
+The workfile can also be triggered directly if required.
+
 ## Powered by Hugo!
 
 The website uses Hugo as static website generator, see [their website](https://gohugo.io/) for more information
