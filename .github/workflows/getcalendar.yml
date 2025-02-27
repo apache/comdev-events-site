@@ -25,7 +25,7 @@ jobs:
         git status
         echo "preparing to push change(s)"
         git add .
-        if git commit -m "Add calendar updates" -m "Calendar updates are fetched by the getcalendar.yml workflow"
+        if git commit -m "Update calendar data (getcalendar.yml workflow)"
         then
             git push
             echo "Changed!"
