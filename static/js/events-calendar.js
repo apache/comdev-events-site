@@ -9,7 +9,7 @@ if (!events) {
 // Fetch
 $.ajax({
     type: 'GET',
-    url: encodeURI('/js/calendar.json'),
+    url: encodeURI('/js/calendar-DO-NOT-EDIT.json'),
     dataType: 'json',
     success: function (response) {
        events.empty();
