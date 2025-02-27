@@ -30,11 +30,13 @@ Changes to the `main` branch of this repository trigger the [events-site Jenkins
 
 The [ASF's gitpubsub mechanism](https://blogs.apache.org/infra/entry/git_based_websites_available) then synchronizes that content to [https://events.apache.org/](https://events.apache.org/), usually within a few seconds. More details about the publication process can be found in the [ASF Documentation about Project sites](https://infra.apache.org/project-site.html). If for some reason this process fails, you can use [the self-service page from ASF Infra](https://selfserve.apache.org/) to trigger a resync of the git repo.
 
-There is also a GitHub Action workflow that runs daily (09:20 UTC).
-This fetches the Comdev calendar contents as a JSON file and updates the local copy.
-If there has been a calendar change, this is committed to to main branch.
-In turn, this triggers the main site build as described above.
-The [getcalendar.yml workflow](https://github.com/apache/comdev-events-site/actions/workflows/getcalendar.yml) can also be triggered manually if required (click the `Run workflow` button).
+### Calendar data updates
+
+A [GitHub Action workflow](.github/workflows/getcalendar.yml) runs daily at 09:20 UTC, to fetch the Comdev calendar events and update the local JSON copy.
+
+Any calendar changes are then committed to to main branch, which triggers a site rebuild as described above.
+
+To update the website quickly after editing the Google calendar, the workflow can also be triggered manually using the `Run workflow` button on the ["Fetch the Google Calendar"](https://github.com/apache/comdev-events-site/actions/workflows/getcalendar.yml)  workflow page.
 
 ## Powered by Hugo!
 
