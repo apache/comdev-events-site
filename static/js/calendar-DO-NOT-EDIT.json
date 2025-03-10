@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p337rt9e8kbfom0o\"",
+ "etag": "\"p33fol9nkrjuom0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-02-25T16:43:45.445Z",
+ "updated": "2025-03-09T19:24:39.137Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -130,36 +130,6 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3386683847594000\"",
-   "id": "2nshbfi1vd0kk0gmf019r007rl",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=Mm5zaGJmaTF2ZDBrazBnbWYwMTlyMDA3cmwgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2023-08-29T20:45:23.000Z",
-   "updated": "2023-08-29T20:45:23.797Z",
-   "summary": "Flink Forward",
-   "location": "United States",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2025-10-07T00:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2025-10-10T10:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "2nshbfi1vd0kk0gmf019r007rl@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3481003650891422\"",
    "id": "7928s6mg6btkjq2p08n6ij1kb3",
    "status": "confirmed",
@@ -187,6 +157,36 @@
    "transparency": "transparent",
    "iCalUID": "7928s6mg6btkjq2p08n6ij1kb3@google.com",
    "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3483096558275262\"",
+   "id": "2nshbfi1vd0kk0gmf019r007rl",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Mm5zaGJmaTF2ZDBrazBnbWYwMTlyMDA3cmwgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2023-08-29T20:45:23.000Z",
+   "updated": "2025-03-09T19:24:39.137Z",
+   "summary": "Flink Forward",
+   "location": "Barcelona, Spain",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-10-14T00:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2025-10-17T10:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "2nshbfi1vd0kk0gmf019r007rl@google.com",
+   "sequence": 1,
    "eventType": "default"
   },
   {
