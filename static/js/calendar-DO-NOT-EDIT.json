@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32fspj44qm58o0o\"",
+ "etag": "\"p33nq5kkrrih8o0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-03-14T22:54:02.438Z",
+ "updated": "2025-03-24T12:30:03.534Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -99,12 +99,12 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3480989076968062\"",
+   "etag": "\"3485638807069406\"",
    "id": "6j3php0l76drcm9u68brqc2j5v",
    "status": "confirmed",
    "htmlLink": "https://www.google.com/calendar/event?eid=NmozcGhwMGw3NmRyY205dTY4YnJxYzJqNXYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
    "created": "2025-02-13T15:48:21.000Z",
-   "updated": "2025-02-25T14:42:18.484Z",
+   "updated": "2025-03-24T12:30:03.534Z",
    "summary": "Community Over Code North America 2025",
    "description": "https://communityovercode.org/",
    "location": "Minneapolis, MN, USA",
@@ -118,14 +118,16 @@
     "self": true
    },
    "start": {
-    "date": "2025-09-11"
+    "dateTime": "2025-09-11T07:00:00-07:00",
+    "timeZone": "America/New_York"
    },
    "end": {
-    "date": "2025-09-15"
+    "dateTime": "2025-09-14T15:00:00-07:00",
+    "timeZone": "America/New_York"
    },
    "transparency": "transparent",
    "iCalUID": "6j3php0l76drcm9u68brqc2j5v@google.com",
-   "sequence": 0,
+   "sequence": 1,
    "eventType": "default"
   },
   {
