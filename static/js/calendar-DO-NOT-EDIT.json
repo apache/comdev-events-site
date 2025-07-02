@@ -1,74 +1,13 @@
 {
  "kind": "calendar#events",
- "etag": "\"p327pni7dnq98s0o\"",
+ "etag": "\"p33vs9tf9tedos0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-06-27T20:57:39.480Z",
+ "updated": "2025-07-01T14:12:49.075Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
-  {
-   "kind": "calendar#event",
-   "etag": "\"3502115718961950\"",
-   "id": "4ots8ne5up2ls70csrm84j4t2m",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NG90czhuZTV1cDJsczcwY3NybTg0ajR0Mm0gbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2025-06-27T12:22:11.000Z",
-   "updated": "2025-06-27T20:57:39.480Z",
-   "summary": "Discussion: Semiotics and Logos",
-   "description": "A discussion of the recent semiotics report from Visual Signo. This will be a great opportunity to discuss the results, have any questions answered, and learn about semiotics and design!",
-   "creator": {
-    "email": "brian@proffitt.org",
-    "displayName": "Brian Proffitt"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2025-07-01T07:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "end": {
-    "dateTime": "2025-07-01T08:00:00-07:00",
-    "timeZone": "Europe/London"
-   },
-   "iCalUID": "4ots8ne5up2ls70csrm84j4t2m@google.com",
-   "sequence": 0,
-   "hangoutLink": "https://meet.google.com/znk-gvip-fcg",
-   "conferenceData": {
-    "entryPoints": [
-     {
-      "entryPointType": "video",
-      "uri": "https://meet.google.com/znk-gvip-fcg",
-      "label": "meet.google.com/znk-gvip-fcg"
-     },
-     {
-      "entryPointType": "more",
-      "uri": "https://tel.meet/znk-gvip-fcg?pin=9302945159984",
-      "pin": "9302945159984"
-     },
-     {
-      "regionCode": "US",
-      "entryPointType": "phone",
-      "uri": "tel:+1-316-413-2124",
-      "label": "+1 316-413-2124",
-      "pin": "851530912"
-     }
-    ],
-    "conferenceSolution": {
-     "key": {
-      "type": "hangoutsMeet"
-     },
-     "name": "Google Meet",
-     "iconUri": "https://fonts.gstatic.com/s/i/productlogos/meet_2020q4/v6/web-512dp/logo_meet_2020q4_color_2x_web_512dp.png"
-    },
-    "conferenceId": "znk-gvip-fcg"
-   },
-   "eventType": "default"
-  },
   {
    "kind": "calendar#event",
    "etag": "\"3476878318212000\"",
