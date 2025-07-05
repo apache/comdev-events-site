@@ -10,35 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3476878318212000\"",
-   "id": "263nt3k78ssjgk7uorrf5gvlqn",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MjYzbnQzazc4c3NqZ2s3dW9ycmY1Z3ZscW4gbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2025-02-01T19:45:59.000Z",
-   "updated": "2025-02-01T19:45:59.106Z",
-   "summary": "Flink Forward Asia",
-   "location": "Singapore",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2025-07-03"
-   },
-   "end": {
-    "date": "2025-07-05"
-   },
-   "transparency": "transparent",
-   "iCalUID": "263nt3k78ssjgk7uorrf5gvlqn@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3480989169321310\"",
    "id": "5di7tmlirjog3g0snlrkr79em3",
    "status": "confirmed",
