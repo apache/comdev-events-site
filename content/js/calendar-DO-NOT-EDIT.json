@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32fu316ns2pos0o\"",
+ "etag": "\"p33np5c6btn9os0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-07-11T02:26:50.410Z",
+ "updated": "2025-07-23T20:49:47.243Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -131,6 +131,75 @@
    },
    "iCalUID": "2nshbfi1vd0kk0gmf019r007rl@google.com",
    "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3506607574487774\"",
+   "id": "77uvlt9qor7rpkjlfiamnhhf61_20251016T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzd1dmx0OXFvcjdycGtqbGZpYW1uaGhmNjFfMjAyNTEwMTZUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-07-23T20:48:26.000Z",
+   "updated": "2025-07-23T20:49:47.243Z",
+   "summary": "NuttX International Workshop 2025",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-10-16T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2025-10-16T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "77uvlt9qor7rpkjlfiamnhhf61",
+   "originalStartTime": {
+    "dateTime": "2025-10-16T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "77uvlt9qor7rpkjlfiamnhhf61@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3506607574487774\"",
+   "id": "77uvlt9qor7rpkjlfiamnhhf61_20251017T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=Nzd1dmx0OXFvcjdycGtqbGZpYW1uaGhmNjFfMjAyNTEwMTdUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-07-23T20:48:26.000Z",
+   "updated": "2025-07-23T20:49:47.243Z",
+   "summary": "NuttX International Workshop 2025",
+   "description": "\u003ca href=\"https://events.nuttx.apache.org/\"\u003ehttps://events.nuttx.apache.org/\u003c/a\u003e",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2025-10-17T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2025-10-17T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "77uvlt9qor7rpkjlfiamnhhf61",
+   "originalStartTime": {
+    "dateTime": "2025-10-17T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "77uvlt9qor7rpkjlfiamnhhf61@google.com",
+   "sequence": 0,
    "eventType": "default"
   },
   {
