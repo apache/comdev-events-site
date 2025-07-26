@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33np5c6btn9os0o\"",
+ "etag": "\"p33nu9b6njvd8s0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-07-23T20:49:47.243Z",
+ "updated": "2025-07-26T09:49:52.557Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -228,6 +228,76 @@
    },
    "transparency": "transparent",
    "iCalUID": "4opt3kbnvj6v2bdo0010g8d6r4@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3507046785115358\"",
+   "id": "7db05df3s8c3hi96n4h3gung6j_20260711T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2RiMDVkZjNzOGMzaGk5Nm40aDNndW5nNmpfMjAyNjA3MTFUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-07-26T09:49:52.000Z",
+   "updated": "2025-07-26T09:49:52.557Z",
+   "summary": "Flink Forward 2026",
+   "location": "Shenzhen, Guangdong Province, China",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-07-11T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-07-11T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "7db05df3s8c3hi96n4h3gung6j",
+   "originalStartTime": {
+    "dateTime": "2026-07-11T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "7db05df3s8c3hi96n4h3gung6j@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3507046785115358\"",
+   "id": "7db05df3s8c3hi96n4h3gung6j_20260712T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=N2RiMDVkZjNzOGMzaGk5Nm40aDNndW5nNmpfMjAyNjA3MTJUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-07-26T09:49:52.000Z",
+   "updated": "2025-07-26T09:49:52.557Z",
+   "summary": "Flink Forward 2026",
+   "location": "Shenzhen, Guangdong Province, China",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-07-12T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-07-12T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "7db05df3s8c3hi96n4h3gung6j",
+   "originalStartTime": {
+    "dateTime": "2026-07-12T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "7db05df3s8c3hi96n4h3gung6j@google.com",
    "sequence": 0,
    "eventType": "default"
   }
