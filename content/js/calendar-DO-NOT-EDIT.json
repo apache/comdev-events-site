@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3480989169321310\"",
-   "id": "5di7tmlirjog3g0snlrkr79em3",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NWRpN3RtbGlyam9nM2cwc25scmtyNzllbTMgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2025-01-08T22:20:05.000Z",
-   "updated": "2025-02-25T14:43:04.660Z",
-   "summary": "Community over Code Asia 2025",
-   "description": "https://asia.communityovercode.org/",
-   "location": "Beijing, China",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2025-07-24T17:00:00-07:00",
-    "timeZone": "Asia/Shanghai"
-   },
-   "end": {
-    "dateTime": "2025-07-27T02:00:00-07:00",
-    "timeZone": "Asia/Shanghai"
-   },
-   "iCalUID": "5di7tmlirjog3g0snlrkr79em3@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3485638807069406\"",
    "id": "6j3php0l76drcm9u68brqc2j5v",
    "status": "confirmed",
