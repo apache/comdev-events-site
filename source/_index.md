@@ -27,9 +27,6 @@ assistance for selected ASF events, to those who would otherwise be unable to at
 ## Upcoming Events
 
 <ul id="events">
-<script>
- <li><i>List loading</i></li>
-</script>
 <noscript>
  <li><i>Sorry, this requires Javascript</i></li>
 </noscript>
