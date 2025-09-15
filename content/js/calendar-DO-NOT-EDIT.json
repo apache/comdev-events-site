@@ -10,39 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3485638807069406\"",
-   "id": "6j3php0l76drcm9u68brqc2j5v",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NmozcGhwMGw3NmRyY205dTY4YnJxYzJqNXYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2025-02-13T15:48:21.000Z",
-   "updated": "2025-03-24T12:30:03.534Z",
-   "summary": "Community Over Code North America 2025",
-   "description": "https://communityovercode.org/",
-   "location": "Minneapolis, MN, USA",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "dateTime": "2025-09-11T07:00:00-07:00",
-    "timeZone": "America/New_York"
-   },
-   "end": {
-    "dateTime": "2025-09-14T15:00:00-07:00",
-    "timeZone": "America/New_York"
-   },
-   "transparency": "transparent",
-   "iCalUID": "6j3php0l76drcm9u68brqc2j5v@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3481003650891422\"",
    "id": "7928s6mg6btkjq2p08n6ij1kb3",
    "status": "confirmed",
