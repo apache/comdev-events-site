@@ -53,7 +53,10 @@ $.ajax({
                  html += ev.summary;
              }
              if (link) { html += "</a>"; }
-             html += " - <i>" + when + "</i>";
+             html += " - <a href='" + ev.htmlLink + "'><i>" + when + "</i></a>";
+             if (ev.description && !link) { // add description if not already used
+               html += "<br/>" + ev.description;
+             }
              if (ev.location) {
                 html += "<br/>"+ev.location;
              }
