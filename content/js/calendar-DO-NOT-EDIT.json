@@ -10,35 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3474617540508000\"",
-   "id": "4opt3kbnvj6v2bdo0010g8d6r4",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=NG9wdDNrYm52ajZ2MmJkbzAwMTBnOGQ2cjQgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2025-01-19T17:46:10.000Z",
-   "updated": "2025-01-19T17:46:10.254Z",
-   "summary": "Cloudstack Collaboration Conference 2025",
-   "location": "Italy",
-   "creator": {
-    "email": "markt@gsuite.cloud.apache.org"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2025-11-19"
-   },
-   "end": {
-    "date": "2025-11-22"
-   },
-   "transparency": "transparent",
-   "iCalUID": "4opt3kbnvj6v2bdo0010g8d6r4@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3507046785115358\"",
    "id": "7db05df3s8c3hi96n4h3gung6j_20260711T080000Z",
    "status": "confirmed",
