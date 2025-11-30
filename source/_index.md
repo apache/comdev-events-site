@@ -3,7 +3,7 @@ title: Apache Software Foundation Events
 ---
 
 <link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
+<script src="/_pagefind/pagefind-ui.js"></script>
 <div id="search"></div>
 <script>
     window.addEventListener('DOMContentLoaded', (event) => {
@@ -26,10 +26,11 @@ assistance for selected ASF events, to those who would otherwise be unable to at
 
 ## Upcoming Events
 
-<ul id="events">
 <noscript>
- <li><i>Sorry, this requires Javascript</i></li>
+ <i>Sorry, this requires Javascript</i>
 </noscript>
+
+<ul id="events">
 </ul>
 
 Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
@@ -43,7 +44,7 @@ Foundation events.</em>
 ## Past Events & Get Involved
 
   - See the [past ASF events](https://apachecon.com/history.html), stretching back to 1998!
-  - Want to get involved? [Volunteers are welcome](https:////events.apache.org/involved/) on a variety of tasks.
+  - Want to get involved? [Volunteers are welcome](https://events.apache.org/involved/) on a variety of tasks.
   - Running your own Apache-branded event? Be sure to [get trademark permission](//www.apache.org/foundation/marks/events.html).
   - [Promote upcoming ASF events](https://www.apachecon.com/event-images/) on your personal or project website.
 

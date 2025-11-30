@@ -9,10 +9,11 @@ This is the list of upcoming official Apache events, and
 those events which have been approved to use Apache Marks under the
 [Third Party Event Branding Policy][1].
 
-<ul id="events">
 <noscript>
- <li><i>Sorry, this requires Javascript</i></li>
+ <i>Sorry, this requires Javascript</i>
 </noscript>
+
+<ul id="events">
 </ul>
 
 For a complete list of events see our [calendar](calendar.html).
