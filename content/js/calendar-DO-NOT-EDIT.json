@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p32nun86do6op20o\"",
+ "etag": "\"p32nojhuhof2p20o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2025-12-09T22:04:48.456Z",
+ "updated": "2025-12-17T21:07:09.109Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -181,6 +181,111 @@
    },
    "iCalUID": "5uo3gjkgdd4pq15sbncplobvmr@google.com",
    "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3532011258218846\"",
+   "id": "04q3qjccsf5nqqpgtao2qq17sg_20261118T090000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDRxM3FqY2NzZjVucXFwZ3RhbzJxcTE3c2dfMjAyNjExMThUMDkwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-12-17T21:06:19.000Z",
+   "updated": "2025-12-17T21:07:09.109Z",
+   "summary": "CloudStack Collaboration Conference",
+   "location": "Edinburgh, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-18T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-11-18T09:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "04q3qjccsf5nqqpgtao2qq17sg",
+   "originalStartTime": {
+    "dateTime": "2026-11-18T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "04q3qjccsf5nqqpgtao2qq17sg@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3532011258218846\"",
+   "id": "04q3qjccsf5nqqpgtao2qq17sg_20261119T090000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDRxM3FqY2NzZjVucXFwZ3RhbzJxcTE3c2dfMjAyNjExMTlUMDkwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-12-17T21:06:19.000Z",
+   "updated": "2025-12-17T21:07:09.109Z",
+   "summary": "CloudStack Collaboration Conference",
+   "location": "Edinburgh, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-19T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-11-19T09:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "04q3qjccsf5nqqpgtao2qq17sg",
+   "originalStartTime": {
+    "dateTime": "2026-11-19T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "04q3qjccsf5nqqpgtao2qq17sg@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3532011258218846\"",
+   "id": "04q3qjccsf5nqqpgtao2qq17sg_20261120T090000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDRxM3FqY2NzZjVucXFwZ3RhbzJxcTE3c2dfMjAyNjExMjBUMDkwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-12-17T21:06:19.000Z",
+   "updated": "2025-12-17T21:07:09.109Z",
+   "summary": "CloudStack Collaboration Conference",
+   "location": "Edinburgh, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-20T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-11-20T09:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "04q3qjccsf5nqqpgtao2qq17sg",
+   "originalStartTime": {
+    "dateTime": "2026-11-20T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "04q3qjccsf5nqqpgtao2qq17sg@google.com",
+   "sequence": 1,
    "eventType": "default"
   }
  ]
