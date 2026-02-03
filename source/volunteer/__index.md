@@ -17,11 +17,11 @@ We have volunteer opportunities in several areas. (This is not an
 exhaustive list. If there's something you see that's not being done,
 please come talk to us about it.)
 
-* [Hackathon Coordination](hackathon) - Help organize and run hackathons at Apache events
-* [University Outreach](university) - Connect with colleges and universities across multiple departments
-* [Meetup Outreach](meetup) - Engage with local meetup groups about upcoming events
-* [Speaker Support](speaker-support) - Provide coaching and feedback to speakers
-* [Design](design) - Create visual materials for events and outreach
+* [Hackathon Coordination](hackathon.html) - Help organize and run hackathons at Apache events
+* [University Outreach](university.html) - Connect with colleges and universities across multiple departments
+* [Meetup Outreach](meetup.html) - Engage with local meetup groups about upcoming events
+* [Speaker Support](speaker-support.html) - Provide coaching and feedback to speakers
+* [Design](design.html) - Create visual materials for events and outreach
 
 All volunteers work under the [ASF Code of Conduct](https://www.apache.org/foundation/policies/conduct.html).
 
