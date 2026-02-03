@@ -4,7 +4,7 @@ title: Meetup Outreach
 
 Reaching out to local meetup groups is a great way to get a larger
 audience to our events, and serve the local technical community. As a
-meetuo outreach coordinator, you'll be identifying those meetup groups,
+meetup outreach coordinator, you'll be identifying those meetup groups,
 and getting the word out to them.
 
 Volunteers should be local to the event venue.
