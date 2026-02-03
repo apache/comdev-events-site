@@ -19,8 +19,8 @@ please come talk to us about it.)
 
 * [Hackathon Coordination](hackathon) - Help organize and run hackathons at Apache events
 * [University Outreach](university) - Connect with colleges and universities across multiple departments
+* [Meetup Outreach](meetup) - Engage with local meetup groups about upcoming events
 * [Speaker Support](speaker-support) - Provide coaching and feedback to speakers
-* [Meetup Outreach](meetup) - Engage with local meetup groups
 * [Design](design) - Create visual materials for events and outreach
 
 All volunteers work under the [ASF Code of Conduct](https://www.apache.org/foundation/policies/conduct.html).
