@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33fptmufsqup40o\"",
+ "etag": "\"p33fqf9kmtmup40o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-02-03T17:03:09.090Z",
+ "updated": "2026-02-03T17:32:27.733Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -109,13 +109,14 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3540276293663486\"",
+   "etag": "\"3540279895467966\"",
    "id": "04q3qjccsf5nqqpgtao2qq17sg_20261118T090000Z",
    "status": "confirmed",
    "htmlLink": "https://www.google.com/calendar/event?eid=MDRxM3FqY2NzZjVucXFwZ3RhbzJxcTE3c2dfMjAyNjExMThUMDkwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
    "created": "2025-12-17T21:06:19.000Z",
-   "updated": "2026-02-03T17:02:26.831Z",
+   "updated": "2026-02-03T17:32:27.733Z",
    "summary": "CloudStack Collaboration Conference",
+   "description": "https://www.cloudstackcollab.org/",
    "location": "Edinburgh, UK",
    "creator": {
     "email": "markt@gsuite.cloud.apache.org"
