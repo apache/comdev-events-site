@@ -13,7 +13,7 @@
       
       <guid>https://events.apache.org/involved/mailing-lists.html</guid>
       <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
-ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events ApacheCon Discuss apachecon-discuss@apache.org Subscription address: apachecon-discuss-subscribe@apache.org Archives: Web archives Use: Public discussion of Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Since events are produced and organized by the Apache community development PMC, most event discussion starts on the ComDev mailing list Planners (Planning committee members only) planners@apachecon.</description>
+ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Broader community development activies across the ASF. See the comdev site for more details. Planners (Planning committee members only) planners@apachecon.com Subscription address: planners-subscribe@apachecon.com Subscription note: All subscriptions are moderated.</description>
     </item>
     
     <item>

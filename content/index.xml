@@ -24,7 +24,7 @@ While not a traditional roadshow (ie, a traveling event with multiple stops), we
       <guid>https://events.apache.org/about/</guid>
       <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
 The main types of event we work with around ASF projects are:
-Community Over Code - the ASF&amp;rsquo;s official conference Roadshows - bringing ASF content around the world Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses ASF brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
+Community Over Code - the ASF&amp;rsquo;s official conference Endorsed events - run by third parties using Apache brands Volunteer! - volunteer opportunities at ASF events.</description>
     </item>
     
     <item>
@@ -44,7 +44,7 @@ If you want to volunteer to help with Community Over Code, please join our maili
       
       <guid>https://events.apache.org/involved/mailing-lists.html</guid>
       <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
-ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events ApacheCon Discuss apachecon-discuss@apache.org Subscription address: apachecon-discuss-subscribe@apache.org Archives: Web archives Use: Public discussion of Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Since events are produced and organized by the Apache community development PMC, most event discussion starts on the ComDev mailing list Planners (Planning committee members only) planners@apachecon.</description>
+ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Broader community development activies across the ASF. See the comdev site for more details. Planners (Planning committee members only) planners@apachecon.com Subscription address: planners-subscribe@apachecon.com Subscription note: All subscriptions are moderated.</description>
     </item>
     
     <item>
@@ -101,6 +101,16 @@ Many of the recommendations in here can, of course, be applied to any Apache eve
     </item>
     
     <item>
+      <title>Design Volunteers</title>
+      <link>https://events.apache.org/volunteer/design.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/design.html</guid>
+      <description>Visual design plays a crucial role in promoting Apache events and reaching diverse audiences. Design volunteers create materials that help communicate the value and accessibility of Apache events.
+Design Opportunities Posters and Print Materials Event posters and landing pages for different outreach audiences Flyers for university and meetup distribution Design Considerations Maintain consistency with Apache brand guidelines Create inclusive, welcoming visuals Design for accessibility Consider diverse audiences and contexts Support multiple formats and sizes Skills Needed Graphic design experience Understanding of web design principles Attention to accessibility standards Get Involved If you have design skills and want to help promote Apache events, please come talk to us!</description>
+    </item>
+    
+    <item>
       <title>Getting Involved in Apache Events</title>
       <link>https://events.apache.org/involved/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -108,6 +118,28 @@ Many of the recommendations in here can, of course, be applied to any Apache eve
       <guid>https://events.apache.org/involved/</guid>
       <description>There are a number of different ways to get involved with Events at Apache. Many of these come under the umbrella of the Conferences Committee, but some fall under different groups, such as the Apache Community Development Project.
 If you are an Apache Committer, and you&amp;rsquo;re interested in putting on an Apache Event, please see the Organising Events section for more help. If you are interested in helping others out with putting on an Apache Event, you are advised to join the appropriate mailing list, and volunteer for events there.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Coordination</title>
+      <link>https://events.apache.org/volunteer/hackathon.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/hackathon.html</guid>
+      <description>Hackathons are hands-on collaborative events where developers work together on Apache projects.
+A hackathon coordinater works with representatives from projects likely to have a presence at event to help them think about what they might work on, and publicize this work to the project community and the audience of the event.
+They&amp;rsquo;ll also work with the planners of the event to create a space with the necessary components (tables, power outlets, signage, etc) to make that space welcoming to participants, including beginners.</description>
+    </item>
+    
+    <item>
+      <title>Meetup Outreach</title>
+      <link>https://events.apache.org/volunteer/meetup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/meetup.html</guid>
+      <description>Reaching out to local meetup groups is a great way to get a larger audience to our events, and serve the local technical community. As a meetuo outreach coordinator, you&amp;rsquo;ll be identifying those meetup groups, and getting the word out to them.
+Volunteers should be local to the event venue.
+What Meetup Outreach Involves Identify relevant local meetup groups Build relationships with local tech communities Look for related topics, like legal, business, and communication, which may be interested in open source and Apache projects Share information about Apache events with meetup communities Encourage meetup participants to submit talks for the upcoming event Types of Meetup Groups you might conenct with We can engage with various types of groups:</description>
     </item>
     
     <item>
@@ -129,6 +161,40 @@ Important! While we appreciate other parties producing events to tell the world 
       <description>DRAFT This is intended to document the bid process for running/hosting a Roadshow. In particular, if you want ASF budget for it.
 You need, at a minimum
 Event chair Must be an ASF member Must be resident in the city where the event is proposed Volunteers to support (how many?) City/Venue selected University cities are preferred Local tech firms that can sponsor? Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget Leads on sponsorship helpful Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event To run a roadshow or other small event without ASF budget, you only need to:</description>
+    </item>
+    
+    <item>
+      <title>Speaker Support and Coaching</title>
+      <link>https://events.apache.org/volunteer/speaker-support.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/speaker-support.html</guid>
+      <description>Great presentations help spread knowledge about Apache projects and the ASF. Our speaker support volunteers provide coaching and feedback to help speakers deliver engaging, effective talks.
+What speaker support volunteers do As a volunteer, you&amp;rsquo;ll offer several types of speaker support:
+CFP and Abstract Support Review and provide feedback on conference proposals Help refine talk titles and abstracts Advise on targeting proposals to specific audiences Suggest improvements to increase acceptance chances Slide Review and Editing Review presentation slides for clarity and flow Provide feedback on visual design and readability Suggest improvements to technical content Help ensure slides align with talk objectives and ASF branding Presentation Rehearsal Conduct dress rehearsal sessions via video chat Provide constructive feedback on delivery Help with timing and pacing Offer tips on handling questions Build speaker confidence Who Can Help We welcome volunteers with:</description>
+    </item>
+    
+    <item>
+      <title>University and Educational Outreach</title>
+      <link>https://events.apache.org/volunteer/university.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/university.html</guid>
+      <description>Apache projects offer valuable learning opportunities for students and educators across many disciplines. University outreach volunteers help connect Apache communities with educational institutions at all levels.
+Outreach Opportunities University outreach volunteers should be local to the event venue, and familiar with local educational institutions.
+We engage with multiple departments and programs:
+Computer Science - Software development, open source practices, distributed systems Legal Studies - Open source licensing, intellectual property, foundation governance Business - Community management, project governance, open source business models Design - User experience, visual design, accessibility Other Disciplines - Technical writing, marketing, communications, and more What Outreach Volunteers Do Connect with faculty and student organizations Create simple posters targeted at each audience Create more detailed landing pages for each audiencem, describing what they night get out of the event.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer Opportunities</title>
+      <link>https://events.apache.org/volunteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/</guid>
+      <description>The Apache Software Foundation events program relies on volunteers to help make our events successful and welcoming. Whether you have a few hours or want to take on a larger role, there are many ways to contribute.
+We welcome volunteers of all experience levels and backgrounds! You do not need to be an Apache member, committer, or an expert on any particular Apache project to volunteer for these task.
+Join the #volunteers channel on the apachecon.</description>
     </item>
     
     <item>

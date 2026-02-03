@@ -6,16 +6,16 @@
     <lastmod>2024-04-29T15:35:41-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/about/</loc>
-    <lastmod>2023-11-16T11:22:06-05:00</lastmod>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/about/commcode/</loc>
     <lastmod>2024-04-29T15:55:58-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/about.html</loc>
-    <lastmod>2024-04-29T15:55:58-04:00</lastmod>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/involved/mailing-lists.html</loc>
-    <lastmod>2020-08-10T18:39:51+02:00</lastmod>
+    <lastmod>2026-02-03T11:07:02-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/event/</loc>
     <lastmod>2025-11-30T13:57:37+00:00</lastmod>
@@ -35,14 +35,23 @@
     <loc>https://events.apache.org/about/commcode/playbook.html</loc>
     <lastmod>2023-11-16T11:21:20-05:00</lastmod>
   </url><url>
+    <loc>https://events.apache.org/volunteer/design.html</loc>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/event.html</loc>
     <lastmod>2025-11-30T13:57:37+00:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/involved/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
+    <loc>https://events.apache.org/volunteer/hackathon.html</loc>
+    <lastmod>2026-02-03T11:00:09-05:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/involved.html</loc>
-    <lastmod>2023-05-24T17:13:51+01:00</lastmod>
+    <lastmod>2026-02-03T11:07:02-05:00</lastmod>
+  </url><url>
+    <loc>https://events.apache.org/volunteer/meetup.html</loc>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/organize/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
@@ -53,7 +62,19 @@
     <loc>https://events.apache.org/organize/roadshow.html</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
+    <loc>https://events.apache.org/volunteer/speaker-support.html</loc>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
+  </url><url>
+    <loc>https://events.apache.org/volunteer/university.html</loc>
+    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
+  </url><url>
+    <loc>https://events.apache.org/volunteer/</loc>
+    <lastmod>2026-02-03T11:09:44-05:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/about/commcode/volunteer.html</loc>
     <lastmod>2023-11-16T11:21:20-05:00</lastmod>
+  </url><url>
+    <loc>https://events.apache.org/volunteer.html</loc>
+    <lastmod>2026-02-03T11:09:44-05:00</lastmod>
   </url>
 </urlset>
