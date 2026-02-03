@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/event.html</link>
+    <link>https://events.apache.org/event/</link>
     <description>Recent content in Events on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/event/index.xml" rel="self" type="application/rss+xml" />
@@ -19,10 +19,10 @@ In addition to Official Apache Events, there are a wide range of other events wh
     
     <item>
       <title>Apache Conferences Calendar</title>
-      <link>https://events.apache.org/event/calendar.html</link>
+      <link>https://events.apache.org/event/calendar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/event/calendar.html</guid>
+      <guid>https://events.apache.org/event/calendar/</guid>
       <description>This Calendar is maintained by the Apache Conferences Committee (ConCom). It&amp;rsquo;s used to list official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
 The calendar can be viewed at https://www.google.com/calendar/&amp;hellip;
 This Calendar is also available as an iCal feed</description>
@@ -30,10 +30,10 @@ This Calendar is also available as an iCal feed</description>
     
     <item>
       <title>Apache Past Events</title>
-      <link>https://events.apache.org/event/past-events.html</link>
+      <link>https://events.apache.org/event/past-events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/event/past-events.html</guid>
+      <guid>https://events.apache.org/event/past-events/</guid>
       <description>Past ApacheCons For details on past ApacheCons, and archived sites of previous events (where available), please see https://archive.apachecon.com/
 Information on past ApacheCons is also available on the ApacheCon Wiki</description>
     </item>

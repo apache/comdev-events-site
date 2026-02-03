@@ -2,79 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://events.apache.org/about/roadshow.html</loc>
+    <loc>https://events.apache.org/about/roadshow/</loc>
     <lastmod>2024-04-29T15:35:41-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/about/</loc>
-    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
+    <lastmod>2026-02-03T13:06:29-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/about/commcode/</loc>
     <lastmod>2024-04-29T15:55:58-04:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/about.html</loc>
-    <lastmod>2026-02-03T09:52:34-05:00</lastmod>
+    <loc>https://events.apache.org/about/</loc>
+    <lastmod>2026-02-03T13:06:29-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/involved/mailing-lists.html</loc>
+    <loc>https://events.apache.org/involved/mailing-lists/</loc>
     <lastmod>2026-02-03T11:07:02-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/event/</loc>
     <lastmod>2025-11-30T13:57:37+00:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/event/calendar.html</loc>
+    <loc>https://events.apache.org/event/calendar/</loc>
     <lastmod>2024-04-18T00:05:43+01:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/about/endorsed.html</loc>
+    <loc>https://events.apache.org/about/endorsed/</loc>
     <lastmod>2020-08-10T18:39:51+02:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/event/past-events.html</loc>
+    <loc>https://events.apache.org/event/past-events/</loc>
     <lastmod>2020-08-10T18:39:51+02:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/</loc>
     <lastmod>2025-11-30T13:57:37+00:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/about/commcode/playbook.html</loc>
+    <loc>https://events.apache.org/about/commcode/playbook/</loc>
     <lastmod>2023-11-16T11:21:20-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer/design.html</loc>
+    <loc>https://events.apache.org/volunteer/design/</loc>
     <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/event.html</loc>
+    <loc>https://events.apache.org/event/</loc>
     <lastmod>2025-11-30T13:57:37+00:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/involved/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer/hackathon.html</loc>
+    <loc>https://events.apache.org/volunteer/hackathon/</loc>
     <lastmod>2026-02-03T11:00:09-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/involved.html</loc>
+    <loc>https://events.apache.org/involved/</loc>
     <lastmod>2026-02-03T11:07:02-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer/meetup.html</loc>
+    <loc>https://events.apache.org/volunteer/meetup/</loc>
     <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/organize/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/organize.html</loc>
+    <loc>https://events.apache.org/organize/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/organize/roadshow.html</loc>
+    <loc>https://events.apache.org/organize/roadshow/</loc>
     <lastmod>2023-05-24T17:13:51+01:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer/speaker-support.html</loc>
+    <loc>https://events.apache.org/volunteer/speaker-support/</loc>
     <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer/university.html</loc>
+    <loc>https://events.apache.org/volunteer/university/</loc>
     <lastmod>2026-02-03T09:52:34-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/volunteer/</loc>
     <lastmod>2026-02-03T11:09:44-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/about/commcode/volunteer.html</loc>
+    <loc>https://events.apache.org/about/commcode/volunteer/</loc>
     <lastmod>2023-11-16T11:21:20-05:00</lastmod>
   </url><url>
-    <loc>https://events.apache.org/volunteer.html</loc>
+    <loc>https://events.apache.org/volunteer/</loc>
     <lastmod>2026-02-03T11:09:44-05:00</lastmod>
   </url>
 </urlset>

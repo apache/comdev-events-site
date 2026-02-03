@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Involveds on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/involved.html</link>
+    <link>https://events.apache.org/involved/</link>
     <description>Recent content in Involveds on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/involved/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Conferences and Events Mailing Lists</title>
-      <link>https://events.apache.org/involved/mailing-lists.html</link>
+      <link>https://events.apache.org/involved/mailing-lists/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/involved/mailing-lists.html</guid>
+      <guid>https://events.apache.org/involved/mailing-lists/</guid>
       <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
 ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Broader community development activies across the ASF. See the comdev site for more details. Planners (Planning committee members only) planners@apachecon.com Subscription address: planners-subscribe@apachecon.com Subscription note: All subscriptions are moderated.</description>
     </item>
