@@ -10,8 +10,8 @@ projects and about the Foundation, and to build the communities.
 The main types of event we work with around ASF projects are:
 
   - [Community Over Code](/about/commcode/index.html) - the ASF's official conference
-  - [Roadshows](/about/roadshow.html) - bringing ASF content around the world
   - [Endorsed events](/about/endorsed.html) - run by third parties using Apache brands
+  - [Volunteer!](/volunteer/index.html) - volunteer opportunities at ASF events.
 
 If you want to organize your own event that uses ASF brands or trademarks in any way, we strongly encourage you to
 [coordinate with us](/organize/index.html).
