@@ -14,11 +14,11 @@ We need your help to make it a success!
 We are looking for volunteers for a number of community engagement tasks.
 These roles include:
 
-* **[Hackathon Coordination](/volunteers/hackathon.html)** - Help organize and run the hackathon
-* **[University Outreach](/volunteers/university.html)** - Connect with colleges and universities across multiple departments
-* **[Meetup Outreach](/volunteers/meetup.html)** - Engage with local meetup groups
-* **[Speaker Support](/volunteers/speaker-support.html)** - Provide coaching and feedback to speakers
-* **[Design](/volunteers/design.html)** - Create visual materials for outreach and on-site
+* **[Hackathon Coordination](/volunteer/hackathon.html)** - Help organize and run the hackathon
+* **[University Outreach](/volunteer/university.html)** - Connect with colleges and universities across multiple departments
+* **[Meetup Outreach](/volunteer/meetup.html)** - Engage with local meetup groups
+* **[Speaker Support](/volunteer/speaker-support.html)** - Provide coaching and feedback to speakers
+* **[Design](/volunteer/design.html)** - Create visual materials for outreach and on-site
 
 If you are interested in volunteering for any of these jobs, please:
 
