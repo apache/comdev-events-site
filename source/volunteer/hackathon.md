@@ -4,7 +4,7 @@ title: Hackathon Coordination
 
 Hackathons are hands-on collaborative events where developers work together on Apache projects.
 
-A hackathon coordinater works with representatives from projects likely
+A hackathon coordinator works with representatives from projects likely
 to have a presence at event to help them think about what they might
 work on, and publicize this work to the project community and the
 audience of the event.

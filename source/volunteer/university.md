@@ -26,7 +26,7 @@ We engage with multiple departments and programs:
   unaware of the ASF, but familiar with some of the individual projects,
   or open source in general
 * Put up posters or fliers at local colleges, universities, and
-  highschools.
+  high schools.
 
 ## How to volunteer.
 
