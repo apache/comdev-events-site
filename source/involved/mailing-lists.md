@@ -11,12 +11,6 @@ Software Foundation events occurs:
 | Archives: | [Web archives](https://lists.apache.org/list.html?announce@apachecon.com) |
 | Use: | Read-only: Announcements of, and details about, Apache events |
 
-| ApacheCon Discuss | apachecon-discuss@apache.org |
-|-------------------|------------------------------|
-| Subscription address: | [apachecon-discuss-subscribe@apache.org](mailto:apachecon-discuss-subscribe@apache.org) |
-| Archives: | [Web archives](https://lists.apache.org/list.html?apachecon-discuss@apache.org) |
-| Use: | Public discussion of Apache events |
-
 | Community Development | dev@community.apache.org               |
 |--------------------------|---------------------------------|
 | Subscription address:    | [dev-subscribe@community.apache.org](mailto:dev-subscribe@community.apache.org) |

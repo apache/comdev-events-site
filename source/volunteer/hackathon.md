@@ -13,10 +13,11 @@ They'll also work with the planners of the event to create a space with
 the necessary components (tables, power outlets, signage, etc) to make
 that space welcoming to participants, including beginners.
 
+## What you'll be doing
+
 (You don't have to do all of this work yourself - find several friends
 to do this with you!)
 
-## What you'll be doing
 
 ### Before the event
 
