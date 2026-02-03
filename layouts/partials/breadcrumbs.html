@@ -5,7 +5,7 @@
     {{ range $index, $element := split $url "/" }}
         {{ $.Scratch.Add "path" $element }}
         {{ if ne $element "" }}
-            &nbsp; <a href='{{ $.Scratch.Get "path" }}'>{{ replace (humanize .) ".html" "" }}</a>
+            <li class="breadcrumb-item"><a href='{{ $.Scratch.Get "path" }}'>{{ humanize . | replaceRE "\\.[hH]tml$" "" }}</a></li>
             {{ $.Scratch.Add "path" "/" }}
         {{ end }}
     {{ end }}
