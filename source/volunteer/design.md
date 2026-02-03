@@ -28,5 +28,5 @@ Visual design plays a crucial role in promoting Apache events and reaching diver
 ## Get Involved
 
 If you have design skills and want to help promote Apache events, please
-come talk to us! Subscrie to the [Event planning mailing list](mailto:planners@apachecon.com) 
+come talk to us! Subscribe to the [Event planning mailing list](mailto:planners@apachecon.com) 
 and join us in Slack to discuss design volunteer opportunities.

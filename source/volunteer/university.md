@@ -21,12 +21,12 @@ We engage with multiple departments and programs:
 
 * Connect with faculty and student organizations
 * Create simple posters targeted at each audience
-* Create more detailed landing pages for each audiencem, describing what
+* Create more detailed landing pages for each audience, describing what
   they night get out of the event. Note that many students will be
   unaware of the ASF, but familiar with some of the individual projects,
   or open source in general
 * Put up posters or fliers at local colleges, universities, and
-  highschools.
+  high schools.
 
 ## How to volunteer.
 
