@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/about/</link>
+    <link>https://events.apache.org/about.html</link>
     <description>Recent content in Abouts on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Apache Roadshows</title>
-      <link>https://events.apache.org/about/roadshow/</link>
+      <link>https://events.apache.org/about/roadshow.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/roadshow/</guid>
+      <guid>https://events.apache.org/about/roadshow.html</guid>
       <description>Apache Roadshows are small regional one- or two-day events, intended to build local community and educate about what the Apache Software Foundation does.
 While not a traditional roadshow (ie, a traveling event with multiple stops), we use the name to indicate that there may be multiple small events on a particular continent. Thus, the Europe Roadshow may have small events in Berlin and Barcelona during the course of a year, while the North America Roadshow might have events in DC and Chicago.</description>
     </item>
@@ -39,20 +39,20 @@ If you want to volunteer to help with Community Over Code, please join our maili
     
     <item>
       <title>Apache Endorsed Events</title>
-      <link>https://events.apache.org/about/endorsed/</link>
+      <link>https://events.apache.org/about/endorsed.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/endorsed/</guid>
+      <guid>https://events.apache.org/about/endorsed.html</guid>
       <description>Apache endorsed/approved events There are many third-party events produced every year that focus on Apache Software Foundation projects. The ASF encourages these events, as they expand the reach of our projects and our message.
 If you are producing an Apache-related event, and using our brands and marks, we ask that contact us for our official approval. Along with this, we will also help promote these events, where possible and appropriate. Whether or not you want to collaborate with us on your event, you MUST adhere to our branding policy.</description>
     </item>
     
     <item>
       <title>ApacheCon playbook</title>
-      <link>https://events.apache.org/about/commcode/playbook/</link>
+      <link>https://events.apache.org/about/commcode/playbook.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/commcode/playbook/</guid>
+      <guid>https://events.apache.org/about/commcode/playbook.html</guid>
       <description>This playbook is focused at ApacheCon or Roadshow volunteers who are actively involved in planning and running Apache events. Please be sure to bring your questions to the planners@ mailing list!
 What to do before, during, and after an Apache event This is a set of recommended actions that an event organizer may do before, during, and after ApacheCon.
 Many of the recommendations in here can, of course, be applied to any Apache event or Roadshow, including third-party events, or project events run by PMCs.</description>
@@ -60,10 +60,10 @@ Many of the recommendations in here can, of course, be applied to any Apache eve
     
     <item>
       <title>Volunteer to help at ApacheCon</title>
-      <link>https://events.apache.org/about/commcode/volunteer/</link>
+      <link>https://events.apache.org/about/commcode/volunteer.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/about/commcode/volunteer/</guid>
+      <guid>https://events.apache.org/about/commcode/volunteer.html</guid>
       <description>Volunteer to help at ApacheCon Coordination of ApacheCon happens on two lists:
 The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on. At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.
 Calls For Papers The CFP for each ApacheCon draws hundreds of submissions about projects all around the ASF.</description>

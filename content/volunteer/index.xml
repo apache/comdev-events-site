@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volunteers on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/volunteer/</link>
+    <link>https://events.apache.org/volunteer.html</link>
     <description>Recent content in Volunteers on Apache Software Foundation Events</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/volunteer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Volunteers</title>
-      <link>https://events.apache.org/volunteer/design/</link>
+      <link>https://events.apache.org/volunteer/design.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/volunteer/design/</guid>
+      <guid>https://events.apache.org/volunteer/design.html</guid>
       <description>Visual design plays a crucial role in promoting Apache events and reaching diverse audiences. Design volunteers create materials that help communicate the value and accessibility of Apache events.
 Design Opportunities Posters and Print Materials Event posters and landing pages for different outreach audiences Flyers for university and meetup distribution Design Considerations Maintain consistency with Apache brand guidelines Create inclusive, welcoming visuals Design for accessibility Consider diverse audiences and contexts Support multiple formats and sizes Skills Needed Graphic design experience Understanding of web design principles Attention to accessibility standards Get Involved If you have design skills and want to help promote Apache events, please come talk to us!</description>
     </item>
     
     <item>
       <title>Hackathon Coordination</title>
-      <link>https://events.apache.org/volunteer/hackathon/</link>
+      <link>https://events.apache.org/volunteer/hackathon.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/volunteer/hackathon/</guid>
+      <guid>https://events.apache.org/volunteer/hackathon.html</guid>
       <description>Hackathons are hands-on collaborative events where developers work together on Apache projects.
 A hackathon coordinater works with representatives from projects likely to have a presence at event to help them think about what they might work on, and publicize this work to the project community and the audience of the event.
 They&amp;rsquo;ll also work with the planners of the event to create a space with the necessary components (tables, power outlets, signage, etc) to make that space welcoming to participants, including beginners.</description>
@@ -29,10 +29,10 @@ They&amp;rsquo;ll also work with the planners of the event to create a space wit
     
     <item>
       <title>Meetup Outreach</title>
-      <link>https://events.apache.org/volunteer/meetup/</link>
+      <link>https://events.apache.org/volunteer/meetup.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/volunteer/meetup/</guid>
+      <guid>https://events.apache.org/volunteer/meetup.html</guid>
       <description>Reaching out to local meetup groups is a great way to get a larger audience to our events, and serve the local technical community. As a meetuo outreach coordinator, you&amp;rsquo;ll be identifying those meetup groups, and getting the word out to them.
 Volunteers should be local to the event venue.
 What Meetup Outreach Involves Identify relevant local meetup groups Build relationships with local tech communities Look for related topics, like legal, business, and communication, which may be interested in open source and Apache projects Share information about Apache events with meetup communities Encourage meetup participants to submit talks for the upcoming event Types of Meetup Groups you might conenct with We can engage with various types of groups:</description>
@@ -40,10 +40,10 @@ What Meetup Outreach Involves Identify relevant local meetup groups Build relati
     
     <item>
       <title>Speaker Support and Coaching</title>
-      <link>https://events.apache.org/volunteer/speaker-support/</link>
+      <link>https://events.apache.org/volunteer/speaker-support.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/volunteer/speaker-support/</guid>
+      <guid>https://events.apache.org/volunteer/speaker-support.html</guid>
       <description>Great presentations help spread knowledge about Apache projects and the ASF. Our speaker support volunteers provide coaching and feedback to help speakers deliver engaging, effective talks.
 What speaker support volunteers do As a volunteer, you&amp;rsquo;ll offer several types of speaker support:
 CFP and Abstract Support Review and provide feedback on conference proposals Help refine talk titles and abstracts Advise on targeting proposals to specific audiences Suggest improvements to increase acceptance chances Slide Review and Editing Review presentation slides for clarity and flow Provide feedback on visual design and readability Suggest improvements to technical content Help ensure slides align with talk objectives and ASF branding Presentation Rehearsal Conduct dress rehearsal sessions via video chat Provide constructive feedback on delivery Help with timing and pacing Offer tips on handling questions Build speaker confidence Who Can Help We welcome volunteers with:</description>
@@ -51,10 +51,10 @@ CFP and Abstract Support Review and provide feedback on conference proposals Hel
     
     <item>
       <title>University and Educational Outreach</title>
-      <link>https://events.apache.org/volunteer/university/</link>
+      <link>https://events.apache.org/volunteer/university.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://events.apache.org/volunteer/university/</guid>
+      <guid>https://events.apache.org/volunteer/university.html</guid>
       <description>Apache projects offer valuable learning opportunities for students and educators across many disciplines. University outreach volunteers help connect Apache communities with educational institutions at all levels.
 Outreach Opportunities University outreach volunteers should be local to the event venue, and familiar with local educational institutions.
 We engage with multiple departments and programs:
