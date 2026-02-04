@@ -4,6 +4,8 @@ title: Hackathon Coordination
 
 Hackathons are hands-on collaborative events where developers work together on Apache projects.
 
+<img src="/images/hackathon.jpg" alt="Hackathon, Stuttgart, 2025" class="pull-right">
+
 A hackathon coordinator works with representatives from projects likely
 to have a presence at event to help them think about what they might
 work on, and publicize this work to the project community and the
@@ -51,3 +53,4 @@ Join the **#hackathon** channel on the [apachecon.slack.com](http://s.apache.org
 
 Contact the [Event Planning mailing list](mailto:planners@apachecon.com) if you're interested in coordinating a hackathon.
 
+<small>[Photo](https://photos.apachecon.com/picture.php?/1753/category/16) courtesy of Rich Bowen</small>

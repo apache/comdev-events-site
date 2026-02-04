@@ -7,6 +7,8 @@ audience to our events, and serve the local technical community. As a
 meetup outreach coordinator, you'll be identifying those meetup groups,
 and getting the word out to them.
 
+<img src="/images/meetup.jpg" alt="Meetup" class="pull-right">
+
 Volunteers should be local to the event venue.
 
 ## What Meetup Outreach Involves

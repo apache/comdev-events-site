@@ -9,6 +9,8 @@ Apache projects offer valuable learning opportunities for students and educators
 University outreach volunteers should be local to the event venue, and
 familiar with local educational institutions.
 
+<img src="/images/university.jpg" alt="University" class="pull-left">
+
 We engage with multiple departments and programs:
 
 * **Computer Science** - Software development, open source practices, distributed systems
@@ -33,3 +35,5 @@ We engage with multiple departments and programs:
 If you have connections to educational institutions or experience in academic outreach, we'd love to hear from you. Join the **#university** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack) Slack instance to connect with others interested in educational outreach.
 
 Contact the [Event Planning mailing list](mailto:planners@apachecon.com) to discuss university outreach opportunities.
+
+<small>[Photo](https://photos.apachecon.com/picture.php?/4250/category/36) courtesy of The Apache Software Foundation</small>

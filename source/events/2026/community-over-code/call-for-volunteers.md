@@ -4,7 +4,7 @@ title: Call For Volunteers, Community over Code 2026
 
 **[Community over Code 2026](https://communityovercode.org) will be held in Glasgow, UK, October 11-14.**
 
-<img src="/images/volunteers.jpg" alt="Code sample" class="pull-right">
+<img src="/images/volunteers.jpg" alt="Volunteers" class="pull-right">
 
 Community over Code is an event run by the community, for the community.
 That's you!
