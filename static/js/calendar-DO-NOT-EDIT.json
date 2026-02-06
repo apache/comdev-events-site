@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33fqf9kmtmup40o\"",
+ "etag": "\"p33fuhbvcuf2940o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-02-03T17:32:27.733Z",
+ "updated": "2026-02-06T12:50:57.026Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -45,37 +45,6 @@
   },
   {
    "kind": "calendar#event",
-   "etag": "\"3540275781262622\"",
-   "id": "0snk1j9lacks5dtd10le7rfjf6",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MHNuazFqOWxhY2tzNWR0ZDEwbGU3cmZqZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2026-02-03T16:57:44.000Z",
-   "updated": "2026-02-03T16:58:10.631Z",
-   "summary": "Community Over Code 2026, Glasgow",
-   "description": "https://communityovercode.org/",
-   "location": "Glasgow, UK",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2026-08-11"
-   },
-   "end": {
-    "date": "2026-08-15"
-   },
-   "transparency": "transparent",
-   "iCalUID": "0snk1j9lacks5dtd10le7rfjf6@google.com",
-   "sequence": 0,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3540276207877758\"",
    "id": "5uo3gjkgdd4pq15sbncplobvmr_20260831T140000Z",
    "status": "confirmed",
@@ -104,6 +73,37 @@
     "dateTime": "2026-08-31T07:00:00-07:00"
    },
    "iCalUID": "5uo3gjkgdd4pq15sbncplobvmr@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3540764514052286\"",
+   "id": "0snk1j9lacks5dtd10le7rfjf6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHNuazFqOWxhY2tzNWR0ZDEwbGU3cmZqZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2026-02-03T16:57:44.000Z",
+   "updated": "2026-02-06T12:50:57.026Z",
+   "summary": "Community Over Code 2026, Glasgow",
+   "description": "https://communityovercode.org/",
+   "location": "Glasgow, UK",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-11"
+   },
+   "end": {
+    "date": "2026-10-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0snk1j9lacks5dtd10le7rfjf6@google.com",
    "sequence": 1,
    "eventType": "default"
   },
