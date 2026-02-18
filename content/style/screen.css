@@ -204,14 +204,19 @@ th, td {
 .pull-left {
     float: left;
     margin-right: 2rem;
-    margin-botton: 1rem;
+    margin-bottom: 1rem;
     border-radius: 12%;
+    width: 280px;
+    max-width: 40%;
+    height: auto;
+    display: block;
+    overflow: hidden;
 }
 
 .pull-right {
     float: right;
     margin-left: 2rem;
-    margin-botton: 1rem;
+    margin-bottom: 1rem;
     border-radius: 12%;
 }
 
