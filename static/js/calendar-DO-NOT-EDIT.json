@@ -1,13 +1,45 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33fuhbvcuf2940o\"",
+ "etag": "\"p337r9i74ofqp40o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-02-06T12:50:57.026Z",
+ "updated": "2026-02-25T20:56:22.929Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3544105965859998\"",
+   "id": "5iaf8qu8k9es4509gep8kk7mol",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NWlhZjhxdThrOWVzNDUwOWdlcDhrazdtb2wgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2026-02-25T20:56:05.000Z",
+   "updated": "2026-02-25T20:56:22.929Z",
+   "summary": "Iceberg Summit",
+   "description": "https://icebergsummit.org/",
+   "location": "San Francisco, California",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-04-08T06:00:00-07:00",
+    "timeZone": "America/New_York"
+   },
+   "end": {
+    "dateTime": "2026-04-09T14:00:00-07:00",
+    "timeZone": "America/New_York"
+   },
+   "iCalUID": "5iaf8qu8k9es4509gep8kk7mol@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
   {
    "kind": "calendar#event",
    "etag": "\"3540276378181310\"",
