@@ -1,21 +1,21 @@
 {
  "kind": "calendar#events",
- "etag": "\"p337r9i74ofqp40o\"",
+ "etag": "\"p32nqh9trmbrp40o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-02-25T20:56:22.929Z",
+ "updated": "2026-02-26T14:44:12.478Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3544105965859998\"",
+   "etag": "\"3544234104957022\"",
    "id": "5iaf8qu8k9es4509gep8kk7mol",
    "status": "confirmed",
    "htmlLink": "https://www.google.com/calendar/event?eid=NWlhZjhxdThrOWVzNDUwOWdlcDhrazdtb2wgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
    "created": "2026-02-25T20:56:05.000Z",
-   "updated": "2026-02-25T20:56:22.929Z",
+   "updated": "2026-02-26T14:44:12.478Z",
    "summary": "Iceberg Summit",
    "description": "https://icebergsummit.org/",
    "location": "San Francisco, California",
@@ -29,15 +29,13 @@
     "self": true
    },
    "start": {
-    "dateTime": "2026-04-08T06:00:00-07:00",
-    "timeZone": "America/New_York"
+    "date": "2026-04-08"
    },
    "end": {
-    "dateTime": "2026-04-09T14:00:00-07:00",
-    "timeZone": "America/New_York"
+    "date": "2026-04-10"
    },
    "iCalUID": "5iaf8qu8k9es4509gep8kk7mol@google.com",
-   "sequence": 0,
+   "sequence": 1,
    "eventType": "default"
   },
   {
