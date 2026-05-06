@@ -1,22 +1,23 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33fuhbvcuf2940o\"",
+ "etag": "\"p32fu9gsruih980o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-02-06T12:50:57.026Z",
+ "updated": "2026-05-05T19:43:37.837Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3540276378181310\"",
+   "etag": "\"3551530056191518\"",
    "id": "7db05df3s8c3hi96n4h3gung6j_20260711T080000Z",
    "status": "confirmed",
    "htmlLink": "https://www.google.com/calendar/event?eid=N2RiMDVkZjNzOGMzaGk5Nm40aDNndW5nNmpfMjAyNjA3MTFUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
    "created": "2025-07-26T09:49:52.000Z",
-   "updated": "2026-02-03T17:03:09.090Z",
-   "summary": "Flink Forward 2026",
+   "updated": "2026-04-09T20:03:48.095Z",
+   "summary": "Flink Forward Asia 2026",
+   "description": "\u003ca href=\"https://asia.flink-forward.org/shenzhen-2026\"\u003ehttps://asia.flink-forward.org/shenzhen-2026\u003c/a\u003e",
    "location": "Shenzhen, Guangdong Province, China",
    "creator": {
     "email": "markt@gsuite.cloud.apache.org"
@@ -27,11 +28,11 @@
     "self": true
    },
    "start": {
-    "dateTime": "2026-07-11T01:00:00-07:00",
+    "dateTime": "2026-06-26T01:00:00-07:00",
     "timeZone": "Europe/London"
    },
    "end": {
-    "dateTime": "2026-07-12T09:00:00-07:00",
+    "dateTime": "2026-06-27T09:00:00-07:00",
     "timeZone": "Europe/London"
    },
    "recurringEventId": "7db05df3s8c3hi96n4h3gung6j",
@@ -40,7 +41,7 @@
     "timeZone": "Europe/London"
    },
    "iCalUID": "7db05df3s8c3hi96n4h3gung6j@google.com",
-   "sequence": 0,
+   "sequence": 1,
    "eventType": "default"
   },
   {
@@ -74,6 +75,76 @@
    },
    "iCalUID": "5uo3gjkgdd4pq15sbncplobvmr@google.com",
    "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3556020435674174\"",
+   "id": "6bm2530mld8n8l9237juo52g86_20260922T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmJtMjUzMG1sZDhuOGw5MjM3anVvNTJnODZfMjAyNjA5MjJUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2026-05-05T19:43:37.000Z",
+   "updated": "2026-05-05T19:43:37.837Z",
+   "summary": "Fluss Forward London",
+   "location": "London, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-22T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-09-22T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "6bm2530mld8n8l9237juo52g86",
+   "originalStartTime": {
+    "dateTime": "2026-09-22T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "6bm2530mld8n8l9237juo52g86@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3556020435674174\"",
+   "id": "6bm2530mld8n8l9237juo52g86_20260923T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmJtMjUzMG1sZDhuOGw5MjM3anVvNTJnODZfMjAyNjA5MjNUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2026-05-05T19:43:37.000Z",
+   "updated": "2026-05-05T19:43:37.837Z",
+   "summary": "Fluss Forward London",
+   "location": "London, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-23T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-09-23T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "6bm2530mld8n8l9237juo52g86",
+   "originalStartTime": {
+    "dateTime": "2026-09-23T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "6bm2530mld8n8l9237juo52g86@google.com",
+   "sequence": 0,
    "eventType": "default"
   },
   {
