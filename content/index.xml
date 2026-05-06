@@ -7,6 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>2026</title>
+      <link>https://events.apache.org/events/2026/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/index.html/</guid>
+      <description>2026 Events Community over Code Glasgow — October 11–14, Glasgow, UK </description>
+    </item>
+    
+    <item>
       <title>About Apache Roadshows</title>
       <link>https://events.apache.org/about/roadshow.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -114,6 +123,17 @@ Hackathon Coordination - Help organize and run the hackathon University Outreach
     </item>
     
     <item>
+      <title>Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/index.html/</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Community over Code is the annual conference of the Apache Software Foundation — bringing together developers, community managers, and enthusiasts from across the ASF ecosystem.
+Get Involved Hackathon — Dedicated time and space for contributors to work together on real project tasks. 15 projects are already signed up. Call for Volunteers — Help make the event a success — hackathon coordination, university outreach, meetup engagement, speaker support, and design.</description>
+    </item>
+    
+    <item>
       <title>Design Volunteers</title>
       <link>https://events.apache.org/volunteer/design.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -124,6 +144,15 @@ Design Opportunities Posters and Print Materials Event posters and landing pages
     </item>
     
     <item>
+      <title>Events</title>
+      <link>https://events.apache.org/events/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/index.html/</guid>
+      <description>Current Events Community over Code Glasgow 2026 — October 11–14, Glasgow, UK If you&amp;rsquo;d like to use this site to coordinate your community event, get in touch with dev@community.apache.org.</description>
+    </item>
+    
+    <item>
       <title>Getting Involved in Apache Events</title>
       <link>https://events.apache.org/involved/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -131,6 +160,18 @@ Design Opportunities Posters and Print Materials Event posters and landing pages
       <guid>https://events.apache.org/involved/</guid>
       <description>There are a number of different ways to get involved with Events at Apache. Many of these come under the umbrella of the Conferences Committee, but some fall under different groups, such as the Apache Community Development Project.
 If you are an Apache Committer, and you&amp;rsquo;re interested in putting on an Apache Event, please see the Organising Events section for more help. If you are interested in helping others out with putting on an Apache Event, you are advised to join the appropriate mailing list, and volunteer for events there.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/hackathon.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/hackathon.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Hackathon We&amp;rsquo;re bringing back the hackathon! Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+How it works Each participating project provides:
+A point of contact — someone present at the event to coordinate A task list — bugs, docs, features, good-first-issues, or whatever the project wants to focus on Promotion — letting their community know this is happening During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.</description>
     </item>
     
     <item>
