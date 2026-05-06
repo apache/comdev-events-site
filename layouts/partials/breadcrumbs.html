@@ -1,12 +1,18 @@
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-{{ $.Scratch.Add "path" "/" }}
+{{ $segments := split $url "/" }}
 <span class="breadcrumbs">
     <a href="/">Home</a>
-    {{ range $index, $element := split $url "/" }}
-        {{ $.Scratch.Add "path" $element }}
+    {{ $href := "" }}
+    {{ range $index, $element := $segments }}
         {{ if ne $element "" }}
-            &nbsp; <a href='{{ $.Scratch.Get "path" }}'>{{ humanize . | replaceRE "\\.[hH]tml$" "" }}</a>
-            {{ $.Scratch.Add "path" "/" }}
+            {{ $href = printf "%s/%s" $href $element }}
+            {{ $label := $element }}
+            {{ if not (findRE "^[0-9]+$" $element) }}
+                {{ $label = (humanize $element | replaceRE "\\.[hH]tml$" "") }}
+            {{ else }}
+                {{ $label = (replaceRE "\\.[hH]tml$" "" $element) }}
+            {{ end }}
+            &nbsp; <a href='{{ $href }}'>{{ $label }}</a>
         {{ end }}
     {{ end }}
 </span>

@@ -54,3 +54,7 @@ Join the **#hackathon** channel on the [apachecon.slack.com](http://s.apache.org
 Contact the [Event Planning mailing list](mailto:planners@apachecon.com) if you're interested in coordinating a hackathon.
 
 <small>[Photo](https://photos.apachecon.com/picture.php?/1753/category/16) courtesy of Rich Bowen</small>
+
+## Current Events
+
+* [Hackathon at Community Over Code Glasgow 2026](/events/2026/community-over-code/hackathon.html) — Volunteer to help with the hackathon at Community Over Code 2026

@@ -2,7 +2,7 @@
 title: Call For Volunteers, Community over Code 2026
 ---
 
-**[Community over Code 2026](https://communityovercode.org) will be held in Glasgow, UK, October 11-14.**
+<img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) will be held in Glasgow, UK, October 11-14.**
 
 <img src="/images/volunteers.jpg" alt="Volunteers" class="pull-right">
 
@@ -14,7 +14,7 @@ We need your help to make it a success!
 We are looking for volunteers for a number of community engagement tasks.
 These roles include:
 
-* **[Hackathon Coordination](/volunteer/hackathon.html)** - Help organize and run the hackathon
+* **[Hackathon Coordination](hackathon.html)** - Help organize and run the hackathon
 * **[University Outreach](/volunteer/university.html)** - Connect with colleges and universities across multiple departments
 * **[Meetup Outreach](/volunteer/meetup.html)** - Engage with local meetup groups
 * **[Speaker Support](/volunteer/speaker-support.html)** - Provide coaching and feedback to speakers
