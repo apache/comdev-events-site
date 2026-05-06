@@ -2,7 +2,7 @@
 title: Hackathon at Community over Code Glasgow 2026
 ---
 
-**[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
+<img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
 ## Hackathon
 
@@ -69,3 +69,10 @@ General hackathon coordination happens on the
 [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and
 in the **#hackathon** channel on
 [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+
+---
+
+* Looking for other ways to help? See [more volunteer opportunities](/volunteer/index.html).
+* Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
+* Projects can update this page by submitting a PR to the
+  [comdev-events-site repository](https://github.com/apache/comdev-events-site).
