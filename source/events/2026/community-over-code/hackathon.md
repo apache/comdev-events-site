@@ -45,6 +45,7 @@ with each project's hackathon effort.
 | [SIS](https://sis.apache.org/) | [dev@ thread](https://lists.apache.org/thread/x5pyd9cwjhyc8lpgsgfnvpy8g72l91c9) |
 | [Solr](https://solr.apache.org/) | [dev@ thread](https://lists.apache.org/thread/f8bjyy06c0v2lddol6vvv5n8tzd3y9vl) |
 | [Spark](https://spark.apache.org/) | [dev@ thread](https://lists.apache.org/thread/711z5rcx7pb2wrwm0t41l6ffx21jxyr9) |
+| [StreamPipes](https://streampipes.apache.org/) | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc) |
 | [Superset](https://superset.apache.org/) | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68) |
 | [Tomcat](https://tomcat.apache.org/) | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2) |
 
