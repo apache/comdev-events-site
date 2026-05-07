@@ -39,6 +39,7 @@ with each project's hackathon effort.
 | [Fluss](https://fluss.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts) |
 | [Grails](https://grails.apache.org/) | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
 | [Groovy](https://groovy.apache.org/) | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
+| [Kafka](https://kafka.apache.org/) | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8) |
 | [Mahout](https://mahout.apache.org/) | [dev@ thread](https://lists.apache.org/thread/28xwckdnhypx1pvqg6ytk1wpbp0wg63v) |
 | [NuttX](https://nuttx.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cb0yx6mfxh2j7m6hgq8d7vlgd89h0c28) |
 | [Pekko](https://pekko.apache.org/) | [dev@ thread](https://lists.apache.org/thread/pkgkjq3748blo1g9znvrh556s488sox2) |
