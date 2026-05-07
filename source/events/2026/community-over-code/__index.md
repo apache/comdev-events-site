@@ -13,7 +13,7 @@ enthusiasts from across the ASF ecosystem.
 ## Get Involved
 
 * **[Hackathon](hackathon.html)** — Dedicated time and space for contributors to
-  work together on real project tasks. 16 projects are already signed up.
+  work together on real project tasks. 17 projects are already signed up.
 * **[Call for Volunteers](call-for-volunteers.html)** — Help make the event a
   success — hackathon coordination, university outreach, meetup
   engagement, speaker support, and design.
