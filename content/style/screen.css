@@ -220,3 +220,62 @@ th, td {
     border-radius: 12%;
 }
 
+/* Mobile responsive */
+#nav-toggle {
+  display: none;
+  background: #f5f8fa;
+  border: 1px solid #e6ebed;
+  padding: 8px 16px;
+  font-size: 1em;
+  cursor: pointer;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+@media (max-width: 768px) {
+  #nav-toggle {
+    display: block;
+  }
+
+  #navigation {
+    float: none;
+    width: auto;
+    margin: 0;
+    padding: 10px 15px;
+    border-radius: 0;
+    border: none;
+    border-bottom: 1px solid #e6ebed;
+    display: none !important;
+    overflow: hidden;
+  }
+
+  #navigation.open  {
+    display: block !important;
+  }
+
+  #content {
+    margin: 20px 15px;
+    padding: 0 8px 20px;
+  }
+
+  #footer {
+    margin: 20px 15px;
+  }
+
+  body {
+    background-image: none;
+  }
+
+  .pull-left, .pull-right {
+    float: none;
+    width: 100%;
+    max-width: 100%;
+    margin: 1rem 0;
+  }
+
+  table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}

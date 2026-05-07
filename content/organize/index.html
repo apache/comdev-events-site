@@ -4,6 +4,7 @@
 <html lang="en">
 <head>
   <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="apache, apache events, apache community, opensource">
 
   <title>Organize an Apache Event</title>
@@ -45,6 +46,8 @@
         </div>
     </div>
   </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
 
   <div id="navigation">
     <ul>
@@ -109,5 +112,12 @@ you <strong>must</strong> request permission by following the
     </div>
 </footer>
 
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
 </body>
 </html>
