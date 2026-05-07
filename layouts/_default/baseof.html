@@ -19,6 +19,7 @@
 <html lang="en">
 <head>
   <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="apache, apache events, apache community, opensource">
 
   <title>{{ .Title }}</title>
@@ -30,6 +31,8 @@
 
 <body>
   {{ partial "banner.html" . }}
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
 
   <div id="navigation">
     <ul>
@@ -67,5 +70,12 @@
   </div>
 
   {{ partial "footer.html" . }}
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
 </body>
 </html>
