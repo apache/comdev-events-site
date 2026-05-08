@@ -35,7 +35,7 @@ with each project's hackathon effort.
 | [Airflow](https://airflow.apache.org/) | [dev@ thread](https://lists.apache.org/thread/c0fnphvb1bs5wbd454x7qclzcqj4wp1o) |
 | [Arrow](https://arrow.apache.org/) | [dev@ thread](https://lists.apache.org/thread/j63qwqrbosthf1ml3q7yxho89xhx5hoj) |
 | [Camel](https://camel.apache.org/) | [dev@ thread](https://lists.apache.org/thread/5ws6zdfofxd6typhz7fg1np8j7fn77ho) |
-| [CloudStack](https://cloudstack.apache.org/) | |
+| [CloudStack](https://cloudstack.apache.org/) | [dev@ thread](https://lists.apache.org/thread/gnmxsxb39plvp7wcq2tmw76r7jphry8c) |
 | [Fineract](https://fineract.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh) |
 | [Flink](https://flink.apache.org/) | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p) |
 | [Fluss](https://fluss.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts) |
@@ -43,10 +43,10 @@ with each project's hackathon effort.
 | [Groovy](https://groovy.apache.org/) | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
 | [Impala](https://impala.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3) |
 | [Kafka](https://kafka.apache.org/) | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8) |
-| [Kudu](https://kudu.apache.org/) | |
+| [Kudu](https://kudu.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kkdxnwpwygq47kb763kw3hls2x2z5tk3) |
 | [Mahout](https://mahout.apache.org/) | [dev@ thread](https://lists.apache.org/thread/28xwckdnhypx1pvqg6ytk1wpbp0wg63v) |
 | [NuttX](https://nuttx.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cb0yx6mfxh2j7m6hgq8d7vlgd89h0c28) |
-| [Ozone](https://ozone.apache.org/) *(tentative)* | |
+| [Ozone](https://ozone.apache.org/) *(tentative)* | [dev@ thread](https://lists.apache.org/thread/wmj56tsd6m0w9fk7oz2rsfqjzfg765vf) |
 | [Pekko](https://pekko.apache.org/) | [dev@ thread](https://lists.apache.org/thread/pkgkjq3748blo1g9znvrh556s488sox2) |
 | [SIS](https://sis.apache.org/) | [dev@ thread](https://lists.apache.org/thread/x5pyd9cwjhyc8lpgsgfnvpy8g72l91c9) |
 | [Solr](https://solr.apache.org/) | [dev@ thread](https://lists.apache.org/thread/f8bjyy06c0v2lddol6vvv5n8tzd3y9vl) |
