@@ -43,6 +43,7 @@ with each project's hackathon effort.
 | [Grails](https://grails.apache.org/) | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
 | [Groovy](https://groovy.apache.org/) | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
 | [Impala](https://impala.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3) |
+| [IoTDB](https://iotdb.apache.org/) *(tentative)* | [dev@ thread](https://lists.apache.org/thread/yd9wpq2xo35n2xwp8pb9k8s5ymb4rzxw) |
 | [Kafka](https://kafka.apache.org/) | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8) |
 | [Kudu](https://kudu.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kkdxnwpwygq47kb763kw3hls2x2z5tk3) |
 | [Mahout](https://mahout.apache.org/) | [dev@ thread](https://lists.apache.org/thread/28xwckdnhypx1pvqg6ytk1wpbp0wg63v) |
