@@ -6,7 +6,7 @@ title: "Apache Tomcat — Hackathon at Community over Code Glasgow 2026"
 
 **[Register now](https://communityovercode.org/registration/)** | [Event website](https://communityovercode.org) | [Hackathon overview](hackathon.html)
 
-## Apache YourProject — Hackathon
+## Apache Tomcat — Hackathon
 
 <!-- Copy this file to yourproject.md (lowercase, no spaces) and fill
      in the sections below. Then add a link to your page from the table
