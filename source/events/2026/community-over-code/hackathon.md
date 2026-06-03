@@ -55,7 +55,7 @@ with each project's hackathon effort.
 | [Spark](https://spark.apache.org/) | [dev@ thread](https://lists.apache.org/thread/711z5rcx7pb2wrwm0t41l6ffx21jxyr9) |
 | [StreamPipes](https://streampipes.apache.org/) | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc) |
 | [Superset](https://superset.apache.org/) | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68) |
-| [Tomcat](https://tomcat.apache.org/) | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2) |
+| [Tomcat](tomcat.html) | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2) |
 | [Wayang](https://wayang.apache.org/) | [dev@ thread](https://lists.apache.org/thread/nstct4k069v748rq622tt5vx2c66objf) |
 
 *Eventually each project will have a dedicated page with hackathon
