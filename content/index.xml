@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Apache Software Foundation Events</title>
+    <link>https://events.apache.org/</link>
+    <description>Recent content on Apache Software Foundation Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://events.apache.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026</title>
+      <link>https://events.apache.org/events/2026/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/index.html/</guid>
+      <description>2026 Events Community over Code Glasgow — October 11–14, Glasgow, UK </description>
+    </item>
+    
+    <item>
+      <title>About Apache Roadshows</title>
+      <link>https://events.apache.org/about/roadshow.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/roadshow.html</guid>
+      <description>Apache Roadshows are small regional one- or two-day events, intended to build local community and educate about what the Apache Software Foundation does.
+While not a traditional roadshow (ie, a traveling event with multiple stops), we use the name to indicate that there may be multiple small events on a particular continent. Thus, the Europe Roadshow may have small events in Berlin and Barcelona during the course of a year, while the North America Roadshow might have events in DC and Chicago.</description>
+    </item>
+    
+    <item>
+      <title>About ASF Events</title>
+      <link>https://events.apache.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/</guid>
+      <description>The Apache Software Foundation (ASF) runs, or participates in some fashion in, a number of different types of events, which different target audiences and goals, to educate about our projects and about the Foundation, and to build the communities.
+The main types of event we work with around ASF projects are:
+Community Over Code - the ASF&amp;rsquo;s official conference Endorsed events - run by third parties using Apache brands If you want to organize your own event that uses ASF brands or trademarks in any way, we strongly encourage you to coordinate with us.</description>
+    </item>
+    
+    <item>
+      <title>About Community Over Code</title>
+      <link>https://events.apache.org/about/commcode/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/commcode/</guid>
+      <description>Community Over Code (formerly ApacheCon) is the official conference of the Apache Software Foundation. Its primary goals are education and community building. We try to produce one each calendar year somewhere in North America and Europe, and are working on expanding this to the rest of the world.
+If you want to volunteer to help with Community Over Code, please join our mailing lists, and see what volunteer opportunities we have, bearing in mind that it sometimes gets out of date.</description>
+    </item>
+    
+    <item>
+      <title>Apache Conferences and Events Mailing Lists</title>
+      <link>https://events.apache.org/involved/mailing-lists.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/involved/mailing-lists.html</guid>
+      <description>There are several main mailing lists on which discussion and planning of Apache Software Foundation events occurs:
+ApacheCon Announce announce@apachecon.com Subscription address: announce-subscribe@apachecon.com Archives: Web archives Use: Read-only: Announcements of, and details about, Apache events Community Development dev@community.apache.org Subscription address: dev-subscribe@community.apache.org Archives: Web archives Use: Broader community development activies across the ASF. See the comdev site for more details. Planners (Planning committee members only) planners@apachecon.com Subscription address: planners-subscribe@apachecon.com Subscription note: All subscriptions are moderated.</description>
+    </item>
+    
+    <item>
+      <title>Apache Conferences Calendar</title>
+      <link>https://events.apache.org/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/event/</guid>
+      <description>Upcoming Apache events This is the list of upcoming official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
+Sorry, this requires Javascript For a complete list of events see our calendar.
+In addition to Official Apache Events, there are a wide range of other events which feature Apache projects and technologies.</description>
+    </item>
+    
+    <item>
+      <title>Apache Conferences Calendar</title>
+      <link>https://events.apache.org/event/calendar.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/event/calendar.html</guid>
+      <description>This Calendar is maintained by the Apache Conferences Committee (ConCom). It&amp;rsquo;s used to list official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
+The calendar can be viewed at https://www.google.com/calendar/&amp;hellip;
+This Calendar is also available as an iCal feed</description>
+    </item>
+    
+    <item>
+      <title>Apache Endorsed Events</title>
+      <link>https://events.apache.org/about/endorsed.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/endorsed.html</guid>
+      <description>Apache endorsed/approved events There are many third-party events produced every year that focus on Apache Software Foundation projects. The ASF encourages these events, as they expand the reach of our projects and our message.
+If you are producing an Apache-related event, and using our brands and marks, we ask that contact us for our official approval. Along with this, we will also help promote these events, where possible and appropriate. Whether or not you want to collaborate with us on your event, you MUST adhere to our branding policy.</description>
+    </item>
+    
+    <item>
+      <title>Apache Past Events</title>
+      <link>https://events.apache.org/event/past-events.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/event/past-events.html</guid>
+      <description>Past ApacheCons For details on past ApacheCons, and archived sites of previous events (where available), please see https://archive.apachecon.com/
+Information on past ApacheCons is also available on the ApacheCon Wiki</description>
+    </item>
+    
+    <item>
+      <title>Apache YourProject — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/sampleproject.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/sampleproject.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache YourProject — Hackathon Coordinator Name — email@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Slack / Discord / chat channel Dev environment setup Who&amp;rsquo;s Planning to Attend Name (role or area of expertise) Name (role or area of expertise) Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>ApacheCon playbook</title>
+      <link>https://events.apache.org/about/commcode/playbook.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/commcode/playbook.html</guid>
+      <description>This playbook is focused at ApacheCon or Roadshow volunteers who are actively involved in planning and running Apache events. Please be sure to bring your questions to the planners@ mailing list!
+What to do before, during, and after an Apache event This is a set of recommended actions that an event organizer may do before, during, and after ApacheCon.
+Many of the recommendations in here can, of course, be applied to any Apache event or Roadshow, including third-party events, or project events run by PMCs.</description>
+    </item>
+    
+    <item>
+      <title>Call For Volunteers, Community over Code 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/call-for-volunteers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/call-for-volunteers.html</guid>
+      <description>Community over Code 2026 will be held in Glasgow, UK, October 11-14.
+Community over Code is an event run by the community, for the community. That&amp;rsquo;s you!
+We need your help to make it a success!
+We are looking for volunteers for a number of community engagement tasks. These roles include:
+Hackathon Coordination - Help organize and run the hackathon University Outreach - Connect with colleges and universities across multiple departments Meetup Outreach - Engage with local meetup groups Speaker Support - Provide coaching and feedback to speakers Design - Create visual materials for outreach and on-site If you are interested in volunteering for any of these jobs, please:</description>
+    </item>
+    
+    <item>
+      <title>Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/index.html/</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Community over Code is the annual conference of the Apache Software Foundation — bringing together developers, community managers, and enthusiasts from across the ASF ecosystem.
+Get Involved Hackathon — Dedicated time and space for contributors to work together on real project tasks. 25 projects are already signed up. Call for Volunteers — Help make the event a success — hackathon coordination, university outreach, meetup engagement, speaker support, and design.</description>
+    </item>
+    
+    <item>
+      <title>Design Volunteers</title>
+      <link>https://events.apache.org/volunteer/design.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/design.html</guid>
+      <description>Visual design plays a crucial role in promoting Apache events and reaching diverse audiences. Design volunteers create materials that help communicate the value and accessibility of Apache events.
+Design Opportunities Posters and Print Materials Event posters and landing pages for different outreach audiences Flyers for university and meetup distribution Design Considerations Maintain consistency with Apache brand guidelines Create inclusive, welcoming visuals Design for accessibility Consider diverse audiences and contexts Support multiple formats and sizes Skills Needed Graphic design experience Understanding of web design principles Attention to accessibility standards Get Involved If you have design skills and want to help promote Apache events, please come talk to us!</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://events.apache.org/events/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/index.html/</guid>
+      <description>Current Events Community over Code Glasgow 2026 — October 11–14, Glasgow, UK If you&amp;rsquo;d like to use this site to coordinate your community event, get in touch with dev@community.apache.org.</description>
+    </item>
+    
+    <item>
+      <title>Getting Involved in Apache Events</title>
+      <link>https://events.apache.org/involved/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/involved/</guid>
+      <description>There are a number of different ways to get involved with Events at Apache. Many of these come under the umbrella of the Conferences Committee, but some fall under different groups, such as the Apache Community Development Project.
+If you are an Apache Committer, and you&amp;rsquo;re interested in putting on an Apache Event, please see the Organising Events section for more help. If you are interested in helping others out with putting on an Apache Event, you are advised to join the appropriate mailing list, and volunteer for events there.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/hackathon.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/hackathon.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Hackathon We&amp;rsquo;re bringing back the hackathon! Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+How it works Each participating project provides:
+A point of contact — someone present at the event to coordinate A task list — bugs, docs, features, good-first-issues, or whatever the project wants to focus on Promotion — letting their community know this is happening During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon Coordination</title>
+      <link>https://events.apache.org/volunteer/hackathon.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/hackathon.html</guid>
+      <description>Hackathons are hands-on collaborative events where developers work together on Apache projects.
+A hackathon coordinator works with representatives from projects likely to have a presence at event to help them think about what they might work on, and publicize this work to the project community and the audience of the event.
+They&amp;rsquo;ll also work with the planners of the event to create a space with the necessary components (tables, power outlets, signage, etc) to make that space welcoming to participants, including beginners.</description>
+    </item>
+    
+    <item>
+      <title>Meetup Outreach</title>
+      <link>https://events.apache.org/volunteer/meetup.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/meetup.html</guid>
+      <description>Reaching out to local meetup groups is a great way to get a larger audience to our events, and serve the local technical community. As a meetup outreach coordinator, you&amp;rsquo;ll be identifying those meetup groups, and getting the word out to them.
+Volunteers should be local to the event venue.
+What Meetup Outreach Involves Identify relevant local meetup groups Build relationships with local tech communities Look for related topics, like legal, business, and communication, which may be interested in open source and Apache projects Share information about Apache events with meetup communities Encourage meetup participants to submit talks for the upcoming event Types of Meetup Groups you might conenct with We can engage with various types of groups:</description>
+    </item>
+    
+    <item>
+      <title>Organize an Apache Event</title>
+      <link>https://events.apache.org/organize/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/</guid>
+      <description>If you want to host your own Apache project event, or propose a roadshow about the ASF, get in touch with us on the Event Planning mailing list.
+Important! While we appreciate other parties producing events to tell the world about our many great Apache projects and communities, Apache trademarks and brands are also important to us. To use any Apache trademarks in conjunctions with events, you must request permission by following the Third Party Event Branding Policy.</description>
+    </item>
+    
+    <item>
+      <title>Roadshow Bid Process</title>
+      <link>https://events.apache.org/organize/roadshow.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/roadshow.html</guid>
+      <description>DRAFT This is intended to document the bid process for running/hosting a Roadshow. In particular, if you want ASF budget for it.
+You need, at a minimum
+Event chair Must be an ASF member Must be resident in the city where the event is proposed Volunteers to support (how many?) City/Venue selected University cities are preferred Local tech firms that can sponsor? Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget Leads on sponsorship helpful Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event To run a roadshow or other small event without ASF budget, you only need to:</description>
+    </item>
+    
+    <item>
+      <title>Speaker Support and Coaching</title>
+      <link>https://events.apache.org/volunteer/speaker-support.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/speaker-support.html</guid>
+      <description>Great presentations help spread knowledge about Apache projects and the ASF. Our speaker support volunteers provide coaching and feedback to help speakers deliver engaging, effective talks.
+What speaker support volunteers do As a volunteer, you&amp;rsquo;ll offer several types of speaker support:
+CFP and Abstract Support Review and provide feedback on conference proposals Help refine talk titles and abstracts Advise on targeting proposals to specific audiences Suggest improvements to increase acceptance chances Slide Review and Editing Review presentation slides for clarity and flow Provide feedback on visual design and readability Suggest improvements to technical content Help ensure slides align with talk objectives and ASF branding Presentation Rehearsal Conduct dress rehearsal sessions via video chat Provide constructive feedback on delivery Help with timing and pacing Offer tips on handling questions Build speaker confidence Who Can Help We welcome volunteers with:</description>
+    </item>
+    
+    <item>
+      <title>University and Educational Outreach</title>
+      <link>https://events.apache.org/volunteer/university.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/university.html</guid>
+      <description>Apache projects offer valuable learning opportunities for students and educators across many disciplines. University outreach volunteers help connect Apache communities with educational institutions at all levels.
+Outreach Opportunities University outreach volunteers should be local to the event venue, and familiar with local educational institutions.
+We engage with multiple departments and programs:
+Computer Science - Software development, open source practices, distributed systems Legal Studies - Open source licensing, intellectual property, foundation governance Business - Community management, project governance, open source business models Design - User experience, visual design, accessibility Other Disciplines - Technical writing, marketing, communications, and more What Outreach Volunteers Do Connect with faculty and student organizations Create simple posters targeted at each audience Create more detailed landing pages for each audience, describing what they might get out of the event.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer Opportunities</title>
+      <link>https://events.apache.org/volunteer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/volunteer/</guid>
+      <description>The Apache Software Foundation events program relies on volunteers to help make our events successful and welcoming. Whether you have a few hours or want to take on a larger role, there are many ways to contribute.
+We welcome volunteers of all experience levels and backgrounds! You do not need to be an Apache member, committer, or an expert on any particular Apache project to volunteer for these task.
+Join the #volunteers channel on the apachecon.</description>
+    </item>
+    
+    <item>
+      <title>Volunteer to help at ApacheCon</title>
+      <link>https://events.apache.org/about/commcode/volunteer.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/about/commcode/volunteer.html</guid>
+      <description>Volunteer to help at ApacheCon Coordination of ApacheCon happens on two lists:
+The private planners@apachecon.com mailing list for most of the planning work The public apachecon-discuss@apache.org mailing list for general discussion, calls for volunteers, announcements, and so on. At this time, we can use help in the following areas - typically for each ApacheCon that happens. To volunteer, please send email to the apachecon-discuss mailing list indicating your availability.
+Calls For Papers The CFP for each ApacheCon draws hundreds of submissions about projects all around the ASF.</description>
+    </item>
+    
+  </channel>
+</rss>
