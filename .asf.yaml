@@ -10,9 +10,22 @@ github:
     - events
     - hugo
 
+  rulesets:
+    - name: "Default Branch Protection"
+      type: branch
+      branches:
+        includes:
+          - "~DEFAULT_BRANCH"
+          - "release/*"
+          - "rel/*"
+        excludes: []
+      bypass_teams:
+        - root
+      restrict_deletion: true
+      restrict_force_push: true
 notifications:
-  commits:      commits@community.apache.org
-  issues:       dev@community.apache.org
+  commits: commits@community.apache.org
+  issues: dev@community.apache.org
   pullrequests: dev@community.apache.org
 
 # Looks like this may be needed to override the default host name
@@ -23,6 +36,6 @@ publish:
 # Test site in preview/sample; output to preview/sample-staging
 # autostage will publish the site at community-sample.staged.apache.org
 staging:
-  profile: ~
-  whoami:  asf-staging
+  profile:
+  whoami: asf-staging
   autostage: preview/*
