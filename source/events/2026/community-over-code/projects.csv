@@ -5,7 +5,7 @@ Camel,Jarek Potiuk,2026-05-05,2026-05-05,Yes,Sandeep N,sandeep062k1@gmail.com,,h
 Cassandra,Jarek Potiuk,2026-05-05,,,,,,,,,
 CloudStack,Jarek Potiuk,2026-05-05,2026-05-08,Yes,Daan Hoogland,daan.hoogland@gmail.com,,https://lists.apache.org/thread/gnmxsxb39plvp7wcq2tmw76r7jphry8c,,,
 CouchDB,Rich Bowen,2026-05-05,,,,,,,,,
-DataFusion,Rich Bowen,2026-05-05,,,,,,,,,
+DataFusion,Rich Bowen,2026-05-05,2026-05-09,No,,,,,,,Andrew Lamb and Adrian Garcia Badaracco replied - interested but neither can attend. No volunteer.
 Fineract,Rich Bowen,2026-05-05,2026-05-06,Yes,Ádám Sághy,adamsaghy@gmail.com,Yes,https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh,,,
 Flink,Rich Bowen,2026-05-05,2026-05-06,Yes,Sergey Nuyanzin,snuyanzin@gmail.com,Yes,"Move to Github Actions, Build, First PR",,,
 Fluss,Rich Bowen,2026-05-05,2026-05-06,Yes,Anton Borisov,borzoniusy@gmail.com,Yes,https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts,,,
@@ -29,7 +29,7 @@ NuttX,Rich Bowen,2026-05-05,2026-05-06,Yes,Alin Jerpelea,jerpelea@gmail.com,,htt
 OpenSearch,,,,,,,,,,,
 Ozone,Rich Bowen,2026-05-05,2026-05-08,Maybe,Sammi Chen,sammichen@apache.org,,https://lists.apache.org/thread/wmj56tsd6m0w9fk7oz2rsfqjzfg765vf,,,
 Paimon,Rich Bowen,2026-05-05,,,,,,,,,
-Parquet,Rich Bowen,2026-05-05,,,,,,,,,
+Parquet,Rich Bowen,2026-05-05,2026-05-06,No,,,,,,,Julien Le Dem replied - won't be in Glasgow. Asked if anyone else is going - no takers.
 Pekko,Rich Bowen,2026-05-05,2026-05-06,Yes,Arnout Engelen,engelen@apache.org,,https://lists.apache.org/thread/pkgkjq3748blo1g9znvrh556s488sox2,,,
 Polaris,Rich Bowen,2026-05-05,,,,,,,,,
 Pulsar,Rich Bowen,2026-05-05,,,,,,,,,
