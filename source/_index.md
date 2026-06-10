@@ -2,21 +2,19 @@
 title: Apache Software Foundation Events
 ---
 
-<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/_pagefind/pagefind-ui.js"></script>
-<div id="search"></div>
-<script>
-    window.addEventListener('DOMContentLoaded', (event) => {
-        new PagefindUI({ element: "#search" });
-    });
-</script>
-
 The ASF runs and participates in a number
 of events related to our Apache projects throughout the year. These events have three main purposes:
 
  * Educate the world about the work and mission of the ASF
  * Provide technical information about our many Apache projects
  * Build developer and user communities
+
+## Host Your Community Event
+
+**Is your Apache project planning a meetup, hackathon, sprint, or
+conference?** This site is available to all ASF communities to
+coordinate and promote your events. See [how to get started](/events/)
+or contact [dev@community.apache.org](https://lists.apache.org/list.html?dev@community.apache.org).
 
 Running a third party or project event? You must comply with the [events
 branding policy](https://www.apache.org/foundation/marks/events).
@@ -33,8 +31,6 @@ assistance for selected ASF events, to those who would otherwise be unable to at
 <ul id="events">
 </ul>
 
-Follow us on Twitter at [@ApacheCon](https://twitter.com/apachecon) for
-the latest news and announcements.
 
 <em>Disclaimer: Events called 'ApacheCon', 'Apache Roadshow' or 'Community over Code' (events in
 bold) are official Apache Software Foundation events. Other listed events are put on by projects,
