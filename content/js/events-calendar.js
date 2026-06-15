@@ -38,10 +38,16 @@ $.ajax({
              var link = null;
              if (ev.description) {
                 var line1 = ev.description.split("\n")[0];
-                if (line1.slice(0,7) === "http://" ||
-                    line1.slice(0,8) === "https://"
-                ) {
-                   link = line1.trim();
+                // Strip HTML tags to extract bare URL
+                // Google Calendar often wraps URLs in <a href="...">...</a>
+                var hrefMatch = line1.match(/href=["']([^"']+)["']/);
+                if (hrefMatch) {
+                   link = hrefMatch[1].trim();
+                } else {
+                   var stripped = line1.replace(/<[^>]*>/g, '').trim();
+                   if (stripped.match(/^https?:\/\//)) {
+                      link = stripped;
+                   }
                 }
              }
 
