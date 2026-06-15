@@ -2,6 +2,8 @@
 title: Apache Software Foundation Events
 ---
 
+<img src="/images/denver-audience.jpg" alt="Audience" class="pull-left">
+
 The ASF runs and participates in a number
 of events related to our Apache projects throughout the year. These events have three main purposes:
 
