@@ -1,9 +1,9 @@
 {
  "kind": "calendar#events",
- "etag": "\"p33nolumcga59a0o\"",
+ "etag": "\"p32fsdgeprih9a0o\"",
  "summary": "Apache Conferences & Events",
  "description": "",
- "updated": "2026-06-15T19:52:12.635Z",
+ "updated": "2026-06-25T15:39:11.884Z",
  "timeZone": "America/Los_Angeles",
  "accessRole": "reader",
  "defaultReminders": [],
@@ -109,6 +109,37 @@
     "timeZone": "Europe/London"
    },
    "iCalUID": "6bm2530mld8n8l9237juo52g86@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3564803870245182\"",
+   "id": "625uqaireusn8q8o3vs5lhl6pr",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjI1dXFhaXJldXNuOHE4bzN2czVsaGw2cHIgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2026-06-25T15:38:34.000Z",
+   "updated": "2026-06-25T15:38:55.122Z",
+   "summary": "Lakehouse Day",
+   "description": "\u003ca href=\"https://communityovercode.org/lakehouse-day/\"\u003ehttps://communityovercode.org/lakehouse-day/\u003c/a\u003e",
+   "location": "Glasgow, UK",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-10"
+   },
+   "end": {
+    "date": "2026-10-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "625uqaireusn8q8o3vs5lhl6pr@google.com",
    "sequence": 0,
    "eventType": "default"
   },
