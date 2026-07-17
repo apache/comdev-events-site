@@ -7,13 +7,35 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://events.apache.org/organize/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Day-of Checklist</title>
+      <link>https://events.apache.org/organize/templates/day-of-checklist.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/templates/day-of-checklist.html</guid>
+      <description>Event Day Checklist Print this and bring it with you. Check items off as you go.
+Before doors open (arrive 30–60 min early) Unlock the room / meet the venue contact Set up tables and chairs in the arrangement you want Test the WiFi — connect a device, run a speed test, do a git clone Test the projector / screen if using one Put up directional signs from building entrance to room Write on whiteboard or print on paper: WiFi network name and password Project chat channel (Slack/Discord/IRC) Event hashtag Schedule overview Set out power strips / extension cords Set out any swag (stickers, name badges) If catering: confirm delivery time and dietary accommodations As people arrive Greet people, point them to WiFi info Have them add their name to an attendance list (paper or shared doc) If you&amp;rsquo;re doing name badges, hand them out or let people write their own Help anyone who needs dev environment setup Event start Brief welcome (5 min max): What we&amp;rsquo;re doing today Where to find issues/tasks How to ask questions (who&amp;rsquo;s available to help) Logistics: food, bathrooms, end time Code of Conduct reminder (link: apache.</description>
+    </item>
+    
+    <item>
+      <title>How to Organize a Small Apache Event</title>
+      <link>https://events.apache.org/organize/small-event-guide.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/small-event-guide.html</guid>
+      <description>How to Organize a Small Apache Event This guide covers everything you need to run a local event — a hackathon, sprint, meetup, BarCamp, or community gathering — with Apache branding. You don&amp;rsquo;t need permission from ComDev to start planning; just follow the steps below.
+What counts as a &amp;ldquo;small event&amp;rdquo;? Any community gathering of 5–100 people organized by or for an Apache project community:
+Contributor sprint — a day of focused hacking on a specific project Hackathon — multi-project working event BarCamp / unconference — participant-driven talks and discussion Meetup — an evening or half-day of talks and networking Release party — celebrating a major release Step-by-step 1.</description>
+    </item>
+    
+    <item>
       <title>Organize an Apache Event</title>
       <link>https://events.apache.org/organize/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://events.apache.org/organize/</guid>
-      <description>If you want to host your own Apache project event, or propose a roadshow about the ASF, get in touch with us on the Event Planning mailing list.
-Important! While we appreciate other parties producing events to tell the world about our many great Apache projects and communities, Apache trademarks and brands are also important to us. To use any Apache trademarks in conjunctions with events, you must request permission by following the Third Party Event Branding Policy.</description>
+      <description>Organize an Apache Event Whether you&amp;rsquo;re planning a small contributor sprint or a multi-day BarCamp, this section has everything you need to get started.
+Small Community Events (NEW) Most Apache events are organized by individual contributors in their local communities. You don&amp;rsquo;t need special permission — just follow our self-service guide:
+How to Organize a Small Apache Event — Step-by-step process from idea to execution Sprint in a Box — Everything for a one-day coding sprint (the simplest possible event) Day-of Checklist — Printable logistics checklist Templates To create your event page, make a new directory under source/events/YYYY/your-event-name/ in this repo and copy one of these templates as your starting __index.</description>
     </item>
     
     <item>
@@ -25,6 +47,16 @@ Important! While we appreciate other parties producing events to tell the world 
       <description>DRAFT This is intended to document the bid process for running/hosting a Roadshow. In particular, if you want ASF budget for it.
 You need, at a minimum
 Event chair Must be an ASF member Must be resident in the city where the event is proposed Volunteers to support (how many?) City/Venue selected University cities are preferred Local tech firms that can sponsor? Local keynote suggestion Proposed timeline, starting with CFP, going through schedule, speaker notification, the event, and the post-event Budget Leads on sponsorship helpful Contribute to event &amp;ldquo;runbook&amp;rdquo; as output from the event To run a roadshow or other small event without ASF budget, you only need to:</description>
+    </item>
+    
+    <item>
+      <title>Sprint in a Box</title>
+      <link>https://events.apache.org/organize/templates/sprint-in-a-box.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/organize/templates/sprint-in-a-box.html</guid>
+      <description>Sprint in a Box Everything you need to run a one-day contributor sprint for your Apache project. This is the simplest possible event — no talks, no sponsors needed, just a room and people who want to code together.
+Minimum requirements Room with tables, chairs, WiFi, and power outlets for 5–30 people One coordinator who is a committer on the project 3+ committed attendees before you set a date 4–6 weeks lead time for promotion Timeline 6 weeks before Confirm room (university, office, coworking space, library) Set up event page using the event template Post to your project&amp;rsquo;s dev@ list: &amp;ldquo;Who&amp;rsquo;s interested?</description>
     </item>
     
   </channel>
