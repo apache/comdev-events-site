@@ -108,6 +108,74 @@
     <h1 class="title">Hackathon at Community over Code Glasgow 2026</h1>
     
 	<p><img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> <strong><a href="https://communityovercode.org">Community over Code 2026</a> — Glasgow, UK, October 11–14</strong></p>
+<style>
+  .hackathon-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    padding: 1.5rem;
+    margin: 1rem 0 2rem;
+    background:
+      radial-gradient(circle at 85% 20%, rgba(70, 90, 200, 0.35), transparent 32%),
+      radial-gradient(circle at 15% 75%, rgba(180, 45, 145, 0.24), transparent 30%),
+      linear-gradient(135deg, #02091d 0%, #07132d 48%, #111944 75%, #210f3f 100%);
+    border-radius: 16px;
+    color: #ffffff;
+    overflow: hidden;
+  }
+  .hackathon-banner-text {
+    flex: 1;
+  }
+  .hackathon-banner-text h1 {
+    margin: 0.8rem 0 0.5rem;
+    color: #ffffff;
+  }
+  .hackathon-banner-text a {
+    color: #ff9852;
+  }
+  .hackathon-banner-text p {
+    margin: 0.4rem 0 0;
+    color: #e9eaf2;
+  }
+  .hackathon-banner-poster {
+    width: 100%;
+    max-width: 320px;
+    height: auto;
+    border: 4px solid #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 14px 35px rgba(0, 0, 0, 0.45);
+  }
+  @media (max-width: 760px) {
+    .hackathon-banner {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    .hackathon-banner-poster {
+      max-width: 100%;
+    }
+  }
+</style>
+<div class="hackathon-banner">
+  <div class="hackathon-banner-text">
+    <img
+      src="/images/apache-oak-leaf.svg"
+      alt="Apache"
+      style="height:1.4em; vertical-align:middle;"
+    >
+    <strong>
+      <a href="https://communityovercode.org">
+        Community over Code 2026
+      </a>
+      — Glasgow, UK, October 11–14
+    </strong>
+    <h1>Hackathon</h1>
+  </div>
+  <img
+    class="hackathon-banner-poster"
+    src="/images/hackathon-poster.png"
+    alt="Community over Code Glasgow 2026 Hackathon poster">
+</div>
 <h2 id="hackathon">Hackathon</h2>
 <p>We&rsquo;re bringing back the hackathon! Community over Code Glasgow will
 include dedicated time and space for contributors — new and experienced
