@@ -15,7 +15,7 @@ of events related to our Apache projects throughout the year. These events have 
 
 **Is your Apache project planning a meetup, hackathon, sprint, or
 conference?** This site is available to all ASF communities to
-coordinate and promote your events. See [how to get started](/events/)
+coordinate and promote your events. See [how to get started](/events/index.html)
 or contact [dev@community.apache.org](https://lists.apache.org/list.html?dev@community.apache.org).
 
 Running a third party or project event? You must comply with the [events

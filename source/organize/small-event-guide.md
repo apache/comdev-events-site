@@ -48,7 +48,7 @@ person should be:
 
 ### 4. Create your event page
 
-Copy the [event page template](../templates/small-event-template/) and
+Copy the [event page template](../templates/small-event-template.html) and
 submit a PR to this repository. The template has all the fields you need.
 
 Alternatively, email [dev@community.apache.org](mailto:dev@community.apache.org)
@@ -77,13 +77,13 @@ make sure your materials comply before publishing them.
 ### 7. Request funding (optional)
 
 If you need financial support for venue costs, catering, or materials,
-see the [Event Funding Request](funding-request/) page. Small events
+see the [Event Funding Request](funding-request.html) page. Small events
 can request up to $2,000 with a lightweight proposal.
 -->
 
 ### 8. Run the event
 
-See the [Day-of Checklist](day-of-checklist/) for a printable
+See the [Day-of Checklist](day-of-checklist.html) for a printable
 checklist.
 
 ### 9. After the event
@@ -99,11 +99,11 @@ checklist.
 
 ## Resources
 
-* [Event page template](../templates/small-event-template/) — copy this to create your event page
-* [Day-of checklist](day-of-checklist/) — printable logistics checklist
-<!-- * [Funding request process](funding-request/) — how to ask for budget support -->
-* [Sprint in a Box](sprint-in-a-box/) — everything you need for a contributor sprint
-* [Speaker support](../../volunteer/speaker-support/) — coaching for presenters
+* [Event page template](../templates/small-event-template.html) — copy this to create your event page
+* [Day-of checklist](day-of-checklist.html) — printable logistics checklist
+<!-- * [Funding request process](funding-request.html) — how to ask for budget support -->
+* [Sprint in a Box](sprint-in-a-box.html) — everything you need for a contributor sprint
+* [Speaker support](../../volunteer/speaker-support.html) — coaching for presenters
 * [ASF event branding policy](https://www.apache.org/foundation/marks/events.html)
 
 ---

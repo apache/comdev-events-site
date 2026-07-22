@@ -14,12 +14,12 @@ Most Apache events are organized by individual contributors in their
 local communities. You don't need special permission — just follow our
 self-service guide:
 
-* **[How to Organize a Small Apache Event](small-event-guide/)** — Step-by-step process from idea to execution
-* **[Sprint in a Box](templates/sprint-in-a-box/)** — Everything for a one-day coding sprint (the simplest possible event)
+* **[How to Organize a Small Apache Event](small-event-guide.html)** — Step-by-step process from idea to execution
+* **[Sprint in a Box](templates/sprint-in-a-box.html)** — Everything for a one-day coding sprint (the simplest possible event)
 <!--
-* **[Event Funding Request](templates/funding-request/)** — How to get financial support for your event
+* **[Event Funding Request](templates/funding-request.html)** — How to get financial support for your event
 -->
-* **[Day-of Checklist](templates/day-of-checklist/)** — Printable logistics checklist
+* **[Day-of Checklist](templates/day-of-checklist.html)** — Printable logistics checklist
 
 ## Templates
 
@@ -28,17 +28,17 @@ To create your event page, make a new directory under
 [this repo](https://github.com/apache/comdev-events-site) and copy
 one of these templates as your starting `__index.md`:
 
-* [General event template](templates/small-event-template/) -- Works for any event type
-* [Meetup template](templates/meetup-template/) -- Evening talks + networking
-* [BarCamp template](templates/barcamp-template/) -- Full-day unconference
-* [Hackathon project page](../../events/2026/community-over-code/sampleproject/) — For project-specific hackathon participation
+* [General event template](templates/small-event-template.html) -- Works for any event type
+* [Meetup template](templates/meetup-template.html) -- Evening talks + networking
+* [BarCamp template](templates/barcamp-template.html) -- Full-day unconference
+* [Hackathon project page](../../events/2026/community-over-code/sampleproject.html) — For project-specific hackathon participation
 
 ## Larger Events
 
 For events requesting ASF budget or official branding:
 
 <!-- 
-* [Organizing a Roadshow event](roadshow/) — Bid process for ASF-branded events
+* [Organizing a Roadshow event](roadshow.html) — Bid process for ASF-branded events
 -->
 
 ## Branding

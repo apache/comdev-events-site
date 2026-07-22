@@ -20,7 +20,7 @@ needed, just a room and people who want to code together.
 ### 6 weeks before
 
 - [ ] Confirm room (university, office, coworking space, library)
-- [ ] Set up event page using the [event template](small-event-template/)
+- [ ] Set up event page using the [event template](small-event-template.html)
 - [ ] Post to your project's dev@ list: "Who's interested?"
 - [ ] Curate 10+ issues suitable for new contributors (label them "sprint")
 
@@ -88,5 +88,5 @@ at least 4 weeks in advance. We can ship limited quantities at no cost.
 ## Funding
 
 If you need help covering room rental or food costs, see the
-[Event Funding Request](../funding-request/) page. Sprints typically
+[Event Funding Request](../funding-request.html) page. Sprints typically
 need $200–500 (pizza + drinks for a day).
