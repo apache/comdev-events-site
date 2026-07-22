@@ -12,7 +12,9 @@
             {{ else }}
                 {{ $label = (replaceRE "\\.[hH]tml$" "" $element) }}
             {{ end }}
-            &nbsp; <a href='{{ $href }}'>{{ $label }}</a>
+            {{ if ne (lower $label) "index" }}
+                &nbsp; <a href='{{ $href }}'>{{ $label }}</a>
+            {{ end }}
         {{ end }}
     {{ end }}
 </span>
