@@ -19,7 +19,7 @@ virtual, we can help you get the word out.
 
 **To get started:**
 
-1. Read the [How to Organize a Small Apache Event](/organize/small-event-guide/) guide
+1. Read the [How to Organize a Small Apache Event](/organize/small-event-guide.html) guide
 2. Copy one of our [event page templates](/organize/#templates)
 3. Submit a PR to [this repo](https://github.com/apache/comdev-events-site) with your event page
 4. Send a note to [dev@community.apache.org](https://lists.apache.org/list.html?dev@community.apache.org) to let us know about your PR -- we can help review and publicize
