@@ -34,8 +34,6 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 .msg-link:hover { color: #d4145a; text-decoration: underline; }
 </style>
 
-# Community over Code Glasgow 2026 — Hackathon Outreach Calendar
-
 **Conference dates: October 11–14, 2026 — Glasgow, Scotland**
 
 This page tracks the outreach tasks leading up to the hackathon, and
