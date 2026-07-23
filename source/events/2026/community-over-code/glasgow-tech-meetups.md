@@ -2,6 +2,9 @@
 title: "Glasgow Tech Meetups - Outreach Contacts"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 This page lists Glasgow-area tech meetups and developer communities. We're
 inviting their members to attend Community over Code Glasgow (October 11-14,
 2026) and participate in the hackathon.

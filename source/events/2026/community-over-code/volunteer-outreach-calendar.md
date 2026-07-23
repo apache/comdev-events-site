@@ -2,6 +2,9 @@
 title: "Community over Code Glasgow 2026 - Volunteer Outreach Calendar"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 1000px; margin: 2em auto; padding: 0 1em; color: #333; }
 h1 { color: #d4145a; }
@@ -51,6 +54,12 @@ and the track chairs. Speaker contact information is not publicly shared.
 - [Bars & Pubs](glasgow-bars.html)
 - [Tourist Highlights](glasgow-tourist-highlights.html)
 
+
+**Want to help promote the event?** You don't need to be assigned a
+task -- just grab a ready-made post from our
+**[Social Media Promotion page](glasgow-social-media.html)** and share
+it wherever you hang out online. Copy, paste, tweak, post!
+
 Pick a task, click "Volunteer for this task!" to email the planning team,
 and we'll get you set up.
 
@@ -74,7 +83,7 @@ and we'll get you set up.
 <tr><td><span class="day-num">7</span></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#followup-outreach">Follow up with colleges/b</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td><span class="day-num">11</span></td><td><span class="day-num">12</span></td><td><span class="day-num">13</span></td></tr>
 <tr><td><span class="day-num">14</span></td><td class="event-day"><span class="day-num">15</span><a class="task-link" href="#dress-rehearsals">Run dress rehearsals with</a></td><td><span class="day-num">16</span></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td><td><span class="day-num">19</span></td><td><span class="day-num">20</span></td></tr>
 <tr><td><span class="day-num">21</span></td><td class="event-day"><span class="day-num">22</span><a class="task-link" href="#first-timer-blog">Write a "What to expect a</a></td><td><span class="day-num">23</span></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td><td><span class="day-num">26</span></td><td><span class="day-num">27</span></td></tr>
-<tr><td><span class="day-num">28</span></td><td class="event-day"><span class="day-num">29</span><a class="task-link" href="#speaker-outreach-3">Speaker outreach #3</a><a class="task-link" href="#social-promo">Social media promotion</a></td><td><span class="day-num">30</span></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr>
+<tr><td><span class="day-num">28</span></td><td class="event-day"><span class="day-num">29</span><a class="task-link" href="#speaker-outreach-3">Speaker outreach #3</a></td><td><span class="day-num">30</span></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr>
 </table>
 
 ## October 2026
@@ -82,9 +91,9 @@ and we'll get you set up.
 <table class="cal">
 <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td></tr>
-<tr><td><span class="day-num">5</span></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#final-check">Final pre-event check</a></td><td class="event-day"><span class="day-num">7</span><a class="task-link" href="#live-post">Volunteer to live-post fr</a></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#event-week">Event week</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
+<tr><td><span class="day-num">5</span></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#final-check">Final pre-event check</a></td><td class="event-day"><span class="day-num">7</span></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#event-week">Event week</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
 <tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#speaker-thanks">Send thank-you emails to </a><a class="followup-link" href="#collect-speaker-slides">Collect final slide decks</a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
-<tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span><a class="followup-link" href="#social-recap">Social media recap</a><a class="followup-link" href="#upload-recordings">Ensure session recordings</a></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
+<tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span><a class="followup-link" href="#upload-recordings">Ensure session recordings</a></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
 <tr><td><span class="day-num">26</span></td><td class="followup-day"><span class="day-num">27</span><a class="followup-link" href="#lessons-learned">Write up a lessons-learne</a></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td><td><span class="day-num">31</span></td><td class="empty"></td></tr>
 </table>
 
@@ -196,7 +205,7 @@ and we'll get you set up.
 <div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Research%20childcare%20options%20near%20the%20venue%20for%20attendees%20with%20kids">Volunteer for this task!</a></div>
 </div>
 
-### Content & Social Media
+### Content
 
 <div class="task-item" id="first-timer-blog">
 <h4>Write a "What to expect at Community over Code" blog post for first-timers</h4>
@@ -204,16 +213,8 @@ and we'll get you set up.
 <div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Write%20a%20%22What%20to%20expect%20at%20Community%20over%20Code%22%20blog%20post%20for%20first-timers">Volunteer for this task!</a></div>
 </div>
 
-<div class="task-item" id="social-promo">
-<h4>Social media promotion - speaker spotlights, schedule highlights</h4>
-<span class="date">Tuesday, September 29, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Social%20media%20promotion">Volunteer for this task!</a></div>
 </div>
 
-<div class="task-item" id="live-post">
-<h4>Volunteer to live-post from sessions (social media)</h4>
-<span class="date">Wednesday, October 07, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Volunteer%20to%20live-post%20from%20sessions%20%28social%20media%29">Volunteer for this task!</a></div>
 </div>
 
 ### Event Week Prep
@@ -262,10 +263,6 @@ and we'll get you set up.
 <div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Compile%20attendee%20testimonials%20for%20next%20year%27s%20promotion">Volunteer for this task!</a></div>
 </div>
 
-<div class="task-item followup" id="social-recap">
-<h4>Social media recap - highlight talks, share key moments, tag speakers</h4>
-<span class="date">Friday, October 23, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Social%20media%20recap">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="upload-recordings">

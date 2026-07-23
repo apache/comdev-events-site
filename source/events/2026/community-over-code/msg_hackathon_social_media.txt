@@ -1,4 +1,4 @@
-[PROJECT] is joining the hackathon at #CommunityOverCode Glasgow
+[PROJECT] is joining the hackathon at #CommunityOverCode #ASF2026Glasgow Glasgow
 this October!
 
 * Beginner-friendly tasks
@@ -8,6 +8,8 @@ this October!
 Come hack with us: https://events.apache.org/events/2026/community-over-code/hackathon.html
 
 #OpenSource #Apache #Glasgow #Hackathon
+
+Conference website: https://communityovercode.org/
 
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!

@@ -10,6 +10,8 @@ Quick links:
 See you there! Bring your laptop, your curiosity, and your
 willingness to ask questions. Mentors are standing by.
 
+Conference website: https://communityovercode.org/
+
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
 Add your own voice, mention specific things about your project that

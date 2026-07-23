@@ -2,6 +2,9 @@
 title: "Glasgow Bars & Pubs"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 A guide to bars, pubs, and nightlife near the Community over Code
 Glasgow venue (Hilton Glasgow, 1 William St, city centre).
 

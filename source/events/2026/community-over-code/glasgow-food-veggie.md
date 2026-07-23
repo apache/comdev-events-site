@@ -2,6 +2,9 @@
 title: "Glasgow Vegetarian & Vegan Restaurants"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 A guide to vegetarian and vegan-friendly dining near the Community over
 Code Glasgow venue (Hilton Glasgow, 1 William St, city centre).
 

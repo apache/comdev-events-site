@@ -3,6 +3,8 @@
 us for a day of hacking - no prior contribution experience required!
 Details: https://events.apache.org/events/2026/community-over-code/hackathon.html
 
+Conference website: https://communityovercode.org/
+
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
 Add your own voice, mention specific things about your project that

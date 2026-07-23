@@ -2,6 +2,9 @@
 title: "Glasgow Diversity & Inclusion Groups - Outreach Contacts"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 This page lists Glasgow-area diversity-in-tech groups and organizations. We're
 inviting their members to attend and participate in Community over Code Glasgow
 (October 11-14, 2026) and the hackathon.

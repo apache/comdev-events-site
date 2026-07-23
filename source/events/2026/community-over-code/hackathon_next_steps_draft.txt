@@ -1,0 +1,94 @@
+Subject: Community over Code Glasgow 2026 Hackathon - Next Steps
+
+Hi everyone,
+
+Thank you for confirming your project's participation in the hackathon
+at Community over Code Glasgow 2026! https://communityovercode.org
+Register at https://communityovercode.org/registration/
+We now have 25 confirmed projects
+(plus 2 tentative), listed here:
+https://events.apache.org/events/2026/community-over-code/hackathon.html
+
+Here's a quick update on where we stand and what's next.
+
+WHERE WE ARE NOW
+----------------
+
+Some projects have already provided task lists — dev@ threads, GitHub
+issue labels, or specific goals — and the site links to mailing list
+threads if you want to check on the status or volunteer to help.
+Thank you to everyone who moved quickly on that. We're now four
+months out — if your project hasn't put together a task list yet,
+now's the time to get that organized (details below).
+
+Some of you have floated ideas like pre-hackathon intro sessions.
+Keep those coming.
+
+WHAT TO DO NEXT
+---------------
+
+1. CREATE YOUR PROJECT'S HACKATHON PAGE. Submit a PR that adds:
+
+   source/events/2026/community-over-code/YOURPROJECT.md
+
+   Include your hackathon coordinator, a task list, and links to
+   relevant resources (GitHub issues, mailing list threads, discussion
+   forums, chat channels — whatever best amplifies your goals and
+   helps participants find their way in). Optionally list who from
+   your community is planning to attend.
+
+   A sample template is at:
+   source/events/2026/community-over-code/sampleproject.md
+
+   Then link your page from the table in hackathon.md.
+
+   There's no rush — the event is in October — but aim to have your
+   page up by mid-September so participants have time to find it.
+
+2. IDENTIFY MENTORS. Who from your community might want to be at
+   the event to help participants get started?
+
+3. SPREAD THE WORD. Talk about it everywhere your community
+   gathers — dev@ and user@ mailing lists, your project website,
+   community calls, standups, chat channels. Frame it as a great
+   onboarding opportunity: face-to-face mentoring + curated tasks +
+   supportive environment = a powerful pitch for new contributors.
+
+   Share the hackathon page on social media:
+   https://events.apache.org/events/2026/community-over-code/hackathon.html
+
+4. GOT PROMOTIONAL IDEAS? Bring them to #hackathon on Slack or
+   planners@apachecon.com — let's brainstorm together.
+
+Good news: we have a room secured for the hackathon. We're still
+confirming exactly how many days it's available — I'll share
+the full schedule once that's locked down.
+
+The hackathon page is live at:
+https://events.apache.org/events/2026/community-over-code/hackathon.html
+
+PRs go to the comdev-events-site repo:
+https://github.com/apache/comdev-events-site
+
+STAY CONNECTED
+--------------
+
+Please join the #hackathon channel on the ApacheCon Slack for ongoing
+coordination. That's where we'll share updates, ask questions, and
+keep the conversation going between now and Glasgow.
+
+If you're not yet on the ApacheCon Slack: http://s.apache.org/apachecon-slack
+
+I'd also encourage subscribing to planners@apachecon.com — the
+event organizers list where broader planning discussions happen.
+
+This is OUR event — not mine. I'm coordinating logistics, but you
+know your projects and your communities better than anyone. Please
+come with suggestions for how we can make the hackathon better,
+what format works best for your project, and what you need to succeed.
+
+That's it for now. More specifics coming soon. Questions or ideas —
+just reply here or ping me on Slack.
+
+--Rich
+rbowen@apache.org

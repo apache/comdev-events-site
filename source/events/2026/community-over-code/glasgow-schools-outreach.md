@@ -2,6 +2,9 @@
 title: "Glasgow Schools & Universities - Outreach Contacts"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 This page lists Glasgow-area educational institutions with computing/technology
 programmes. We're inviting students and faculty to attend and participate in
 the hackathon at Community over Code Glasgow (October 11-14, 2026).

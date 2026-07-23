@@ -2,6 +2,14 @@
 title: "Community over Code Glasgow 2026  -  Hackathon Outreach Calendar"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+**Want to help promote the hackathon?** Grab a ready-made post from
+our **[Social Media Promotion page](glasgow-social-media.html)** and
+share it wherever you hang out online. Copy, paste, tweak, post!
+
+
+
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 1000px; margin: 2em auto; padding: 0 1em; color: #333; }
 h1 { color: #d4145a; }
@@ -45,7 +53,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 <table class="cal">
 <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td></tr>
-<tr><td><span class="day-num">3</span></td><td class="event-day"><span class="day-num">4</span><a class="task-link" href="#social-share">Share hackathon page URL </a><a class="task-link" href="#post-dev-list">Post hackathon announceme</a></td><td class="event-day"><span class="day-num">5</span><a class="task-link" href="#post-user-list">Post hackathon announceme</a><a class="task-link" href="#cross-post-chat">Cross-post hackathon link</a></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#newsletter-blurb">Write a 2-sentence hackat</a></td><td class="event-day"><span class="day-num">7</span><a class="task-link" href="#tentative-projects">Follow up with tentative </a></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td></tr>
+<tr><td><span class="day-num">3</span></td><td class="event-day"><span class="day-num">4</span><a class="task-link" href="#post-dev-list">Post hackathon announceme</a></td><td class="event-day"><span class="day-num">5</span><a class="task-link" href="#post-user-list">Post hackathon announceme</a><a class="task-link" href="#cross-post-chat">Cross-post hackathon link</a></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#newsletter-blurb">Write a 2-sentence hackat</a></td><td class="event-day"><span class="day-num">7</span><a class="task-link" href="#tentative-projects">Follow up with tentative </a></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td></tr>
 <tr><td><span class="day-num">10</span></td><td class="event-day"><span class="day-num">11</span><a class="task-link" href="#review-template">Review the sample project</a><a class="task-link" href="#proofread-page">Proofread the main hackat</a></td><td class="event-day"><span class="day-num">12</span><a class="task-link" href="#add-logo">Add your project's logo/i</a><a class="task-link" href="#why-participate">Write a "Why participate?</a></td><td class="event-day"><span class="day-num">13</span><a class="task-link" href="#transit-info">Research Glasgow public t</a><a class="task-link" href="#food-list">Compile a list of nearby </a></td><td class="event-day"><span class="day-num">14</span><a class="task-link" href="#second-wave">Second wave outreach</a><a class="task-link" href="#what-to-bring">Create a "What to bring" </a></td><td><span class="day-num">15</span></td><td><span class="day-num">16</span></td></tr>
 <tr><td><span class="day-num">17</span></td><td class="event-day"><span class="day-num">18</span><a class="task-link" href="#photo-album">Set up a shared photo alb</a><a class="task-link" href="#translate-header">Translate the hackathon p</a></td><td><span class="day-num">19</span></td><td><span class="day-num">20</span></td><td class="event-day"><span class="day-num">21</span><a class="task-link" href="#page-reminder">Reminder to projects: sub</a></td><td><span class="day-num">22</span></td><td><span class="day-num">23</span></td></tr>
 <tr><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td><td><span class="day-num">26</span></td><td><span class="day-num">27</span></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td></tr>
@@ -79,13 +87,6 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 ## Task Details
 
 ### Pre-Event Tasks
-
-<div class="task-item" id="social-share">
-<h3>Share hackathon page URL on your project's social media accounts</h3>
-<span class="date">Tuesday, August 04, 2026</span>
-<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Hackathon%3A%20Share%20hackathon%20page%20URL%20on%20your%20project%27s%20social%20media%20accounts">Volunteer for this task!</a></div>
-<div class="sample-msg"><a class="msg-link" href="msg_hackathon_social_media.txt">✏️ Sample message available</a></div>
-</div>
 
 <div class="task-item" id="post-dev-list">
 <h3>Post hackathon announcement to your project's dev@ mailing list</h3>
@@ -189,7 +190,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 </div>
 
 <div class="task-item" id="publicity-1">
-<h3>Publicity push #1  -  social media, Apache blog, community@ list</h3>
+<h3>Publicity push #1  -  Apache blog, community@ list, share links</h3>
 <span class="date">Tuesday, September 01, 2026</span>
 <div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Hackathon%3A%20Publicity%20push%20%231">Volunteer for this task!</a></div>
 <div class="sample-msg"><a class="msg-link" href="msg_hackathon_publicity_push_1.txt">✏️ Sample message available</a></div>

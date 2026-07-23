@@ -2,6 +2,9 @@
 title: "Glasgow Tourist Highlights"
 ---
 
+> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+
+
 Attending Community over Code Glasgow? Here are the top things to see
 and do in Glasgow beyond the conference. Most are free and within easy
 reach of the venue.

@@ -21,6 +21,8 @@ Photos and a full recap will be posted to the Apache blog soon.
 Thanks again - see you next time!
 Rich
 
+Conference website: https://communityovercode.org/
+
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
 Add your own voice, mention specific things about your project that
