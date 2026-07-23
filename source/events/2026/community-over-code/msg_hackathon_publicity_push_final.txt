@@ -1,11 +1,17 @@
 Subject: NEXT WEEK: Community over Code Glasgow Hackathon!
 
-The hackathon is NEXT WEEK  -  October 11-14 in Glasgow!
+The hackathon is NEXT WEEK - October 11-14 in Glasgow!
 
 Quick links:
-📋 Projects & tasks: https://events.apache.org/events/2026/community-over-code/hackathon.html
-📍 Venue & logistics: [link TBD]
-💬 Slack: #hackathon on http://s.apache.org/apachecon-slack
+ Projects & tasks: https://events.apache.org/events/2026/community-over-code/hackathon.html
+ Venue & logistics: [link TBD]
+ Slack: #hackathon on http://s.apache.org/apachecon-slack
 
 See you there! Bring your laptop, your curiosity, and your
 willingness to ask questions. Mentors are standing by.
+
+---
+NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
+Add your own voice, mention specific things about your project that
+would excite newcomers, and adjust the tone to match your community.
+The best outreach feels like it comes from a real person, not a template.

@@ -1,4 +1,4 @@
-Subject: 3 weeks to the hackathon  -  have you picked your project?
+Subject: 3 weeks to the hackathon - have you picked your project?
 
 The Community over Code Glasgow hackathon is just 3 weeks away
 (Oct 11-14)! 25+ Apache projects are ready with curated task lists
@@ -10,9 +10,15 @@ If you haven't already:
 3. Check out their "getting started" links
 4. Show up ready to hack
 
-No advance preparation required  -  but if you want a head start,
+No advance preparation required - but if you want a head start,
 most projects list their dev environment setup instructions on their
 hackathon page.
 
 Register: https://communityovercode.org/registration/
 Slack: #hackathon on http://s.apache.org/apachecon-slack
+
+---
+NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
+Add your own voice, mention specific things about your project that
+would excite newcomers, and adjust the tone to match your community.
+The best outreach feels like it comes from a real person, not a template.
