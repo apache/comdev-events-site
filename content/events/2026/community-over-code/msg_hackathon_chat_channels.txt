@@ -1,11 +1,17 @@
-🛠️ [PROJECT] is participating in the Community over Code Glasgow
+[PROJECT] is participating in the Community over Code Glasgow
 hackathon (Oct 11-14)!
 
 We'll have beginner-friendly tasks, mentors on hand, and a room full
 of people ready to hack. Whether you're a first-time contributor or
-a seasoned committer  -  come join us.
+a seasoned committer - come join us.
 
 Details: https://events.apache.org/events/2026/community-over-code/hackathon.html
 Register: https://communityovercode.org/registration/
 
 Join #hackathon on ApacheCon Slack for updates: http://s.apache.org/apachecon-slack
+
+---
+NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
+Add your own voice, mention specific things about your project that
+would excite newcomers, and adjust the tone to match your community.
+The best outreach feels like it comes from a real person, not a template.

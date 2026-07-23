@@ -1,4 +1,4 @@
-Subject: Community over Code Glasgow Hackathon  -  projects and tasks announced!
+Subject: Community over Code Glasgow Hackathon - projects and tasks announced!
 
 The hackathon at Community over Code Glasgow (Oct 11-14) now has 25+
 projects participating, with task lists published and mentors confirmed.
@@ -6,15 +6,21 @@ projects participating, with task lists published and mentors confirmed.
 Whether you're a first-time contributor or an experienced hacker looking
 for a new project to explore, there's something for you:
 
-👉 https://events.apache.org/events/2026/community-over-code/hackathon.html
+ https://events.apache.org/events/2026/community-over-code/hackathon.html
 
 Projects include: [list 5-6 popular ones]
 
 Each project has published a task list with issues at various
-difficulty levels  -  pick one that interests you and show up ready
+difficulty levels - pick one that interests you and show up ready
 to hack. Mentors will be on hand to help you get set up.
 
 Register for Community over Code: https://communityovercode.org/registration/
 Join #hackathon on Slack: http://s.apache.org/apachecon-slack
 
 See you in Glasgow!
+
+---
+NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
+Add your own voice, mention specific things about your project that
+would excite newcomers, and adjust the tone to match your community.
+The best outreach feels like it comes from a real person, not a template.
