@@ -1,4 +1,4 @@
-Subject: 3 weeks to the hackathon — have you picked your project?
+Subject: 3 weeks to the hackathon  -  have you picked your project?
 
 The Community over Code Glasgow hackathon is just 3 weeks away
 (Oct 11-14)! 25+ Apache projects are ready with curated task lists
@@ -10,7 +10,7 @@ If you haven't already:
 3. Check out their "getting started" links
 4. Show up ready to hack
 
-No advance preparation required — but if you want a head start,
+No advance preparation required  -  but if you want a head start,
 most projects list their dev environment setup instructions on their
 hackathon page.
 

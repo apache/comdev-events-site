@@ -13,10 +13,10 @@ Special thanks to [mentors who attended] for guiding participants
 and making the hackathon a welcoming space for new contributors.
 
 If any participants opened PRs that are still in review, please
-give them some love — the faster the feedback loop, the more likely
+give them some love  -  the faster the feedback loop, the more likely
 they'll come back as ongoing contributors.
 
 Photos and a full recap will be posted to the Apache blog soon.
 
-Thanks again — see you next time!
+Thanks again  -  see you next time!
 Rich

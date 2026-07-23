@@ -1,4 +1,4 @@
 [PROJECT] will be at the Community over Code Glasgow hackathon
 (Oct 11-14) with beginner-friendly tasks and mentors on hand. Join
-us for a day of hacking — no prior contribution experience required!
+us for a day of hacking  -  no prior contribution experience required!
 Details: https://events.apache.org/events/2026/community-over-code/hackathon.html

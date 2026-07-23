@@ -1,5 +1,5 @@
 ---
-title: "Community over Code Glasgow 2026 — Speaker & Community Outreach Calendar"
+title: "Community over Code Glasgow 2026  -  Speaker & Community Outreach Calendar"
 ---
 
 <style>
@@ -31,9 +31,9 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 .followup .volunteer-link { color: #2563eb; }
 </style>
 
-# Community over Code Glasgow 2026 — Speaker & Community Outreach Calendar
+# Community over Code Glasgow 2026  -  Speaker & Community Outreach Calendar
 
-**Conference dates: October 11–14, 2026 — Glasgow, Scotland**
+**Conference dates: October 11 - 14, 2026  -  Glasgow, Scotland**
 
 This page tracks the outreach tasks leading up to the event, and
 follow-up tasks afterward. Each task needs a volunteer owner. Click
@@ -80,75 +80,75 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 ### Pre-Event Tasks
 
 <div class="task-item" id="speaker-outreach-1">
-<h3>Speaker outreach #1 — offer slide review and dress rehearsal help</h3>
+<h3>Speaker outreach #1  -  offer slide review and dress rehearsal help</h3>
 <span class="date">Tuesday, August 04, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%231">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%231">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="colleges-id">
 <h3>Identify Glasgow-area colleges/universities for student outreach</h3>
 <span class="date">Tuesday, August 11, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Identify%20Glasgow-area%20colleges/universities%20for%20student%20outreach">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Identify%20Glasgow-area%20colleges/universities%20for%20student%20outreach">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="biz-id">
 <h3>Identify local Glasgow tech businesses/meetups for outreach</h3>
 <span class="date">Tuesday, August 11, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Identify%20local%20Glasgow%20tech%20businesses/meetups%20for%20outreach">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Identify%20local%20Glasgow%20tech%20businesses/meetups%20for%20outreach">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="college-emails">
-<h3>Send outreach emails to Glasgow colleges — free/discounted student passes, hackathon invite</h3>
+<h3>Send outreach emails to Glasgow colleges  -  free/discounted student passes, hackathon invite</h3>
 <span class="date">Tuesday, August 18, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20outreach%20emails%20to%20Glasgow%20colleges">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20outreach%20emails%20to%20Glasgow%20colleges">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="biz-emails">
-<h3>Send outreach to Glasgow tech businesses/meetups — attendance, sponsorship, lightning talks</h3>
+<h3>Send outreach to Glasgow tech businesses/meetups  -  attendance, sponsorship, lightning talks</h3>
 <span class="date">Tuesday, August 18, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20outreach%20to%20Glasgow%20tech%20businesses/meetups">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20outreach%20to%20Glasgow%20tech%20businesses/meetups">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="speaker-outreach-2">
-<h3>Speaker outreach #2 — check in on slide progress, schedule dress rehearsals</h3>
+<h3>Speaker outreach #2  -  check in on slide progress, schedule dress rehearsals</h3>
 <span class="date">Tuesday, September 01, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%232">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%232">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="followup-outreach">
 <h3>Follow up with colleges/businesses that didn't respond</h3>
 <span class="date">Tuesday, September 08, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Follow%20up%20with%20colleges/businesses%20that%20didn%27t%20respond">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Follow%20up%20with%20colleges/businesses%20that%20didn%27t%20respond">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="dress-rehearsals">
 <h3>Run dress rehearsals with speakers who want them</h3>
 <span class="date">Tuesday, September 15, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Run%20dress%20rehearsals%20with%20speakers%20who%20want%20them">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Run%20dress%20rehearsals%20with%20speakers%20who%20want%20them">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="speaker-outreach-3">
-<h3>Speaker outreach #3 — final slide check, logistics reminders, AV needs</h3>
+<h3>Speaker outreach #3  -  final slide check, logistics reminders, AV needs</h3>
 <span class="date">Tuesday, September 29, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%233">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Speaker%20outreach%20%233">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="social-promo">
-<h3>Social media promotion — speaker spotlights, schedule highlights</h3>
+<h3>Social media promotion  -  speaker spotlights, schedule highlights</h3>
 <span class="date">Tuesday, September 29, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Social%20media%20promotion">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Social%20media%20promotion">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="final-check">
-<h3>Final pre-event check — all speakers confirmed, slides collected</h3>
+<h3>Final pre-event check  -  all speakers confirmed, slides collected</h3>
 <span class="date">Tuesday, October 06, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Final%20pre-event%20check">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Final%20pre-event%20check">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item" id="event-week">
-<h3>Event week — all materials ready, speaker comms done</h3>
+<h3>Event week  -  all materials ready, speaker comms done</h3>
 <span class="date">Thursday, October 08, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Event%20week">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Event%20week">Volunteer for this task!</a></div>
 </div>
 
 ### Post-Event Follow-Up Tasks
@@ -156,37 +156,37 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 <div class="task-item followup" id="speaker-thanks">
 <h3>Send thank-you emails to all speakers</h3>
 <span class="date">Friday, October 16, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20thank-you%20emails%20to%20all%20speakers">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20thank-you%20emails%20to%20all%20speakers">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="collect-speaker-slides">
 <h3>Collect final slide decks from all speakers for archive</h3>
 <span class="date">Friday, October 16, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Collect%20final%20slide%20decks%20from%20all%20speakers%20for%20archive">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Collect%20final%20slide%20decks%20from%20all%20speakers%20for%20archive">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="college-followup">
-<h3>Follow up with Glasgow colleges/businesses — how was attendance? Future interest?</h3>
+<h3>Follow up with Glasgow colleges/businesses  -  how was attendance? Future interest?</h3>
 <span class="date">Tuesday, October 20, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Follow%20up%20with%20Glasgow%20colleges/businesses">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Follow%20up%20with%20Glasgow%20colleges/businesses">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="speaker-feedback">
-<h3>Send speaker feedback survey — what worked, what to improve</h3>
+<h3>Send speaker feedback survey  -  what worked, what to improve</h3>
 <span class="date">Tuesday, October 20, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20speaker%20feedback%20survey">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Send%20speaker%20feedback%20survey">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="social-recap">
-<h3>Social media recap — highlight talks, share key moments, tag speakers</h3>
+<h3>Social media recap  -  highlight talks, share key moments, tag speakers</h3>
 <span class="date">Friday, October 23, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Social%20media%20recap">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Social%20media%20recap">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="upload-recordings">
 <h3>Ensure session recordings are uploaded and linked from schedule page</h3>
 <span class="date">Friday, October 23, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> — <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Ensure%20session%20recordings%20are%20uploaded%20and%20linked%20from%20schedule%20page">Volunteer for this task!</a></div>
+<div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Speaker%20Outreach%3A%20Ensure%20session%20recordings%20are%20uploaded%20and%20linked%20from%20schedule%20page">Volunteer for this task!</a></div>
 </div>
 
 </div>
