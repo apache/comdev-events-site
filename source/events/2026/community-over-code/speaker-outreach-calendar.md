@@ -31,8 +31,6 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 .followup .volunteer-link { color: #2563eb; }
 </style>
 
-# Community over Code Glasgow 2026  -  Speaker & Community Outreach Calendar
-
 **Conference dates: October 11 - 14, 2026  -  Glasgow, Scotland**
 
 This page tracks the outreach tasks leading up to the event, and
