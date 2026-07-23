@@ -155,7 +155,7 @@ in the **#hackathon** channel on
 
 ---
 
-* Looking for other ways to help? See [more volunteer opportunities](/volunteer/index.html).
+* Looking for other ways to help? See [more volunteer opportunities](volunteer-outreach-calendar.html).
 * Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
 * Projects can update this page by submitting a PR to the
   [comdev-events-site repository](https://github.com/apache/comdev-events-site).

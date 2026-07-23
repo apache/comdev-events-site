@@ -4,6 +4,9 @@ title: "Help Promote Community over Code Glasgow 2026"
 
 > **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
 
+
+<img src="/images/denver-audience.jpg" alt="Community over Code audience" class="pull-right">
+
 # Help Get the Word Out!
 
 You don't need to be a "social media person" to help promote this

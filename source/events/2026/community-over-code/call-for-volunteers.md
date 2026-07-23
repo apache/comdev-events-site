@@ -2,8 +2,6 @@
 title: Call For Volunteers, Community over Code 2026
 ---
 
-<img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) will be held in Glasgow, UK, October 11-14.**
-
 <img src="/images/volunteers.jpg" alt="Volunteers" class="pull-right">
 
 Community over Code is an event run by the community, for the community.
@@ -29,8 +27,6 @@ task has a "Volunteer for this task!" link - just click it to sign up:
 
 ## Volunteer Roles
 
-<img src="/images/hackathon.jpg" alt="Hackathon, Stuttgart, 2025" class="pull-right">
-
 ### Hackathon Coordination
 
 Help organize and run the hackathon day - connecting projects with
@@ -40,8 +36,6 @@ contributors and making sure everyone has what they need to be productive.
 * **[Glasgow hackathon page](hackathon.html)** *(this year's event)*
 * **[Glasgow hackathon outreach calendar](hackathon-outreach-calendar.html)** *(tasks to claim)*
 
-<img src="/images/university.jpg" alt="University outreach" class="pull-left">
-
 ### University & Educational Outreach
 
 Connect with Glasgow's colleges, universities, and coding bootcamps to
@@ -49,8 +43,6 @@ bring students and educators into the Apache community.
 
 * [About university outreach](/volunteer/university.html) *(general guide)*
 * **[Glasgow schools & universities](glasgow-schools-outreach.html)** *(local contacts and info)*
-
-<img src="/images/meetup.jpg" alt="Meetup outreach" class="pull-right">
 
 ### Meetup & Community Outreach
 
@@ -61,16 +53,12 @@ reach new audiences.
 * **[Glasgow tech meetups](glasgow-tech-meetups.html)** *(local groups to contact)*
 * **[Glasgow diversity & inclusion groups](glasgow-diversity-groups.html)** *(local organizations)*
 
-<img src="/images/speaker.jpg" alt="Speaker support" class="pull-left">
-
 ### Speaker Support
 
 Provide coaching and feedback to speakers - abstract reviews, slide
 feedback, and dress rehearsals.
 
 * **[About speaker support](/volunteer/speaker-support.html)**
-
-<img src="/images/design.jpg" alt="Design volunteer" class="pull-right">
 
 ### Design
 

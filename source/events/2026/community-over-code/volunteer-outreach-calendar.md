@@ -5,6 +5,9 @@ title: "Community over Code Glasgow 2026 - Volunteer Outreach Calendar"
 > **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
 
 
+
+<img src="/images/volunteers.jpg" alt="Volunteers at Community over Code" class="pull-right">
+
 <style>
 body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; max-width: 1000px; margin: 2em auto; padding: 0 1em; color: #333; }
 h1 { color: #d4145a; }

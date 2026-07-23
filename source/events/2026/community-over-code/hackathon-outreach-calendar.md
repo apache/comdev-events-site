@@ -4,6 +4,9 @@ title: "Community over Code Glasgow 2026  -  Hackathon Outreach Calendar"
 
 > **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
 
+
+<img src="/images/hackathon.jpg" alt="Hackathon at Community over Code" class="pull-right">
+
 **Want to help promote the hackathon?** Grab a ready-made post from
 our **[Social Media Promotion page](glasgow-social-media.html)** and
 share it wherever you hang out online. Copy, paste, tweak, post!
