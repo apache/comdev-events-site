@@ -10,37 +10,37 @@ reach of the venue.
 
 ### Kelvingrove Art Gallery and Museum
 - **What:** World-class art and natural history museum in a stunning red sandstone building. 22 galleries, everything from Dali to dinosaurs.
-- **Where:** Argyle Street, West End (Subway: Kelvinhall)
+- **Where:** Argyle Street, Glasgow G3 8AG ([map](https://www.google.com/maps/search/?api=1&query=Kelvingrove%20Art%20Gallery%2C%20Argyle%20Street%2C%20Glasgow%20G3%208AG))
 - **Cost:** Free
 - **Time needed:** 2-3 hours
 
 ### Glasgow Cathedral
 - **What:** Medieval cathedral dating to the 12th century - one of the few Scottish medieval churches to survive the Reformation intact
-- **Where:** Cathedral Street (15 min walk from venue)
+- **Where:** Castle Street, Glasgow G4 0QZ ([map](https://www.google.com/maps/search/?api=1&query=Glasgow%20Cathedral%2C%20Castle%20Street%2C%20Glasgow%20G4%200QZ))
 - **Cost:** Free
 - **Time needed:** 45 min - 1 hour
 
 ### Glasgow Necropolis
 - **What:** Atmospheric Victorian cemetery on a hill behind the Cathedral. 50,000+ burials, stunning city views, incredible monuments.
-- **Where:** Adjacent to Glasgow Cathedral
+- **Where:** Adjacent to Glasgow Cathedral ([map](https://www.google.com/maps/search/?api=1&query=Glasgow%20Necropolis%2C%20Glasgow%20G4%200UZ))
 - **Cost:** Free
 - **Time needed:** 1 hour
 
 ### Riverside Museum
 - **What:** Zaha Hadid-designed transport museum on the Clyde. Vintage cars, ships, locomotives, street scenes.
-- **Where:** Pointhouse Place (bus from city centre)
+- **Where:** 100 Pointhouse Road, Glasgow G3 8RS ([map](https://www.google.com/maps/search/?api=1&query=100%20Pointhouse%20Road%2C%20Glasgow%20G3%208RS))
 - **Cost:** Free
 - **Time needed:** 2 hours
 
 ### Gallery of Modern Art (GoMA)
 - **What:** Contemporary art in a neoclassical building. Look for the famous Duke of Wellington statue with a traffic cone on his head outside.
-- **Where:** Royal Exchange Square (5 min walk from venue)
+- **Where:** Royal Exchange Square, Glasgow G1 3AH ([map](https://www.google.com/maps/search/?api=1&query=Gallery%20of%20Modern%20Art%2C%20Royal%20Exchange%20Square%2C%20Glasgow%20G1%203AH))
 - **Cost:** Free
 - **Time needed:** 1 hour
 
 ### George Square
 - **What:** Glasgow's principal city square, surrounded by grand Victorian architecture including City Chambers
-- **Where:** City centre (5 min walk from venue)
+- **Where:** George Square, Glasgow G2 1DU ([map](https://www.google.com/maps/search/?api=1&query=George%20Square%2C%20Glasgow%20G2%201DU))
 - **Cost:** Free
 - **Time needed:** 20 min to admire, or take the free City Chambers tour
 
@@ -48,10 +48,10 @@ reach of the venue.
 
 Glasgow's most famous architect/designer. Key sites:
 
-- **Glasgow School of Art** (Renfrew Street) - tours available of the restored building
-- **The Lighthouse** (Mitchell Lane) - Scotland's Centre for Design and Architecture, rooftop viewing platform
-- **House for an Art Lover** (Bellahouston Park) - building designed from Mackintosh's competition drawings
-- **The Willow Tea Rooms** (Sauchiehall Street) - his complete interior design, still serving afternoon tea
+- **Glasgow School of Art** - 167 Renfrew Street, G3 6RQ ([map](https://www.google.com/maps/search/?api=1&query=Glasgow%20School%20of%20Art%2C%20167%20Renfrew%20Street%2C%20Glasgow%20G3%206RQ)) - tours available of the restored building
+- **The Lighthouse** - 11 Mitchell Lane, G1 3NU ([map](https://www.google.com/maps/search/?api=1&query=The%20Lighthouse%2C%2011%20Mitchell%20Lane%2C%20Glasgow%20G1%203NU)) - Scotland's Centre for Design and Architecture, rooftop viewing platform
+- **House for an Art Lover** - Bellahouston Park, G41 5BW ([map](https://www.google.com/maps/search/?api=1&query=House%20for%20an%20Art%20Lover%2C%20Bellahouston%20Park%2C%20Glasgow%20G41%205BW)) - building designed from Mackintosh's competition drawings
+- **The Willow Tea Rooms** - 217 Sauchiehall Street, G2 3EX ([map](https://www.google.com/maps/search/?api=1&query=Willow%20Tea%20Rooms%2C%20217%20Sauchiehall%20Street%2C%20Glasgow%20G2%203EX)) - his complete interior design, still serving afternoon tea
 
 ## Street Art & Murals
 
@@ -59,7 +59,7 @@ Glasgow has a fantastic street art scene. The Glasgow Mural Trail is a
 self-guided walking tour taking about 90 minutes, covering 30+ murals
 across the city centre. Free!
 
-Start point: George Square. Maps available from the tourist information
+Start point: George Square ([map](https://www.google.com/maps/search/?api=1&query=George%20Square%2C%20Glasgow)). Maps available from the tourist information
 centre or search "Glasgow Mural Trail" online.
 
 ## Music Scene
@@ -67,15 +67,14 @@ centre or search "Glasgow Mural Trail" online.
 Glasgow is UNESCO City of Music. On any given night there are dozens
 of live gigs happening. Key venues near the venue:
 
-- **King Tut's Wah Wah Hut** (St Vincent Street) - legendary indie venue where Oasis were discovered
-- **Barrowland Ballroom** (Gallowgate) - iconic neon-fronted venue
-- **Nice N Sleazy** (Sauchiehall Street) - dive bar with great live music
+- **King Tut's Wah Wah Hut** - 272a St Vincent Street, G2 5RL ([map](https://www.google.com/maps/search/?api=1&query=King%20Tut%27s%20Wah%20Wah%20Hut%2C%20272a%20St%20Vincent%20Street%2C%20Glasgow%20G2%205RL)) - legendary indie venue where Oasis were discovered
+- **Barrowland Ballroom** - 244 Gallowgate, G4 0TT ([map](https://www.google.com/maps/search/?api=1&query=Barrowland%20Ballroom%2C%20244%20Gallowgate%2C%20Glasgow%20G4%200TT)) - iconic neon-fronted venue
+- **Nice N Sleazy** - 421 Sauchiehall Street, G2 3LG ([map](https://www.google.com/maps/search/?api=1&query=Nice%20N%20Sleazy%2C%20421%20Sauchiehall%20Street%2C%20Glasgow%20G2%203LG)) - dive bar with great live music
 
 ## Whisky
 
-- **The Pot Still** (Hope Street) - over 700 whiskies, a Glasgow institution
-- **The Bon Accord** (North Street) - excellent whisky and real ale selection
-- **Clydeside Distillery** (Stobcross Road) - working distillery with tours and tastings on the riverfront
+- **The Pot Still** - 154 Hope Street, G2 2TH ([map](https://www.google.com/maps/search/?api=1&query=154%20Hope%20Street%2C%20Glasgow%20G2%202TH)) - over 700 whiskies, a Glasgow institution
+- **Clydeside Distillery** - 100 Stobcross Road, G3 8QQ ([map](https://www.google.com/maps/search/?api=1&query=Clydeside%20Distillery%2C%20100%20Stobcross%20Road%2C%20Glasgow%20G3%208QQ)) - working distillery with tours and tastings on the riverfront
 
 ## Getting Around
 

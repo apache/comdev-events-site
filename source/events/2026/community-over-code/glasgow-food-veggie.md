@@ -12,50 +12,50 @@ excellent plant-based options all within walking distance of the venue.
 
 ### The Glasvegan
 - **What:** Plant-based fast food - burgers, hot dogs, loaded fries
-- **Where:** City centre (Argyle Street)
+- **Where:** 50 St Enoch Square, Glasgow G1 4DH ([map](https://www.google.com/maps/search/?api=1&query=50%20St%20Enoch%20Square%2C%20Glasgow%20G1%204DH))
 - **Good for:** Quick, filling, affordable
 
 ### Mono
 - **What:** Vegan cafe/bar in Merchant City with an in-house record store and live music
-- **Where:** King Street, Merchant City (~10 min walk from venue)
+- **Where:** 12 Kings Court, King Street, Glasgow G1 5RB ([map](https://www.google.com/maps/search/?api=1&query=12%20Kings%20Court%2C%20King%20Street%2C%20Glasgow%20G1%205RB))
 - **Good for:** Casual meals, evening hangouts, salads, pizzas, sandwiches
 
 ### The Hug and Pint
 - **What:** Vegan food above a live music venue
-- **Where:** Great Western Road (short taxi/subway ride)
+- **Where:** 171 Great Western Road, Glasgow G4 9AW ([map](https://www.google.com/maps/search/?api=1&query=171%20Great%20Western%20Road%2C%20Glasgow%20G4%209AW))
 - **Good for:** Evening meals before/after a gig, creative Asian-inspired dishes
 
 ### Rose & Grants
 - **What:** Fully vegan cafe, open 7 days for breakfast and lunch
-- **Where:** Trongate (~10 min walk)
+- **Where:** 27 Trongate, Glasgow G1 5EZ ([map](https://www.google.com/maps/search/?api=1&query=27%20Trongate%2C%20Glasgow%20G1%205EZ))
 - **Good for:** Breakfast/brunch. Try the vegan square sausage roll (a Scottish classic!)
 
 ## Vegetarian-Friendly Restaurants (with extensive vegan options)
 
 ### Stravaigin
 - **What:** "Culinary adventure" - global flavours with local Scottish ingredients
-- **Where:** Gibson Street, West End
+- **Where:** 28 Gibson Street, Glasgow G12 8NX ([map](https://www.google.com/maps/search/?api=1&query=28%20Gibson%20Street%2C%20Glasgow%20G12%208NX))
 - **Good for:** Inventive vegetarian dishes, special dinners, Scottish haggis alternatives
 
 ### Chaophraya
-- **What:** Thai restaurant with a dedicated plant-based menu
-- **Where:** City centre
+- **What:** Thai restaurant with a dedicated plant-based menu (Europe's largest Thai restaurant!)
+- **Where:** 2 Nelson Mandela Place, The Townhouse, Glasgow G1 2LL ([map](https://www.google.com/maps/search/?api=1&query=2%20Nelson%20Mandela%20Place%2C%20Glasgow%20G1%202LL))
 - **Good for:** Tofu green curry, garlic aubergine pad gra prao, spring rolls
 
 ### The Alchemist
 - **What:** International-inspired food with strong veggie options
-- **Where:** George Square (very close to venue)
+- **Where:** Unit 2, George House, George Square, Glasgow G2 1EH ([map](https://www.google.com/maps/search/?api=1&query=George%20House%2C%20George%20Square%2C%20Glasgow%20G2%201EH))
 - **Good for:** Cauliflower katsu curry, plant burgers, bang bang salads
 
 ### Ranjit's Kitchen
 - **What:** Homemade Panjabi cuisine, very vegetarian-friendly
-- **Where:** City centre
-- **Good for:** Authentic, comforting Indian food at great prices
+- **Where:** 607 Pollokshaws Road, Glasgow G41 2QG ([map](https://www.google.com/maps/search/?api=1&query=607%20Pollokshaws%20Road%2C%20Glasgow%20G41%202QG))
+- **Good for:** Authentic, comforting Indian food at great prices. Closed Mondays.
 
 ### The Prancing Stag
 - **What:** Award-winning neighbourhood restaurant (AA Rosette), seasonal Scottish food
-- **Where:** City centre area
-- **Good for:** Special dinner with excellent veggie options
+- **Where:** 1A Ashwood Gardens, Glasgow G13 1NX ([map](https://www.google.com/maps/search/?api=1&query=1A%20Ashwood%20Gardens%2C%20Glasgow%20G13%201NX))
+- **Good for:** Special dinner with excellent veggie options (beside Jordanhill station)
 
 ## Quick Tips
 
