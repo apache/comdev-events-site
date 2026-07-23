@@ -234,5 +234,24 @@ https://communityovercode.org/ #CommunityOverCode #Glasgow
 
 ---
 
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)
+
+---
+
 *Got a great post that worked well? Send it to planners@apachecon.com
 and we'll add it here for others to use!*

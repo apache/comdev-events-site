@@ -92,10 +92,24 @@ late-night venues.
 - "Last orders" is called 15 minutes before closing
 - October weather: bring a jacket for the walk back!
 
-## See Also
+---
 
-- [Glasgow Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)
-- [Glasgow Tourist Highlights](glasgow-tourist-highlights.html)
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)
 
 ---
 

@@ -60,3 +60,21 @@ When reaching out to these groups:
 - Offer free or discounted passes where possible
 - Suggest it as a portfolio-building and networking opportunity
 - Note the "hallway greeter" volunteers who welcome newcomers
+---
+
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)

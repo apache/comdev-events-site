@@ -54,3 +54,21 @@ When you reach out to these institutions, consider:
 - Mentioning that mentors will be available to help beginners
 - Suggesting faculty could bring a class as a field trip
 - Noting that the event is in central Glasgow (Hilton Glasgow, 1 William St)
+---
+
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)

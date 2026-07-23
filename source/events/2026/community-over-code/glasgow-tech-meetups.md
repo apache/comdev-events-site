@@ -65,3 +65,21 @@ When reaching out to meetup organizers:
 - Suggest a co-promotion: we mention their meetup at CoC, they mention CoC at their meetup
 - If they meet at The Gamer Club (several do), ask if there's a community board
 - Emphasize the hackathon as a unique, in-person collaboration opportunity
+---
+
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)

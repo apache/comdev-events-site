@@ -85,10 +85,24 @@ of live gigs happening. Key venues near the venue:
 - **Walking** - most attractions are within 20-30 min walk of the venue
 - **Buses** - extensive network, contactless payment accepted
 
-## See Also
+---
 
-- [Glasgow Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)
-- [Glasgow Bars & Pubs](glasgow-bars.html)
+## All Community over Code Glasgow Pages
+
+**Get involved:**
+[Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
+[Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Help Promote the Event](glasgow-social-media.html)
+
+**Glasgow guides:**
+[Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
+[Bars & Pubs](glasgow-bars.html) |
+[Tourist Highlights](glasgow-tourist-highlights.html)
+
+**Outreach resources:**
+[Schools & Universities](glasgow-schools-outreach.html) |
+[Diversity & Inclusion Groups](glasgow-diversity-groups.html) |
+[Tech Meetups](glasgow-tech-meetups.html)
 
 ---
 
