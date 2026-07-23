@@ -93,7 +93,7 @@ and we'll get you set up.
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td></tr>
 <tr><td><span class="day-num">5</span></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#final-check">Final pre-event check</a></td><td class="event-day"><span class="day-num">7</span></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#event-week">Event week</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
 <tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#speaker-thanks">Send thank-you emails to </a><a class="followup-link" href="#collect-speaker-slides">Collect final slide decks</a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
-<tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span><a class="followup-link" href="#upload-recordings">Ensure session recordings</a></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
+<tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
 <tr><td><span class="day-num">26</span></td><td class="followup-day"><span class="day-num">27</span><a class="followup-link" href="#lessons-learned">Write up a lessons-learne</a></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td><td><span class="day-num">31</span></td><td class="empty"></td></tr>
 </table>
 
@@ -265,10 +265,6 @@ and we'll get you set up.
 
 </div>
 
-<div class="task-item followup" id="upload-recordings">
-<h4>Ensure session recordings are uploaded and linked from schedule page</h4>
-<span class="date">Friday, October 23, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Ensure%20session%20recordings%20are%20uploaded%20and%20linked%20from%20schedule%20page">Volunteer for this task!</a></div>
 </div>
 
 <div class="task-item followup" id="lessons-learned">
