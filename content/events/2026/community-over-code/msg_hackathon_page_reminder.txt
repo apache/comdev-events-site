@@ -1,0 +1,24 @@
+Subject: Reminder: Submit your hackathon page by mid-September
+
+Hi everyone,
+
+Friendly reminder — if your project hasn't submitted its hackathon
+page yet, now's the time! Participants are starting to browse the
+list and choose which projects to hack on.
+
+To add your page:
+1. Create: source/events/2026/community-over-code/YOURPROJECT.md
+   (template at: source/events/2026/community-over-code/sampleproject.md)
+2. Link it from the table in hackathon.md
+3. Submit a PR to: https://github.com/apache/comdev-events-site
+
+Include:
+- Your hackathon coordinator's name
+- A task list (beginner, intermediate, advanced)
+- Links to dev environment setup
+- Who from your community is planning to attend
+
+Questions? Reply here or ping me on Slack (#hackathon).
+
+Thanks!
+Rich

@@ -1,0 +1,26 @@
+Subject: Hackathon at Community over Code Glasgow — Oct 11-14
+
+Hi everyone,
+
+[PROJECT NAME] will be participating in the hackathon at Community
+over Code Glasgow 2026 (October 11-14).
+
+This is a hands-on day where new and experienced contributors work
+side by side on real issues — bug fixes, documentation improvements,
+new features, and more. We'll have mentors available to help people
+get set up and find tasks that match their skill level.
+
+If you're attending Community over Code (or are in the Glasgow area),
+come hack with us! No prior experience with [PROJECT] is required —
+we'll have beginner-friendly tasks available.
+
+Details and task list:
+https://events.apache.org/events/2026/community-over-code/hackathon.html
+
+Register for Community over Code:
+https://communityovercode.org/registration/
+
+Questions? Reply here or join #hackathon on the ApacheCon Slack:
+http://s.apache.org/apachecon-slack
+
+See you in Glasgow!
