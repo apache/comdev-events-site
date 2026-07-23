@@ -11,18 +11,86 @@ That's you!
 
 We need your help to make it a success!
 
-We are looking for volunteers for a number of community engagement tasks.
-These roles include:
+## Help Promote the Event
 
-* **[Hackathon Coordination](hackathon.html)** - Help organize and run the hackathon
-* **[University Outreach](/volunteer/university.html)** - Connect with colleges and universities across multiple departments
-* **[Meetup Outreach](/volunteer/meetup.html)** - Engage with local meetup groups
-* **[Speaker Support](/volunteer/speaker-support.html)** - Provide coaching and feedback to speakers
-* **[Design](/volunteer/design.html)** - Create visual materials for outreach and on-site
+The easiest way to help right now is to **spread the word**. We have
+ready-made social media posts you can copy, paste, and share on whatever
+platform you use:
 
-If you are interested in volunteering for any of these jobs, please:
+* **[Social Media Promotion page](glasgow-social-media.html)** - Grab a post and share it! No signup required.
 
-* Join the **#volunteers** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
+## Volunteer Task Calendars
+
+We have two calendars listing specific tasks that need an owner. Each
+task has a "Volunteer for this task!" link - just click it to sign up:
+
+* **[Volunteer Outreach Calendar](volunteer-outreach-calendar.html)** - Speaker support, local outreach, attendee experience, post-event follow-up
+* **[Hackathon Outreach Calendar](hackathon-outreach-calendar.html)** - Hackathon-specific publicity and coordination tasks
+
+## Volunteer Roles
+
+<img src="/images/hackathon.jpg" alt="Hackathon, Stuttgart, 2025" class="pull-right">
+
+### Hackathon Coordination
+
+Help organize and run the hackathon day - connecting projects with
+contributors and making sure everyone has what they need to be productive.
+
+* [About hackathon coordination](/volunteer/hackathon.html) *(general guide)*
+* **[Glasgow hackathon page](hackathon.html)** *(this year's event)*
+* **[Glasgow hackathon outreach calendar](hackathon-outreach-calendar.html)** *(tasks to claim)*
+
+<img src="/images/university.jpg" alt="University outreach" class="pull-left">
+
+### University & Educational Outreach
+
+Connect with Glasgow's colleges, universities, and coding bootcamps to
+bring students and educators into the Apache community.
+
+* [About university outreach](/volunteer/university.html) *(general guide)*
+* **[Glasgow schools & universities](glasgow-schools-outreach.html)** *(local contacts and info)*
+
+<img src="/images/meetup.jpg" alt="Meetup outreach" class="pull-right">
+
+### Meetup & Community Outreach
+
+Engage with local tech meetups and diversity-in-tech organizations to
+reach new audiences.
+
+* [About meetup outreach](/volunteer/meetup.html) *(general guide)*
+* **[Glasgow tech meetups](glasgow-tech-meetups.html)** *(local groups to contact)*
+* **[Glasgow diversity & inclusion groups](glasgow-diversity-groups.html)** *(local organizations)*
+
+<img src="/images/speaker.jpg" alt="Speaker support" class="pull-left">
+
+### Speaker Support
+
+Provide coaching and feedback to speakers - abstract reviews, slide
+feedback, and dress rehearsals.
+
+* **[About speaker support](/volunteer/speaker-support.html)**
+
+<img src="/images/design.jpg" alt="Design volunteer" class="pull-right">
+
+### Design
+
+Create visual materials for outreach and on-site use - posters, flyers,
+social graphics, signage.
+
+* **[About design volunteering](/volunteer/design.html)**
+
+## Help Improve Our Glasgow Guides
+
+Know Glasgow? Help us make these pages better for attendees:
+
+* **[Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)** - Add your favourite spots
+* **[Bars & Pubs](glasgow-bars.html)** - Recommend great places to socialize
+* **[Tourist Highlights](glasgow-tourist-highlights.html)** - Add hidden gems and local tips
+
+## How to Get Involved
+
+* Join **#community-over-code** on [the-asf.slack.com](https://the-asf.slack.com/)
+* Join [apachecon.slack.com](http://s.apache.org/apachecon-slack) for day-to-day event coordination
 * Email [planners@apachecon.com](mailto:planners@apachecon.com)
   indicating your interest, and what you'd like to work on.
 
