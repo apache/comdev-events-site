@@ -7,8 +7,8 @@ start? Here's your chance.
 
 [PROJECT] will be participating in the hackathon at Community over
 Code Glasgow (October 11-14, 2026). We'll have a curated list of
-tasks at various difficulty levels — from documentation fixes to
-feature work — and mentors on hand to help you get started.
+tasks at various difficulty levels  -  from documentation fixes to
+feature work  -  and mentors on hand to help you get started.
 
 This is a great opportunity whether you're a long-time user looking
 to give back, or someone who's always been curious about contributing
@@ -20,4 +20,4 @@ https://events.apache.org/events/2026/community-over-code/hackathon.html
 Register:
 https://communityovercode.org/registration/
 
-No commitment required — just show up ready to learn and hack!
+No commitment required  -  just show up ready to learn and hack!

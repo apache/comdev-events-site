@@ -3,7 +3,7 @@ hackathon (Oct 11-14)!
 
 We'll have beginner-friendly tasks, mentors on hand, and a room full
 of people ready to hack. Whether you're a first-time contributor or
-a seasoned committer — come join us.
+a seasoned committer  -  come join us.
 
 Details: https://events.apache.org/events/2026/community-over-code/hackathon.html
 Register: https://communityovercode.org/registration/
