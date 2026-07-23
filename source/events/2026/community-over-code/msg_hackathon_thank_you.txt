@@ -1,0 +1,22 @@
+Subject: Thank you from the Community over Code Glasgow Hackathon!
+
+Hi everyone,
+
+Thank you for [PROJECT]'s participation in the hackathon at
+Community over Code Glasgow! Here's a quick recap:
+
+- [X] participants worked on [PROJECT] tasks
+- [X] PRs submitted / issues closed
+- [Highlight any notable contributions]
+
+Special thanks to [mentors who attended] for guiding participants
+and making the hackathon a welcoming space for new contributors.
+
+If any participants opened PRs that are still in review, please
+give them some love — the faster the feedback loop, the more likely
+they'll come back as ongoing contributors.
+
+Photos and a full recap will be posted to the Apache blog soon.
+
+Thanks again — see you next time!
+Rich
