@@ -46,6 +46,11 @@ and the track chairs. Speaker contact information is not publicly shared.
 - [Glasgow Diversity & Inclusion Groups](glasgow-diversity-groups.html)
 - [Glasgow Tech Meetups](glasgow-tech-meetups.html)
 
+**Glasgow guides (help us improve these!):**
+- [Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)
+- [Bars & Pubs](glasgow-bars.html)
+- [Tourist Highlights](glasgow-tourist-highlights.html)
+
 Pick a task, click "Volunteer for this task!" to email the planning team,
 and we'll get you set up.
 
@@ -148,6 +153,24 @@ and we'll get you set up.
 </div>
 
 ### Attendee Experience
+
+<div class="task-item" id="enhance-food">
+<h4>Enhance the <a href="glasgow-food-veggie.html">Vegetarian & Vegan Restaurants</a> page - add more options, non-veggie restaurants, personal recommendations</h4>
+<span class="date">Ongoing</span>
+<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Enhance%20food%20page">Volunteer for this task!</a></div>
+</div>
+
+<div class="task-item" id="enhance-bars">
+<h4>Enhance the <a href="glasgow-bars.html">Bars & Pubs</a> page - add personal favourites, quiet spots for conversation, late-night options</h4>
+<span class="date">Ongoing</span>
+<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Enhance%20bars%20page">Volunteer for this task!</a></div>
+</div>
+
+<div class="task-item" id="enhance-tourist">
+<h4>Enhance the <a href="glasgow-tourist-highlights.html">Tourist Highlights</a> page - add day trips, hidden gems, personal tips</h4>
+<span class="date">Ongoing</span>
+<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Enhance%20tourist%20page">Volunteer for this task!</a></div>
+</div>
 
 <div class="task-item" id="welcome-guide">
 <h4>Create a "First time at Community over Code?" welcome guide</h4>
