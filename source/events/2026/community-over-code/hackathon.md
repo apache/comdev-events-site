@@ -156,6 +156,8 @@ in the **#hackathon** channel on
 ---
 
 * Looking for other ways to help? See [more volunteer opportunities](volunteer-outreach-calendar.html).
+* Help spread the word: [Social Media Promotion page](glasgow-social-media.html).
+* See the [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) for publicity tasks that need an owner.
 * Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
 * Projects can update this page by submitting a PR to the
   [comdev-events-site repository](https://github.com/apache/comdev-events-site).
