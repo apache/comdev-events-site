@@ -225,7 +225,7 @@ https://communityovercode.org/ #CommunityOverCode #Glasgow
   mention specific talks you're excited about, tag people.
 - **Every post MUST include a link.** Use one of:
   - Conference website: https://communityovercode.org/
-  - Registration: https://communityovercode.org/register/
+  - Registration: https://communityovercode.org/registration/
   - Schedule: https://communityovercode.org/schedule/
 - **Tag the ASF:** @TheASF on Twitter/X, @TheASF@fosstodon.org on
   Mastodon, Apache Software Foundation on LinkedIn
