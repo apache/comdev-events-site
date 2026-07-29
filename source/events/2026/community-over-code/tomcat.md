@@ -4,7 +4,7 @@ title: "Apache Tomcat — Hackathon at Community over Code Glasgow 2026"
 
 <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
-**[Register now](https://communityovercode.org/registration/)** | [Event website](https://communityovercode.org) | [Hackathon overview](hackathon.html)
+**[Register now](https://communityovercode.apache.org/events/glasgow-2026/register)** | [Event website](https://communityovercode.org) | [Hackathon overview](hackathon.html)
 
 ## Apache Tomcat — Hackathon
 

@@ -10,7 +10,7 @@ Quick links:
 See you there! Bring your laptop, your curiosity, and your
 willingness to ask questions. Mentors are standing by.
 
-Conference website: https://communityovercode.org/
+Conference website: https://communityovercode.apache.org/events/glasgow-2026/
 
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!

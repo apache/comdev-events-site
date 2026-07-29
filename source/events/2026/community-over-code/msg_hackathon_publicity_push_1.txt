@@ -14,7 +14,7 @@ Each project has published a task list with issues at various
 difficulty levels - pick one that interests you and show up ready
 to hack. Mentors will be on hand to help you get set up.
 
-Register for Community over Code: https://communityovercode.org/registration/
+Register for Community over Code: https://communityovercode.apache.org/events/glasgow-2026/register
 Join #hackathon on Slack: http://s.apache.org/apachecon-slack
 
 See you in Glasgow!

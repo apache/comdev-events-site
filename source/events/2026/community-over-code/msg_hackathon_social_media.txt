@@ -9,7 +9,7 @@ Come hack with us: https://events.apache.org/events/2026/community-over-code/hac
 
 #OpenSource #Apache #Glasgow #Hackathon
 
-Conference website: https://communityovercode.org/
+Conference website: https://communityovercode.apache.org/events/glasgow-2026/
 
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!

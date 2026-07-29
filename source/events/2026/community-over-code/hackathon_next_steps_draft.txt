@@ -4,7 +4,7 @@ Hi everyone,
 
 Thank you for confirming your project's participation in the hackathon
 at Community over Code Glasgow 2026! https://communityovercode.org
-Register at https://communityovercode.org/registration/
+Register at https://communityovercode.apache.org/events/glasgow-2026/register
 We now have 25 confirmed projects
 (plus 2 tentative), listed here:
 https://events.apache.org/events/2026/community-over-code/hackathon.html

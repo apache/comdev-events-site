@@ -23,7 +23,7 @@ Questions? Reply here or ping me on Slack (#hackathon).
 Thanks!
 Rich
 
-Conference website: https://communityovercode.org/
+Conference website: https://communityovercode.apache.org/events/glasgow-2026/
 
 ---
 NOTE TO VOLUNTEERS: This is a starting point - please personalize it!

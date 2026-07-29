@@ -2,7 +2,7 @@
 title: "Help Promote Community over Code Glasgow 2026"
 ---
 
-> **[Community over Code Glasgow 2026](https://communityovercode.org/)** - October 11-14, Hilton Glasgow
+> **[Community over Code Glasgow 2026](https://communityovercode.apache.org/events/glasgow-2026/)** - October 11-14, Hilton Glasgow
 
 
 <img src="/images/denver-audience.jpg" alt="Community over Code audience" class="pull-right">
@@ -17,7 +17,7 @@ Copy, paste, tweak, post. That's it.
 
 **Hashtags:** #CommunityOverCode #ASF2026Glasgow #OpenSource
 
-**Conference website:** https://communityovercode.org/
+**Conference website:** https://communityovercode.apache.org/events/glasgow-2026/
 
 ---
 
@@ -31,7 +31,7 @@ Copy, paste, tweak, post. That's it.
 > fast. 20 tracks, a hackathon day, and the hallway conversations
 > where the real magic happens.
 >
-> https://communityovercode.org/
+> https://communityovercode.apache.org/events/glasgow-2026/
 >
 > #CommunityOverCode #ASF2026Glasgow #OpenSource
 
@@ -45,20 +45,20 @@ Copy, paste, tweak, post. That's it.
 The schedule for Community over Code Glasgow is live! Oct 11-14.
 20 tracks, a hackathon day, and the people behind the projects you
 depend on. Check it out and register:
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #OpenSource
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource
 ```
 
 ```
 Meet the people building Apache Kafka, Spark, Airflow, Iceberg, and
 50+ other projects face-to-face. Community over Code Glasgow,
 Oct 11-14. Registration open - book your hotel before the discount
-deadline! https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+deadline! https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ```
 Glasgow in October: open source, good whisky, and the friendliest
 tech community you'll ever meet. Community over Code, Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Glasgow
 ```
 
 ### Longer form (LinkedIn/blog/newsletter)
@@ -90,7 +90,7 @@ source contribution, there's a place for you here.
 Registration is open and the venue hotel (Hilton Glasgow) has a
 discounted room block - book soon before the deadline passes.
 
-https://communityovercode.org/
+https://communityovercode.apache.org/events/glasgow-2026/
 
 #CommunityOverCode #ASF2026Glasgow #OpenSource #ApacheSoftwareFoundation
 ```
@@ -107,7 +107,7 @@ Customize these for your project's community:
 If you work with Apache Spark, Flink, Airflow, or Iceberg - the
 people who build these tools are gathering in Glasgow, Oct 11-14.
 Data Infra & Engineering track at Community over Code.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ### Streaming
@@ -116,7 +116,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
 Apache Kafka, Flink, Pulsar contributors and users - Community over
 Code Glasgow has a dedicated Streaming track, Oct 11-14. Come talk
 architecture, performance, and what's next.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Kafka #Flink
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Kafka #Flink
 ```
 
 ### Search
@@ -124,7 +124,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Kafka #Flink
 ```
 Lucene, Solr, OpenSearch - the Search track at Community over Code
 Glasgow covers the cutting edge of search technology. Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Search
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Search
 ```
 
 ### IoT
@@ -133,7 +133,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Search
 Building connected systems? The Industrial IoT track at Community
 over Code Glasgow covers real-world deployments with Apache PLC4X,
 NuttX, and more. Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #IoT
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #IoT
 ```
 
 ### Community & Governance
@@ -143,7 +143,7 @@ How do you build a sustainable open source community? How do you
 handle governance, licensing, contributor growth? The Community and
 Governance tracks at Community over Code Glasgow go deep on the
 human side of open source. Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #OpenSource
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource
 ```
 
 ### Sustainability & Green Software
@@ -152,7 +152,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #OpenSource
 What's the environmental footprint of your software? The
 Sustainability and Green Software track at Community over Code
 Glasgow explores how open source can lead on climate. Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #GreenSoftware
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #GreenSoftware
 ```
 
 ---
@@ -165,14 +165,14 @@ Template - fill in your project name:
 The [PROJECT NAME] community will be at Community over Code Glasgow,
 Oct 11-14. Come meet the contributors, attend talks, and hack on
 real issues together. See you in Glasgow!
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Apache[PROJECT]
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Apache[PROJECT]
 ```
 
 ```
 Want to become a [PROJECT NAME] contributor? The hackathon day at
 Community over Code Glasgow (Oct 11-14) is the perfect way to start.
 Experienced committers will be there to help you land your first PR.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ---
@@ -186,7 +186,7 @@ Use these as the dates approach:
 ```
 60 days until Community over Code Glasgow! If you haven't registered
 yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ### 30 days out (Sep 11)
@@ -194,7 +194,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
 ```
 One month until Community over Code Glasgow! Final schedule is live.
 Which talks are you most excited about? Oct 11-14, Glasgow.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ### 2 weeks out (Sep 27)
@@ -202,7 +202,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
 ```
 Two weeks! Community over Code Glasgow is almost here. Oct 11-14.
 Pack your laptop, your questions, and your enthusiasm.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Glasgow
 ```
 
 ### 1 week out (Oct 4)
@@ -211,7 +211,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Glasgow
 Next week! Community over Code Glasgow kicks off Oct 11. See you at
 the Hilton Glasgow for four days of open source community, learning,
 and collaboration.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ### Day 1 (Oct 11)
@@ -220,7 +220,7 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
 It's happening! Community over Code Glasgow starts today. Follow
 #CommunityOverCode #ASF2026Glasgow for highlights, quotes, and key takeaways from
 20 tracks of Apache talks.
-https://communityovercode.org/ #CommunityOverCode #Glasgow
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #Glasgow
 ```
 
 ---
@@ -230,9 +230,9 @@ https://communityovercode.org/ #CommunityOverCode #Glasgow
 - **Personalize it!** These are starting points. Add your own voice,
   mention specific talks you're excited about, tag people.
 - **Every post MUST include a link.** Use one of:
-  - Conference website: https://communityovercode.org/
-  - Registration: https://communityovercode.org/registration/
-  - Schedule: https://communityovercode.org/schedule/
+  - Conference website: https://communityovercode.apache.org/events/glasgow-2026/
+  - Registration: https://communityovercode.apache.org/events/glasgow-2026/register
+  - Schedule: https://web.cvent.com/event/ac71ce47-2b5f-424c-abfe-5b48255315fb/summary?RefId=XSummary
 - **Tag the ASF:** @TheASF on Twitter/X, @TheASF@fosstodon.org on
   Mastodon, Apache Software Foundation on LinkedIn
 - **Use the hashtags:** #CommunityOverCode #ASF2026Glasgow
