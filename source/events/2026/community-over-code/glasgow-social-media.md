@@ -25,9 +25,11 @@ Copy, paste, tweak, post. That's it.
 
 *Updated weekly - check back for fresh content!*
 
-> Community over Code Glasgow is 80 days away! Oct 11-14, the Apache
-> community gathers in Glasgow, Scotland. 20 tracks, hackathon,
-> hallway conversations. Come build the future of open source with us.
+> Community over Code Glasgow is just 11 weeks away! Oct 11-14, the
+> Apache community gathers in Glasgow, Scotland. Schedule is live,
+> registration is open, and the hotel discount deadline is coming up
+> fast. 20 tracks, a hackathon day, and the hallway conversations
+> where the real magic happens.
 >
 > https://communityovercode.org/
 >
@@ -40,17 +42,17 @@ Copy, paste, tweak, post. That's it.
 ### Short form (Twitter/Mastodon/Bluesky)
 
 ```
-Community over Code Glasgow - Oct 11-14, 2026. The Apache Software
-Foundation's official conference. 20 tracks, hackathon day, and the
-people behind the projects you depend on. Join us!
+The schedule for Community over Code Glasgow is live! Oct 11-14.
+20 tracks, a hackathon day, and the people behind the projects you
+depend on. Check it out and register:
 https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #OpenSource
 ```
 
 ```
-Want to meet the people building Apache Kafka, Spark, Airflow,
-Cassandra, and 50+ other projects? Community over Code Glasgow,
-Oct 11-14. Registration open now.
-https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
+Meet the people building Apache Kafka, Spark, Airflow, Iceberg, and
+50+ other projects face-to-face. Community over Code Glasgow,
+Oct 11-14. Registration open - book your hotel before the discount
+deadline! https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow
 ```
 
 ```
@@ -62,11 +64,12 @@ https://communityovercode.org/ #CommunityOverCode #ASF2026Glasgow #Glasgow
 ### Longer form (LinkedIn/blog/newsletter)
 
 ```
-Community over Code Glasgow 2026 (Oct 11-14)
+Community over Code Glasgow 2026 - Schedule is Live! (Oct 11-14)
 
-The Apache Software Foundation's official conference is coming to
-Glasgow, Scotland this October. Four days of talks, workshops, and
-a dedicated hackathon day across 20 tracks:
+The Apache Software Foundation's official conference is heading to
+Glasgow, Scotland this October and the full schedule is now
+published. Four days of talks, workshops, and a dedicated hackathon
+day across 20 tracks:
 
 - AI Plumbing
 - Data Infrastructure & Engineering
@@ -83,6 +86,9 @@ of committers gets onboarded.
 
 Whether you're a seasoned committer or just getting started with open
 source contribution, there's a place for you here.
+
+Registration is open and the venue hotel (Hilton Glasgow) has a
+discounted room block - book soon before the deadline passes.
 
 https://communityovercode.org/
 
