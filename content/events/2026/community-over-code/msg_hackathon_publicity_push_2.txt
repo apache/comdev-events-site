@@ -14,7 +14,7 @@ No advance preparation required - but if you want a head start,
 most projects list their dev environment setup instructions on their
 hackathon page.
 
-Register: https://communityovercode.org/registration/
+Register: https://communityovercode.apache.org/events/glasgow-2026/register
 Slack: #hackathon on http://s.apache.org/apachecon-slack
 
 ---

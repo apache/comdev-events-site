@@ -18,7 +18,7 @@ Hackathon details:
 https://events.apache.org/events/2026/community-over-code/hackathon.html
 
 Register:
-https://communityovercode.org/registration/
+https://communityovercode.apache.org/events/glasgow-2026/register
 
 No commitment required - just show up ready to learn and hack!
 
