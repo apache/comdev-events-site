@@ -112,7 +112,7 @@ and we'll get you set up.
 <div class="task-item" id="speaker-outreach-1">
 <h4>Speaker outreach #1 - offer slide review and dress rehearsal help (coordinate via Brian/track chairs)</h4>
 <span class="date">Tuesday, August 04, 2026</span>
-<div class="owner">Owner: Brian Proffitt - <strong style="color:#2d6a2d;">&#10003; DONE (Jul 29, 2026)</strong></div>
+<div class="owner">Owner: Lahari Chowtori - <strong style="color:#2d6a2d;">&#10003; DONE (Jul 31, 2026)</strong></div>
 </div>
 
 <div class="task-item" id="speaker-outreach-2">
