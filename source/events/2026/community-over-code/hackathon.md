@@ -134,6 +134,48 @@ with each project's hackathon effort.
 *Eventually each project will have a dedicated page with hackathon
 task ideas and contributor guidance.*
 
+### Hackathon Room Schedule
+
+The hackathon room is available throughout the conference (Sunday
+through Wednesday). Up to **5 projects** can use the room during each
+half-day slot.
+
+**Please claim only one slot initially**, so every project gets a
+chance. Once all projects have signed up, unclaimed slots will open
+for seconds.
+
+To claim a slot, submit a PR adding your project name to the table
+below. Link to your [project hackathon page](hackathon.html) if you
+have one.
+
+#### Sunday, 11 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| Morning (11:20–15:00) | | | | | |
+| Afternoon (15:00–18:40) | | | | | |
+
+#### Monday, 12 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| Morning (11:20–15:00) | | | | | |
+| Afternoon (15:00–18:40) | | | | | |
+
+#### Tuesday, 13 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| Morning (11:20–15:00) | | | | | |
+| Afternoon (15:00–18:40) | | | | | |
+
+#### Wednesday, 14 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+|------|-----------|-----------|-----------|-----------|-----------|
+| Morning (11:20–15:00) | | | | | |
+| Afternoon (15:00–18:40) | | | | | |
+
 ### Want your project to participate?
 
 If your project has content at Community over Code Glasgow and you'd
