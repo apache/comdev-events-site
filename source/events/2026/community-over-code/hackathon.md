@@ -134,6 +134,8 @@ with each project's hackathon effort.
 *Eventually each project will have a dedicated page with hackathon
 task ideas and contributor guidance.*
 
+<!--
+
 ### Hackathon Room Schedule
 
 The hackathon room is available throughout the conference (Sunday
@@ -175,6 +177,8 @@ have one.
 |------|-----------|-----------|-----------|-----------|-----------|
 | Morning (11:20–15:00) | | | | | |
 | Afternoon (15:00–18:40) | | | | | |
+
+-->
 
 ### Want your project to participate?
 
