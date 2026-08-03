@@ -25,11 +25,11 @@ Copy, paste, tweak, post. That's it.
 
 *Updated weekly - check back for fresh content!*
 
-> Community over Code Glasgow is just 11 weeks away! Oct 11-14, the
+> Community over Code Glasgow is just 10 weeks away! Oct 11-14, the
 > Apache community gathers in Glasgow, Scotland. Schedule is live,
 > registration is open, and the hotel discount deadline is coming up
 > fast. 20 tracks, a hackathon day, and the hallway conversations
-> where the real magic happens.
+> where the real magic happens. Don't miss it!
 >
 > https://communityovercode.apache.org/events/glasgow-2026/
 >
