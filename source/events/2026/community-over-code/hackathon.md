@@ -69,11 +69,11 @@ title: Hackathon at Community over Code Glasgow 2026
     <h1>Hackathon</h1>
 
   </div>
+  <a href="/images/hackathon-poster.png">
   <img
     class="hackathon-banner-poster"
     src="/images/hackathon-poster.png"
-    alt="Community over Code Glasgow 2026 Hackathon poster">
-
+    alt="Community over Code Glasgow 2026 Hackathon poster"></a>
 </div>
 
 
