@@ -139,8 +139,8 @@ task ideas and contributor guidance.*
 ### Hackathon Room Schedule
 
 The hackathon room is available throughout the conference (Sunday
-through Wednesday). Up to **5 projects** can use the room during each
-half-day slot.
+through Wednesday) in the Wee Dram Room.
+Up to **5 projects** can use the room during each half-day slot.
 
 **Please claim only one slot initially**, so every project gets a
 chance. Once all projects have signed up, unclaimed slots will open
