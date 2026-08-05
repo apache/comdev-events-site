@@ -113,8 +113,8 @@ with each project's hackathon effort.
 | [Flink](https://flink.apache.org/) | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p) |
 | [Fluss](https://fluss.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts) |
 | [Gluten](https://gluten.apache.org/) | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
-| [Grails](https://grails.apache.org/) | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
-| [Groovy](https://groovy.apache.org/) | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
+| [Grails](groovy-grails.html) *(joint page with Groovy)* | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
+| [Groovy](groovy-grails.html) *(joint page with Grails)* | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
 | [Impala](https://impala.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3) |
 | [IoTDB](https://iotdb.apache.org/) *(tentative)* | [dev@ thread](https://lists.apache.org/thread/yd9wpq2xo35n2xwp8pb9k8s5ymb4rzxw) |
 | [Kafka](https://kafka.apache.org/) | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8) |
