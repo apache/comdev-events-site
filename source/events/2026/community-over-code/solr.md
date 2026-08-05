@@ -52,7 +52,7 @@ We're focusing on:
      this section if you'd rather not list names. -->
 
 * Eric Pugh (committer)
-* Name (role or area of expertise)
+* David Smiley (PMC)
 
 ### Getting Started Before the Event
 
