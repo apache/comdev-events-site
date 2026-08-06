@@ -34,6 +34,7 @@ We're focusing on:
   guides and API docs
 * **Bug fixes** — a curated set of bugs that are approachable with
   mentoring support
+* **Solr MCP** - come get hands on experience using the new Solr MCP tool from Aditya!
 
 ### Resources
 
@@ -53,6 +54,8 @@ We're focusing on:
 
 * Eric Pugh (committer)
 * David Smiley (PMC)
+* Jan Hoydahl (committer)
+* Aditya Parikh
 
 ### Getting Started Before the Event
 
