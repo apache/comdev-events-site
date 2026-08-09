@@ -37,6 +37,18 @@ Apache Groovy &amp;amp; Apache Grails — Hackathon Groovy and Grails are runnin
     </item>
     
     <item>
+      <title>Apache Impala — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/impala.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/impala.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Impala — Hackathon Coordinators Stamatis Zampetakis — zabetak@apache.org Steve Carlin — sjc362000@apache.org What We&amp;rsquo;re Working On The hackathon2026 label can be used to find Jira tickets relevant to the event.
+We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite project. The Jiras below gather some outstanding tasks that we would like to advance in the coming months:</description>
+    </item>
+    
+    <item>
       <title>Apache Solr — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/solr.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
