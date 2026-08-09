@@ -115,7 +115,7 @@ with each project's hackathon effort.
 | [Gluten](https://gluten.apache.org/) | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
 | [Grails](groovy-grails.html) *(joint page with Groovy)* | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
 | [Groovy](groovy-grails.html) *(joint page with Grails)* | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
-| [Impala](https://impala.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3) |
+| [Impala](impala.html) | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3) |
 | [IoTDB](https://iotdb.apache.org/) *(tentative)* | [dev@ thread](https://lists.apache.org/thread/yd9wpq2xo35n2xwp8pb9k8s5ymb4rzxw) |
 | [Kafka](https://kafka.apache.org/) | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8) |
 | [Kudu](https://kudu.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kkdxnwpwygq47kb763kw3hls2x2z5tk3) |
@@ -162,7 +162,7 @@ have one.
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 |------|-----------|-----------|-----------|-----------|-----------|
 | Morning (11:20–15:00) | | | | | |
-| Afternoon (15:00–18:40) | | | | | |
+| Afternoon (15:00–18:40) | [Impala](impala.html) | | | | |
 
 #### Tuesday, 13 October
 
