@@ -1,7 +1,6 @@
 ---
-
-## title: Hackathon at Community over Code Glasgow 2026
-
+title: Hackathon at Community over Code Glasgow 2026
+---
 
 
 ![Apache](/images/apache-oak-leaf.svg)
