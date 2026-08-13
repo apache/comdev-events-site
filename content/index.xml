@@ -122,6 +122,18 @@ We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite pr
     </item>
     
     <item>
+      <title>Apache NuttX — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/nuttx.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/nuttx.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache NuttX — Hackathon Coordinator Alin Jerpelea — jerpelea@apache.org What We&amp;rsquo;re Working On We will introduce you to NuttX RTOS and show you how to build and run it from scratch on an embedded board. There will be twenty SONY Spresense IoT boards available for demos and demonstrations.
+You can also bring your favourite board and we can try to run NuttX on it as well.</description>
+    </item>
+    
+    <item>
       <title>Apache Past Events</title>
       <link>https://events.apache.org/event/past-events.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
