@@ -144,7 +144,7 @@ Tuesday, 13 October
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
 | Morning (11:20–15:00) | Arrow |  |  |  |  |
-| Afternoon (15:00–18:40) |  |  |  |  |  |
+| Afternoon (15:00–18:40) | Mahout |  |  |  |  |
 
 Wednesday, 14 October
 
