@@ -136,8 +136,8 @@ Monday, 12 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Morning (11:20–15:00) |  |  |  |  |  |
-| Afternoon (15:00–18:40) | *Security* | *Security* | *Security* | *Security* | *Security* |
+| Morning (11:20–15:00) |   |  |  |  |  |
+| Afternoon (15:00–18:40) | Solr | *Security* | *Security* | *Security* | *Security* |
 
 Tuesday, 13 October
 
@@ -173,4 +173,3 @@ General hackathon coordination happens on the [planners@apachecon.com](mailto:pl
 - See the [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) for publicity tasks that need an owner.
 - Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
 - Projects can update this page by submitting a PR to the [comdev-events-site repository](https://github.com/apache/comdev-events-site).
-
