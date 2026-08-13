@@ -136,7 +136,7 @@ Monday, 12 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Morning (11:20–15:00) |  |  |  |  |  |
+| Morning (11:20–15:00) | Solr |  |  |  |  |
 | Afternoon (15:00–18:40) | *Security* | *Security* | *Security* | *Security* | *Security* |
 
 Tuesday, 13 October
