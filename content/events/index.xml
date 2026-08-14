@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Apache Software Foundation Events</title>
+    <link>https://events.apache.org/events.html</link>
+    <description>Recent content in Events on Apache Software Foundation Events</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://events.apache.org/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://events.apache.org/events/2026/community-over-code/new_responses.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/new_responses.html</guid>
+      <description>CoC Glasgow Hackathon — New Responses Log Responses from projects replying to the hackathon outreach emails. Newest entries at top.
+2026-05-12 - Apache httpd (Jean-Frédéric Clere) From: Jean-Frédéric Clere jfclere@gmail.com Summary: Replied privately (directly to Rich, not to the dev list) to the httpd hackathon outreach. Note: full message content is in Rich&amp;rsquo;s inbox (Mac Mail ID: 722274). Needs follow-up to determine interest level and whether Jean-Frédéric can serve as PoC.</description>
+    </item>
+    
+    <item>
+      <title>2026</title>
+      <link>https://events.apache.org/events/2026/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/index.html/</guid>
+      <description>2026 Events Community over Code Glasgow — October 11–14, Glasgow, UK </description>
+    </item>
+    
+    <item>
+      <title>Apache Fineract — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/fineract.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/fineract.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Fineract — Hackathon Coordinator Ádám Sághy — adamsaghy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Flink — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/flink.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/flink.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Flink — Hackathon Coordinator Sergey Nuyanzin — snuyanzin@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Move to GitHub Actions — help migrate CI infrastructure to GitHub Actions Build improvements — streamline the build process for new contributors First PR tasks — well-scoped issues designed to help you land your first Flink contribution Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Fluss — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/fluss.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/fluss.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Fluss — Hackathon Coordinator Anton Borisov — borzoniusy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Groovy &amp; Apache Grails — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/groovy-grails.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/groovy-grails.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Groovy &amp;amp; Apache Grails — Hackathon Groovy and Grails are running a joint hackathon session. The two communities overlap heavily, and quite a few of the interesting topics (application generation, CLI ergonomics, compiler and AST behaviour, documentation) sit right on the boundary between the projects — so we&amp;rsquo;re sharing a table and encouraging cross-pollination rather than splitting into two rooms.</description>
+    </item>
+    
+    <item>
+      <title>Apache Impala — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/impala.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/impala.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Impala — Hackathon Coordinators Stamatis Zampetakis — zabetak@apache.org Steve Carlin — sjc362000@apache.org What We&amp;rsquo;re Working On The hackathon2026 label can be used to find Jira tickets relevant to the event.
+We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite project. The Jiras below gather some outstanding tasks that we would like to advance in the coming months:</description>
+    </item>
+    
+    <item>
+      <title>Apache NuttX — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/nuttx.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/nuttx.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache NuttX — Hackathon Coordinator Alin Jerpelea — jerpelea@apache.org What We&amp;rsquo;re Working On We will introduce you to NuttX RTOS and show you how to build and run it from scratch on an embedded board. There will be twenty SONY Spresense IoT boards available for demos and demonstrations.
+You can also bring your favourite board and we can try to run NuttX on it as well.</description>
+    </item>
+    
+    <item>
+      <title>Apache SIS — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/sis.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/sis.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux@geomatys.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon Project website GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Solr — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/solr.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/solr.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Solr — Hackathon Coordinator Name — epugh@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: JIRA issues labeled &amp;ldquo;newdev&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Solr MCP - come get hands on experience using the new Solr MCP tool from Aditya!</description>
+    </item>
+    
+    <item>
+      <title>Apache Tomcat — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/tomcat.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/tomcat.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Tomcat — Hackathon Coordinator Name — markt@apache.org What We&amp;rsquo;re Working On We will be working on new features and enhancements to Apache Tomcat. The ideas list is being maintained on the project Wiki. We welcome additional suggestions on the dev@ list if you have an idea for something you&amp;rsquo;d like to work on.</description>
+    </item>
+    
+    <item>
+      <title>Apache YourProject — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/sampleproject.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/sampleproject.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache YourProject — Hackathon Coordinator Name — email@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Slack / Discord / chat channel Dev environment setup Who&amp;rsquo;s Planning to Attend Name (role or area of expertise) Name (role or area of expertise) Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Call For Volunteers, Community over Code 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/call-for-volunteers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/call-for-volunteers.html</guid>
+      <description>Community over Code is an event run by the community, for the community. That&amp;rsquo;s you!
+We need your help to make it a success!
+Help Promote the Event The easiest way to help right now is to spread the word. We have ready-made social media posts you can copy, paste, and share on whatever platform you use:
+Social Media Promotion page - Grab a post and share it! No signup required.</description>
+    </item>
+    
+    <item>
+      <title>Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/index.html/</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Community over Code is the annual conference of the Apache Software Foundation — bringing together developers, community managers, and enthusiasts from across the ASF ecosystem.
+Get Involved Hackathon — Dedicated time and space for contributors to work together on real project tasks. 25 projects are already signed up. Call for Volunteers — Help make the event a success — hackathon coordination, university outreach, meetup engagement, speaker support, and design.</description>
+    </item>
+    
+    <item>
+      <title>Community over Code Glasgow 2026  -  Hackathon Outreach Calendar</title>
+      <link>https://events.apache.org/events/2026/community-over-code/hackathon-outreach-calendar.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/hackathon-outreach-calendar.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+Want to help promote the hackathon? Grab a ready-made post from our Social Media Promotion page and share it wherever you hang out online. Copy, paste, tweak, post!
+Conference dates: October 11 - 14, 2026 - Glasgow, Scotland
+This page tracks the outreach tasks leading up to the hackathon, and follow-up tasks afterward. Each task needs a volunteer owner. Click &amp;ldquo;Volunteer for this task!</description>
+    </item>
+    
+    <item>
+      <title>Community over Code Glasgow 2026 - Volunteer Outreach Calendar</title>
+      <link>https://events.apache.org/events/2026/community-over-code/volunteer-outreach-calendar.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/volunteer-outreach-calendar.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+Conference dates: October 11-14, 2026 - Glasgow, Scotland
+This page tracks volunteer outreach tasks for Community over Code Glasgow - speaker support, local community engagement, attendee experience, and post-event follow-up. Each task needs a volunteer owner.
+NOTE: Speaker outreach tasks require coordination through Brian Proffitt and the track chairs. Speaker contact information is not publicly shared.
+Outreach resources:
+Glasgow Schools &amp;amp; Universities Glasgow Diversity &amp;amp; Inclusion Groups Glasgow Tech Meetups Glasgow guides (help us improve these!</description>
+    </item>
+    
+    <item>
+      <title>Events</title>
+      <link>https://events.apache.org/events/index.html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/index.html/</guid>
+      <description>Current Events Community over Code Glasgow 2026 — October 11–14, Glasgow, UK Coordinate Your Community Event Here This site is available to all ASF project communities to organize and promote meetups, hackathons, sprints, release parties, or any community gathering. Whether you&amp;rsquo;re planning something local or virtual, we can help you get the word out.
+To get started:
+Read the How to Organize a Small Apache Event guide Copy one of our event page templates Submit a PR to this repo with your event page Send a note to dev@community.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Bars &amp; Pubs</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-bars.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-bars.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+A guide to bars, pubs, and nightlife near the Community over Code Glasgow venue (Hilton Glasgow, 1 William St, city centre).
+Glasgow has a legendary pub culture. Here are some highlights within walking distance of the conference venue.
+Good Beer Guide Pubs (CAMRA-recommended) Babbity Bowster What: Tucked-away pub-restaurant-hotel in Merchant City with a reputation for excellent beer, wine, and food.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Diversity &amp; Inclusion Groups - Outreach Contacts</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-diversity-groups.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-diversity-groups.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+This page lists Glasgow-area diversity-in-tech groups and organizations. We&amp;rsquo;re inviting their members to attend and participate in Community over Code Glasgow (October 11-14, 2026) and the hackathon.
+Diversity-in-Tech Organizations Scotland Women in Technology (SWiT) Website: https://www.scotwomenintech.com/ About: Scotland-wide organization supporting women in technology. Runs annual awards, events, and networking. Relevance: Established community with engaged members who&amp;rsquo;d benefit from conference exposure.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Schools &amp; Universities - Outreach Contacts</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-schools-outreach.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-schools-outreach.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+This page lists Glasgow-area educational institutions with computing/technology programmes. We&amp;rsquo;re inviting students and faculty to attend and participate in the hackathon at Community over Code Glasgow (October 11-14, 2026).
+If you&amp;rsquo;re volunteering for student outreach, use this list as your starting point. Offer free or discounted student passes and highlight the hackathon as a hands-on learning opportunity.
+Universities University of Glasgow - School of Computing Science Website: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Tech Meetups - Outreach Contacts</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-tech-meetups.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-tech-meetups.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+This page lists Glasgow-area tech meetups and developer communities. We&amp;rsquo;re inviting their members to attend Community over Code Glasgow (October 11-14, 2026) and participate in the hackathon.
+Active Glasgow Tech Meetups Python Glasgow Website: https://www.meetup.com/python-glasgow/ Schedule: 1st Wednesday of every month About: Monthly meetup for sharing perspectives and insights about Python. Hosts speakers from across the city. Venue: The Gamer Club Relevance: Python is central to many Apache projects.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Tourist Highlights</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-tourist-highlights.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-tourist-highlights.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+Attending Community over Code Glasgow? Here are the top things to see and do in Glasgow beyond the conference. Most are free and within easy reach of the venue.
+Top Free Attractions Kelvingrove Art Gallery and Museum What: World-class art and natural history museum in a stunning red sandstone building. 22 galleries, everything from Dali to dinosaurs. Where: Argyle Street, Glasgow G3 8AG (map) Cost: Free Time needed: 2-3 hours Glasgow Cathedral What: Medieval cathedral dating to the 12th century - one of the few Scottish medieval churches to survive the Reformation intact Where: Castle Street, Glasgow G4 0QZ (map) Cost: Free Time needed: 45 min - 1 hour Glasgow Necropolis What: Atmospheric Victorian cemetery on a hill behind the Cathedral.</description>
+    </item>
+    
+    <item>
+      <title>Glasgow Vegetarian &amp; Vegan Restaurants</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-food-veggie.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-food-veggie.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+A guide to vegetarian and vegan-friendly dining near the Community over Code Glasgow venue (Hilton Glasgow, 1 William St, city centre).
+Glasgow was named Scotland&amp;rsquo;s most veg-friendly city, and you&amp;rsquo;ll find excellent plant-based options all within walking distance of the venue.
+Fully Vegan Restaurants The Glasvegan What: Plant-based fast food - burgers, hot dogs, loaded fries Where: 50 St Enoch Square, Glasgow G1 4DH (map) Good for: Quick, filling, affordable Mono What: Vegan cafe/bar in Merchant City with an in-house record store and live music Where: 12 Kings Court, King Street, Glasgow G1 5RB (map) Good for: Casual meals, evening hangouts, salads, pizzas, sandwiches The Hug and Pint What: Vegan food above a live music venue Where: 171 Great Western Road, Glasgow G4 9AW (map) Good for: Evening meals before/after a gig, creative Asian-inspired dishes Rose &amp;amp; Grants What: Fully vegan cafe, open 7 days for breakfast and lunch Where: 27 Trongate, Glasgow G1 5EZ (map) Good for: Breakfast/brunch.</description>
+    </item>
+    
+    <item>
+      <title>Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/hackathon.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/hackathon.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14 Hackathon Hackathon We&amp;rsquo;re bringing back the hackathon! Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+How it works Each participating project provides:
+A point of contact — someone present at the event to coordinate A task list — bugs, docs, features, good-first-issues, or whatever the project wants to focus on Promotion — letting their community know this is happening During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.</description>
+    </item>
+    
+    <item>
+      <title>Help Promote Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/glasgow-social-media.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/glasgow-social-media.html</guid>
+      <description>Community over Code Glasgow 2026 - October 11-14, Hilton Glasgow
+Help Get the Word Out! You don&amp;rsquo;t need to be a &amp;ldquo;social media person&amp;rdquo; to help promote this event. Just pick a post below, customize it if you like, and share it on whatever platform you use. Every share helps.
+Copy, paste, tweak, post. That&amp;rsquo;s it.
+Hashtags: #CommunityOverCode #ASF2026Glasgow #OpenSource
+Conference website: https://communityovercode.apache.org/events/glasgow-2026/
+This Week&amp;rsquo;s Suggested Post Updated weekly - check back for fresh content!</description>
+    </item>
+    
+  </channel>
+</rss>

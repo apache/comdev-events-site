@@ -1,0 +1,178 @@
+{
+ "kind": "calendar#events",
+ "etag": "\"p33nsnelrkbupa0o\"",
+ "summary": "Apache Conferences & Events",
+ "description": "",
+ "updated": "2026-07-31T15:50:55.790Z",
+ "timeZone": "America/Los_Angeles",
+ "accessRole": "reader",
+ "defaultReminders": [],
+ "items": [
+  {
+   "kind": "calendar#event",
+   "etag": "\"3540276207877758\"",
+   "id": "5uo3gjkgdd4pq15sbncplobvmr_20260831T140000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NXVvM2dqa2dkZDRwcTE1c2JuY3Bsb2J2bXJfMjAyNjA4MzFUMTQwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-12-09T21:14:47.000Z",
+   "updated": "2026-02-03T17:01:43.938Z",
+   "summary": "Airflow Summit",
+   "description": "https://airflowsummit.org/",
+   "location": "Austin, TX, USA",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-08-31"
+   },
+   "end": {
+    "date": "2026-09-03"
+   },
+   "recurringEventId": "5uo3gjkgdd4pq15sbncplobvmr",
+   "originalStartTime": {
+    "dateTime": "2026-08-31T07:00:00-07:00"
+   },
+   "iCalUID": "5uo3gjkgdd4pq15sbncplobvmr@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3563106265271006\"",
+   "id": "6bm2530mld8n8l9237juo52g86_20260922T080000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NmJtMjUzMG1sZDhuOGw5MjM3anVvNTJnODZfMjAyNjA5MjJUMDgwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2026-05-05T19:43:37.000Z",
+   "updated": "2026-06-15T19:52:12.635Z",
+   "summary": "Fluss Forward London",
+   "location": "London, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-09-22T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-09-23T09:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "6bm2530mld8n8l9237juo52g86",
+   "originalStartTime": {
+    "dateTime": "2026-09-22T01:00:00-07:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "6bm2530mld8n8l9237juo52g86@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3564803870245182\"",
+   "id": "625uqaireusn8q8o3vs5lhl6pr",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=NjI1dXFhaXJldXNuOHE4bzN2czVsaGw2cHIgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2026-06-25T15:38:34.000Z",
+   "updated": "2026-06-25T15:38:55.122Z",
+   "summary": "Lakehouse Day",
+   "description": "\u003ca href=\"https://communityovercode.org/lakehouse-day/\"\u003ehttps://communityovercode.org/lakehouse-day/\u003c/a\u003e",
+   "location": "Glasgow, UK",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-10"
+   },
+   "end": {
+    "date": "2026-10-11"
+   },
+   "transparency": "transparent",
+   "iCalUID": "625uqaireusn8q8o3vs5lhl6pr@google.com",
+   "sequence": 0,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3540764514052286\"",
+   "id": "0snk1j9lacks5dtd10le7rfjf6",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MHNuazFqOWxhY2tzNWR0ZDEwbGU3cmZqZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
+   "created": "2026-02-03T16:57:44.000Z",
+   "updated": "2026-02-06T12:50:57.026Z",
+   "summary": "Community Over Code 2026, Glasgow",
+   "description": "https://communityovercode.org/",
+   "location": "Glasgow, UK",
+   "creator": {
+    "email": "rbowen@rcbowen.com",
+    "displayName": "Rich Bowen"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "date": "2026-10-11"
+   },
+   "end": {
+    "date": "2026-10-15"
+   },
+   "transparency": "transparent",
+   "iCalUID": "0snk1j9lacks5dtd10le7rfjf6@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  },
+  {
+   "kind": "calendar#event",
+   "etag": "\"3540279895467966\"",
+   "id": "04q3qjccsf5nqqpgtao2qq17sg_20261118T090000Z",
+   "status": "confirmed",
+   "htmlLink": "https://www.google.com/calendar/event?eid=MDRxM3FqY2NzZjVucXFwZ3RhbzJxcTE3c2dfMjAyNjExMThUMDkwMDAwWiBuZXJzZWlnb3Nwc2VzMDY4amQ1N2JrNWFyOEBn",
+   "created": "2025-12-17T21:06:19.000Z",
+   "updated": "2026-02-03T17:32:27.733Z",
+   "summary": "CloudStack Collaboration Conference",
+   "description": "https://www.cloudstackcollab.org/",
+   "location": "Edinburgh, UK",
+   "creator": {
+    "email": "markt@gsuite.cloud.apache.org"
+   },
+   "organizer": {
+    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
+    "displayName": "Apache Conferences & Events",
+    "self": true
+   },
+   "start": {
+    "dateTime": "2026-11-18T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "end": {
+    "dateTime": "2026-11-20T09:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "recurringEventId": "04q3qjccsf5nqqpgtao2qq17sg",
+   "originalStartTime": {
+    "dateTime": "2026-11-18T01:00:00-08:00",
+    "timeZone": "Europe/London"
+   },
+   "iCalUID": "04q3qjccsf5nqqpgtao2qq17sg@google.com",
+   "sequence": 1,
+   "eventType": "default"
+  }
+ ]
+}
