@@ -136,24 +136,24 @@ Monday, 12 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Morning (11:20–15:00) | Solr |  |  |  |  |
+| Early (11:20–15:00) | Solr |  |  |  |  |
 | Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Afternoon (16:00–18:40) |  |  |  |  |  |
+| Late (16:00–18:40) | Solr |  |  |  |  |
 
 Tuesday, 13 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Morning (11:20–15:00) | Arrow |  |  |  |  |
-| Afternoon (15:00–18:40) | Mahout |  |  |  |  |
+| Early (11:20–15:00) | Arrow |  |  |  |  |
+| Late (15:00–18:40) | Mahout |  |  |  |  |
 
 Wednesday, 14 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Morning (11:20–14:10) | Wayang |  |  |  |  |
+| Early (11:20–14:10) | Wayang |  |  |  |  |
 | Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Afternoon (15:10–18:40) |  |  |  |  |  |
+| Late (15:10–18:40) |  |  |  |  |  |
 
 ### Want your project to participate?
 
