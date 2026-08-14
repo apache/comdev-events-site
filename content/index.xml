@@ -99,6 +99,42 @@ If you are producing an Apache-related event, and using our brands and marks, we
     </item>
     
     <item>
+      <title>Apache Fineract — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/fineract.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/fineract.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Fineract — Hackathon Coordinator Ádám Sághy — adamsaghy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Flink — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/flink.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/flink.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Flink — Hackathon Coordinator Sergey Nuyanzin — snuyanzin@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Move to GitHub Actions — help migrate CI infrastructure to GitHub Actions Build improvements — streamline the build process for new contributors First PR tasks — well-scoped issues designed to help you land your first Flink contribution Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache Fluss — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/fluss.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/fluss.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Fluss — Hackathon Coordinator Anton Borisov — borzoniusy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
       <title>Apache Groovy &amp; Apache Grails — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/groovy-grails.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -141,6 +177,18 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
       <guid>https://events.apache.org/event/past-events.html</guid>
       <description>Past ApacheCons For details on past ApacheCons, and archived sites of previous events (where available), please see https://archive.apachecon.com/
 Information on past ApacheCons is also available on the ApacheCon Wiki</description>
+    </item>
+    
+    <item>
+      <title>Apache SIS — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/sis.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/sis.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux@geomatys.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon Project website GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
     </item>
     
     <item>
