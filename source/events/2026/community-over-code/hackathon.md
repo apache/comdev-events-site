@@ -94,15 +94,15 @@ During the event, a dedicated room will be available for contributors to gather,
 
 The following Apache projects have confirmed participation. Follow the thread links to see the conversation and find out how to get involved with each project's hackathon effort.
 
-| Project | Discussion |
+| Task List | Discussion |
 | --- | --- |
 | [Airflow](https://airflow.apache.org/) | [dev@ thread](https://lists.apache.org/thread/c0fnphvb1bs5wbd454x7qclzcqj4wp1o) |
 | [Arrow](https://arrow.apache.org/) | [dev@ thread](https://lists.apache.org/thread/j63qwqrbosthf1ml3q7yxho89xhx5hoj) |
 | [Camel](https://camel.apache.org/) | [dev@ thread](https://lists.apache.org/thread/5ws6zdfofxd6typhz7fg1np8j7fn77ho) |
 | [CloudStack](https://cloudstack.apache.org/) | [dev@ thread](https://lists.apache.org/thread/gnmxsxb39plvp7wcq2tmw76r7jphry8c) |
-| [Fineract](https://fineract.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh) |
-| [Flink](https://flink.apache.org/) | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p) |
-| [Fluss](https://fluss.apache.org/) | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts) |
+| [Fineract](fineract.html) | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh) |
+| [Flink](flink.html) | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p) |
+| [Fluss](fluss.html) | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts) |
 | [Gluten](https://gluten.apache.org/) | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
 | [Grails](groovy-grails.html) *(joint page with Groovy)* | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d) |
 | [Groovy](groovy-grails.html) *(joint page with Grails)* | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j) |
@@ -114,7 +114,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [NuttX](https://nuttx.apache.org/) | [dev@ thread](https://lists.apache.org/thread/cb0yx6mfxh2j7m6hgq8d7vlgd89h0c28) |
 | [Ozone](https://ozone.apache.org/) *(tentative)* | [dev@ thread](https://lists.apache.org/thread/wmj56tsd6m0w9fk7oz2rsfqjzfg765vf) |
 | [Pekko](https://pekko.apache.org/) | [dev@ thread](https://lists.apache.org/thread/pkgkjq3748blo1g9znvrh556s488sox2) |
-| [SIS](https://sis.apache.org/) | [dev@ thread](https://lists.apache.org/thread/x5pyd9cwjhyc8lpgsgfnvpy8g72l91c9) |
+| [SIS](sis.html) | [dev@ thread](https://lists.apache.org/thread/x5pyd9cwjhyc8lpgsgfnvpy8g72l91c9) |
 | Solr | [dev@ thread](https://lists.apache.org/thread/f8bjyy06c0v2lddol6vvv5n8tzd3y9vl) |
 | [Spark](https://spark.apache.org/) | [dev@ thread](https://lists.apache.org/thread/711z5rcx7pb2wrwm0t41l6ffx21jxyr9) |
 | [StreamPipes](https://streampipes.apache.org/) | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc) |
