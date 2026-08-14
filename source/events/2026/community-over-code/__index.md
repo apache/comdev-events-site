@@ -18,6 +18,14 @@ enthusiasts from across the ASF ecosystem.
   success — hackathon coordination, university outreach, meetup
   engagement, speaker support, and design.
 
+## The local area
+* **[Bars](glasgow-bars.html)** - Various Bars in the area.
+* **[Veggie Food](glasgow-food-veggie.html)** - Vegan and Vegetarian Restaurants.
+* **[Schools Outreach](glasgow-schools-outreach.html)** - Information on Universities in the area.
+* **[Tourist Highlights](glasgow-tourist-highlights.html)** - Attractions to see whilst visiting Glasgow.
+* **[Tech Meetups](glasgow-tech-meetups.html)** - Other tech meetups to be found in and around Glasgow.
+* **[Social Media](glasgow-social-media.html)** - How to spread the word about this event.
+
 ## Key Details
 
 * **When:** October 11–14, 2026
