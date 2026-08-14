@@ -1,0 +1,12 @@
+[PROJECT] will be at the Community over Code Glasgow hackathon
+(Oct 11-14) with beginner-friendly tasks and mentors on hand. Join
+us for a day of hacking - no prior contribution experience required!
+Details: https://events.apache.org/events/2026/community-over-code/hackathon.html
+
+Conference website: https://communityovercode.apache.org/events/glasgow-2026/
+
+---
+NOTE TO VOLUNTEERS: This is a starting point - please personalize it!
+Add your own voice, mention specific things about your project that
+would excite newcomers, and adjust the tone to match your community.
+The best outreach feels like it comes from a real person, not a template.
