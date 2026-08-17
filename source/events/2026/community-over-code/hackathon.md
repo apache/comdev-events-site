@@ -140,7 +140,7 @@ Monday, 12 October
 | --- | --- |------------| --- | --- | --- |
 | Early (11:20–15:00) | Solr | Sourcelume |  |  |  |
 | Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (16:00–18:40) | Solr |            |  |  |  |
+| Late (16:00–18:40) | Solr | Responsible AI |  |  |  |
 
 Tuesday, 13 October
 
