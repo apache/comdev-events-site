@@ -43,7 +43,7 @@ We're focusing on:
      channels, contribution guides, dev environment setup docs, etc. -->
 
 * [Contribution guide and dev setup](https://arrow.apache.org/docs/developers/guide/index.html)
-* [Dev mailing list thread about the hackathon](https://lists.apache.org/thread/XXXXX)
+* [Dev mailing list thread about the hackathon](https://lists.apache.org/thread/zc9bkh7o4mmg5lzsfdy5v30fn634hyn0)
 * [GitHub issues](https://github.com/apache/arrow/issues)
 * [Zulip](https://arrow-dev.zulipchat.com/)
 
