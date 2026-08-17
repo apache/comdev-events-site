@@ -42,7 +42,7 @@ reach of the venue.
 - **Time needed:** 1 hour
 
 ### George Square
-- **What:** Glasgow's principal city square, surrounded by grand Victorian architecture including City Chambers
+- **What:** Glasgow's principal city square, surrounded by grand Victorian architecture including City Chambers.  As of October 2026 some parts of the square itself are closed.
 - **Where:** George Square, Glasgow G2 1DU ([map](https://www.google.com/maps/search/?api=1&query=George%20Square%2C%20Glasgow%20G2%201DU))
 - **Cost:** Free
 - **Time needed:** 20 min to admire, or take the free City Chambers tour
@@ -51,8 +51,6 @@ reach of the venue.
 
 Glasgow's most famous architect/designer. Key sites:
 
-- **Glasgow School of Art** - 167 Renfrew Street, G3 6RQ ([map](https://www.google.com/maps/search/?api=1&query=Glasgow%20School%20of%20Art%2C%20167%20Renfrew%20Street%2C%20Glasgow%20G3%206RQ)) - tours available of the restored building
-- **The Lighthouse** - 11 Mitchell Lane, G1 3NU ([map](https://www.google.com/maps/search/?api=1&query=The%20Lighthouse%2C%2011%20Mitchell%20Lane%2C%20Glasgow%20G1%203NU)) - Scotland's Centre for Design and Architecture, rooftop viewing platform
 - **House for an Art Lover** - Bellahouston Park, G41 5BW ([map](https://www.google.com/maps/search/?api=1&query=House%20for%20an%20Art%20Lover%2C%20Bellahouston%20Park%2C%20Glasgow%20G41%205BW)) - building designed from Mackintosh's competition drawings
 - **The Willow Tea Rooms** - 217 Sauchiehall Street, G2 3EX ([map](https://www.google.com/maps/search/?api=1&query=Willow%20Tea%20Rooms%2C%20217%20Sauchiehall%20Street%2C%20Glasgow%20G2%203EX)) - his complete interior design, still serving afternoon tea
 
@@ -62,8 +60,7 @@ Glasgow has a fantastic street art scene. The Glasgow Mural Trail is a
 self-guided walking tour taking about 90 minutes, covering 30+ murals
 across the city centre. Free!
 
-Start point: George Square ([map](https://www.google.com/maps/search/?api=1&query=George%20Square%2C%20Glasgow)). Maps available from the tourist information
-centre or search "Glasgow Mural Trail" online.
+Start point: George Square ([map](https://www.google.com/maps/search/?api=1&query=George%20Square%2C%20Glasgow)). Maps available search "Glasgow Mural Trail" online.
 
 ## Music Scene
 
@@ -71,7 +68,7 @@ Glasgow is UNESCO City of Music. On any given night there are dozens
 of live gigs happening. Key venues near the venue:
 
 - **King Tut's Wah Wah Hut** - 272a St Vincent Street, G2 5RL ([map](https://www.google.com/maps/search/?api=1&query=King%20Tut%27s%20Wah%20Wah%20Hut%2C%20272a%20St%20Vincent%20Street%2C%20Glasgow%20G2%205RL)) - legendary indie venue where Oasis were discovered
-- **Barrowland Ballroom** - 244 Gallowgate, G4 0TT ([map](https://www.google.com/maps/search/?api=1&query=Barrowland%20Ballroom%2C%20244%20Gallowgate%2C%20Glasgow%20G4%200TT)) - iconic neon-fronted venue
+- **Barrowland Ballroom** - 244 Gallowgate, G4 0TT ([map](https://www.google.com/maps/search/?api=1&query=Barrowland%20Ballroom%2C%20244%20Gallowgate%2C%20Glasgow%20G4%200TT)) - iconic neon-fronted venue (30 min walk, or bus)
 - **Nice N Sleazy** - 421 Sauchiehall Street, G2 3LG ([map](https://www.google.com/maps/search/?api=1&query=Nice%20N%20Sleazy%2C%20421%20Sauchiehall%20Street%2C%20Glasgow%20G2%203LG)) - dive bar with great live music
 
 ## Whisky
