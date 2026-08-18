@@ -3,7 +3,7 @@ title: About Community Over Code
 slug: index
 ---
 
-Community Over Code (formerly ApacheCon) is the official conference of the Apache Software Foundation.
+Community Over Code is the official conference of the Apache Software Foundation.
 Its primary goals are education and community building. We try to
 produce one each calendar year somewhere in North America and Europe,
 and are working on expanding this to the rest of the world.
@@ -12,6 +12,13 @@ If you want to volunteer to help with Community Over Code, please
 [join our mailing lists](/involved/mailing-lists.html),
 and see what [volunteer opportunities](/about/commcode/volunteer.html) we have,
 bearing in mind that it sometimes gets out of date.
+
+## Current Event
+
+**[Community Over Code Glasgow 2026](https://communityovercode.apache.org/events/glasgow-2026/)** — October 11–14, Hilton Glasgow, Scotland.
+
+- [Event website](https://communityovercode.apache.org/events/glasgow-2026/)
+- [Community engagement page](/events/2026/community-over-code/index.html) — hackathon, volunteer opportunities, local guides
 
 ## What Is Community Over Code?
 
@@ -34,17 +41,12 @@ Community Over Code is the one annual event for the particular continent in
 question. As such, it draws an international audience, both in
 speakers and attendees.
 
-The documentation around how to plan an ApacheCon may be found in the
-[ApacheCon Playbook](/about/commcode/playbook.html).  Most planning tasks
+The documentation around how to plan a Community Over Code may be found in the
+[Community Over Code Playbook](/about/commcode/playbook.html). Most planning tasks
 are done by volunteers who commit to help - at least a little - throughout
 the planning process for one specific conference.
 
-You can find out more about what ApacheCon events are in the works on
-the [Community Over Code NA](https://communityovercode.org} and [Community Over Code EU](https://eucommunityovercode.org) websites, and see what events
+You can find out more about what events are in the works on
+the [Community Over Code](https://communityovercode.org) website, and see what events
 we've done in the past on
 [archive.apachecon.com](https://archive.apachecon.com/).
-
-Other event types include:
-
-  - [Roadshows](/about/roadshow.html)
-  - [Endorsed events](/about/endorsed.html)
