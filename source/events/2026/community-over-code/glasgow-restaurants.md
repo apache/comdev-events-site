@@ -54,10 +54,6 @@ For vegetarian and vegan options specifically, see our dedicated
 - **Good for:** Meat lovers. The rib-eye is the move.
 
 ### Babbity Bowster
-- **What:** Traditional Scottish pub/restaurant in Merchant City. Live folk music.
-- **Where:** 16-18 Blackfriars Street, Glasgow G1 1PE ([map](https://www.google.com/maps/search/?api=1&query=16-18%20Blackfriars%20Street%2C%20Glasgow%20G1%201PE))
-- **Good for:** Hearty Scottish food, real ale, a taste of old Glasgow.
-
 ## International
 
 ### Cubatas
@@ -88,10 +84,6 @@ For vegetarian and vegan options specifically, see our dedicated
 - **Good for:** Fast, affordable, solo-friendly.
 
 ### The Glasvegan
-- **What:** Plant-based fast food — burgers, hot dogs, loaded fries.
-- **Where:** 50 St Enoch Square, Glasgow G1 4DH ([map](https://www.google.com/maps/search/?api=1&query=50%20St%20Enoch%20Square%2C%20Glasgow%20G1%204DH))
-- **Good for:** Quick vegan junk food.
-
 ## Quick Tips
 
 - **Finnieston** (Argyle Street between Kelvinhaugh St and Elderslie

@@ -29,4 +29,3 @@ your ideas.
 ### Other event types include:
 
   - [Community Over Code](https://communityovercode.apache.org/about/)
-  - [Endorsed events](/about/endorsed.html)
