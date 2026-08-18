@@ -10,7 +10,7 @@ and are working on expanding this to the rest of the world.
 
 If you want to volunteer to help with Community Over Code, please
 [join our mailing lists](/involved/mailing-lists.html),
-and see what [volunteer opportunities](/about/commcode/volunteer.html) we have,
+and see what [volunteer opportunities](https://communityovercode.apache.org/about/) we have,
 bearing in mind that it sometimes gets out of date.
 
 ## Current Event
@@ -42,11 +42,11 @@ question. As such, it draws an international audience, both in
 speakers and attendees.
 
 The documentation around how to plan a Community Over Code may be found in the
-[Community Over Code Playbook](/about/commcode/playbook.html). Most planning tasks
+[Community Over Code Playbook](https://communityovercode.apache.org/about/). Most planning tasks
 are done by volunteers who commit to help - at least a little - throughout
 the planning process for one specific conference.
 
 You can find out more about what events are in the works on
 the [Community Over Code](https://communityovercode.org) website, and see what events
 we've done in the past on
-[archive.apachecon.com](https://archive.apachecon.com/).
+[the past events page](https://communityovercode.apache.org/events/#past-events).
