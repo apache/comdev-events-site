@@ -26,6 +26,7 @@ enthusiasts from across the ASF ecosystem.
 * **[Tourist Highlights](glasgow-tourist-highlights.html)** - Attractions to see whilst visiting Glasgow.
 * **[Tech Meetups](glasgow-tech-meetups.html)** - Other tech meetups to be found in and around Glasgow.
 * **[Social Media](glasgow-social-media.html)** - How to spread the word about this event.
+* **[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)** - Ride sharing coordination for getting to/from the event.
 
 ## Key Details
 

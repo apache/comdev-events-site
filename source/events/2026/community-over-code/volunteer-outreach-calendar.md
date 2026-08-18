@@ -55,7 +55,8 @@ and the track chairs. Speaker contact information is not publicly shared.
 **Glasgow guides (help us improve these!):**
 - [Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)
 - [Bars & Pubs](glasgow-bars.html)
-- [Tourist Highlights](glasgow-tourist-highlights.html)
+- [Tourist Highlights](glasgow-tourist-highlights.html) |
+[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)
 
 
 **Want to help promote the event?** You don't need to be assigned a
@@ -289,7 +290,8 @@ and we'll get you set up.
 **Glasgow guides:**
 [Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
 [Bars & Pubs](glasgow-bars.html) |
-[Tourist Highlights](glasgow-tourist-highlights.html)
+[Tourist Highlights](glasgow-tourist-highlights.html) |
+[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)
 
 **Outreach resources:**
 [Schools & Universities](glasgow-schools-outreach.html) |

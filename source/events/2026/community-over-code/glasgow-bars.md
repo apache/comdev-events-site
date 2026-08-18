@@ -104,7 +104,8 @@ late-night venues.
 **Glasgow guides:**
 [Restaurants (Veggie/Vegan)](glasgow-food-veggie.html) |
 [Bars & Pubs](glasgow-bars.html) |
-[Tourist Highlights](glasgow-tourist-highlights.html)
+[Tourist Highlights](glasgow-tourist-highlights.html) |
+[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)
 
 **Outreach resources:**
 [Schools & Universities](glasgow-schools-outreach.html) |
