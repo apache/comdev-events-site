@@ -19,6 +19,7 @@ enthusiasts from across the ASF ecosystem.
   engagement, speaker support, and design.
 
 ## The local area
+* **[Restaurants](glasgow-restaurants.html)** - Places to eat near the venue.
 * **[Bars](glasgow-bars.html)** - Various Bars in the area.
 * **[Veggie Food](glasgow-food-veggie.html)** - Vegan and Vegetarian Restaurants.
 * **[Schools Outreach](glasgow-schools-outreach.html)** - Information on Universities in the area.
