@@ -76,6 +76,17 @@ For vegetarian and vegan options specifically, see our dedicated
 - **Where:** 2 Nelson Mandela Place, Glasgow G1 2LL ([map](https://www.google.com/maps/search/?api=1&query=2%20Nelson%20Mandela%20Place%2C%20Glasgow%20G1%202LL))
 - **Good for:** Big groups, great value set menus, strong veggie/vegan options.
 
+### Topolabamba
+- **What:** Mexican - small or large plates in a great atmosphere
+- **Where:** 89 St Vincent St, Glasgow G2 5TF ([map](https://www.google.com/maps/place/Topolabamba/@55.861268,-4.2561403,17z/data=!3m1!4b1!4m6!3m5!1s0x4888469e3130b041:0xea280d4a5d4381b5!8m2!3d55.861268!4d-4.2561403!16s%2Fg%2F11b5pjjlt_?hl=en&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D))
+- **Good for:** Variety, sharing, good for groups
+- 
+### Chakoo Bombay Cafe
+- **What:** Indian & Persian - small plates
+- **Where:** 79 St Vincent St, Glasgow G2 5TF ([map](https://www.google.com/maps/place/Chaakoo+Bombay+Cafe/@55.8612717,-4.2584466,17z/data=!3m1!4b1!4m6!3m5!1s0x4888469e314c9299:0x9fe9bb75b0a9588a!8m2!3d55.8612717!4d-4.2558717!16s%2Fg%2F11c1nbsnkk?hl=en&entry=ttu&g_ep=EgoyMDI2MDgxOS4wIKXMDSoASAFQAw%3D%3D))
+- **Good for:** Groups, atmosphere
+
+
 ## Quick / Budget
 
 ### YO! Sushi
