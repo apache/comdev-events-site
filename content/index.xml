@@ -158,6 +158,18 @@ We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite pr
     </item>
     
     <item>
+      <title>Apache Mahout — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/mahout.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/mahout.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Mahout — Hackathon Coordinator Krishna Dave — krishnadave@apache.org Andrew Musselman — akm@apache.org What We&amp;rsquo;re Working On Apache Mahout is a quantum computing project focused on two major components:
+Qumat — QuMat is a high level Python library for interfacing with multiple quantum computing backends. It is designed to be easy to use and to abstract the particularities of each backend, so that you may write once, run anywhere.</description>
+    </item>
+    
+    <item>
       <title>Apache NuttX — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/nuttx.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
