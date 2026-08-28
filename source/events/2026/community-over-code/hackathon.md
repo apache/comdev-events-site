@@ -103,7 +103,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [Fineract](fineract.html)                               | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh)                                   |
 | [Flink](flink.html)                                     | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p)                                   |
 | [Fluss](fluss.html)                                     | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts)                                   |
-| [Gluten](https://gluten.apache.org/)                    | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
+| [Gluten](gluten.html)                                   | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
 | [Grails](groovy-grails.html) *(joint page with Groovy)* | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d)                                   |
 | [Groovy](groovy-grails.html) *(joint page with Grails)* | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j)                                   |
 | [Impala](impala.html)                                   | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3)                                   |
