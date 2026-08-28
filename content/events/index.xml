@@ -74,6 +74,19 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Gi
     </item>
     
     <item>
+      <title>Apache Gluten - Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/gluten.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/gluten.html</guid>
+      <description>Community over Code 2026 - Glasgow, UK, October 11-14
+Register now | Event website | Hackathon overview
+Apache Gluten - Hackathon This page is focused on Velox backend and common runtime/config tasks. ClickHouse-specific tasks are intentionally excluded.
+Coordinator Yuan Zhou — yuan.zhou@ibm.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues that can be completed during the hackathon Docs and test alignment where support tables lag behind real code/test coverage Small Velox/Common code improvements with clear scope and acceptance criteria Curated Task List for Hackathon The items below are curated examples.</description>
+    </item>
+    
+    <item>
       <title>Apache Groovy &amp; Apache Grails — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/groovy-grails.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
