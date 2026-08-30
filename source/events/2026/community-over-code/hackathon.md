@@ -146,8 +146,8 @@ Tuesday, 13 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Early (11:20–15:00) | Arrow | Tooling | Gluten |  |  |
-| Late (15:00–18:40) | Mahout | Groovy and Grails |  |  |  |
+| Early (11:20–15:00) | Arrow | Tooling | Gluten | Magpie |  |
+| Late (15:00–18:40) | Mahout | Groovy and Grails | Magpie |  |  |
 
 Wednesday, 14 October
 
