@@ -110,6 +110,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [IoTDB](https://iotdb.apache.org/) *(tentative)*        | [dev@ thread](https://lists.apache.org/thread/yd9wpq2xo35n2xwp8pb9k8s5ymb4rzxw)                                   |
 | [Kafka](https://kafka.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8)                                   |
 | [Kudu](https://kudu.apache.org/)                        | [dev@ thread](https://lists.apache.org/thread/kkdxnwpwygq47kb763kw3hls2x2z5tk3)                                   |
+| [Magpie](magpie.html)                                   | [dev@ thread](https://lists.apache.org/thread/s69qmwrhnc7jcmx06gbnbdlp237obpzm)                                   |
 | [Mahout](https://events.apache.org/events/2026/community-over-code/mahout.html)                    | [dev@ thread](https://lists.apache.org/thread/28xwckdnhypx1pvqg6ytk1wpbp0wg63v)                                   |
 | [NuttX](https://nuttx.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/cb0yx6mfxh2j7m6hgq8d7vlgd89h0c28)                                   |
 | [Ozone](https://ozone.apache.org/) *(tentative)*        | [dev@ thread](https://lists.apache.org/thread/wmj56tsd6m0w9fk7oz2rsfqjzfg765vf)                                   |
