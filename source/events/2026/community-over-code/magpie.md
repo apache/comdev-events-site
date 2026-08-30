@@ -39,7 +39,7 @@ We're focusing on:
      channels, contribution guides, dev environment setup docs, etc. -->
 
 * [Contribution guide](https://github.com/apache/magpie/blob/main/CONTRIBUTING.md)
-* [Dev mailing list thread about the hackathon](TODO)
+* [Dev mailing list thread about the hackathon](https://lists.apache.org/thread/s69qmwrhnc7jcmx06gbnbdlp237obpzm)
 * [magpie channel on ASF Slack](https://the-asf.slack.com/archives/C0BD1EBMVEJ)
 
 ### Who's Planning to Attend
