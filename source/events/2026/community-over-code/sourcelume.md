@@ -32,6 +32,9 @@ We're focusing on:
   contributors:
 * **Documentation improvements** — help us improve our getting-started
   guides and API docs
+  * Website Repo: https://github.com/apache/sourcelume-site
+    * Geting started with Pelican https://infra.apache.org/asf-pelican-gettingstarted.html
+    * General Website guidelines https://infra.apache.org/project-site.html
 * **Bug fixes** — a curated set of bugs that are approachable with
   mentoring support
 
@@ -60,8 +63,10 @@ We're focusing on:
 To make the most of hackathon time, we recommend:
 
 1. Clone the repo and get the build working:
+   2. Apache Sourcelume Spec: https://github.com/apache/sourcelume-spec
+   3. Apache Sourcelume Registry: https://github.com/apache/sourcelume-registry
 2. Browse the issue list and pick one that interests you
-3. Introduce yourself on the dev@ list or chat channel
+3. Introduce yourself on the dev@sourcelume.apache.org list or chat channel
 
 ---
 
