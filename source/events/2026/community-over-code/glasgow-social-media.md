@@ -75,18 +75,18 @@ Copy, paste, tweak, post. That's it.
 
 *Updated weekly - check back for fresh content!*
 
-<div class="social-post" data-text="Community over Code Glasgow is just 7 weeks away! Oct 11-14, the
-Apache community gathers in Glasgow, Scotland. 25 projects are
-signed up for the hackathon, keynotes are confirmed, and the
+<div class="social-post" data-text="Community over Code Glasgow is just 6 weeks away! Oct 11-14, the
+Apache community gathers in Glasgow, Scotland. 25+ projects are
+signed up for the hackathon, keynotes are lined up, and the
 schedule is packed across 20 tracks. Registration is open and
 the hotel block is filling up. This is where the people behind
 the projects you depend on come together. Don't miss it!
 
 https://communityovercode.apache.org/events/glasgow-2026/
 
-#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is just 7 weeks away! Oct 11-14, the
-Apache community gathers in Glasgow, Scotland. 25 projects are
-signed up for the hackathon, keynotes are confirmed, and the
+#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is just 6 weeks away! Oct 11-14, the
+Apache community gathers in Glasgow, Scotland. 25+ projects are
+signed up for the hackathon, keynotes are lined up, and the
 schedule is packed across 20 tracks. Registration is open and
 the hotel block is filling up. This is where the people behind
 the projects you depend on come together. Don't miss it!
