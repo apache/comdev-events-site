@@ -122,7 +122,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [StreamPipes](https://streampipes.apache.org/)          | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc)                                   |
 | [Superset](https://superset.apache.org/)                | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68)                                   |
 | [Tomcat](tomcat.html)                                   | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2)                                   |
-| [Tooling](https://tooling.apache.org)                   |                                                                                                                   |
+| [Tooling](tooling.html)                   |                                                                                                                   |
 | [Wayang](https://wayang.apache.org/)                    | [dev@ thread](https://lists.apache.org/thread/nstct4k069v748rq622tt5vx2c66objf)                                   |
 
 *Eventually each project will have a dedicated page with hackathon task ideas and contributor guidance.*
