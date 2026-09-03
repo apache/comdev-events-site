@@ -32,7 +32,7 @@ those you find interesting, there is a task here that touches it.
 
 ### What We're Working On
 
-We'll bring tasks in four areas. A curated task list with specific issues
+We'll bring tasks in five areas. A curated task list with specific issues
 will be published on this page closer to the event; in the meantime, the
 directions below should tell you whether there's something here for you.
 
@@ -53,10 +53,19 @@ directions below should tell you whether there's something here for you.
   self-contained, and has a reference implementation elsewhere to compare
   against, which makes it a clean way to learn the build, the test
   harness and the review process in one sitting.
+* **Something built on Doris** *(any language, no engine internals
+  required)* — not a change to Doris itself, but an application that
+  shows what it can do: a hybrid search demo combining BM25 text
+  retrieval with vector similarity over the same table, an agent that
+  uses Doris as its memory, a dashboard over a lakehouse table. Demos
+  are how most people discover a feature exists, so a good one is worth
+  as much to the project as a patch — and this is the option to pick if
+  you'd rather build with Doris than in it.
 
 ### Resources
 
 * [Join Doris Slack](https://doris.apache.org/slack)
+* [Quick start](https://doris.apache.org/docs/gettingStarted/quick-start) — get a Doris running in minutes, no build needed
 * [How to contribute](https://doris.apache.org/community/how-to-contribute/)
 * [Building Doris with Docker](https://doris.apache.org/community/source-install/compilation-with-docker) — the fastest route to a working build
 * [GitHub issues](https://github.com/apache/doris/issues)
@@ -64,20 +73,27 @@ directions below should tell you whether there's something here for you.
 
 ### Getting Started Before the Event
 
-Doris is a large C++ and Java codebase and a first full build takes a
-while, so please don't leave it until the morning of the hackathon:
+What to prepare depends on which direction you pick:
 
-1. **Get a build working ahead of time** using the
+1. **If you plan to change Doris** — get a build working ahead of time
+   using the
    [official development Docker image](https://doris.apache.org/community/source-install/compilation-with-docker).
-   Building inside the image saves you from assembling the third-party
-   dependencies by hand. Start this the day before at the latest.
-2. **Decide roughly which direction interests you** from the four above,
+   Doris is a large C++ and Java codebase, a first full build takes a
+   while, and building inside the image saves you from assembling the
+   third-party dependencies by hand. Start this the day before at the
+   latest, not on the morning of the hackathon.
+2. **If you plan to build something on Doris** — you don't need to
+   compile anything. Follow the
+   [quick start](https://doris.apache.org/docs/gettingStarted/quick-start)
+   to get a cluster running locally, and bring whatever language and
+   client you're comfortable with.
+3. **Decide roughly which direction interests you** from the five above,
    so we can point you at a matching task on the day.
-3. **Say hello** on [Slack](https://doris.apache.org/slack) or the dev@
+4. **Say hello** on [Slack](https://doris.apache.org/slack) or the dev@
    list so we know to look out for you.
 
-If you can't get a build running, come anyway — documentation tasks need
-nothing but a text editor, and we can pair on the build in the room.
+If none of that works out, come anyway — documentation needs nothing but
+a text editor, and we can sort out builds and clusters in the room.
 
 ---
 
