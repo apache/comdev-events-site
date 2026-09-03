@@ -50,6 +50,17 @@ Getting people on board of using Magpie for their projects - especially to help 
     </item>
     
     <item>
+      <title>Apache Arrow — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/arrow.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/arrow.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Arrow — Hackathon Coordinator Nic Crane — thisisnic@apache.org Matt Topol — zeroshade@apache.org Alenka Frim — alenka@apache.org What We&amp;rsquo;re Working On There are several areas you can contribute to: Arrow C++ and the PyArrow and R bindings built on top of it (all in the apache/arrow repo), and Arrow Go (in apache/arrow-go). The Parquet C++ and Go libraries also live in these repositories, so you may find yourself contributing to Apache Parquet too.</description>
+    </item>
+    
+    <item>
       <title>Apache Fineract — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/fineract.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
