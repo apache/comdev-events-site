@@ -8,11 +8,21 @@ title: "Apache Doris — Hackathon at Community over Code Glasgow 2026"
 
 ## Apache Doris — Hackathon
 
-Apache Doris is a real-time analytical database built around an MPP query
-engine and a columnar storage format. If you're curious about how a modern
-OLAP engine executes a query — vectorized execution, cost-based
-optimization, materialized views — the hackathon is a good way to get your
-hands on the code with someone sitting next to you.
+Apache Doris is an open-source, real-time database for modern analytics
+and AI. It answers sub-second queries under high concurrency at petabyte
+scale; it treats structured, text and vector data as first-class citizens
+in the same engine, so a single SQL statement can combine a filter, a
+BM25 text match and a nearest-neighbour search over embeddings; it
+queries Iceberg, Delta Lake and Hudi tables in place, with no copy, which
+makes it an acceleration layer over an open lakehouse rather than yet
+another silo; and increasingly it serves as the store agents run
+on — columnar JSON for tool-call traces, BM25 retrieval for RAG and agent
+memory, MCP for access.
+
+That range is the reason Doris is an interesting codebase to spend an
+afternoon in. Query execution, index structures, storage formats,
+connectors and SQL semantics all live in one repository, so whichever of
+those you find interesting, there is a task here that touches it.
 
 **Session:** Tuesday 13 October, Early slot (11:20–15:00), Wee Dram Room
 
@@ -22,32 +32,34 @@ hands on the code with someone sitting next to you.
 
 ### What We're Working On
 
-Tasks are grouped by how much Doris background they need, so you can pick
-one that matches where you are:
+We'll bring tasks in four areas. A curated task list with specific issues
+will be published on this page closer to the event; in the meantime, the
+directions below should tell you whether there's something here for you.
 
-* **Implement a SQL function** *(easiest first PR — no prior Doris
-  knowledge needed)* — we're working through the functions that MySQL,
-  PostgreSQL, Trino, Hive and ClickHouse have and Doris doesn't. Each one
-  is small, self-contained, and comes with a clear reference
-  implementation to compare against. Pick an unchecked box from
-  [issue #48203](https://github.com/apache/doris/issues/48203).
-* **Documentation** *(no C++ or Java required)* — the
-  [doris-website repository](https://github.com/apache/doris-website/issues)
-  tracks documentation gaps, broken examples, and pages that need a
-  rewrite. Good if you'd rather read and write than compile.
-* **Good first issues** — [issues labeled "good first
-  issue"](https://github.com/apache/doris/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22)
-  in the main repository.
-* **Bug fixes with mentoring** *(some C++ or Java helps)* — we'll bring a
-  curated set of open bugs that are approachable in an afternoon, and
-  we'll walk you through the part of the codebase each one lives in.
+* **Multi-modal lakehouse support** *(the deepest end — some C++ or Java
+  expected)* — extending what Doris can read and push down across open
+  table formats, and broadening the range of data types it handles
+  natively. Good if you want to work on connectors, scan layers or type
+  systems.
+* **Documentation** *(no C++ or Java required)* — filling gaps, fixing
+  examples that no longer match the current release, and making the
+  getting-started path shorter. The most useful thing a newcomer can do,
+  because you still remember which parts were confusing.
+* **Visualization and tooling** *(front-end friendly)* — improving the
+  web UI and the tooling people use to observe and operate a Doris
+  cluster. A good fit if you'd rather write TypeScript than C++.
+* **New SQL functions** *(the easiest first PR)* — implementing functions
+  that other engines have and Doris doesn't. Each one is small,
+  self-contained, and has a reference implementation elsewhere to compare
+  against, which makes it a clean way to learn the build, the test
+  harness and the review process in one sitting.
 
 ### Resources
 
+* [Join Doris Slack](https://doris.apache.org/slack)
 * [How to contribute](https://doris.apache.org/community/how-to-contribute/)
 * [Building Doris with Docker](https://doris.apache.org/community/source-install/compilation-with-docker) — the fastest route to a working build
 * [GitHub issues](https://github.com/apache/doris/issues)
-* [Doris Slack](https://doris.apache.org/slack)
 * [Subscribe to the mailing lists](https://doris.apache.org/community/subscribe-mail-list)
 
 ### Getting Started Before the Event
@@ -59,8 +71,8 @@ while, so please don't leave it until the morning of the hackathon:
    [official development Docker image](https://doris.apache.org/community/source-install/compilation-with-docker).
    Building inside the image saves you from assembling the third-party
    dependencies by hand. Start this the day before at the latest.
-2. **Pick a task** from the lists above and comment on the issue so nobody
-   duplicates your work.
+2. **Decide roughly which direction interests you** from the four above,
+   so we can point you at a matching task on the day.
 3. **Say hello** on [Slack](https://doris.apache.org/slack) or the dev@
    list so we know to look out for you.
 
