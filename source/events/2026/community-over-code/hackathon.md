@@ -100,6 +100,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [Arrow](arrow.html)                                     | [dev@ thread](https://lists.apache.org/thread/j63qwqrbosthf1ml3q7yxho89xhx5hoj)                                   |
 | [Camel](https://camel.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/5ws6zdfofxd6typhz7fg1np8j7fn77ho)                                   |
 | [CloudStack](https://cloudstack.apache.org/)            | [dev@ thread](https://lists.apache.org/thread/gnmxsxb39plvp7wcq2tmw76r7jphry8c)                                   |
+| [Doris](doris.html)                                     |                                                                                                                   |
 | [Fineract](fineract.html)                               | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh)                                   |
 | [Flink](flink.html)                                     | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p)                                   |
 | [Fluss](fluss.html)                                     | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts)                                   |
@@ -147,7 +148,7 @@ Tuesday, 13 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Early (11:20–15:00) | Arrow | Tooling | Gluten | Magpie |  |
+| Early (11:20–15:00) | Arrow | Tooling | Gluten | Magpie | [Doris](doris.html) |
 | Late (15:00–18:40) | Mahout | Groovy and Grails | Magpie |  |  |
 
 Wednesday, 14 October
