@@ -38,6 +38,9 @@
     <loc>https://events.apache.org/event/calendar.html</loc>
     <lastmod>2024-04-18T00:05:43+01:00</lastmod>
   </url><url>
+    <loc>https://events.apache.org/events/2026/community-over-code/doris.html</loc>
+    <lastmod>2026-09-03T16:11:21+08:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/about/endorsed.html</loc>
     <lastmod>2020-08-10T18:39:51+02:00</lastmod>
   </url><url>
@@ -144,7 +147,7 @@
     <lastmod>2026-08-18T09:49:56-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/events/2026/community-over-code/hackathon.html</loc>
-    <lastmod>2026-09-01T10:41:04-07:00</lastmod>
+    <lastmod>2026-09-03T15:46:44+08:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/volunteer/hackathon.html</loc>
     <lastmod>2026-05-06T16:35:14-04:00</lastmod>

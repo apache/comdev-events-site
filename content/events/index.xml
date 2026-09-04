@@ -61,6 +61,17 @@ Apache Arrow — Hackathon Coordinator Nic Crane — thisisnic@apache.org Matt T
     </item>
     
     <item>
+      <title>Apache Doris — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/doris.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/doris.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Doris — Hackathon Apache Doris is an open-source, real-time database for modern analytics and AI. It answers sub-second queries under high concurrency at petabyte scale; it treats structured, text and vector data as first-class citizens in the same engine, so a single SQL statement can combine a filter, a BM25 text match and a nearest-neighbour search over embeddings; it queries Iceberg, Delta Lake and Hudi tables in place, with no copy, which makes it an acceleration layer over an open lakehouse rather than yet another silo; and increasingly it serves as the store agents run on — columnar JSON for tool-call traces, BM25 retrieval for RAG and agent memory, MCP for access.</description>
+    </item>
+    
+    <item>
       <title>Apache Fineract — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/fineract.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
