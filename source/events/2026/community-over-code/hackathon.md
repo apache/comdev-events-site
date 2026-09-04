@@ -140,7 +140,7 @@ Monday, 12 October
 
 | Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
 | --- | --- |------------|----------| --- | --- |
-| Early (11:20–15:00) | Solr | Sourcelume | Fineract | Airflow  |  |
+| Early (11:20–15:00) | Solr | Sourcelume | Fineract | Airflow  | Spark |
 | Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
 | Late (16:00–18:40) | Solr | Responsible AI |          |  |  |
 
