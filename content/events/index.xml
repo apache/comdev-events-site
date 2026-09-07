@@ -17,6 +17,17 @@
     </item>
     
     <item>
+      <title></title>
+      <link>https://events.apache.org/events/2026/community-over-code/wayang.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/wayang.html</guid>
+      <description>title Apache Wayang — Hackathon at Community over Code Glasgow 2026 Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Wayang — Hackathon Coordinator Zoi Kaoudi (PMC, Apache Wayang) — zkaoudi@apache.org What We Are Working On Apache Wayang is a cross-platform data processing framework that recently graduated to ASF Top-Level Project status. At the hackathon we will be mainly focusing on small extensions on the operators Wayang provides.</description>
+    </item>
+    
+    <item>
       <title>2026</title>
       <link>https://events.apache.org/events/2026/index.html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
