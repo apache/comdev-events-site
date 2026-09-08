@@ -130,7 +130,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 
 ### Hackathon Room Schedule
 
-The hackathon room is available throughout the conference (Sunday through Wednesday) in the Wee Dram Room. Up to **5 projects** can use the room during each half-day slot.
+The hackathon room is available throughout the conference (Monday through Wednesday) in the Wee Dram Room. Up to **5 projects** can use the room during each half-day slot.
 
 **Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
 
