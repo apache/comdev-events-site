@@ -1,12 +1,14 @@
 ---
-title: "Apache Solr — Hackathon at Community over Code Glasgow 2026"
+title: "Apache Search — Hackathon at Community over Code Glasgow 2026"
 ---
 
 <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
 **[Register now](https://communityovercode.apache.org/events/glasgow-2026/register)** | [Event website](https://communityovercode.org) | [Hackathon overview](hackathon.html)
 
-## Apache Solr — Hackathon
+## Apache Search — Hackathon
+
+We are bringing Solr, Lucene, Tika, and any other related Apache projects into one big happy hackfest!
 
 <!-- Copy this file to yourproject.md (lowercase, no spaces) and fill
      in the sections below. Then add a link to your page from the table
@@ -56,6 +58,8 @@ We're focusing on:
 * David Smiley (PMC)
 * Jan Hoydahl (committer)
 * Aditya Parikh
+* Prithvi S
+* Alan Woodward
 
 ### Getting Started Before the Event
 
