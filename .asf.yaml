@@ -25,8 +25,8 @@ github:
       restrict_force_push: true
 notifications:
   commits: commits@community.apache.org
-  issues: dev@community.apache.org
-  pullrequests: dev@community.apache.org
+  issues: notifications@community.apache.org
+  pullrequests: notifications@community.apache.org
 
 # Looks like this may be needed to override the default host name
 publish:
