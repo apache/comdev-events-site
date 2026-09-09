@@ -179,6 +179,19 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
     </item>
     
     <item>
+      <title>Apache Search — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/search.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/search.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Search — Hackathon We are bringing Solr, Lucene, Tika, and any other related Apache projects into one big happy hackfest!
+Coordinator Name — epugh@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Good first issues — small, well-scoped tasks suitable for new contributors: JIRA issues labeled &amp;ldquo;newdev&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Solr MCP - come get hands on experience using the new Solr MCP tool from Aditya!</description>
+    </item>
+    
+    <item>
       <title>Apache SIS — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/sis.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -188,18 +201,6 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
 Register now | Event website | Hackathon overview
 Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux@geomatys.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues — small, well-scoped tasks suitable for new contributors Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon Project website GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
-    </item>
-    
-    <item>
-      <title>Apache Solr — Hackathon at Community over Code Glasgow 2026</title>
-      <link>https://events.apache.org/events/2026/community-over-code/solr.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://events.apache.org/events/2026/community-over-code/solr.html</guid>
-      <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache Solr — Hackathon Coordinator Name — epugh@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Good first issues — small, well-scoped tasks suitable for new contributors: JIRA issues labeled &amp;ldquo;newdev&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Solr MCP - come get hands on experience using the new Solr MCP tool from Aditya!</description>
     </item>
     
     <item>

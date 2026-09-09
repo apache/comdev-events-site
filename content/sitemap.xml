@@ -74,14 +74,14 @@
     <loc>https://events.apache.org/event/past-events.html</loc>
     <lastmod>2026-08-18T09:20:30-04:00</lastmod>
   </url><url>
+    <loc>https://events.apache.org/events/2026/community-over-code/search.html</loc>
+    <lastmod>2026-09-09T15:01:19-04:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/events/2026/community-over-code/sis.html</loc>
     <lastmod>2026-08-14T11:35:53-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/</loc>
     <lastmod>2026-08-18T09:20:30-04:00</lastmod>
-  </url><url>
-    <loc>https://events.apache.org/events/2026/community-over-code/solr.html</loc>
-    <lastmod>2026-08-06T12:32:51-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/events/2026/community-over-code/sourcelume.html</loc>
     <lastmod>2026-08-31T09:50:46-02:30</lastmod>
@@ -120,7 +120,7 @@
     <lastmod>2026-02-04T08:54:25-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/events.html</loc>
-    <lastmod>2026-09-09T09:29:05-04:00</lastmod>
+    <lastmod>2026-09-09T15:01:19-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/event.html</loc>
     <lastmod>2026-08-18T09:20:30-04:00</lastmod>
@@ -153,7 +153,7 @@
     <lastmod>2026-08-18T09:49:56-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/events/2026/community-over-code/hackathon.html</loc>
-    <lastmod>2026-09-09T08:27:18-04:00</lastmod>
+    <lastmod>2026-09-09T14:59:13-04:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/volunteer/hackathon.html</loc>
     <lastmod>2026-05-06T16:35:14-04:00</lastmod>
