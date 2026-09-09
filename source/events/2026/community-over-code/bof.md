@@ -37,8 +37,8 @@ When you claim a slot, please also add a short description of your BoF in the [D
 
 | Room | Topic |
 | --- | --- |
-| 1 | [Apache Cassandra](#cassandra) |
-| 2 | [Responsible AI (RaI)](#responsible-ai) |
+| 1 | [Apache Cassandra](#apache-cassandra) |
+| 2 | [Responsible AI (RaI)](#responsible-ai-rai) |
 | 3 | *available — open a PR!* |
 | 4 | *available — open a PR!* |
 | 5 | *available — open a PR!* |
@@ -61,13 +61,9 @@ When you claim a slot, please also add a short description of your BoF in the [D
 
 ## Descriptions
 
-
-
 ### Apache Cassandra
 
 Come talk about the present and future of Apache Cassandra — the distributed NoSQL database built for massive scale and high availability. Whether you're a long-time operator, a contributor, or just getting started with Cassandra, this is your chance to connect with others in the community, share war stories, discuss upcoming features, and talk about where the project is headed. All levels of experience welcome.
-
-
 
 ### Responsible AI (RaI)
 
