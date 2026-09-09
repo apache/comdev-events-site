@@ -1,6 +1,8 @@
 ---
-title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
----
+
+## title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
+
+
 
 ![Apache](/images/apache-oak-leaf.svg)
 
@@ -18,10 +20,10 @@ BoFs are one of the oldest traditions in open source conferences. They're where 
 
 BoF sessions run on **Days 2 and 3** of the conference — Monday and Tuesday evenings, after the main program:
 
-- **Monday, 12 October** — 5:50 PM – 6:30 PM (7 rooms)
-- **Tuesday, 13 October** — 5:50 PM – 6:30 PM (7 rooms)
+- **Monday, 12 October** — 5:50 PM – 6:30 PM (6 rooms)
+- **Tuesday, 13 October** — 5:50 PM – 6:30 PM (6 rooms)
 
-This gives us **14 total slots** across the two evenings.
+This gives us **12 total slots** across the two evenings.
 
 ## Sign Up
 
@@ -41,7 +43,6 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Don | *available — open a PR!* |
 | Spey | *available — open a PR!* |
 | Tweed | *available — open a PR!* |
-| Wee Dram | *available — open a PR!* |
 
 ### Tuesday, 13 October — 5:50–6:30 PM
 
@@ -53,7 +54,6 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Don | *available — open a PR!* |
 | Spey | *available — open a PR!* |
 | Tweed | *available — open a PR!* |
-| Wee Dram | *available — open a PR!* |
 
 ---
 
