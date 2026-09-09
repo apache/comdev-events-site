@@ -14,6 +14,8 @@ enthusiasts from across the ASF ecosystem.
 
 * **[Hackathon](hackathon.html)** — Dedicated time and space for contributors to
   work together on real project tasks. 25 projects are already signed up.
+* **[Birds of a Feather (BoF)](bof.html)** — Informal evening discussion sessions
+  on Monday and Tuesday. Propose a topic or just show up.
 * **[Call for Volunteers](call-for-volunteers.html)** — Help make the event a
   success — hackathon coordination, university outreach, meetup
   engagement, speaker support, and design.

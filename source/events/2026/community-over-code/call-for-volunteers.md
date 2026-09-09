@@ -67,6 +67,13 @@ social graphics, signage.
 
 * **[About design volunteering](/volunteer/design.html)**
 
+### Birds of a Feather (BoF) Sessions
+
+Host or help organize an informal evening discussion on a topic you
+care about. BoFs run Monday and Tuesday, 5:50–6:30 PM.
+
+* **[BoF schedule and signup](bof.html)** — See what's planned and claim a slot
+
 ## Help Improve Our Glasgow Guides
 
 Know Glasgow? Help us make these pages better for attendees:

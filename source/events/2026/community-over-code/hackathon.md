@@ -175,6 +175,7 @@ General hackathon coordination happens on the [planners@apachecon.com](mailto:pl
 ---
 
 - Looking for other ways to help? See [more volunteer opportunities](volunteer-outreach-calendar.html).
+- Want an informal evening discussion instead? Check out the [Birds of a Feather (BoF) sessions](bof.html).
 - Help spread the word: [Social Media Promotion page](glasgow-social-media.html).
 - See the [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) for publicity tasks that need an owner.
 - Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).

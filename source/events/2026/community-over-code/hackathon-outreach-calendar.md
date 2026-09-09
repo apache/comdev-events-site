@@ -309,6 +309,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 **Get involved:**
 [Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
 [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Birds of a Feather (BoF)](bof.html) |
 [Help Promote the Event](glasgow-social-media.html)
 
 **Glasgow guides:**

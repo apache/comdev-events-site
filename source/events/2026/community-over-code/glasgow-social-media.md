@@ -75,21 +75,21 @@ Copy, paste, tweak, post. That's it.
 
 *Updated weekly - check back for fresh content!*
 
-<div class="social-post" data-text="Community over Code Glasgow is just 6 weeks away! Oct 11-14, the
-Apache community gathers in Glasgow, Scotland. 25+ projects are
-signed up for the hackathon, keynotes are lined up, and the
-schedule is packed across 20 tracks. Registration is open and
-the hotel block is filling up. This is where the people behind
-the projects you depend on come together. Don't miss it!
+<div class="social-post" data-text="Community over Code Glasgow is less than a month away! Oct 11-14,
+the Apache community gathers in Glasgow, Scotland. 25+ projects
+are signed up for the hackathon, keynotes are lined up, and the
+schedule is packed across 20 tracks. Registration is still open
+but time is running out — book your travel now. This is where
+the people behind the projects you depend on come together.
 
 https://communityovercode.apache.org/events/glasgow-2026/
 
-#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is just 6 weeks away! Oct 11-14, the
-Apache community gathers in Glasgow, Scotland. 25+ projects are
-signed up for the hackathon, keynotes are lined up, and the
-schedule is packed across 20 tracks. Registration is open and
-the hotel block is filling up. This is where the people behind
-the projects you depend on come together. Don't miss it!
+#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is less than a month away! Oct 11-14,
+the Apache community gathers in Glasgow, Scotland. 25+ projects
+are signed up for the hackathon, keynotes are lined up, and the
+schedule is packed across 20 tracks. Registration is still open
+but time is running out — book your travel now. This is where
+the people behind the projects you depend on come together.
 
 https://communityovercode.apache.org/events/glasgow-2026/
 
@@ -251,6 +251,18 @@ https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #AS
 
 ---
 
+## BoF (Birds of a Feather) Sessions
+
+<div class="social-post" data-text="Got a topic you want to discuss with fellow Apache community members? Community over Code Glasgow has Birds of a Feather (BoF) sessions — informal evening gatherings where YOU drive the conversation. Mon &amp; Tue, 5:50–6:30 PM. 14 slots, first come first served. Propose yours via PR:
+https://events.apache.org/events/2026/community-over-code/bof.html #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Got a topic you want to discuss with fellow Apache community members? Community over Code Glasgow has Birds of a Feather (BoF) sessions — informal evening gatherings where YOU drive the conversation. Mon &amp; Tue, 5:50–6:30 PM. 14 slots, first come first served. Propose yours via PR:
+https://events.apache.org/events/2026/community-over-code/bof.html #CommunityOverCode #ASF2026Glasgow</div>
+
+<div class="social-post" data-text="BoFs are back at Community over Code Glasgow! Cassandra, Responsible AI, and more. Grab an open slot and host a conversation on the topic you care about most. No slides, no prep — just show up and talk.
+https://events.apache.org/events/2026/community-over-code/bof.html #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>BoFs are back at Community over Code Glasgow! Cassandra, Responsible AI, and more. Grab an open slot and host a conversation on the topic you care about most. No slides, no prep — just show up and talk.
+https://events.apache.org/events/2026/community-over-code/bof.html #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
+
+---
+
 ## Project-Specific Posts
 
 Template - fill in your project name:
@@ -279,11 +291,15 @@ Use these as the dates approach:
 
 ### 60 days out (Aug 12)
 
-<div class="social-post" data-text="60 days until Community over Code Glasgow! If you haven't registered
-yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>60 days until Community over Code Glasgow! If you haven't registered
-yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
+<div class="social-post" data-text="60 days until Community over Code Glasgow! If you haven't registered yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>60 days until Community over Code Glasgow! If you haven't registered yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
 https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
+
+### ~1 month out (Sep 9)
+
+<div class="social-post" data-text="Community over Code Glasgow is less than 5 weeks away! The final schedule is live, 25+ projects are hackathon-ready, and Glasgow is waiting. If you haven't booked travel yet, now's the time — hotel block rates won't last forever. Oct 11-14.
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is less than 5 weeks away! The final schedule is live, 25+ projects are hackathon-ready, and Glasgow is waiting. If you haven't booked travel yet, now's the time — hotel block rates won't last forever. Oct 11-14.
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
 
 ### 30 days out (Sep 11)
 
@@ -346,6 +362,7 @@ https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #Gl
 **Get involved:**
 [Volunteer Outreach Calendar](volunteer-outreach-calendar.html) |
 [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) |
+[Birds of a Feather (BoF)](bof.html) |
 [Help Promote the Event](glasgow-social-media.html)
 
 **Glasgow guides:**
