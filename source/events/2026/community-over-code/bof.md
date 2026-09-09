@@ -1,8 +1,6 @@
 ---
-
-## title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
-
-
+title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
+---
 
 ![Apache](/images/apache-oak-leaf.svg)
 
@@ -37,25 +35,25 @@ When you claim a slot, please also add a short description of your BoF in the [D
 
 | Room | Topic |
 | --- | --- |
-| 1 | [Apache Cassandra](#apache-cassandra) |
-| 2 | [Responsible AI (RaI)](#responsible-ai-rai) |
-| 3 | *available — open a PR!* |
-| 4 | *available — open a PR!* |
-| 5 | *available — open a PR!* |
-| 6 | *available — open a PR!* |
-| 7 | *available — open a PR!* |
+| Tay | [Apache Cassandra](#apache-cassandra) |
+| Clyde | [Responsible AI (RaI)](#responsible-ai-rai) |
+| Dee | *available — open a PR!* |
+| Don | *available — open a PR!* |
+| Spey | *available — open a PR!* |
+| Tweed | *available — open a PR!* |
+| Wee Dram | *available — open a PR!* |
 
 ### Tuesday, 13 October — 5:50–6:30 PM
 
 | Room | Topic |
 | --- | --- |
-| 1 | *available — open a PR!* |
-| 2 | *available — open a PR!* |
-| 3 | *available — open a PR!* |
-| 4 | *available — open a PR!* |
-| 5 | *available — open a PR!* |
-| 6 | *available — open a PR!* |
-| 7 | *available — open a PR!* |
+| Tay | *available — open a PR!* |
+| Clyde | *available — open a PR!* |
+| Dee | *available — open a PR!* |
+| Don | *available — open a PR!* |
+| Spey | *available — open a PR!* |
+| Tweed | *available — open a PR!* |
+| Wee Dram | *available — open a PR!* |
 
 ---
 
@@ -63,9 +61,13 @@ When you claim a slot, please also add a short description of your BoF in the [D
 
 ### Apache Cassandra
 
+> **Monday, 12 October · 5:50–6:30 PM · Tay Room**
+
 Come talk about the present and future of Apache Cassandra — the distributed NoSQL database built for massive scale and high availability. Whether you're a long-time operator, a contributor, or just getting started with Cassandra, this is your chance to connect with others in the community, share war stories, discuss upcoming features, and talk about where the project is headed. All levels of experience welcome.
 
 ### Responsible AI (RaI)
+
+> **Monday, 12 October · 5:50–6:30 PM · Clyde Room**
 
 An open discussion about responsible and ethical use of AI in open source projects and the broader ecosystem. Topics may include bias in training data, transparency in model development, governance of AI-related projects within the ASF, and how open source communities can lead the way in building AI that is fair, accountable, and beneficial. No expertise required — bring your questions and perspectives.
 
