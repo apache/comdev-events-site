@@ -41,7 +41,7 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Room | Topic |
 | --- | --- |
 | Tay | *available — open a PR!* |
-| Clyde | *available — open a PR!* |
+| Clyde | [Foss SUITE](#foss-suite) |
 | Dee | *available — open a PR!* |
 | Don | *available — open a PR!* |
 | Spey | *available — open a PR!* |
@@ -62,6 +62,12 @@ Come talk about the present and future of Apache Cassandra — the distributed N
 > **Monday, 12 October · 5:50–6:30 PM · Clyde Room**
 
 An open discussion about responsible and ethical use of AI in open source projects and the broader ecosystem. Topics may include bias in training data, transparency in model development, governance of AI-related projects within the ASF, and how open source communities can lead the way in building AI that is fair, accountable, and beneficial. No expertise required — bring your questions and perspectives.
+
+### Foss SUITE
+
+> **Tuesday, 13 October · 5:50–6:30 PM · Clyde Room**
+
+There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let’s make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
 
 ---
 
