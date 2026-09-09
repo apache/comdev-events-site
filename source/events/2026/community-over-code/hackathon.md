@@ -76,9 +76,42 @@ title: Hackathon at Community over Code Glasgow 2026
     alt="Community over Code Glasgow 2026 Hackathon poster"></a>
 </div>
 
+<p style="text-align:center; margin-top:-0.5rem;"><a href="/images/hackathon-poster.png" download>Download Poster</a></p>
+
 ## Hackathon
 
 We're bringing back the hackathon! Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+
+### Hackathon Room Schedule
+
+The hackathon room is available throughout the conference (Monday through Wednesday) in the Wee Dram Room. Up to **5 projects** can use the room during each half-day slot.
+
+**Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
+
+**To sign up, open a PR** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) adding your project name to an open slot in the table below. Link to your [project hackathon page](hackathon.html) if you have one.
+
+Monday, 12 October
+
+| Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
+| --- | --- |------------|----------| --- | --- |
+| Early (11:20–15:00) | [Apache Search](search.html) | [Sourcelume](sourcelume.html) | [Fineract](fineract.html) | [Airflow](airflow.html)  | Spark |
+| Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
+| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI |          |  |  |
+
+Tuesday, 13 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+| --- | --- | --- | --- | --- | --- |
+| Early (11:20–15:00) | [Arrow](arrow.html) | [Tooling](tooling.html) | [Gluten](gluten.html) | [Magpie](magpie.html) | [Doris](doris.html) |
+| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) |  |
+
+Wednesday, 14 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+| --- | --- | --- | --- | --- | --- |
+| Early (11:20–14:10) | [Wayang](wayang.html) |  |  |  |  |
+| Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
+| Late (15:10–18:40) |  |  |  |  |  |
 
 ### How it works
 
@@ -90,7 +123,21 @@ Each participating project provides:
 
 During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.
 
-### Participating Projects
+### Want your project to participate?
+
+If your project has content at Community over Code Glasgow and you'd like to take part in the hackathon, reach out:
+
+- Email [planners@apachecon.com](mailto:planners@apachecon.com)
+- Join **#hackathon** on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
+
+We need a point of contact, a list of tasks for contributors to work on, and a message to your dev@ and users@ lists letting people know it's happening.
+
+### Coordination
+
+General hackathon coordination happens on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+
+<details>
+<summary><h3 style="display:inline">Participating Projects</h3></summary>
 
 The following Apache projects have confirmed participation. Follow the thread links to see the conversation and find out how to get involved with each project's hackathon effort.
 
@@ -128,49 +175,9 @@ The following Apache projects have confirmed participation. Follow the thread li
 
 *Eventually each project will have a dedicated page with hackathon task ideas and contributor guidance.*
 
-### Hackathon Room Schedule
 
-The hackathon room is available throughout the conference (Monday through Wednesday) in the Wee Dram Room. Up to **5 projects** can use the room during each half-day slot.
 
-**Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
-
-**To sign up, open a PR** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) adding your project name to an open slot in the table below. Link to your [project hackathon page](hackathon.html) if you have one.
-
-Monday, 12 October
-
-| Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
-| --- | --- |------------|----------| --- | --- |
-| Early (11:20–15:00) | [Apache Search](search.html) | Sourcelume | Fineract | Airflow  | Spark |
-| Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI |          |  |  |
-
-Tuesday, 13 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–15:00) | Arrow | Tooling | Gluten | Magpie | [Doris](doris.html) |
-| Late (15:00–18:40) | Mahout | Groovy and Grails | Magpie | [Tomcat](tomcat.html) |  |
-
-Wednesday, 14 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–14:10) | Wayang |  |  |  |  |
-| Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (15:10–18:40) |  |  |  |  |  |
-
-### Want your project to participate?
-
-If your project has content at Community over Code Glasgow and you'd like to take part in the hackathon, reach out:
-
-- Email [planners@apachecon.com](mailto:planners@apachecon.com)
-- Join **#hackathon** on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
-
-We need a point of contact, a list of tasks for contributors to work on, and a message to your dev@ and users@ lists letting people know it's happening.
-
-### Coordination
-
-General hackathon coordination happens on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+</details>
 
 ---
 
@@ -180,4 +187,3 @@ General hackathon coordination happens on the [planners@apachecon.com](mailto:pl
 - See the [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) for publicity tasks that need an owner.
 - Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
 - Projects can update this page by submitting a PR to the [comdev-events-site repository](https://github.com/apache/comdev-events-site).
-
