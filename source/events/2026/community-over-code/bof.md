@@ -1,12 +1,9 @@
 ---
+title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
+---
 
-## title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
-
-
-
-![Apache](/images/apache-oak-leaf.svg)
-
-**[Community over Code 2026](https://communityovercode.org)**** — Glasgow, UK, October 11–14**
+<img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;">
+**[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
 ## What is a BoF?
 
