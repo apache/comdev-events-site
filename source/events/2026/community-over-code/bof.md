@@ -34,7 +34,7 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Dee | *available — open a PR!* |
 | Don | *available — open a PR!* |
 | Spey | *available — open a PR!* |
-| Tweed | *available — open a PR!* |
+| Tweed | [Apache Groovy and Grails](#apache-groovy-and-apache-grails) |
 
 ### Tuesday, 13 October — 5:50–6:30 PM
 
@@ -62,6 +62,14 @@ Come talk about the present and future of Apache Cassandra — the distributed N
 > **Monday, 12 October · 5:50–6:30 PM · Clyde Room**
 
 An open discussion about responsible and ethical use of AI in open source projects and the broader ecosystem. Topics may include bias in training data, transparency in model development, governance of AI-related projects within the ASF, and how open source communities can lead the way in building AI that is fair, accountable, and beneficial. No expertise required — bring your questions and perspectives.
+
+### Apache Groovy and Apache Grails
+
+> **Monday, 12 October · 5:50–6:30 PM · Tweed Room**
+
+Come talk about everything Groovy and Grails.
+The session is aimed at anyone in the broader Groovy or Grails communities.
+Chat about what you are doing and what you'd like to see in future versions.
 
 ### Foss SUITE
 
