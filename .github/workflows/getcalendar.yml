@@ -14,7 +14,9 @@ jobs:
     runs-on: ubuntu-slim
 
     steps:
-    - uses: actions/checkout@v4
+    # The credentials persisted by the checkout are what the step below uses
+    # to push the refreshed calendar data back to the branch.
+    - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
     - name: Curl calendar
       run: |
         git config user.email "dev@community.apache.org"
