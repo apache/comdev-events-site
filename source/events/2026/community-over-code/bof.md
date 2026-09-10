@@ -66,6 +66,8 @@ An open discussion about responsible and ethical use of AI in open source projec
 ### Foss SUITE
 
 > **Tuesday, 13 October · 5:50–6:30 PM · Clyde Room**
+>
+> Hosted by **Jan Lehnardt** and **Gregor Bransky**
 
 There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let’s make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
 
