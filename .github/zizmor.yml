@@ -1,0 +1,9 @@
+# zizmor configuration
+# https://docs.zizmor.sh/configuration/
+
+rules:
+  artipacked:
+    ignore:
+      # The calendar refresh deliberately reuses the credentials persisted by
+      # actions/checkout to push the updated data back to the branch.
+      - getcalendar.yml
