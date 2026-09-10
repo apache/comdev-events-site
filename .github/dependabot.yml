@@ -1,0 +1,22 @@
+# Dependabot configuration
+# https://docs.github.com/en/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+version: 2
+updates:
+  # The GitHub Actions used by the workflows are this repository's only
+  # tracked dependencies; there are no language package manifests here.
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    # Let a new release sit for a week before proposing it, so a compromised
+    # release has time to be caught and pulled.
+    cooldown:
+      default-days: 7
+    # A single grouped pull request per week instead of one PR per action.
+    groups:
+      github-actions:
+        patterns:
+          - "*"
+    commit-message:
+      prefix: "chore"
