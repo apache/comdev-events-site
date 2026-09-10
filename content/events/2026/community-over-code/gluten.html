@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="apache, apache events, apache community, opensource">
+
+  <title>Apache Gluten - Hackathon at Community over Code Glasgow 2026</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
+</head>
+
+<body>
+  <div id="banner">
+    <div>
+        <div class="topbanner">
+            <div class="sitename">Apache Software Foundation Events</div>
+            <a class="logo" href="https://www.apache.org">
+                <img alt="ASF website" src="https://apache.org/img/asf_logo.png" width="164">
+            </a>
+            
+
+<span class="breadcrumbs">
+    <a href="/">Home</a>
+    
+    
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events'>Events</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026'>2026</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code'>Community over code</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code/gluten.html'>Gluten</a>
+            
+        
+    
+</span>
+
+        </div>
+    </div>
+  </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="https://communityovercode.apache.org/about/">Community Over Code</a></li>
+      <li><a href="/events/">Community Events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+      <li><a href="/volunteer/">Volunteer!</a></li>
+      <li><a href="https://s.apache.org/apachecon-slack">Slack</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">Apache Gluten - Hackathon at Community over Code Glasgow 2026</h1>
+    
+	<p><img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> <strong><a href="https://communityovercode.org">Community over Code 2026</a> - Glasgow, UK, October 11-14</strong></p>
+<p><strong><a href="https://communityovercode.apache.org/events/glasgow-2026/register">Register now</a></strong> | <a href="https://communityovercode.org">Event website</a> | <a href="hackathon.html">Hackathon overview</a></p>
+<h2 id="apache-gluten---hackathon">Apache Gluten - Hackathon</h2>
+<p>This page is focused on <strong>Velox backend</strong> and <strong>common runtime/config</strong> tasks.
+ClickHouse-specific tasks are intentionally excluded.</p>
+<h3 id="coordinator">Coordinator</h3>
+<ul>
+<li><strong>Yuan Zhou</strong> — <a href="mailto:yuan.zhou@ibm.com">yuan.zhou@ibm.com</a></li>
+</ul>
+<h3 id="what-were-working-on">What We&rsquo;re Working On</h3>
+<p>We&rsquo;re focusing on:</p>
+<ul>
+<li><strong>Good first issues</strong> that can be completed during the hackathon</li>
+<li><strong>Docs and test alignment</strong> where support tables lag behind real code/test coverage</li>
+<li><strong>Small Velox/Common code improvements</strong> with clear scope and acceptance criteria</li>
+</ul>
+<h3 id="curated-task-list-for-hackathon">Curated Task List for Hackathon</h3>
+<p>The items below are curated examples. Participants are also welcome to pick other suitable tasks from the <a href="https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22">Gluten good first issues</a>.</p>
+<h4 id="1-docs-and-support-table-cleanup-easy">1) Docs and support-table cleanup (easy)</h4>
+<ul>
+<li>Issue: <a href="https://github.com/apache/gluten/issues/10275">#10275 - document unsupported cases for complicated functions</a></li>
+<li>Focus: add clear SQL examples for JSON/regex/base64 limitations, and align the support matrix with current Velox test behavior (for example: <code>sequence</code>, <code>map_from_arrays</code>, <code>to_date</code>, <code>to_timestamp</code>, <code>ln</code>, <code>radians</code>, <code>sin</code>, <code>try_divide</code>).</li>
+<li>Output: one concise docs PR (optional: add minimal validation tests).</li>
+</ul>
+<h4 id="2-object-storage-integration-tests-medium">2) Object storage integration tests (medium)</h4>
+<ul>
+<li>Issue: <a href="https://github.com/apache/gluten/issues/9184">#9184 - integration tests for S3/HDFS/GCS/ABFS</a></li>
+<li>Focus: implement one backend-focused test improvement, with a practical split such as <a href="https://github.com/apache/gluten/issues/9619">#9619 - HDFS</a> or <a href="https://github.com/apache/gluten/issues/9620">#9620 - ABFS</a>.</li>
+<li>Output: one backend-focused test improvement, or an ABFS feasibility note with reproducible findings.</li>
+</ul>
+<h4 id="3-ansi-mode-sub-tasks-medium">3) ANSI mode sub-tasks (medium)</h4>
+<ul>
+<li>Issue: <a href="https://github.com/apache/gluten/issues/10134">#10134 - ANSI mode support tracker</a></li>
+<li>Focus: pick one small sub-area (cast, arithmetic, datetime, or validation tests).</li>
+<li>Output: one focused Velox PR and one focused Gluten PR for the selected ANSI sub-area, with test coverage.</li>
+</ul>
+<h4 id="4-timestamp_ntz-sub-tasks-medium">4) TIMESTAMP_NTZ sub-tasks (medium)</h4>
+<ul>
+<li>Issue: <a href="https://github.com/apache/gluten/issues/11622">#11622 - [VL] Support TIMESTAMP_NTZ Type</a></li>
+<li>Focus: pick one small sub-area (cast behavior, function validation, or fallback/compatibility tests).</li>
+<li>Output: one focused Velox PR and one focused Gluten PR that improve TIMESTAMP_NTZ support coverage.</li>
+</ul>
+<h4 id="5-timestamp-cast-corner-case-fixes-medium">5) Timestamp cast corner-case fixes (medium)</h4>
+<ul>
+<li>Issue: <a href="https://github.com/apache/gluten/issues/8984">#8984 - fix corner cases for casting varchar to timestamp</a></li>
+<li>Focus: align <code>CAST(varchar AS timestamp)</code> corner-case behavior with Spark and add regression coverage.</li>
+<li>Output: one focused Velox PR and one focused Gluten PR with validation tests.</li>
+</ul>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://github.com/apache/gluten/blob/main/CONTRIBUTING.md">Gluten contribution guide</a></li>
+<li><a href="https://github.com/apache/gluten/blob/main/docs/velox-backend-limitations.md">Velox backend limitations</a></li>
+<li><a href="https://github.com/apache/gluten/blob/main/docs/velox-backend-scalar-function-support.md">Velox scalar function support matrix</a></li>
+</ul>
+<h3 id="getting-started-before-the-event">Getting Started Before the Event</h3>
+<p>To make the most of hackathon time, we recommend:</p>
+<ol>
+<li>Clone the repo and get the build working: <a href="https://github.com/apache/gluten/blob/main/docs/get-started/Velox.md">Velox getting started</a>, <a href="https://github.com/apache/gluten/blob/main/docs/get-started/build-guide.md">Build guide</a></li>
+<li>Browse the issue list and pick one that interests you: <a href="https://github.com/apache/gluten/issues">Gluten issues</a></li>
+<li>Introduce yourself on the dev@ list</li>
+</ol>
+<hr>
+<ul>
+<li>Back to the <a href="hackathon.html">Hackathon overview</a></li>
+<li>Questions? Join <strong>#hackathon</strong> on <a href="http://s.apache.org/apachecon-slack">apachecon.slack.com</a></li>
+</ul>
+
+
+  </div>
+
+  <footer id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2026 The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br>
+        Apache and the Apache logo are trademarks of The Apache Software Foundation.
+        <br>
+        This website is generated from the
+        <a href="https://github.com/apache/comdev-events-site">comdev-events-site</a>
+        repository.
+      </p>
+    </div>
+</footer>
+
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

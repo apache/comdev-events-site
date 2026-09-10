@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="apache, apache events, apache community, opensource">
+
+  <title></title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
+</head>
+
+<body>
+  <div id="banner">
+    <div>
+        <div class="topbanner">
+            <div class="sitename">Apache Software Foundation Events</div>
+            <a class="logo" href="https://www.apache.org">
+                <img alt="ASF website" src="https://apache.org/img/asf_logo.png" width="164">
+            </a>
+            
+
+<span class="breadcrumbs">
+    <a href="/">Home</a>
+    
+    
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events'>Events</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026'>2026</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code'>Community over code</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code/wayang.html'>Wayang</a>
+            
+        
+    
+</span>
+
+        </div>
+    </div>
+  </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="https://communityovercode.apache.org/about/">Community Over Code</a></li>
+      <li><a href="/events/">Community Events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+      <li><a href="/volunteer/">Volunteer!</a></li>
+      <li><a href="https://s.apache.org/apachecon-slack">Slack</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title"></h1>
+    
+	<table>
+<thead>
+<tr>
+<th>title</th>
+<th>Apache Wayang — Hackathon at Community over Code Glasgow 2026</th>
+</tr>
+</thead>
+</table>
+<p><a href="/apache/comdev-events-site/blob/main/images/apache-oak-leaf.svg"><img src="https://github.com/apache/comdev-events-site/raw/main/images/apache-oak-leaf.svg" alt="Apache"></a> <strong><a href="https://communityovercode.org">Community over Code 2026</a> — Glasgow, UK, October 11–14</strong></p>
+<p><strong><a href="https://communityovercode.apache.org/events/glasgow-2026/register">Register now</a></strong> | <a href="https://communityovercode.org">Event website</a> | <a href="https://github.com/apache/comdev-events-site/blob/main/source/events/2026/community-over-code/hackathon.html">Hackathon overview</a></p>
+<h2 id="apache-wayang--hackathon">Apache Wayang — Hackathon</h2>
+<h3 id="coordinator">Coordinator</h3>
+<ul>
+<li><strong>Zoi Kaoudi</strong> (PMC, Apache Wayang) — <a href="mailto:zkaoudi@apache.org">zkaoudi@apache.org</a></li>
+</ul>
+<h3 id="what-we-are-working-on">What We Are Working On</h3>
+<p>Apache Wayang is a cross-platform data processing framework that recently graduated to ASF Top-Level Project status. At the hackathon we will be mainly focusing on small extensions on the operators Wayang provides. Specifically:</p>
+<ul>
+<li><strong>Join Operators</strong> — implement additional join algorithms (starting with merge join) for the Java-platform join operator (Java execution operator). Good for someone comfortable with Java and core algorithms.</li>
+<li><strong>Limit Operator</strong> — create a new <code>LimitOperator</code> that returns the first N elements of a dataset. A great entry point for newcomers: conceptually simple, and a good way to learn Wayang&rsquo;s operator structure end-to-end. This requires adding a new Wayang operator and at least one execution operator on a platform the participant is more confident with.</li>
+<li><strong>Data Lake Pipeline</strong> — build a pipeline that computes total revenue per nation, joining data across two storage layers: <code>lineitem</code> and <code>orders</code> read as Parquet files (via Wayang&rsquo;s <code>readParquet</code> API), joined with <code>customer</code> and <code>nation</code> read as Postgres tables, then aggregated (filter by date, join across all four, compute revenue, group by nation, sort, limit to top N). Register at least two platforms (e.g. Java/Spark + Postgres) so the optimizer has a real choice — see <code>Query3Hybrid.scala</code> in <code>wayang-benchmark</code> as a starting template. Good for someone who wants to play with Wayang&rsquo;s API and build a concrete, TPC-H-adjacent task showing cross-source, cross-platform execution.</li>
+<li><strong>Documentation improvements</strong> — walk through the getting-started guide as a newcomer and fix the points where you get stuck.</li>
+</ul>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://wayang.apache.org/docs/guide/getting-started">Getting started</a></li>
+<li><a href="https://wayang.apache.org/docs/guide/adding-operators">Adding operators in Wayang</a></li>
+<li><a href="https://wayang.apache.org/docs/guide/developing-in-wayang">Developing in Wayang</a></li>
+<li><a href="https://wayang.apache.org/docs/api/javadocs/1.1.1/">Wayang Javadocs</a></li>
+<li><a href="https://wayang.apache.org/docs/community/contribute">Contribution guide</a></li>
+<li><a href="https://github.com/apache/wayang/issues">GitHub issues</a></li>
+<li><a href="https://the-asf.slack.com/archives/C01H1CPE8KU">Slack channel</a></li>
+<li>Dev environment setup with docker: Coming up!</li>
+</ul>
+<h3 id="whos-planning-to-attend">Who&rsquo;s Planning to Attend</h3>
+<ul>
+<li>Zoi Kaoudi (PMC, Apache Wayang)</li>
+</ul>
+<h3 id="getting-started-before-the-event">Getting Started Before the Event</h3>
+<p>To make the most of hackathon time, we recommend:</p>
+<ol>
+<li>Clone the repo, get the build working, and run the WordCount.</li>
+<li>Browse the issue list and pick a task — Hackathon tasks listed above will be pre-tagged for the event</li>
+<li>Introduce yourself on the dev@wayang list or Slack channel before the event</li>
+</ol>
+<hr>
+<ul>
+<li>Back to the <a href="https://github.com/apache/comdev-events-site/blob/main/source/events/2026/community-over-code/hackathon.html">Hackathon overview</a></li>
+<li>Questions? Join <strong>#hackathon</strong> on <a href="http://s.apache.org/apachecon-slack">apachecon.slack.com</a></li>
+</ul>
+
+
+  </div>
+
+  <footer id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2026 The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br>
+        Apache and the Apache logo are trademarks of The Apache Software Foundation.
+        <br>
+        This website is generated from the
+        <a href="https://github.com/apache/comdev-events-site">comdev-events-site</a>
+        repository.
+      </p>
+    </div>
+</footer>
+
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>
