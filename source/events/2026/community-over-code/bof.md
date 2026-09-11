@@ -83,7 +83,7 @@ There is software supply chain regulation popping up all around the world (US: E
 
 > **Tuesday, 13 October · 5:50–6:30 PM · Tay Room**
 
-Getting text out of files used to be the boring part of the pipeline. Vision-language models (VLMs) have changed that: scanned pages, charts, tables, diagrams, and images can now be turned into text, structured data, and embeddings. The question has shifted from "can we extract it?" to "what should we extract, at what cost, and how do we know it's useful?" Come compare notes on what's working and commiserate over your ugliest PDFs. Anyone building document pipelines is welcome!
+Getting text out of files used to be the boring part of the pipeline. Vision-language models (VLMs) have changed that: scanned pages, charts, tables, diagrams, and images can now be turned into text, structured data, and embeddings. And the consumer of that output is increasingly an agent, not a person. The question has shifted from "can we extract it?" to "what should we extract, for whom, at what cost, and how do we know it's useful?" Come compare notes on what's working and commiserate over your ugliest PDFs. Anyone building document pipelines is welcome!
 
 ---
 
