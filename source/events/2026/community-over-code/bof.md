@@ -40,7 +40,7 @@ When you claim a slot, please also add a short description of your BoF in the [D
 
 | Room | Topic |
 | --- | --- |
-| Tay | *available — open a PR!* |
+| Tay | [Content Extraction in the VLM Era](#content-extraction-in-the-vlm-era) |
 | Clyde | [Foss SUITE](#foss-suite) |
 | Dee | *available — open a PR!* |
 | Don | *available — open a PR!* |
@@ -78,6 +78,12 @@ Chat about what you are doing and what you'd like to see in future versions.
 > Hosted by **Jan Lehnardt** and **Gregor Bransky**
 
 There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let’s make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
+
+### Content Extraction in the VLM Era
+
+> **Tuesday, 13 October · 5:50–6:30 PM · Tay Room**
+
+Getting text out of files used to be the boring part of the pipeline. Vision-language models (VLMs) have changed that: scanned pages, charts, tables, diagrams, and images can now be turned into text, structured data, and embeddings. And the consumer of that output is increasingly an agent, not a person. The question has shifted from "can we extract it?" to "what should we extract, for whom, at what cost, and how do we know it's useful?" Come compare notes on what's working and commiserate over your ugliest PDFs. Anyone building document pipelines is welcome!
 
 ---
 
