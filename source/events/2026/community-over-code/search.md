@@ -14,13 +14,14 @@ We are bringing Solr, Lucene, Tika, and any other related Apache projects into o
      in the sections below. Then add a link to your page from the table
      in hackathon.md. Submit both changes as a single PR. -->
 
-### Coordinator
+### Coordinators
 
 <!-- Who is the point of contact for your project at the hackathon?
      This person should be present at the event and available to help
      participants get started. -->
 
-* **Name** — epugh@apache.org
+* **Eric Pugh** — epugh@apache.org
+* **Tim Allison** — tallison@apache.org
 
 ### What We're Working On
 
@@ -37,6 +38,10 @@ We're focusing on:
 * **Bug fixes** — a curated set of bugs that are approachable with
   mentoring support
 * **Solr MCP** - come get hands on experience using the new Solr MCP tool from Aditya!
+* **Tika 4.0** - Bring your search pipeline and put it on Tika 4.0. Want to go
+  deeper? Pick a ["newdev" task](https://issues.apache.org/jira/issues/?jql=project%20%3D%20TIKA%20AND%20status%20in%20(Open%2C%20Reopened%2C%20%22Patch%20Available%22)%20AND%20labels%20in%20(newdev)) 
+  or go big and help us build out and improve scaling of our multimodal inference hooks.
+
 
 ### Resources
 
@@ -46,7 +51,8 @@ We're focusing on:
 
 * [Contribution guide](https://solr.apache.org/community.html#how-to-contribute)
 * [Dev mailing list thread about the hackathon](https://lists.apache.org/thread/f8bjyy06c0v2lddol6vvv5n8tzd3y9vl)
-
+* [Tika contribution guide](https://github.com/apache/tika/blob/main/CONTRIBUTING.md)
+* [Tika migrating to 4x](https://tika.apache.org/docs/4.0.x/migration-to-4x/index.html)
 
 ### Who's Planning to Attend
 
@@ -60,6 +66,7 @@ We're focusing on:
 * Aditya Parikh
 * Prithvi S
 * Alan Woodward
+* Tim Allison (Lucene/Solr and Tika committer)
 
 ### Getting Started Before the Event
 
