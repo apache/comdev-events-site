@@ -187,7 +187,7 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
 Register now | Event website | Hackathon overview
 Apache Search — Hackathon We are bringing Solr, Lucene, Tika, and any other related Apache projects into one big happy hackfest!
-Coordinator Name — epugh@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Coordinators Eric Pugh — epugh@apache.org Tim Allison — tallison@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues — small, well-scoped tasks suitable for new contributors: JIRA issues labeled &amp;ldquo;newdev&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Solr MCP - come get hands on experience using the new Solr MCP tool from Aditya!</description>
     </item>
     
