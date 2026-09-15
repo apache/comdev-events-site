@@ -37,3 +37,4 @@ enthusiasts from across the ASF ecosystem.
 * <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1em; vertical-align:middle;"> [Official event website](https://communityovercode.org)
 * **Slack:** [apachecon.slack.com](http://s.apache.org/apachecon-slack)
 * **Coordination:** [planners@apachecon.com](mailto:planners@apachecon.com)
+* **[Speaker info](speakers.html)**
