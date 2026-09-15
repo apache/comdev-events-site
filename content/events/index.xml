@@ -114,8 +114,7 @@ Move to GitHub Actions — help migrate CI infrastructure to GitHub Actions Buil
       <guid>https://events.apache.org/events/2026/community-over-code/fluss.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
 Register now | Event website | Hackathon overview
-Apache Fluss — Hackathon Coordinator Anton Borisov — borzoniusy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+Apache Fluss — Hackathon Fluss is a streaming storage system for real-time analytics. A table is stored as a log, optionally with a key-value index beside it, and older data is tiered into Iceberg, Paimon or Lance so a single query can read both the lake and the fresh log tail. There is a Java client, a Rust client, and Python, C++ and Elixir bindings built on the Rust one.</description>
     </item>
     
     <item>
