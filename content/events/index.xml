@@ -426,5 +426,14 @@ Conference website: https://communityovercode.apache.org/events/glasgow-2026/
 This Week&amp;rsquo;s Suggested Post Updated weekly - check back for fresh content!</description>
     </item>
     
+    <item>
+      <title>Speaker Info</title>
+      <link>https://events.apache.org/events/2026/community-over-code/speakers.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/speakers.html</guid>
+      <description> Slide template Want to have a dress rehearsal with a friendly audience? Join us on apachecon.slack.com in the #speaker-help channel! </description>
+    </item>
+    
   </channel>
 </rss>
