@@ -103,7 +103,7 @@ Tuesday, 13 October
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
 | Early (11:20–15:00) | [Arrow](arrow.html) | [Tooling](tooling.html) | [Gluten](gluten.html) | [Magpie](magpie.html) | [Doris](doris.html) |
-| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) |  |
+| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) | [Fluss](fluss.html) |
 
 Wednesday, 14 October
 
