@@ -96,7 +96,7 @@ Monday, 12 October
 | --- | --- |------------|----------| --- | --- |
 | Early (11:20–15:00) | [Apache Search](search.html) | [Sourcelume](sourcelume.html) | [Fineract](fineract.html) | [Airflow](airflow.html)  | Spark |
 | Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI |          |  |  |
+| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI | [Impala](impala.html) |  |  |
 
 Tuesday, 13 October
 
