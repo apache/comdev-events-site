@@ -31,12 +31,9 @@ the two. Specifically, we'd like to come away with a plan (and as much
 code as we can manage) for a *single* Grails application generator
 instead of two, plus an agreed CLI command structure going forward.
 
-Existing issues that cover part of this — the list isn't exhaustive, and
-we expect to write more during the event:
+Issues listing details:
 
-* [grails-core#15301](https://github.com/apache/grails-core/issues/15301) — Unify and simplify CLI command architecture
-* [grails-core#14081](https://github.com/apache/grails-core/issues/14081) — Make profiles optional for the Grails-Shell CLI
-* [grails-core#14944](https://github.com/apache/grails-core/issues/14944) — Forge vs profile dependencies for `plugin` and `web-plugin`
+* [grails-core#16348](https://github.com/apache/grails-core/issues/16348) — one Grails application generator and one agreed CLI command structure
 
 Alongside that, there's plenty of smaller, well-scoped work for anyone
 who'd rather start with something self-contained:
