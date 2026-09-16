@@ -109,7 +109,7 @@ Wednesday, 14 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Early (11:20–14:10) | [Wayang](wayang.html) |  |  |  |  |
+| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) |  |  |  |
 | Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
 | Late (15:10–18:40) |  |  |  |  |  |
 
