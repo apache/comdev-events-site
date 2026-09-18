@@ -2,6 +2,69 @@
 title: Hackathon at Community over Code Glasgow 2026
 ---
 
+## Hackathon Room Schedule
+
+The hackathon room is available throughout the conference (Monday through Wednesday) in the **Wee Dram Room**. Up to **5 projects** can use the room during each half-day slot.
+
+**Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
+
+**To sign up, open a PR** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) adding your project name to an open slot in the table below. Link to your [project hackathon page](hackathon.html) if you have one.
+
+Monday, 12 October
+
+| Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
+| --- | --- |------------|----------| --- | --- |
+| Early (11:20–15:00) | [Apache Search](search.html) | [Sourcelume](sourcelume.html) | [Fineract](fineract.html) | [Airflow](airflow.html)  | Spark |
+| Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
+| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI | [Impala](impala.html) |  |  |
+
+Tuesday, 13 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+| --- | --- | --- | --- | --- | --- |
+| Early (11:20–15:00) | [Arrow](arrow.html) | [Tooling](tooling.html) | [Gluten](gluten.html) | [Magpie](magpie.html) | [Doris](doris.html) |
+| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) | [Fluss](fluss.html) |
+
+Wednesday, 14 October
+
+| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
+| --- | --- | --- | --- | --- | --- |
+| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) |  |  |  |
+| Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
+| Late (15:10–18:40) |  |  |  |  |  |
+
+---
+
+## About the Hackathon
+
+Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+
+### How it works
+
+Each participating project provides:
+
+- A **point of contact** — someone present at the event to coordinate
+- A **task list** — bugs, docs, features, good-first-issues, or whatever the project wants to focus on
+- **Promotion** — letting their community know this is happening
+
+During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.
+
+### Want your project to participate?
+
+If your project has content at Community over Code Glasgow and you'd like to take part in the hackathon, reach out:
+
+- Email [planners@apachecon.com](mailto:planners@apachecon.com)
+- Join **#hackathon** on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
+
+We need a point of contact, a list of tasks for contributors to work on, and a message to your dev@ and users@ lists letting people know it's happening.
+
+### Coordination
+
+General hackathon coordination happens on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+
+---
+
+## Help Us Promote the Hackathon
 
 <style>
   .hackathon-banner{
@@ -22,7 +85,7 @@ title: Hackathon at Community over Code Glasgow 2026
   .hackathon-banner-text {
     flex: 1;
   }
-  .hackathon-banner-text h1 {
+  .hackathon-banner-text h3 {
     margin: 0.8rem 0 0.5rem;
     color: #ffffff;
   }
@@ -66,8 +129,8 @@ title: Hackathon at Community over Code Glasgow 2026
       </a>
       — Glasgow, UK, October 11–14
     </strong>
-    <h1>Hackathon</h1>
-
+    <h3>Download and share the poster!</h3>
+    <p>Help spread the word — share the poster on social media, pin it in your project's chat channels, or print it out for your office.</p>
   </div>
   <a href="/images/hackathon-poster.png">
   <img
@@ -78,63 +141,9 @@ title: Hackathon at Community over Code Glasgow 2026
 
 <p style="text-align:center; margin-top:-0.5rem;"><a href="/images/hackathon-poster.png" download>Download Poster</a></p>
 
-## Hackathon
+Grab a ready-made post from our **[Social Media Promotion page](glasgow-social-media.html)** and share it wherever you hang out online. Copy, paste, tweak, post!
 
-We're bringing back the hackathon! Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
-
-### Hackathon Room Schedule
-
-The hackathon room is available throughout the conference (Monday through Wednesday) in the Wee Dram Room. Up to **5 projects** can use the room during each half-day slot.
-
-**Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
-
-**To sign up, open a PR** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) adding your project name to an open slot in the table below. Link to your [project hackathon page](hackathon.html) if you have one.
-
-Monday, 12 October
-
-| Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
-| --- | --- |------------|----------| --- | --- |
-| Early (11:20–15:00) | [Apache Search](search.html) | [Sourcelume](sourcelume.html) | [Fineract](fineract.html) | [Airflow](airflow.html)  | Spark |
-| Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (16:00–18:40) | [Apache Search](search.html) | Responsible AI | [Impala](impala.html) |  |  |
-
-Tuesday, 13 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–15:00) | [Arrow](arrow.html) | [Tooling](tooling.html) | [Gluten](gluten.html) | [Magpie](magpie.html) | [Doris](doris.html) |
-| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) | [Fluss](fluss.html) |
-
-Wednesday, 14 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) |  |  |  |
-| Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (15:10–18:40) |  |  |  |  |  |
-
-### How it works
-
-Each participating project provides:
-
-- A **point of contact** — someone present at the event to coordinate
-- A **task list** — bugs, docs, features, good-first-issues, or whatever the project wants to focus on
-- **Promotion** — letting their community know this is happening
-
-During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.
-
-### Want your project to participate?
-
-If your project has content at Community over Code Glasgow and you'd like to take part in the hackathon, reach out:
-
-- Email [planners@apachecon.com](mailto:planners@apachecon.com)
-- Join **#hackathon** on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
-
-We need a point of contact, a list of tasks for contributors to work on, and a message to your dev@ and users@ lists letting people know it's happening.
-
-### Coordination
-
-General hackathon coordination happens on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+---
 
 <details>
 <summary><h3 style="display:inline">Participating Projects</h3></summary>
