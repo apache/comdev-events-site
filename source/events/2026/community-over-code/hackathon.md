@@ -29,7 +29,7 @@ Wednesday, 14 October
 
 | Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
 | --- | --- | --- | --- | --- | --- |
-| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) |  |  |  |
+| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) | [Superset](superset.html) |  |  |
 | Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
 | Late (15:10–18:40) |  |  |  |  |  |
 
@@ -177,7 +177,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 | [Sourcelume](sourcelume.html)                           | [dev@ thread](https://lists.apache.org/thread/yh15s53pb6l21yq28l1sbq6c3qgk584p)                                                                                                   |
 | [Spark](https://spark.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/711z5rcx7pb2wrwm0t41l6ffx21jxyr9)                                   |
 | [StreamPipes](https://streampipes.apache.org/)          | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc)                                   |
-| [Superset](https://superset.apache.org/)                | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68)                                   |
+| [Superset](superset.html)                                | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68)                                   |
 | [Tomcat](tomcat.html)                                   | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2)                                   |
 | [Tooling](tooling.html)                   |                                                                                                                   |
 | [Wayang](https://wayang.apache.org/)                    | [dev@ thread](https://lists.apache.org/thread/nstct4k069v748rq622tt5vx2c66objf)                                   |
