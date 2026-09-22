@@ -1,0 +1,316 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="apache, apache events, apache community, opensource">
+
+  <title>Apache Fluss — Hackathon at Community over Code Glasgow 2026</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
+</head>
+
+<body>
+  <div id="banner">
+    <div>
+        <div class="topbanner">
+            <div class="sitename">Apache Software Foundation Events</div>
+            <a class="logo" href="https://www.apache.org">
+                <img alt="ASF website" src="https://apache.org/img/asf_logo.png" width="164">
+            </a>
+            
+
+<span class="breadcrumbs">
+    <a href="/">Home</a>
+    
+    
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events'>Events</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026'>2026</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code'>Community over code</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code/fluss.html'>Fluss</a>
+            
+        
+    
+</span>
+
+        </div>
+    </div>
+  </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="https://communityovercode.apache.org/about/">Community Over Code</a></li>
+      <li><a href="/events/">Community Events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+      <li><a href="/volunteer/">Volunteer!</a></li>
+      <li><a href="https://s.apache.org/apachecon-slack">Slack</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">Apache Fluss — Hackathon at Community over Code Glasgow 2026</h1>
+    
+	<p><img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> <strong><a href="https://communityovercode.org">Community over Code 2026</a> — Glasgow, UK, October 11–14</strong></p>
+<p><strong><a href="https://communityovercode.apache.org/events/glasgow-2026/register">Register now</a></strong> | <a href="https://communityovercode.org">Event website</a> | <a href="hackathon.html">Hackathon overview</a></p>
+<h2 id="apache-fluss--hackathon">Apache Fluss — Hackathon</h2>
+<p>Fluss is a streaming storage system for real-time analytics. A table is stored as
+a log, optionally with a key-value index beside it, and older data is tiered into
+Iceberg, Paimon or Lance so a single query can read both the lake and the fresh
+log tail. There is a Java client, a Rust client, and Python, C++ and Elixir
+bindings built on the Rust one.</p>
+<p><strong>Where and when:</strong> Wee Dram Room, Tuesday 13 October, 15:00–18:40.</p>
+<h3 id="coordinator">Coordinator</h3>
+<ul>
+<li><strong>Anton Borisov</strong> (PMC member) — <a href="mailto:borzoniusy@gmail.com">borzoniusy@gmail.com</a></li>
+</ul>
+<h3 id="before-you-arrive">Before you arrive</h3>
+<p>Conference wifi is not where you want to download a Maven repository, a Rust
+toolchain and a gigabyte of container images. Half an hour at home buys you the
+whole session.</p>
+<p><strong>Docs tasks</strong> — clone the repository and you are ready.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone https://github.com/apache/fluss.git
+</span></span></code></pre></div><p><strong>Rust, Python, Elixir or Go tasks</strong> — a Rust toolchain, plus
+<a href="https://docs.astral.sh/uv/">uv</a> for Python or Erlang and Elixir for the BEAM
+side. Build once at home so the dependencies are already on disk:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#a2f">cd</span> fluss/fluss-rust
+</span></span><span style="display:flex;"><span>cargo build --workspace
+</span></span><span style="display:flex;"><span><span style="color:#a2f">cd</span> bindings/python <span style="color:#666">&amp;&amp;</span> uv sync --all-extras <span style="color:#666">&amp;&amp;</span> uv run maturin develop
+</span></span><span style="display:flex;"><span><span style="color:#a2f">cd</span> ../elixir <span style="color:#666">&amp;&amp;</span> mix deps.get <span style="color:#666">&amp;&amp;</span> mix compile
+</span></span></code></pre></div><p><strong>Java tasks</strong> — follow the <a href="https://fluss.apache.org/community/dev/building/">building guide</a>
+and run a full build before you travel. CI compiles the tree in about four
+minutes, but the first build downloads a lot of Maven artifacts.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./mvnw clean install -DskipTests -T 1C
+</span></span></code></pre></div><p><strong>A cluster to run against</strong> — most client tasks need one. Either pull the images
+in advance and let the test harness start a cluster for you:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker pull apache/fluss:0.9.1-incubating
+</span></span><span style="display:flex;"><span>docker pull zookeeper:3.9.2
+</span></span></code></pre></div><p>or skip Docker and point your client at the cluster I will have running in the
+room:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#a2f">export</span> <span style="color:#b8860b">FLUSS_BOOTSTRAP_SERVERS</span><span style="color:#666">=</span>&lt;address on the whiteboard&gt;
+</span></span></code></pre></div><h3 id="tasks">Tasks</h3>
+<p>A first list, to give you something to look at before October. It will be
+refined closer to the event, and anything already fixed by then comes off it.</p>
+<p>Several tasks link to issues on <code>apache/fluss-rust</code>, which is where the Rust
+client was developed before it moved into the main repository. They are being
+ported across under a <code>hackathon</code> label; the description is accurate either way.</p>
+<h4 id="track-a--first-contribution-no-build-needed">Track A — first contribution, no build needed</h4>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Done looks like</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Document the Elixir binding</strong> (<a href="https://github.com/apache/fluss-rust/issues/465">#465</a>). Sixteen modules carry five <code>@doc</code> attributes between them, and <code>website/docs/apis/</code> has pages for C++, Java, Python and Rust but nothing for Elixir. The tests show how every module is meant to be used.</td>
+<td><code>@doc</code> on the public modules, and a first Elixir page on the website</td>
+</tr>
+<tr>
+<td><strong>Correct the client support matrix.</strong> The <a href="https://fluss.apache.org/docs/apis/client-support-matrix/">matrix</a> says the Python client cannot upsert a row, look one up, or create a database. It can do all three, and Rust and C++ have wrong rows too. Check each cell against the client code and its examples.</td>
+<td>One docs PR, and a note of any cell you could not settle</td>
+</tr>
+<tr>
+<td><strong>Walk the quickstart and fix what trips you.</strong> Follow the <a href="https://fluss.apache.org/docs/quickstart/flink/">Flink quickstart</a> from a clean checkout and write down every place you had to guess. Related: <a href="https://github.com/apache/fluss/issues/3038">#3038</a>, broken website anchors.</td>
+<td>A docs PR, or issues precise enough for someone else to act on</td>
+</tr>
+</tbody>
+</table>
+<h4 id="track-b--the-rust-client-and-its-bindings">Track B — the Rust client and its bindings</h4>
+<p>The Rust client carries the features; Python, C++ and Elixir are bindings over
+it. So a gap here is almost never missing logic, it is a call that nobody has
+wrapped yet, and the binding already contains a dozen worked examples of how to
+wrap one.</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Done looks like</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Wrap more of the admin API in Python or Elixir.</strong> <code>Admin</code> on the Rust client has 45 methods. Python exposes 17 of them and Elixir 12, and 27 are missing from both — rebalancing and server tags, ACLs, cluster configs, KV snapshot metadata and leases, producer offsets, table statistics, <code>alter_table</code>, <code>alter_database</code>. Pick a group that hangs together, say the three ACL calls or the four rebalance ones, and wrap it end to end. Each call is independent of the others, so several people can work through this at once without colliding, and the seventeen that already exist show you the shape. Filed for Elixir as <a href="https://github.com/apache/fluss-rust/issues/457">#457</a> and <a href="https://github.com/apache/fluss-rust/issues/458">#458</a>.</td>
+<td>A PR wrapping one coherent group, with a test each and the matrix rows ticked</td>
+</tr>
+<tr>
+<td><strong>Elixir: primary-key lookup</strong> (<a href="https://github.com/apache/fluss-rust/issues/462">#462</a>). A lookup fetches the current row for a primary key, which is the whole point of a PrimaryKey Table, and the Elixir binding cannot do it — there is no lookup NIF and no <code>kv</code> source file at all. The Rust core has <code>lookup</code> and <code>prefix_lookup</code> ready to call. This is the smallest way into the binding: one NIF, one Elixir module, one integration test, following <code>append_writer.rs</code> and <code>lib/fluss/append_writer.ex</code> exactly.</td>
+<td><code>Fluss.Lookuper</code>, or the equivalent on <code>Fluss.Table</code>, with an integration test</td>
+</tr>
+<tr>
+<td><strong>Elixir: UpsertWriter with partial update</strong> (<a href="https://github.com/apache/fluss-rust/issues/461">#461</a>). The write half of the same hole. <code>AppendWriter</code> can only append to a Log Table; nothing in the binding can upsert a row into a PrimaryKey Table or delete one, and partial update — writing some columns and leaving the rest — needs the target column set passed through to the Rust writer. Bigger than the lookup task and built on the same pattern, so the two pair naturally.</td>
+<td><code>Fluss.UpsertWriter</code> with upsert, delete and partial update, plus tests</td>
+</tr>
+<tr>
+<td><strong>Python: the prefix-lookup example.</strong> A prefix lookup returns every row whose bucket key starts with a given prefix, so you can fetch all of a customer&rsquo;s orders without scanning. Rust and C++ each have an example page for it on the website; Python has none, although <code>lookup_by()</code> has worked for a while. Write the example next to <code>pk_table.py</code>, the docs page beside the Rust and C++ ones, and register it in <code>test_examples.py</code> so it runs in CI instead of rotting.</td>
+<td>An example, a docs page and a passing test</td>
+</tr>
+<tr>
+<td><strong>Introduce a <code>SchemaId</code> newtype</strong> (<a href="https://github.com/apache/fluss-rust/issues/528">#528</a>). Schema ids travel through the client as bare <code>i32</code> and <code>i16</code>, so nothing stops a table id, a bucket number or a plain count being passed where a schema id belongs, and the compiler will not say a word. Wrapping it in a newtype moves that class of mistake from runtime to compile time. Self-contained, mechanical, and a good way to read a lot of the client quickly.</td>
+<td>The newtype, the call sites moved over, and the conversions where it meets the wire</td>
+</tr>
+</tbody>
+</table>
+<h4 id="track-c--tiering-and-historical-partitions">Track C — tiering and historical partitions</h4>
+<p>Tiering moves older data out of Fluss and into the lake. Historical partitions,
+<a href="https://github.com/apache/fluss/issues/3631">FIP-28</a>, let you keep reading and
+writing a partition after Fluss has expired it, by resolving the request against
+the lake table instead.</p>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Done looks like</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong><a href="https://github.com/apache/fluss/issues/3766">#3766</a> — historical lookups can starve normal ones.</strong> Both kinds share one semaphore in <code>LookupSender</code>, and a lake lookup is far slower than a local one, so a burst of historical requests can hold every permit. The spot is marked with a <code>TODO</code> in the code.</td>
+<td>A <code>client.lookup.historical-inflight-ratio</code> option, the split, rounding for small limits, and a test showing normal lookups proceed while historical ones are slow</td>
+</tr>
+<tr>
+<td><strong><a href="https://github.com/apache/fluss/issues/2439">#2439</a> — tiering is almost unmonitored.</strong> <code>TieringMetrics</code> registers exactly one metric, bytes read, plus its rate. Nothing counts records, files, or anything on the write side. The counter-plus-meter pattern is there to copy.</td>
+<td>Write-side and record or file metrics, with tests</td>
+</tr>
+</tbody>
+</table>
+<p>FIP-28 also has three deeper follow-ups still being designed —
+<a href="https://github.com/apache/fluss/issues/4159">#4159</a> on incremental cleanup of
+local KV state, <a href="https://github.com/apache/fluss/issues/4161">#4161</a> on
+server-authoritative partition status, and
+<a href="https://github.com/apache/fluss/issues/4166">#4166</a> on rerouting writes already
+in flight when a partition retires. Too large to finish in an afternoon, but if
+one interests you, come and argue about the design. That is worth as much as a
+patch.</p>
+<h4 id="track-d--stretch">Track D — stretch</h4>
+<table>
+<thead>
+<tr>
+<th>Task</th>
+<th>Done looks like</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Prototype a Go client.</strong> Fluss has bindings for Python, C++ and Elixir, and each writes its own bridge — PyO3, <code>cxx::bridge</code>, rustler — so none leaves a C ABI that cgo can call. Paimon solved this by adding a <code>bindings/c</code> crate and then a Go package over it, two days apart, and the result is only tens of kilobytes of Go. Read <a href="https://github.com/apache/paimon-rust/tree/main/bindings">paimon-rust/bindings</a> and do the same for Fluss.</td>
+<td>A <code>bindings/c</code> skeleton and a Go package that connects and does one round-trip, plus a write-up of what the C ABI still needs. The write-up is the deliverable; the prototype is evidence</td>
+</tr>
+</tbody>
+</table>
+<h4 id="track-e--bring-your-own">Track E — bring your own</h4>
+<p>Using Fluss and something bothers you, or you want to see how the log and the KV
+index fit together — come and say so. Half the value of a room like this is the
+conversation.</p>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://fluss.apache.org/community/how-to-contribute/contribute-code/">Contribution guide</a></li>
+<li><a href="https://fluss.apache.org/community/dev/building/">Building Fluss</a></li>
+<li><a href="https://github.com/apache/fluss/blob/main/fluss-rust/DEVELOPMENT.md">Rust client development guide</a></li>
+<li><a href="https://github.com/apache/fluss/blob/main/fluss-rust/bindings/python/DEVELOPMENT.md">Python binding development guide</a></li>
+<li><a href="https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts">Dev mailing list thread about the hackathon</a></li>
+<li><a href="https://join.slack.com/t/apache-fluss/shared_invite/zt-473vgmvjr-cmIma~_iAA4cN02o5u2pDQ">Fluss on Slack</a></li>
+</ul>
+<h3 id="whos-planning-to-attend">Who&rsquo;s planning to attend</h3>
+<ul>
+<li>Anton Borisov — Rust, Python, C++ and Elixir clients, server internals, lake tiering</li>
+</ul>
+<p>If you are coming and can help mentor, mail <a href="mailto:dev@fluss.apache.org">dev@fluss.apache.org</a> and I will add
+you here.</p>
+<hr>
+<ul>
+<li>Back to the <a href="hackathon.html">Hackathon overview</a></li>
+<li>Questions? Join <strong>#hackathon</strong> on <a href="http://s.apache.org/apachecon-slack">apachecon.slack.com</a></li>
+</ul>
+
+
+  </div>
+
+  <footer id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2026 The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br>
+        Apache and the Apache logo are trademarks of The Apache Software Foundation.
+        <br>
+        This website is generated from the
+        <a href="https://github.com/apache/comdev-events-site">comdev-events-site</a>
+        repository.
+      </p>
+    </div>
+</footer>
+
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

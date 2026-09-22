@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="apache, apache events, apache community, opensource">
+
+  <title>Apache Mahout — Hackathon at Community over Code Glasgow 2026</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
+</head>
+
+<body>
+  <div id="banner">
+    <div>
+        <div class="topbanner">
+            <div class="sitename">Apache Software Foundation Events</div>
+            <a class="logo" href="https://www.apache.org">
+                <img alt="ASF website" src="https://apache.org/img/asf_logo.png" width="164">
+            </a>
+            
+
+<span class="breadcrumbs">
+    <a href="/">Home</a>
+    
+    
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events'>Events</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026'>2026</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code'>Community over code</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code/mahout.html'>Mahout</a>
+            
+        
+    
+</span>
+
+        </div>
+    </div>
+  </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="https://communityovercode.apache.org/about/">Community Over Code</a></li>
+      <li><a href="/events/">Community Events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+      <li><a href="/volunteer/">Volunteer!</a></li>
+      <li><a href="https://s.apache.org/apachecon-slack">Slack</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">Apache Mahout — Hackathon at Community over Code Glasgow 2026</h1>
+    
+	<p><img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> <strong><a href="https://communityovercode.org">Community over Code 2026</a> — Glasgow, UK, October 11–14</strong></p>
+<p><strong><a href="https://communityovercode.apache.org/events/glasgow-2026/register">Register now</a></strong> | <a href="https://communityovercode.org">Event website</a> | <a href="hackathon.html">Hackathon overview</a></p>
+<h2 id="apache-mahout--hackathon">Apache Mahout — Hackathon</h2>
+<h3 id="coordinator">Coordinator</h3>
+<ul>
+<li><strong>Krishna Dave</strong> — <a href="mailto:krishnadave@apache.org">krishnadave@apache.org</a></li>
+<li><strong>Andrew Musselman</strong> — <a href="mailto:akm@apache.org">akm@apache.org</a></li>
+</ul>
+<h3 id="what-were-working-on">What We&rsquo;re Working On</h3>
+<p>Apache Mahout is a quantum computing project focused on two major components:</p>
+<ul>
+<li><strong>Qumat</strong> — QuMat is a high level Python library for interfacing with multiple quantum computing backends. It is designed to be easy to use and to abstract the particularities of each backend, so that you may write once, run anywhere.</li>
+</ul>
+<h2 id="installing-qumat-and-qdp">Installing Qumat and QDP</h2>
+<p>Install Qumat from PyPI:</p>
+<pre tabindex="0"><code>pip install qumat
+</code></pre><p>Install with QDP (Quantum Data Plane) support:</p>
+<pre tabindex="0"><code>pip install qumat[qdp]
+</code></pre><div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-python" data-lang="python"><span style="display:flex;"><span><span style="color:#a2f;font-weight:bold">from</span> <span style="color:#00f;font-weight:bold">qumat</span> <span style="color:#a2f;font-weight:bold">import</span> QuMat
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>qumat <span style="color:#666">=</span> QuMat({
+</span></span><span style="display:flex;"><span>    <span style="color:#b44">&#34;backend_name&#34;</span>: <span style="color:#b44">&#34;qiskit&#34;</span>,
+</span></span><span style="display:flex;"><span>    <span style="color:#b44">&#34;backend_options&#34;</span>: {<span style="color:#b44">&#34;simulator_type&#34;</span>: <span style="color:#b44">&#34;aer_simulator&#34;</span>},
+</span></span><span style="display:flex;"><span>})
+</span></span><span style="display:flex;"><span>qumat<span style="color:#666">.</span>create_empty_circuit(num_qubits<span style="color:#666">=</span><span style="color:#666">2</span>)
+</span></span><span style="display:flex;"><span>qumat<span style="color:#666">.</span>apply_hadamard_gate(<span style="color:#666">0</span>)
+</span></span></code></pre></div><p>Change <code>backend_name</code> to <code>cirq</code> or <code>amazon_braket</code> and the same code runs
+elsewhere. Pure Python — it needs no special hardware.</p>
+<ul>
+<li><strong>QDP (Quantum Data Plane)</strong> — QDP (Quantum Data Plane) is a GPU-accelerated library for encoding classical data into quantum states. It ships as part of the Apache Mahout qumat package and exposes a single QdpEngine facade with explicit backend selection for NVIDIA CUDA and AMD ROCm.</li>
+</ul>
+<p>QDP is where the systems programming lives: memory layout, kernel
+performance, streaming pipelines, <code>unsafe</code> audits. It needs Linux and an
+NVIDIA GPU to run.</p>
+<p><strong>Useful background that can help:</strong></p>
+<ul>
+<li><a href="https://mahout.apache.org/docs/learning/">Quantum computing primer</a> — from scratch, no physics assumed</li>
+<li><a href="https://mahout.apache.org/docs/qumat/basic-gates/">Basic gates</a> — the gates Qumat supports</li>
+<li><a href="https://mahout.apache.org/docs/qdp/concepts/">QDP concepts</a></li>
+</ul>
+<h2 id="pre-installs-that-can-save-time-in-the-hackathon">Pre-installs that can save time in the hackathon</h2>
+<p><strong>Read this before installing anything.</strong></p>
+<p>QDP requires <strong>Linux + an NVIDIA GPU + the CUDA toolkit</strong>. We might not be able to run those tasks as many of us is going to be with a mac only.</p>
+<h2 id="setup">Setup</h2>
+<p>Do this <strong>before</strong> you arrive if you can. Half an hour at home saves you an
+hour in the room.</p>
+<h3 id="everyone-base-setup">Everyone: base setup</h3>
+<p><strong>Requirements:</strong> Python <strong>3.10, 3.11, or 3.12</strong> (not 3.13 — see
+<code>requires-python</code> in <code>pyproject.toml</code>), git, and
+<a href="https://docs.astral.sh/uv/"><code>uv</code></a>.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#080;font-style:italic"># 1. Install uv if you don&#39;t have it</span>
+</span></span><span style="display:flex;"><span>pip install uv
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#080;font-style:italic"># 2. Clone and install</span>
+</span></span><span style="display:flex;"><span>git clone https://github.com/apache/mahout.git
+</span></span><span style="display:flex;"><span><span style="color:#a2f">cd</span> mahout
+</span></span><span style="display:flex;"><span>uv sync --group dev
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#080;font-style:italic"># 3. Install the pre-commit hooks (formatting and lint run automatically)</span>
+</span></span><span style="display:flex;"><span>pre-commit install
+</span></span></code></pre></div><p><strong>Verify it worked:</strong></p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>make test_python
+</span></span></code></pre></div><table>
+<thead>
+<tr>
+<th>Track</th>
+<th>What</th>
+<th>Hardware</th>
+<th>Languages</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A</strong></td>
+<td>Qumat — circuits and quantum ML</td>
+<td><strong>Any laptop</strong></td>
+<td>Python</td>
+</tr>
+<tr>
+<td><strong>B</strong></td>
+<td>Docs, examples, website</td>
+<td><strong>Any laptop</strong></td>
+<td>Markdown, JS</td>
+</tr>
+<tr>
+<td><strong>C</strong></td>
+<td>QDP internals — refactors and review</td>
+<td><strong>Any laptop</strong> (compiles, cannot run)</td>
+<td>Rust</td>
+</tr>
+<tr>
+<td><strong>D</strong></td>
+<td>QDP GPU work</td>
+<td><strong>Linux + NVIDIA GPU + CUDA</strong></td>
+<td>Rust, CUDA, Python</td>
+</tr>
+</tbody>
+</table>
+<p><strong>If you have a Mac or Windows laptop:</strong> Tracks A, B, and C. All three have
+real, mergeable work in them.</p>
+<p>During the hackathon we will focus on:</p>
+<ul>
+<li>Installing and building the project</li>
+<li>Learn about Qumat and QDP</li>
+<li>Choose an appropriate task</li>
+<li>Submit contributions and pull requests</li>
+</ul>
+<h3 id="hackathon-tracks">Hackathon Tracks</h3>
+<h3 id="track-a--qumat--python--any-laptop">Track A — Qumat · Python · any laptop</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Task</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>A1</strong></td>
+<td><strong>Backend parity sweep.</strong> Pick a gate or feature and check it behaves identically on Qiskit, Cirq, and Braket. Fix or document what differs. Self-contained, and a genuinely good first PR.</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>A2</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/749">#749</a> — Parameter optimization utilities for parameterized quantum circuits</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>A3</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1409">#1409</a> — Qumat <code>QMLTrainer</code>, a training loop for quantum ML models</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>A4</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/456">#456</a> — Quantum kernel methods research spike, and <a href="https://github.com/apache/mahout/issues/458">#458</a> on downstream kernel calculations. The mathematical end.</td>
+<td><strong>[deep]</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="track-b--docs-examples-website--any-laptop">Track B — Docs, examples, website · any laptop</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Task</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>B1</strong></td>
+<td><strong>Break our quickstart.</strong> Follow <a href="https://mahout.apache.org/docs/qumat/getting-started/">Getting Started</a> on your own machine and file an issue for every step that fails or confuses you. This sounds trivial; it is not. You can only see those problems once, and we cannot see them at all any more. No code required, and one of the most valuable things you can do.</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>B2</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1432">#1432</a> — Document <code>Preprocessor</code> in the <code>qumat_qdp</code> public API</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>B3</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/723">#723</a> — NumPy input documentation and more tests</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>B4</strong></td>
+<td><strong>Add a worked example.</strong> <a href="https://github.com/apache/mahout/tree/main/examples"><code>examples/</code></a> is thin. A clear, well-commented notebook is very welcome.</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>B5</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1359">#1359</a> — Document the API docs contributor workflow</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>B6</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1308">#1308</a> — Replace <code>website/scripts/sync-docs.js</code> with Docusaurus-native content loading. JavaScript; good for web developers.</td>
+<td><strong>[some]</strong></td>
+</tr>
+</tbody>
+</table>
+<p>To preview the website locally: <code>cd website &amp;&amp; npm run start</code>.</p>
+<h3 id="track-c--qdp-internals--rust--any-laptop">Track C — QDP internals · Rust · any laptop</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Task</th>
+<th>Level</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>C0</strong></td>
+<td><strong>Verify the no-GPU build.</strong> Run <code>cargo check -p qdp-core</code> on a machine with no CUDA toolkit, confirm whether the stub fallback works, and document the result in <code>qdp/DEVELOPMENT.md</code>. Small, and it unblocks every future contributor without a GPU.</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>C1</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1331">#1331</a> — Many QDP tests construct a <code>QdpEngine</code> or use <code>device=&quot;cuda&quot;</code> with no GPU guard. <strong>Our pick of the list:</strong> not having a GPU is exactly what lets you verify the fix, and you make the project easier for the next person in your position.</td>
+<td><strong>[new]</strong></td>
+</tr>
+<tr>
+<td><strong>C2</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1436">#1436</a> — <code>StreamingProducer</code>: use <code>VecDeque</code> for O(1) buffer advance</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>C3</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1433">#1433</a> — <code>KernelElem</code> trait to deduplicate the f32/f64 stubs</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>C4</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1434">#1434</a> — Unify <code>PipelineIterator</code> constructors with a <code>Source</code> enum · <a href="https://github.com/apache/mahout/issues/1435">#1435</a> — Unify batch producers via <code>AdapterBackedProducer</code></td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>C5</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/787">#787</a> — NumPy file size check to prevent OOM</td>
+<td><strong>[some]</strong></td>
+</tr>
+<tr>
+<td><strong>C6</strong></td>
+<td><a href="https://github.com/apache/mahout/issues/1009">#1009</a> — Audit and reduce <code>unsafe</code> usage in QDP. Ongoing; reviewing it teaches you the codebase fast.</td>
+<td><strong>[deep]</strong></td>
+</tr>
+</tbody>
+</table>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://github.com/apache/mahout">Apache Mahout GitHub Repository</a></li>
+<li><a href="https://mahout.apache.org/">Apache Mahout Website</a></li>
+<li><a href="https://github.com/apache/mahout/blob/main/CONTRIBUTING.md">Contributor Guide</a></li>
+<li><a href="https://github.com/apache/mahout/issues">Apache Mahout Issues</a></li>
+<li><a href="mailto:dev@mahout.apache.org">Apache Mahout dev@ Mailing List</a></li>
+<li><a href="https://mahout.apache.org/docs/learning/quantum-computing-primer/">Quantum Computing Primer</a></li>
+<li><a href="https://mahout.apache.org/docs/qumat/">Qumat Documentation</a></li>
+</ul>
+<h3 id="who-should-join">Who Should Join?</h3>
+<p>We welcome:</p>
+<ul>
+<li>Python developers</li>
+<li>Rust developers</li>
+<li>Documentation contributors</li>
+<li>Machine learning practitioners</li>
+<li>Quantum computing enthusiasts</li>
+</ul>
+<p>Prior experience with quantum computing is <strong>not required</strong>. Most tasks involve standard Python, Rust, JavaScript, documentation, and software engineering skills.</p>
+<ul>
+<li>Review the issue tracker and identify an area of interest</li>
+<li>Join the dev@ mailing list and introduce yourself if you&rsquo;d like to discuss ideas beforehand</li>
+</ul>
+<h2 id="submitting-your-pull-request">Submitting Your Pull Request</h2>
+<p>Full detail is in
+<a href="https://github.com/apache/mahout/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>
+and the <a href="pr-policy-and-review-guidelines.md">PR policy</a>. The short version:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git checkout -b your-feature-name
+</span></span><span style="display:flex;"><span><span style="color:#080;font-style:italic"># ... make your changes ...</span>
+</span></span><span style="display:flex;"><span>git add .
+</span></span><span style="display:flex;"><span>git commit -m <span style="color:#b44">&#34;Description of your changes&#34;</span>   <span style="color:#080;font-style:italic"># pre-commit hooks run here</span>
+</span></span><span style="display:flex;"><span>git push origin your-feature-name
+</span></span></code></pre></div><p>Then open the PR against <code>apache/mahout</code> and fill in the
+<a href="https://github.com/apache/mahout/blob/main/.github/PULL_REQUEST_TEMPLATE">template</a>.</p>
+<p><strong>What reviewers will look for:</strong></p>
+<ul>
+<li><strong>Link the issue</strong> you were working on.</li>
+<li><strong>One concern per PR.</strong> A focused refactor beats a PR that also fixes a
+typo and bumps a dependency.</li>
+<li><strong>Explain why and how</strong> in the description, not just what.</li>
+<li><strong>Tests for behaviour changes</strong>, docs for user-visible ones.</li>
+<li><strong>Green CI.</strong> Run <code>make pre-commit</code> before pushing to catch formatting.</li>
+</ul>
+<p>Tests live in <code>testing/qumat/</code>, <code>testing/qdp/</code>, and <code>testing/utils/</code>.</p>
+<p><strong>Your PR does not have to be finished by 18:40.</strong> Nobody expects a
+completed feature in one afternoon. An open draft PR with a clear
+description, or even a well-written issue documenting what you found, is a
+real contribution. Plenty of people carry on after the conference.</p>
+<h2 id="getting-help">Getting Help</h2>
+<ul>
+<li><strong>On the Day:</strong> We would be there to help</li>
+<li><strong>Before or after:</strong> <a href="mailto:dev@mahout.apache.org">dev@mahout.apache.org</a>
+(subscribe by emailing <code>dev-subscribe@mahout.apache.org</code>)</li>
+<li><strong>Event chat:</strong> <code>#hackathon</code> on <a href="http://s.apache.org/apachecon-slack">apachecon.slack.com</a></li>
+<li><strong>Hackathon overview:</strong> <a href="https://events.apache.org/events/2026/community-over-code/hackathon.html">all participating projects</a></li>
+</ul>
+<p><em>Turning up with a laptop and some curiosity is enough. See you in Glasgow.</em></p>
+
+
+  </div>
+
+  <footer id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2026 The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br>
+        Apache and the Apache logo are trademarks of The Apache Software Foundation.
+        <br>
+        This website is generated from the
+        <a href="https://github.com/apache/comdev-events-site">comdev-events-site</a>
+        repository.
+      </p>
+    </div>
+</footer>
+
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>
