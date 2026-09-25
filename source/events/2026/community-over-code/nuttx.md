@@ -54,6 +54,7 @@ See the [list of supported platforms](https://nuttx.apache.org/docs/latest/platf
 
 * Alin Jerpelea (committer, PMC)
 * Michal Lenc (commiter)
+* Matteo Golin (committer, PMC)
 * Additional committers TBC
 
 ### Getting Started Before the Event
