@@ -18,7 +18,6 @@ title: "Apache Airflow — Hackathon at Community over Code Glasgow 2026"
      This person should be present at the event and available to help
      participants get started. -->
 
-* **Aritra Basu** — aritrabasu1999@gmail.com
 * **Amogh Desai** - amoghdesai@apache.org
 * **Jarek Potiuk** - potiuk@apache.org
 
@@ -33,7 +32,7 @@ We're focusing on:
 * **Good first issues** — small, well-scoped tasks suitable for new
   contributors: [GitHub issues labeled "good first issue"](https://github.com/apache/airflow/issues?q=label%3A%22good+first+issue%22)
 
-We are moving fast, so by the time of the hackathon some of the issues we might point at today may be already
+We are moving fast, so by the time of the hackathon, some of the issues we might point at today may already be
 solved, so we will have a curated list of issues for the hackathon participants close to the date.
 
 ### Resources
