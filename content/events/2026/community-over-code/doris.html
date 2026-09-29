@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+
+
+<html lang="en">
+<head>
+  <meta name="description" content="Apache Events">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="apache, apache events, apache community, opensource">
+
+  <title>Apache Doris — Hackathon at Community over Code Glasgow 2026</title>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
+</head>
+
+<body>
+  <div id="banner">
+    <div>
+        <div class="topbanner">
+            <div class="sitename">Apache Software Foundation Events</div>
+            <a class="logo" href="https://www.apache.org">
+                <img alt="ASF website" src="https://apache.org/img/asf_logo.png" width="164">
+            </a>
+            
+
+<span class="breadcrumbs">
+    <a href="/">Home</a>
+    
+    
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events'>Events</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026'>2026</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code'>Community over code</a>
+            
+        
+    
+        
+            
+            
+            
+                
+            
+            
+                &nbsp; <a href='/events/2026/community-over-code/doris.html'>Doris</a>
+            
+        
+    
+</span>
+
+        </div>
+    </div>
+  </div>
+
+  <button id="nav-toggle" aria-label="Toggle navigation">☰ Menu</button>
+
+  <div id="navigation">
+    <ul>
+      <li><a href="/index.html">Home</a></li>
+    </ul>
+
+    <h1>About Apache Events</h1>
+    <ul>
+      <li><a href="/about/index.html">General information</a></li>
+      <li><a href="https://communityovercode.apache.org/about/">Community Over Code</a></li>
+      <li><a href="/events/">Community Events</a></li>
+    </ul>
+
+    <h1>Getting Involved</h1>
+    <ul>
+      <li><a href="/involved/index.html">Introduction</a></li>
+      <li><a href="/involved/mailing-lists.html">Mailing Lists</a></li>
+      <li><a href="/volunteer/">Volunteer!</a></li>
+      <li><a href="https://s.apache.org/apachecon-slack">Slack</a></li>
+    </ul>
+
+    <h1>ASF</h1>
+    <ul>
+      <li><a href="https://www.apache.org">Apache Software Foundation</a></li>
+      <li><a href="https://community.apache.org">Community Development</a></li>
+      <li><a href="https://www.apache.org/foundation/thanks.html">Thanks</a></li>
+      <li><a href="https://www.apache.org/foundation/sponsorship.html">Become a Sponsor</a></li>
+      <li><a href="https://www.apache.org/security/">Security</a></li>
+    </ul>
+  </div>
+
+  <div id="content">
+    <h1 class="title">Apache Doris — Hackathon at Community over Code Glasgow 2026</h1>
+    
+	<p><img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> <strong><a href="https://communityovercode.org">Community over Code 2026</a> — Glasgow, UK, October 11–14</strong></p>
+<p><strong><a href="https://communityovercode.apache.org/events/glasgow-2026/register">Register now</a></strong> | <a href="https://communityovercode.org">Event website</a> | <a href="hackathon.html">Hackathon overview</a></p>
+<h2 id="apache-doris--hackathon">Apache Doris — Hackathon</h2>
+<p>Apache Doris is an open-source, real-time database for modern analytics
+and AI. It answers sub-second queries under high concurrency at petabyte
+scale; it treats structured, text and vector data as first-class citizens
+in the same engine, so a single SQL statement can combine a filter, a
+BM25 text match and a nearest-neighbour search over embeddings; it
+queries Iceberg, Delta Lake and Hudi tables in place, with no copy, which
+makes it an acceleration layer over an open lakehouse rather than yet
+another silo; and increasingly it serves as the store agents run
+on — columnar JSON for tool-call traces, BM25 retrieval for RAG and agent
+memory, MCP for access.</p>
+<p>That range is the reason Doris is an interesting codebase to spend an
+afternoon in. Query execution, index structures, storage formats,
+connectors and SQL semantics all live in one repository, so whichever of
+those you find interesting, there is a task here that touches it.</p>
+<p><strong>Session:</strong> Tuesday 13 October, Early slot (11:20–15:00), Wee Dram Room</p>
+<h3 id="coordinator">Coordinator</h3>
+<ul>
+<li><strong>Mingyu Chen</strong> — <a href="mailto:morningman@apache.org">morningman@apache.org</a></li>
+</ul>
+<h3 id="what-were-working-on">What We&rsquo;re Working On</h3>
+<p>We&rsquo;ll bring tasks in five areas. A curated task list with specific issues
+will be published on this page closer to the event; in the meantime, the
+directions below should tell you whether there&rsquo;s something here for you.</p>
+<ul>
+<li><strong>Multi-modal lakehouse support</strong> <em>(the deepest end — some C++ or Java
+expected)</em> — extending what Doris can read and push down across open
+table formats, and broadening the range of data types it handles
+natively. Good if you want to work on connectors, scan layers or type
+systems.</li>
+<li><strong>Documentation</strong> <em>(no C++ or Java required)</em> — filling gaps, fixing
+examples that no longer match the current release, and making the
+getting-started path shorter. The most useful thing a newcomer can do,
+because you still remember which parts were confusing.</li>
+<li><strong>Visualization and tooling</strong> <em>(front-end friendly)</em> — improving the
+web UI and the tooling people use to observe and operate a Doris
+cluster. A good fit if you&rsquo;d rather write TypeScript than C++.</li>
+<li><strong>New SQL functions</strong> <em>(the easiest first PR)</em> — implementing functions
+that other engines have and Doris doesn&rsquo;t. Each one is small,
+self-contained, and has a reference implementation elsewhere to compare
+against, which makes it a clean way to learn the build, the test
+harness and the review process in one sitting.</li>
+<li><strong>Something built on Doris</strong> <em>(any language, no engine internals
+required)</em> — not a change to Doris itself, but an application that
+shows what it can do: a hybrid search demo combining BM25 text
+retrieval with vector similarity over the same table, an agent that
+uses Doris as its memory, a dashboard over a lakehouse table. Demos
+are how most people discover a feature exists, so a good one is worth
+as much to the project as a patch — and this is the option to pick if
+you&rsquo;d rather build with Doris than in it.</li>
+</ul>
+<h3 id="resources">Resources</h3>
+<ul>
+<li><a href="https://doris.apache.org/slack">Join Doris Slack</a></li>
+<li><a href="https://doris.apache.org/docs/gettingStarted/quick-start">Quick start</a> — get a Doris running in minutes, no build needed</li>
+<li><a href="https://doris.apache.org/community/how-to-contribute/">How to contribute</a></li>
+<li><a href="https://doris.apache.org/community/source-install/compilation-with-docker">Building Doris with Docker</a> — the fastest route to a working build</li>
+<li><a href="https://github.com/apache/doris/issues">GitHub issues</a></li>
+<li><a href="https://doris.apache.org/community/subscribe-mail-list">Subscribe to the mailing lists</a></li>
+</ul>
+<h3 id="getting-started-before-the-event">Getting Started Before the Event</h3>
+<p>What to prepare depends on which direction you pick:</p>
+<ol>
+<li><strong>If you plan to change Doris</strong> — get a build working ahead of time
+using the
+<a href="https://doris.apache.org/community/source-install/compilation-with-docker">official development Docker image</a>.
+Doris is a large C++ and Java codebase, a first full build takes a
+while, and building inside the image saves you from assembling the
+third-party dependencies by hand. Start this the day before at the
+latest, not on the morning of the hackathon.</li>
+<li><strong>If you plan to build something on Doris</strong> — you don&rsquo;t need to
+compile anything. Follow the
+<a href="https://doris.apache.org/docs/gettingStarted/quick-start">quick start</a>
+to get a cluster running locally, and bring whatever language and
+client you&rsquo;re comfortable with.</li>
+<li><strong>Decide roughly which direction interests you</strong> from the five above,
+so we can point you at a matching task on the day.</li>
+<li><strong>Say hello</strong> on <a href="https://doris.apache.org/slack">Slack</a> or the dev@
+list so we know to look out for you.</li>
+</ol>
+<p>If none of that works out, come anyway — documentation needs nothing but
+a text editor, and we can sort out builds and clusters in the room.</p>
+<hr>
+<ul>
+<li>Back to the <a href="hackathon.html">Hackathon overview</a></li>
+<li>Questions? Join <strong>#hackathon</strong> on <a href="http://s.apache.org/apachecon-slack">apachecon.slack.com</a></li>
+</ul>
+
+
+  </div>
+
+  <footer id="footer">
+    <div class="copyright">
+      <p>
+        Copyright &copy; 2026 The Apache Software Foundation, Licensed under
+        the <a href="https://www.apache.org/licenses/LICENSE-2.0">Apache License, Version 2.0</a>.
+        <br>
+        Apache and the Apache logo are trademarks of The Apache Software Foundation.
+        <br>
+        This website is generated from the
+        <a href="https://github.com/apache/comdev-events-site">comdev-events-site</a>
+        repository.
+      </p>
+    </div>
+</footer>
+
+
+  <script>
+    document.getElementById('nav-toggle').addEventListener('click', function() {
+      var nav = document.getElementById('navigation');
+      nav.classList.toggle('open');
+    });
+  </script>
+</body>
+</html>
