@@ -13,7 +13,9 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
    1. Follow the instructions in [Connecting your agent](https://github.com/apache/tooling-llmao#connecting-your-agent).
    2. Set the environment variables, using the key from step 3.
 
-> **Tip:** Treat the key like a password. Don't commit it to a repo or paste it into Slack.
+> [!TIP]
+>
+> Treat the key like a password. Don't commit it to a repo or paste it into Slack.
 
 ---
 
