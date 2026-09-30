@@ -13,7 +13,7 @@
       
       <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
       <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
-1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in. Create a key. Copy the key and keep it somewhere safe. You will need it in step 4.2. Connect your agents: Follow the instructions in Connecting your agent. Set the environment variables, using the key from step 3. [!</description>
+1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in. Create a key. Copy the key and keep it somewhere safe. You will need it in step 4.2. Connect your agents: Follow the instructions in Connecting your agent. Set the environment variables, using the key from step 3. Tip: Treat the key like a password.</description>
     </item>
     
     <item>
