@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://events.apache.org/events/2026/community-over-code/asf-rai.html</loc>
+    <lastmod>2026-09-30T12:10:54+08:00</lastmod>
+  </url><url>
     <loc>https://events.apache.org/events/2026/community-over-code/new_responses.html</loc>
     <lastmod>2026-07-23T11:21:49-04:00</lastmod>
   </url><url>
@@ -126,7 +129,7 @@
     <lastmod>2026-02-04T08:54:25-05:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/events.html</loc>
-    <lastmod>2026-09-28T12:17:53+05:30</lastmod>
+    <lastmod>2026-09-30T12:10:54+08:00</lastmod>
   </url><url>
     <loc>https://events.apache.org/event.html</loc>
     <lastmod>2026-08-18T09:20:30-04:00</lastmod>
