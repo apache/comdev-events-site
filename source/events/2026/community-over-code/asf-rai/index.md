@@ -2,40 +2,38 @@
 title: "Apache RAI Hackathon: LLMAO Quick Start"
 ---
 
-# Apache RAI Hackathon: LLMAO Quick Start
-
 A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to **LLMAO** ([apache/tooling-llmao](https://github.com/apache/tooling-llmao)).
 
 ---
 
 ## 1. Connect to llm.apache.org
 
-Go to [https://llm.apache.org/fleet](https://llm.apache.org/fleet) and log in.
+1. Go to [https://llm.apache.org/fleet](https://llm.apache.org/fleet) and log in.
 
-Use your ASF LDAP (committer) username and password on the ASF OAuth page:
+   Use your ASF LDAP (committer) username and password on the ASF OAuth page:
 
-![ASF OAuth login page for llm.apache.org](/images/asf-rai/asf-oauth-login.png)
+   {{< image src="asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" >}}
 
-Once you log in, the landing page (Fleet) will look like the one below:
+   Once you log in, the landing page (Fleet) will look like the one below:
 
-![LLMAO Fleet landing page showing available models](/images/asf-rai/llmao-fleet-landing.png)
+   {{< image src="llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models" >}}
 
 2. Create a key.
 
    Go to **My Keys** in the top menu and click **+ Create key**. The secret is shown only once, when you create the key.
 
-   ![LLMAO My Keys page with the Create key button](/images/asf-rai/llmao-my-keys.png)
+   {{< image src="llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button" >}}
 
    Once the key is created, you'll see the confirmation below. Click **Copy** right away, because the secret will not be shown again.
 
-   ![Personal API key created confirmation with the Copy button](/images/asf-rai/llmao-key-created.png)
+   {{< image src="llmao-key-created.png" alt="Personal API key created confirmation with the Copy button" >}}
 
-3. Copy the key and keep it somewhere safe. You will need it in step 3.2.
+3. Copy the key and keep it somewhere safe. You will need it in step 4.2.
 4. For agents:
    1. Follow the instructions in [Connecting your agent](https://github.com/apache/tooling-llmao#connecting-your-agent).
-   2. Set the environment variables, using the key from step 2.
+   2. Set the environment variables, using the key from step 3.
 
- **Tip:** Treat the key like a password. Don't commit it to a repo or paste it into Slack.
+**Tip:** Treat the key like a password. Don't commit it to a repo or paste it into Slack.
 
 ---
 
