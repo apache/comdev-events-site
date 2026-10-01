@@ -21,21 +21,21 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
 
    Use your ASF LDAP (committer) username and password on the ASF OAuth page:
 
-   {{< image src="asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" >}}
+   {{< image src="asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" style="max-height:80vh;" >}}
 
    Once you log in, the landing page (Fleet) will look like the one below:
 
-   {{< image src="llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models" >}}
+   {{< image src="llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models" style="max-height:80vh;" >}}
 
 2. Create a key.
 
    Go to **My Keys** in the top menu and click **+ Create key**. The secret is shown only once, when you create the key.
 
-   {{< image src="llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button" >}}
+   {{< image src="llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button" style="max-height:80vh;" >}}
 
    Once the key is created, you'll see the confirmation below. Click **Copy** right away, because the secret will not be shown again.
 
-   {{< image src="llmao-key-created.png" alt="Personal API key created confirmation with the Copy button" >}}
+   {{< image src="llmao-key-created.png" alt="Personal API key created confirmation with the Copy button" style="max-height:80vh;" >}}
 
 3. Copy the key and keep it somewhere safe. You will need it in step 4.2.
 4. For agents:
