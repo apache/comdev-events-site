@@ -10,7 +10,38 @@
   <title>Apache RAI Hackathon: LLMAO Quick Start</title>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  <link href="/style/screen.css" rel="stylesheet" type="text/css"><link rel="stylesheet" href="/vendor/glightbox-3.3.1/glightbox.min.07c1f471af04ce3bfcff281d57bd7329da9b7e15428d31cf00929fc399a8f060.css" integrity="sha256-B8H0ca8Ezjv8/ygdV71zKdqbfhVCjTHPAJKfw5mo8GA=">
+<script src="/vendor/glightbox-3.3.1/glightbox.min.2b0f2cb153b725a47d50b78e46b17850f8ee10b62051e21b0d2aa02a27dab624.js" integrity="sha256-Kw8ssVO3JaR9ULeORrF4UPjuELYgUeIbDSqgKifatiQ=" defer></script>
+<style>
+  #content a.glightbox { display: inline-block; max-width: 100%; }
+  #content a.glightbox:hover { background: none; }
+  #content a.glightbox img { cursor: zoom-in; }
+</style>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var lightbox = GLightbox({ selector: '#content a.glightbox' });
+    var trigger;
+    lightbox.on('open', function() {
+      trigger = document.activeElement;
+      var modal = document.querySelector('.glightbox-container');
+      modal.setAttribute('aria-label', 'Image preview');
+      modal.setAttribute('aria-modal', 'true');
+      modal.querySelector('.gclose').focus();
+    });
+    lightbox.on('close', function() {
+      if (trigger) trigger.focus();
+    });
+    
+    document.querySelectorAll('#content a.glightbox').forEach(function(link) {
+      link.addEventListener('click', function(event) {
+        if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) {
+          event.stopImmediatePropagation();
+        }
+      }, true);
+    });
+  });
+</script>
+
   <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
 </head>
 
@@ -120,8 +151,11 @@
 </style>
 <div style="display:flex; align-items:center; gap:1rem; flex-wrap:wrap; margin-bottom:1rem;">
   <div style="width:200px; flex:none;">
+<a href="/events/2026/community-over-code/asf-rai/rai-logo-apache.png" class="glightbox" data-type="image" data-alt="Apache Responsible AI Initiative"
+   aria-label="Enlarge image: Apache Responsible AI Initiative" aria-haspopup="dialog">
 <img src="/events/2026/community-over-code/asf-rai/rai-logo-apache.png" alt="Apache Responsible AI Initiative"
-     style="max-width:100%; height:auto;"></div>
+     style="max-width:100%; height:auto;">
+</a></div>
   <h1 style="margin:0;">Apache RAI Hackathon: LLMAO Quick Start</h1>
 </div>
 <p>A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to <strong>LLMAO</strong> (<a href="https://github.com/apache/tooling-llmao">apache/tooling-llmao</a>).</p>
@@ -132,23 +166,35 @@
 <p>Go to <a href="https://llm.apache.org/fleet">https://llm.apache.org/fleet</a> and log in.</p>
 <p>Use your ASF LDAP (committer) username and password on the ASF OAuth page:</p>
 
+   <a href="/events/2026/community-over-code/asf-rai/asf-oauth-login.png" class="glightbox" data-type="image" data-alt="ASF OAuth login page for llm.apache.org"
+      aria-label="Enlarge image: ASF OAuth login page for llm.apache.org" aria-haspopup="dialog">
    <img src="/events/2026/community-over-code/asf-rai/asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org"
-        style="max-width:100%; height:auto; max-height:80vh;">
+        style="max-width:100%; height:auto; max-width:min(100%,1200px); max-height:80vh;">
+   </a>
 <p>Once you log in, the landing page (Fleet) will look like the one below:</p>
 
+   <a href="/events/2026/community-over-code/asf-rai/llmao-fleet-landing.png" class="glightbox" data-type="image" data-alt="LLMAO Fleet landing page showing available models"
+      aria-label="Enlarge image: LLMAO Fleet landing page showing available models" aria-haspopup="dialog">
    <img src="/events/2026/community-over-code/asf-rai/llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models"
-        style="max-width:100%; height:auto; max-height:80vh;">
+        style="max-width:100%; height:auto; max-width:min(100%,1200px); max-height:80vh;">
+   </a>
 </li>
 <li>
 <p>Create a key.</p>
 <p>Go to <strong>My Keys</strong> in the top menu and click <strong>+ Create key</strong>. The secret is shown only once, when you create the key.</p>
 
+   <a href="/events/2026/community-over-code/asf-rai/llmao-my-keys.png" class="glightbox" data-type="image" data-alt="LLMAO My Keys page with the Create key button"
+      aria-label="Enlarge image: LLMAO My Keys page with the Create key button" aria-haspopup="dialog">
    <img src="/events/2026/community-over-code/asf-rai/llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button"
-        style="max-width:100%; height:auto; max-height:80vh;">
+        style="max-width:100%; height:auto; max-width:min(100%,1200px); max-height:80vh;">
+   </a>
 <p>Once the key is created, you&rsquo;ll see the confirmation below. Click <strong>Copy</strong> right away, because the secret will not be shown again.</p>
 
+   <a href="/events/2026/community-over-code/asf-rai/llmao-key-created.png" class="glightbox" data-type="image" data-alt="Personal API key created confirmation with the Copy button"
+      aria-label="Enlarge image: Personal API key created confirmation with the Copy button" aria-haspopup="dialog">
    <img src="/events/2026/community-over-code/asf-rai/llmao-key-created.png" alt="Personal API key created confirmation with the Copy button"
-        style="max-width:100%; height:auto; max-height:80vh;">
+        style="max-width:100%; height:auto; max-width:min(100%,1200px); max-height:80vh;">
+   </a>
 </li>
 <li>
 <p>Copy the key and keep it somewhere safe. You will need it in step 4.2.</p>
