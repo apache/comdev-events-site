@@ -16,7 +16,7 @@ limitations under the License.
 */}}
 {{- $src := .Get "src" -}}
 {{- with .Page.Resources.Get $src -}}
-<img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" class="screenshot">
+<img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}" class="image">
 {{- else -}}
-  {{- errorf "Screenshot %q not found in page bundle %q" $src .Page.File.Path -}}
+  {{- errorf "Image %q not found in page bundle %q" $src .Page.File.Path -}}
 {{- end -}}
