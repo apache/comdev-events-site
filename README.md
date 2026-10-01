@@ -52,7 +52,17 @@ To generate the static website, execute `hugo` to generate the website under tar
 During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to
 continuously (re)generate and serve the website on `localhost:1313`.
 
-Store shared images in `static/images/` and reference them as `/images/...` in page content. Hugo copies the root `static/` directory to the site root; a directory named `static` beneath `source/` remains under that content path. After building, check that each image URL corresponds to a file under `target/content/`.
+Store images shared across pages in `static/images/` and reference them as `/images/...` in page content.
+
+For images belonging to a single page, use a [Hugo leaf bundle](https://gohugo.io/content-management/page-bundles/) so the content and images can be removed together. For example:
+
+```text
+source/events/2026/community-over-code/asf-rai/
+  index.md
+  asf-oauth-login.png
+```
+
+Reference a bundled screenshot with `{{< screenshot src="asf-oauth-login.png" alt="ASF OAuth login page" >}}`. This shortcode uses the page resource's published URL, including with this site's `uglyURLs = true` setting, and fails the build if the image is missing. After building, check that each image URL corresponds to a file under `target/content/`. Jenkins builds into a fresh directory and replaces the published content, so deleting a bundle removes its page and images from the next deployment.
 
 # How-To add a Community Over Code event promotion to your project site
 
