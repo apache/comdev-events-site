@@ -178,20 +178,6 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
     </item>
     
     <item>
-      <title>Apache RAI Hackathon: LLMAO Quick Start</title>
-      <link>https://events.apache.org/events/2026/community-over-code/asf-rai.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
-      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
-1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in.
-Use your ASF LDAP (committer) username and password on the ASF OAuth page:
-Once you log in, the landing page (Fleet) will look like the one below:
-Create a key.
-Go to My Keys in the top menu and click + Create key.</description>
-    </item>
-    
-    <item>
       <title>Apache Responsible AI — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/rai.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -285,6 +271,20 @@ Apache Trusted Releases — we have launched the Beta and want to help your PMCs
 Register now | Event website | Hackathon overview
 Apache YourProject — Hackathon Coordinator Name — email@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Slack / Discord / chat channel Dev environment setup Who&amp;rsquo;s Planning to Attend Name (role or area of expertise) Name (role or area of expertise) Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+    </item>
+    
+    <item>
+      <title>Apache RAI Hackathon: LLMAO Quick Start</title>
+      <link>https://events.apache.org/events/2026/community-over-code/asf-rai.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
+      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
+1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in.
+Use your ASF LDAP (committer) username and password on the ASF OAuth page:
+Once you log in, the landing page (Fleet) will look like the one below:
+Create a key.
+Go to My Keys in the top menu and click + Create key.</description>
     </item>
     
     <item>
