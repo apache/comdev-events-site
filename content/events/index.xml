@@ -8,16 +8,6 @@
     <language>en</language><atom:link href="https://events.apache.org/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://events.apache.org/events/2026/community-over-code/asf-rai.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
-      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
-1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in. Create a key. Copy the key and keep it somewhere safe. You will need it in step 4.2. Connect your agents: Follow the instructions in Connecting your agent. Set the environment variables, using the key from step 3. Tip: Treat the key like a password.</description>
-    </item>
-    
-    <item>
-      <title></title>
       <link>https://events.apache.org/events/2026/community-over-code/new_responses.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -185,6 +175,20 @@ Qumat — QuMat is a high level Python library for interfacing with multiple qua
 Register now | Event website | Hackathon overview
 Apache NuttX — Hackathon Coordinator Alin Jerpelea — jerpelea@apache.org What We&amp;rsquo;re Working On We will introduce you to NuttX RTOS and show you how to build and run it from scratch on an embedded board. There will be twenty SONY Spresense IoT boards available for demos and demonstrations.
 You can also bring your favourite board and we can try to run NuttX on it as well.</description>
+    </item>
+    
+    <item>
+      <title>Apache RAI Hackathon: LLMAO Quick Start</title>
+      <link>https://events.apache.org/events/2026/community-over-code/asf-rai.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
+      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
+1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in.
+Use your ASF LDAP (committer) username and password on the ASF OAuth page:
+Once you log in, the landing page (Fleet) will look like the one below:
+Create a key.
+Go to My Keys in the top menu and click + Create key.</description>
     </item>
     
     <item>

@@ -7,7 +7,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="keywords" content="apache, apache events, apache community, opensource">
 
-  <title></title>
+  <title>Apache RAI Hackathon: LLMAO Quick Start</title>
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link href="/style/screen.css" rel="stylesheet" type="text/css">
@@ -113,26 +113,37 @@
   </div>
 
   <div id="content">
-    <h1 class="title"></h1>
+    <h1 class="title">Apache RAI Hackathon: LLMAO Quick Start</h1>
     
 	<h1 id="apache-rai-hackathon-llmao-quick-start">Apache RAI Hackathon: LLMAO Quick Start</h1>
 <p>A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to <strong>LLMAO</strong> (<a href="https://github.com/apache/tooling-llmao">apache/tooling-llmao</a>).</p>
 <hr>
 <h2 id="1-connect-to-llmapacheorg">1. Connect to llm.apache.org</h2>
-<ol>
-<li>Go to <a href="https://llm.apache.org/fleet">https://llm.apache.org/fleet</a> and log in.</li>
-<li>Create a key.</li>
-<li>Copy the key and keep it somewhere safe. You will need it in step 4.2.</li>
-<li>Connect your agents:
+<p>Go to <a href="https://llm.apache.org/fleet">https://llm.apache.org/fleet</a> and log in.</p>
+<p>Use your ASF LDAP (committer) username and password on the ASF OAuth page:</p>
+<p><img src="/images/asf-rai/asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org"></p>
+<p>Once you log in, the landing page (Fleet) will look like the one below:</p>
+<p><img src="/images/asf-rai/llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models"></p>
+<ol start="2">
+<li>
+<p>Create a key.</p>
+<p>Go to <strong>My Keys</strong> in the top menu and click <strong>+ Create key</strong>. The secret is shown only once, when you create the key.</p>
+<p><img src="/images/asf-rai/llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button"></p>
+<p>Once the key is created, you&rsquo;ll see the confirmation below. Click <strong>Copy</strong> right away, because the secret will not be shown again.</p>
+<p><img src="/images/asf-rai/llmao-key-created.png" alt="Personal API key created confirmation with the Copy button"></p>
+</li>
+<li>
+<p>Copy the key and keep it somewhere safe. You will need it in step 3.2.</p>
+</li>
+<li>
+<p>For agents:</p>
 <ol>
 <li>Follow the instructions in <a href="https://github.com/apache/tooling-llmao#connecting-your-agent">Connecting your agent</a>.</li>
-<li>Set the environment variables, using the key from step 3.</li>
+<li>Set the environment variables, using the key from step 2.</li>
 </ol>
 </li>
 </ol>
-<blockquote>
 <p><strong>Tip:</strong> Treat the key like a password. Don&rsquo;t commit it to a repo or paste it into Slack.</p>
-</blockquote>
 <hr>
 <h2 id="2-contribute">2. Contribute</h2>
 <ol>
