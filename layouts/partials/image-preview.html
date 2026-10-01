@@ -22,6 +22,19 @@ limitations under the License.
   #content a.glightbox { display: inline-block; max-width: 100%; }
   #content a.glightbox:hover { background: none; }
   #content a.glightbox img { cursor: zoom-in; }
+  .glightbox-container .gbtn { min-width: 44px; min-height: 44px; }
+  .glightbox-container .gclose {
+    top: max(10px, env(safe-area-inset-top));
+    right: max(10px, env(safe-area-inset-right));
+  }
+  @media (max-width: 768px) {
+    .glightbox-container .gprev, .glightbox-container .gnext {
+      top: auto;
+      bottom: max(12px, env(safe-area-inset-bottom));
+    }
+    .glightbox-container .gprev { left: max(12px, env(safe-area-inset-left)); }
+    .glightbox-container .gnext { right: max(12px, env(safe-area-inset-right)); }
+  }
 </style>
 <script>
   document.addEventListener('DOMContentLoaded', function() {
