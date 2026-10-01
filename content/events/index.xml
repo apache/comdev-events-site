@@ -183,12 +183,11 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
-      <description>A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
+      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
 1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in.
 Use your ASF LDAP (committer) username and password on the ASF OAuth page:
 Once you log in, the landing page (Fleet) will look like the one below:
-Create a key.
-Go to My Keys in the top menu and click + Create key. The secret is shown only once, when you create the key.</description>
+2. Create a key. Go to My Keys in the top menu and click + Create key.</description>
     </item>
     
     <item>
