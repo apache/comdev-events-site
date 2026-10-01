@@ -117,10 +117,11 @@
     
 	<style>
 #content > h1.title { display: none; }
-#content .image { max-width: 600px; width: 100%; }
 </style>
 <div style="display:flex; align-items:center; gap:1rem; flex-wrap:wrap; margin-bottom:1rem;">
-  <div style="width:200px; flex:none;"><img src="/events/2026/community-over-code/asf-rai/rai-logo-apache.png" alt="Apache Responsible AI Initiative" class="image"></div>
+  <div style="width:200px; flex:none;">
+<img src="/events/2026/community-over-code/asf-rai/rai-logo-apache.png" alt="Apache Responsible AI Initiative"
+     style="max-width:100%; max-height:80vh; width:auto; height:auto;"></div>
   <h1 style="margin:0;">Apache RAI Hackathon: LLMAO Quick Start</h1>
 </div>
 <p>A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to <strong>LLMAO</strong> (<a href="https://github.com/apache/tooling-llmao">apache/tooling-llmao</a>).</p>
@@ -130,24 +131,36 @@
 <li>
 <p>Go to <a href="https://llm.apache.org/fleet">https://llm.apache.org/fleet</a> and log in.</p>
 <p>Use your ASF LDAP (committer) username and password on the ASF OAuth page:</p>
+
+   <img src="/events/2026/community-over-code/asf-rai/asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org"
+        style="max-width:100%; max-height:80vh; width:auto; height:auto;">
+<p>Once you log in, the landing page (Fleet) will look like the one below:</p>
+
+   <img src="/events/2026/community-over-code/asf-rai/llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models"
+        style="max-width:100%; max-height:80vh; width:auto; height:auto;">
+</li>
+<li>
+<p>Create a key.</p>
+<p>Go to <strong>My Keys</strong> in the top menu and click <strong>+ Create key</strong>. The secret is shown only once, when you create the key.</p>
+
+   <img src="/events/2026/community-over-code/asf-rai/llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button"
+        style="max-width:100%; max-height:80vh; width:auto; height:auto;">
+<p>Once the key is created, you&rsquo;ll see the confirmation below. Click <strong>Copy</strong> right away, because the secret will not be shown again.</p>
+
+   <img src="/events/2026/community-over-code/asf-rai/llmao-key-created.png" alt="Personal API key created confirmation with the Copy button"
+        style="max-width:100%; max-height:80vh; width:auto; height:auto;">
+</li>
+<li>
+<p>Copy the key and keep it somewhere safe. You will need it in step 4.2.</p>
+</li>
+<li>
+<p>For agents:</p>
+<ol>
+<li>Follow the instructions in <a href="https://github.com/apache/tooling-llmao#connecting-your-agent">Connecting your agent</a>.</li>
+<li>Set the environment variables, using the key from step 3.</li>
+</ol>
 </li>
 </ol>
-  <div style="max-width:400px;"> <img src="/events/2026/community-over-code/asf-rai/asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" class="image">
-</div>
-<p>Once you log in, the landing page (Fleet) will look like the one below:</p>
-  <div style="max-width:400px;"> <img src="/events/2026/community-over-code/asf-rai/llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models" class="image">
-</div>
-2. Create a key.
-<p>Go to <strong>My Keys</strong> in the top menu and click <strong>+ Create key</strong>. The secret is shown only once, when you create the key.</p>
-  <div style="max-width:400px;">  <img src="/events/2026/community-over-code/asf-rai/llmao-my-keys.png" alt="LLMAO My Keys page with the Create key button" class="image">
-</div>
-   Once the key is created, you'll see the confirmation below. Click **Copy** right away, because the secret will not be shown again.
-  <div style="max-width:400px;"> <img src="/events/2026/community-over-code/asf-rai/llmao-key-created.png" alt="Personal API key created confirmation with the Copy button" class="image">
-</div>
-3. Copy the key and keep it somewhere safe. You will need it in step 4.2.
-4. For agents:
-   1. Follow the instructions in [Connecting your agent](https://github.com/apache/tooling-llmao#connecting-your-agent).
-   2. Set the environment variables, using the key from step 3.
 <p><strong>Tip:</strong> Treat the key like a password. Don&rsquo;t commit it to a repo or paste it into Slack.</p>
 <hr>
 <h2 id="2-contribute">2. Contribute</h2>
