@@ -52,6 +52,8 @@ To generate the static website, execute `hugo` to generate the website under tar
 During development, it may be useful to run an incremental build. For this to work, execute `hugo server -D` to
 continuously (re)generate and serve the website on `localhost:1313`.
 
+Store shared images in `static/images/` and reference them as `/images/...` in page content. Hugo copies the root `static/` directory to the site root; a directory named `static` beneath `source/` remains under that content path. After building, check that each image URL corresponds to a file under `target/content/`.
+
 # How-To add a Community Over Code event promotion to your project site
 
 All PMCs are asked to help promote Community Over Code and other major Apache
