@@ -26,6 +26,9 @@
 
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <link href="/style/screen.css" rel="stylesheet" type="text/css">
+  {{- if .HasShortcode "image" }}
+    {{- partial "image-preview.html" . }}
+  {{- end }}
   <link rel="icon" type="image/svg+xml" href="/images/apache-oak-leaf.svg">
 </head>
 

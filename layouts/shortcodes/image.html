@@ -21,8 +21,11 @@ limitations under the License.
 {{- end -}}
 {{- with .Page.Resources.Get $src -}}
 {{/* Keep responsive defaults with the image so stale site CSS cannot cause overflow. */}}
+<a href="{{ .RelPermalink }}" class="glightbox" data-type="image" data-alt="{{ $.Get "alt" }}"
+   aria-label="Enlarge image: {{ $.Get "alt" }}" aria-haspopup="dialog">
 <img src="{{ .RelPermalink }}" alt="{{ $.Get "alt" }}"
      style="{{ $style | safeCSS }}">
+</a>
 {{- else -}}
   {{- errorf "Image %q not found in page bundle %q" $src .Page.File.Path -}}
 {{- end -}}
