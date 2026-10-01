@@ -1,5 +1,5 @@
 {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-{{ $segments := split $url "/" }}
+{{ $segments := split (trim $url "/") "/" }}
 <span class="breadcrumbs">
     <a href="/">Home</a>
     {{ $href := "" }}
@@ -11,6 +11,9 @@
                 {{ $label = (humanize $element | replaceRE "\\.[hH]tml$" "") }}
             {{ else }}
                 {{ $label = (replaceRE "\\.[hH]tml$" "" $element) }}
+            {{ end }}
+            {{ if and (eq $index (sub (len $segments) 1)) $.Params.linktitle }}
+                {{ $label = $.LinkTitle }}
             {{ end }}
             {{ if ne (lower $label) "index" }}
                 &nbsp; <a href='{{ $href }}'>{{ $label }}</a>
