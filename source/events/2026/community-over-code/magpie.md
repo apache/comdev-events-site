@@ -1,5 +1,5 @@
 ---
-title: "Apache Airflow — Hackathon at Community over Code Glasgow 2026"
+title: "Apache Magpie — Hackathon at Community over Code Glasgow 2026"
 ---
 
 <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
