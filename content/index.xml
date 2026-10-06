@@ -80,18 +80,6 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Gi
     </item>
     
     <item>
-      <title>Apache Airflow — Hackathon at Community over Code Glasgow 2026</title>
-      <link>https://events.apache.org/events/2026/community-over-code/magpie.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://events.apache.org/events/2026/community-over-code/magpie.html</guid>
-      <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache Magpie — Hackathon Coordinator Jarek Potiuk — potiuk@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Getting people on board of using Magpie for their projects - especially to help them with onboarding and triaging and managing security issues, but other skill usage is also welcome. Resources Contribution guide Dev mailing list thread about the hackathon magpie channel on ASF Slack Who&amp;rsquo;s Planning to Attend See above.</description>
-    </item>
-    
-    <item>
       <title>Apache Arrow — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/arrow.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -227,6 +215,18 @@ We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite pr
     </item>
     
     <item>
+      <title>Apache Magpie — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/magpie.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/magpie.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Magpie — Hackathon Coordinator Jarek Potiuk — potiuk@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
+Getting people on board of using Magpie for their projects - especially to help them with onboarding and triaging and managing security issues, but other skill usage is also welcome. Resources Contribution guide Dev mailing list thread about the hackathon magpie channel on ASF Slack Who&amp;rsquo;s Planning to Attend See above.</description>
+    </item>
+    
+    <item>
       <title>Apache Mahout — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/mahout.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -310,6 +310,18 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Do
     </item>
     
     <item>
+      <title>Apache Superset — Hackathon at Community over Code Glasgow 2026</title>
+      <link>https://events.apache.org/events/2026/community-over-code/superset.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/superset.html</guid>
+      <description>Community over Code 2026 — Glasgow, UK, October 11–14
+Register now | Event website | Hackathon overview
+Apache Superset — Hackathon Coordinator Evan Rusackas — evan@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on approachable, well-scoped tasks that don&amp;rsquo;t require deep familiarity with the codebase to get started on:
+Small bug fixes — GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo;, plus other small, self-contained bugs from the open issues list Linting rules — tightening up our oxlint/ruff configuration and fixing the violations that surface once a rule graduates from warning to error Closing stale issues — triaging old issues to confirm whether they&amp;rsquo;re still reproducible, need more info, or can be closed Reviewing open pull requests — Superset has a large PR backlog; giving PRs a careful read, testing them locally, and leaving useful feedback is just as valuable as writing new code DRY / tidy-up fixes — finding duplicated logic, dead code, or inconsistent patterns across the codebase and cleaning them up Building new extensions — Superset has a growing extensions framework for building new capabilities without forking core; the quick start guide is a good jumping-off point We are moving fast, so by the time of the hackathon some of the issues we might point at today may be already solved, so we will have a curated list of issues for the hackathon participants close to the date.</description>
+    </item>
+    
+    <item>
       <title>Apache Tomcat — Hackathon at Community over Code Glasgow 2026</title>
       <link>https://events.apache.org/events/2026/community-over-code/tomcat.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -353,6 +365,20 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Gi
       <description>This playbook is focused at ApacheCon or Roadshow volunteers who are actively involved in planning and running Apache events. Please be sure to bring your questions to the planners@ mailing list!
 What to do before, during, and after an Apache event This is a set of recommended actions that an event organizer may do before, during, and after ApacheCon.
 Many of the recommendations in here can, of course, be applied to any Apache event or Roadshow, including third-party events, or project events run by PMCs.</description>
+    </item>
+    
+    <item>
+      <title>Apache RAI Hackathon: LLMAO Quick Start</title>
+      <link>https://events.apache.org/events/2026/community-over-code/asf-rai.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://events.apache.org/events/2026/community-over-code/asf-rai.html</guid>
+      <description>Apache RAI Hackathon: LLMAO Quick Start A short guide for joining the Apache Responsible AI (RAI) hackathon and contributing to LLMAO (apache/tooling-llmao).
+1. Connect to llm.apache.org Go to https://llm.apache.org/fleet and log in.
+Use your ASF LDAP (committer) username and password on the ASF OAuth page:
+Once you log in, the landing page (Fleet) will look like the one below:
+Create a key.
+Go to My Keys in the top menu and click + Create key.</description>
     </item>
     
     <item>

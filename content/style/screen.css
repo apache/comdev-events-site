@@ -62,7 +62,6 @@ a img { border: none; }
 
 h1,h2,h3,h4,h5,h6 {
   color: #193240;
-  text-transform:capitalize;
   border-left: solid #EEE 1px;
 }
 
