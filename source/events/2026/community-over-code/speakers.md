@@ -67,7 +67,7 @@ Each session room includes a screen, projector, and microphones. All speakers mu
 
 ## Slides
 
-**Template.** We have an optional slide template you're welcome to use for your session: [Slide template](https://docs.google.com/presentation/d/1RXpWvdxx7qUJntvVm8K21L3eboFBzKO4xv24tKq7lQM/edit?usp=sharing). Use of the template is not required, but you're welcome to make a copy for your convenience.
+**Templates.** We have optional slide templates you're welcome to use for [Google Slides](https://docs.google.com/presentation/d/1RXpWvdxx7qUJntvVm8K21L3eboFBzKO4xv24tKq7lQM/edit?usp=sharing) and [reveal.js](https://codeberg.org/raboof/community-over-code-glasgow-template) ([sample](https://raboof.codeberg.page/community-over-code-glasgow-template/)). Use of the template is not required, but you're welcome to make a copy for your convenience.
 
 **Slide reviews and dress rehearsals.** We offer optional slide reviews and dress rehearsals for anyone who wants them, whether you're a first-time speaker or a veteran who wants a second pair of eyes. If you'd like feedback on your slides, want a practice run with a friendly audience, or just want to talk through your plan, request a session in #speaker-help on the ASF Slack.
 
