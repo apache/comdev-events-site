@@ -14,14 +14,31 @@ title: "Apache SIS — Hackathon at Community over Code Glasgow 2026"
 
 ### What We're Working On
 
-We're focusing on:
+The focus will depend on the interest of the participants.
+One Apache SIS characteristic is its strong commitment in
+[OGC/ISO international standards](https://sis.apache.org/standards.html).
+Therefore, contributing to Apache SIS is a way to become more familiar with these standards.
+Some proposed tasks are:
 
-* **Good first issues** — small, well-scoped tasks suitable for new
-  contributors
-* **Documentation improvements** — help us improve our getting-started
-  guides and API docs
-* **Bug fixes** — a curated set of bugs that are approachable with
-  mentoring support
+* **Improvement of the developer guide** —
+  not necessarily with new material (while it would be helpful), it can also be reorganization.
+  The [developer guide](https://sis.apache.org/book/en/developer-guide.html) is written directly
+  in HTML for better semantic.
+* **Replacement of JAXB** —
+  the JAXB dependency was introduced at a time when it was bundled in the JDK.
+  But now, it became an external dependency imposed to all Apache SIS users
+  for XML formats that tend to be replaced by newer JSON formats.
+  Furthermore, Apache SIS internal mechanic evolved to a point where
+  it could continue to support the same XML formats without JAXB.
+  Removing the JAXB dependency (after replacement by internal mechanic)
+  would not only reduce the size and the number of dependencies of Apache SIS,
+  but also prepare the ground for JSON formats.
+* **JSON encoding for Coordinate Reference Systems (CRS)** —
+  this standard is under development in the Open Geospatial Consortium (OGC)
+  and a draft is [available online](https://docs.ogc.org/DRAFTS/26-009.html).
+  We plan to continue the development of this international standard on OGC GitHub repository
+  together with the development of a Prof Of Concept implementation with Apache SIS.
+
 
 ### Resources
 
