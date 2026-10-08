@@ -33,7 +33,7 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Clyde | [Responsible AI (RaI)](#responsible-ai-rai) |
 | Dee | *available — open a PR!* |
 | Don | *available — open a PR!* |
-| Spey | *available — open a PR!* |
+| Spey | [Apache Lucene/Solr](#apache-lucene-solr) |
 | Tweed | [Apache Groovy and Grails](#apache-groovy-and-apache-grails) |
 
 ### Tuesday, 13 October — 5:50–6:30 PM
@@ -70,6 +70,13 @@ An open discussion about responsible and ethical use of AI in open source projec
 Come talk about everything Groovy and Grails.
 The session is aimed at anyone in the broader Groovy or Grails communities.
 Chat about what you are doing and what you'd like to see in future versions.
+
+### Apache Lucene Solr
+
+> **Monday, 12 October · 5:50–6:30 PM · Spey Room**
+
+Come talk about the present and future of Apache Lucene and Apache Solr.
+One aspect we want to cover is current-day usage of both, collecting case studies and real-world stories to be shared on the public websites.
 
 ### Foss SUITE
 
