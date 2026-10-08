@@ -1,4 +1,4 @@
----
+Iii---
 title: "Apache RAI Hackathon: LLMAO Quick Start"
 linkTitle: "ASF RAI"
 ---
@@ -24,10 +24,10 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
 
    {{< image src="asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" style="max-width:min(100%,1200px); max-height:80vh;" >}}
 
-   Once you log in, the landing page (Fleet) will look like the one below:
 
-   {{< image src="llmao-fleet-landing.png" alt="LLMAO Fleet landing page showing available models" style="max-width:min(100%,1200px); max-height:80vh;" >}}
-
+   Once you log in, the landing page will show an option to "Create a Key"
+  
+ 
 2. Create a key.
 
    Go to **My Keys** in the top menu and click **+ Create key**. The secret is shown only once, when you create the key.
