@@ -18,7 +18,7 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
 
 ## 1. Connect to llm.apache.org
 
-1. Go to [https://llm.apache.org/fleet](https://llm.apache.org) and log in.
+1. Go to [https://llm.apache.org](https://llm.apache.org) and log in.
 
    Use your ASF LDAP (committer) username and password on the ASF OAuth page:
 
@@ -59,7 +59,7 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
 
 | Resource | Link |
 |---|---|
-| LLM Fleet (log in, create key) | https://llm.apache.org/fleet |
+| LLM Fleet (log in, create key) | https://llm.apache.org |
 | Agent setup guide | https://github.com/apache/tooling-llmao#connecting-your-agent |
 | Issues | https://github.com/apache/tooling-llmao/issues |
 | Slack channel | [#llm-a-o](https://the-asf.slack.com/archives/C0BAJ4D7V4Y) |
