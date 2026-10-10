@@ -127,26 +127,573 @@
 <h3 id="what-were-working-on">What We&rsquo;re Working On</h3>
 <p>We&rsquo;re focusing on:</p>
 <ul>
-<li><strong>Good first issues</strong> — small, well-scoped tasks suitable for new
-contributors: <a href="https://github.com/apache/fineract/issues?q=label%3A%22good+first+issue%22">GitHub issues labeled &ldquo;good first issue&rdquo;</a></li>
-<li><strong>Documentation improvements</strong> — help us improve our getting-started
-guides and API docs</li>
-<li><strong>Bug fixes</strong> — a curated set of bugs that are approachable with
-mentoring support</li>
+<li><strong>Curated Hackaton stories</strong>: Find a task in the <a href="https://issues.apache.org/jira/issues/?jql=project%20%3D%20FINERACT%20AND%20resolution%20%3D%20Unresolved%20and%20labels%20%3D%20%22coc-2026-hackaton%22%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC">Community Over Code 2026 hackathon stories</a>. The filter lists unresolved Fineract issues with label <code>coc-2026-hackaton</code>, ordered by priority and most recent update. Note your story&rsquo;s key, such as <code>FINERACT-12345</code>, and coordinate your choice with the organiser.</li>
+<li><strong>Code maintainability / readability</strong>: We have a significant number of compilation warnings due to various reasons. I believe at least half of these warnings could be easily fixed. As we work on resolving these warnings, the codebase could become safer and easier to maintain.</li>
+<li><strong>All the rest of the stories that are considered beginner friendly</strong>: <a href="https://issues.apache.org/jira/browse/FINERACT-2489?filter=-1&amp;jql=project%20%3D%20%22Apache%20Fineract%22%20and%20labels%20IN%20(beginner-friendly%2C%20beginner%2C%20begineer%2C%20beginners%2C%20Beginner)%20%20AND%20resolution%20%3D%20Unresolved%20order%20by%20created%20DESC">https://issues.apache.org/jira/browse/FINERACT-2489?filter=-1&amp;jql=project%20%3D%20%22Apache%20Fineract%22%20and%20labels%20IN%20(beginner-friendly%2C%20beginner%2C%20begineer%2C%20beginners%2C%20Beginner)%20%20AND%20resolution%20%3D%20Unresolved%20order%20by%20created%20DESC</a></li>
+<li><strong>Bug tickets (advanced)</strong>: <a href="https://issues.apache.org/jira/browse/FINERACT-2492?filter=-1&amp;jql=project%20%3D%20%22Apache%20Fineract%22%20%20AND%20type%20%3D%20Bug%20%20%20AND%20resolution%20%3D%20Unresolved%20order%20by%20created%20DESC">https://issues.apache.org/jira/browse/FINERACT-2492?filter=-1&amp;jql=project%20%3D%20%22Apache%20Fineract%22%20%20AND%20type%20%3D%20Bug%20%20%20AND%20resolution%20%3D%20Unresolved%20order%20by%20created%20DESC</a></li>
 </ul>
-<h3 id="resources">Resources</h3>
-<ul>
-<li><a href="https://fineract.apache.org/docs/contributor/">Contribution guide</a></li>
-<li><a href="https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh">Dev mailing list thread about the hackathon</a></li>
-<li><a href="https://github.com/apache/fineract/issues">GitHub issues</a></li>
-</ul>
-<h3 id="getting-started-before-the-event">Getting Started Before the Event</h3>
-<p>To make the most of hackathon time, we recommend:</p>
+<h3 id="apache-fineract-hackathon-participant-setup-guide">Apache Fineract hackathon: participant setup guide</h3>
+<p><strong>Community Over Code 2026 · Glasgow</strong><br>
+Prepared 10 October 2026</p>
+<p>Follow these steps before the hackathon. By the end, you will have a local Fineract API, a persistent PostgreSQL database, your own development branch, and a way to debug and test changes.</p>
+<p>The recommended setup runs <strong>PostgreSQL in Docker, Fineract from source on your laptop, and the Mifos web app in Docker</strong>. This makes the Java code easy to edit, rebuild and debug, while the web app provides a banking interface. The included Postman collection creates one client and demo loan accounts to work with.</p>
+<table>
+<thead>
+<tr>
+<th>Service</th>
+<th>Local address</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>PostgreSQL</td>
+<td><code>localhost:5432</code></td>
+</tr>
+<tr>
+<td>Fineract backend, SSL disabled</td>
+<td><code>http://localhost:8080</code></td>
+</tr>
+<tr>
+<td>Mifos web app</td>
+<td><code>http://localhost:4200</code></td>
+</tr>
+</tbody>
+</table>
+<p>Stop any existing services using these ports before starting. The separate Progressive Loan workshop stack uses all three ports, so stop it first if it is running.</p>
+<p>Allow a preparation session before the event: the first clone, dependency downloads, code generation and IDE import can take considerably longer than later starts. Finish the readiness checklist at the end before arriving.</p>
+<h4 id="1-install-the-prerequisites">1. Install the prerequisites</h4>
+<table>
+<thead>
+<tr>
+<th>Tool</th>
+<th>What you need</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Git</td>
+<td>Install from <a href="https://git-scm.com/downloads">Git</a>, or your system package manager.</td>
+</tr>
+<tr>
+<td>GnuPG</td>
+<td>Install the <a href="https://gnupg.org/download/">GPG command-line tools</a>. All contribution commits must have a GPG signature; configure signing in step 11 before your first commit.</td>
+</tr>
+<tr>
+<td>Java</td>
+<td><strong>JDK 25</strong>, including <code>javac</code>. <a href="https://www.azul.com/downloads/?version=java-25-lts&amp;package=jdk">Azul Zulu</a> or <a href="https://adoptium.net/temurin/releases/?version=25">Eclipse Temurin</a> are options. Choose the package for your CPU.</td>
+</tr>
+<tr>
+<td>Docker</td>
+<td>Docker Desktop on macOS/Windows, or Docker Engine with Compose on Linux. Start it before continuing. See <a href="https://docs.docker.com/get-started/get-docker/">Docker installation</a>.</td>
+</tr>
+<tr>
+<td>IDE</td>
+<td>IntelliJ IDEA or Eclipse with Java 25 support. The terminal steps work without an IDE.</td>
+</tr>
+<tr>
+<td>API client</td>
+<td><code>curl</code> for the initial checks, and <a href="https://www.postman.com/downloads/">Postman</a> for the bundled demo collection.</td>
+</tr>
+<tr>
+<td>Laptop</td>
+<td><strong>32 GB RAM recommended</strong> for comfortable source development. A 16 GB machine may need fewer build workers and fewer other applications running. Reserve at least 15 GB of free disk space as a practical starting allowance.</td>
+</tr>
+</tbody>
+</table>
+<p>These memory and disk figures are workshop recommendations. The pinned build gives its Gradle process a maximum heap of 12 GB, and compilation starts additional worker processes. Small laptops should pair with another participant or use an organiser-provided API instance. See the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/gradle.properties">build settings</a>.</p>
+<p><strong>Windows:</strong> use WSL2 with a Linux distribution, install Git and JDK 25 <strong>inside WSL</strong>, and enable Docker Desktop integration for that distribution. Keep the checkout in the WSL Linux filesystem, for example <code>~/hackathon</code>, and run the commands below in the WSL terminal. For IDE work, use an IDE connected to that WSL environment. See <a href="https://learn.microsoft.com/en-us/windows/wsl/install">Microsoft&rsquo;s WSL installation guide</a> and <a href="https://docs.docker.com/desktop/features/wsl/">Docker&rsquo;s WSL setup</a>.</p>
+<p>The commands below use Bash-compatible syntax: macOS Terminal, a Linux terminal, or WSL. Do not paste them directly into PowerShell.</p>
+<p>Verify the installation:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git --version
+</span></span><span style="display:flex;"><span>java -version
+</span></span><span style="display:flex;"><span>javac -version
+</span></span><span style="display:flex;"><span>docker version
+</span></span><span style="display:flex;"><span>docker compose version
+</span></span><span style="display:flex;"><span>curl --version
+</span></span><span style="display:flex;"><span>gpg --version
+</span></span></code></pre></div><p>Both Java commands must report <strong>25</strong>. <code>docker version</code> must show a working server as well as a client. Use Compose v2 or newer, invoked as <code>docker compose</code>.</p>
+<p>On macOS, if Java 25 is installed but another JDK is selected:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#a2f">export</span> <span style="color:#b8860b">JAVA_HOME</span><span style="color:#666">=</span><span style="color:#a2f;font-weight:bold">$(</span>/usr/libexec/java_home -v 25<span style="color:#a2f;font-weight:bold">)</span>
+</span></span><span style="display:flex;"><span><span style="color:#a2f">export</span> <span style="color:#b8860b">PATH</span><span style="color:#666">=</span><span style="color:#b44">&#34;</span><span style="color:#b8860b">$JAVA_HOME</span><span style="color:#b44">/bin:</span><span style="color:#b8860b">$PATH</span><span style="color:#b44">&#34;</span>
+</span></span></code></pre></div><p>On Linux/WSL, set <code>JAVA_HOME</code> to your installed JDK 25 directory and put its <code>bin</code> directory first in <code>PATH</code>. Set the IDE&rsquo;s Gradle JVM to the same JDK. Do not install a separate Gradle: Fineract includes its wrapper.</p>
+<p>The Java requirement comes from the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/build.gradle">pinned Fineract toolchain</a>. Guides written for older releases may use another Java version.</p>
+<h4 id="2-get-the-workshop-setup-files">2. Get the workshop setup files</h4>
+<p>Download and extract the organiser&rsquo;s <code>Fineract-Hackathon-Setup.zip</code>. Open a terminal in its <code>fineract-hackathon</code> directory. Keep these files together:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>fineract-hackathon/
+</span></span><span style="display:flex;"><span>  README.md
+</span></span><span style="display:flex;"><span>  compose.yaml
+</span></span><span style="display:flex;"><span>  fineract-local.env
+</span></span><span style="display:flex;"><span>  Progressive-Loans.postman_collection.json
+</span></span><span style="display:flex;"><span>  init-db/
+</span></span><span style="display:flex;"><span>    01-create-databases.sql
+</span></span></code></pre></div><p>In the next step, you will create a <code>fineract/</code> source checkout inside this directory. The setup files stay outside that checkout so they do not accidentally become part of your contribution.</p>
+<h4 id="3-check-out-fineract-and-create-your-branch">3. Check out Fineract and create your branch</h4>
+<p>From <code>fineract-hackathon/</code>:</p>
+<p>Find a task in the <a href="https://issues.apache.org/jira/issues/?jql=project%20%3D%20FINERACT%20AND%20resolution%20%3D%20Unresolved%20and%20labels%20%3D%20%22coc-2026-hackaton%22%20ORDER%20BY%20priority%20DESC%2C%20updated%20DESC">Community Over Code 2026 hackathon stories</a>. The filter lists unresolved Fineract issues with label <code>coc-2026-hackaton</code>, ordered by priority and most recent update. Note your story&rsquo;s key, such as <code>FINERACT-12345</code>, and coordinate your choice with the organiser.</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git clone --branch develop https://github.com/apache/fineract.git fineract
+</span></span><span style="display:flex;"><span><span style="color:#a2f">cd</span> fineract
+</span></span><span style="display:flex;"><span>git switch -c hackathon/my-first-change 4a61d7c218413eca8310d30b098722047e891bb7
+</span></span><span style="display:flex;"><span>git rev-parse HEAD
+</span></span><span style="display:flex;"><span>./gradlew --version
+</span></span></code></pre></div><p>Choose your own branch name, for example <code>hackathon/adam-client-validation</code>. The revision printed by Git should be <code>4a61d7c218413eca8310d30b098722047e891bb7</code>. Gradle should report version <strong>9.7.1</strong> and Java <strong>25</strong>.</p>
+<p>This guide pins a development revision so participants share a starting point. Use another revision only if the organiser announces one, and recheck its requirements.</p>
+<p><strong>Use a normal clone with history and tags.</strong> Fineract derives its build version from Git tags. A shallow clone can fail with <code>couldn't find matching tag in shallow git repository</code>. If you already used a shallow clone, repair it with:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git fetch --unshallow --tags
+</span></span></code></pre></div><p>If you have a full clone with missing tags, use <code>git fetch --tags</code> instead.</p>
+<h4 id="4-start-postgresql">4. Start PostgreSQL</h4>
+<p>Stay in the <code>fineract/</code> source directory:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml up -d --wait --wait-timeout <span style="color:#666">180</span> db
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml ps
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml <span style="color:#a2f">exec</span> db psql -U root -d postgres -c <span style="color:#b44">&#39;\l&#39;</span>
+</span></span></code></pre></div><p>The database container should be healthy. The database list should contain:</p>
+<table>
+<thead>
+<tr>
+<th>Database</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>fineract_tenants</code></td>
+<td>Tenant registry and connection information</td>
+</tr>
+<tr>
+<td><code>fineract_default</code></td>
+<td>Business data for tenant <code>default</code></td>
+</tr>
+</tbody>
+</table>
+<p>The bundled initialization script creates both databases on the first start. Fineract creates and migrates their tables when the backend starts. <strong>You do not need to run <code>createPGDB</code> for this setup.</strong></p>
+<p>PostgreSQL is exposed at <code>localhost:5432</code>, with database user <code>root</code> and password <code>postgres</code>. This is a disposable local development account. Port 5432 is the standard PostgreSQL port; stop a conflicting local database before starting this sandbox.</p>
+<p>The database lives in a named Docker volume and survives a normal shutdown. The bundle uses PostgreSQL 18.3, matching the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/config/docker/compose/postgresql.yml">pinned upstream PostgreSQL configuration</a>. The volume mount follows the PostgreSQL 18 image&rsquo;s <a href="https://hub.docker.com/_/postgres">storage layout</a>.</p>
+<h4 id="5-load-the-local-settings-and-start-fineract">5. Load the local settings and start Fineract</h4>
+<p><strong>Recommendation</strong></p>
+<p>Add the <code>fineract-local.env</code> content as environment variables for the IDE of your choosing (like IntelliJ Idea) and build and execute from there: <code>:fineract-provider:devRun</code></p>
+<p><strong>Alternative way:</strong>
+In the same terminal, still inside <code>fineract/</code>:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#a2f">set</span> -a
+</span></span><span style="display:flex;"><span>. ../fineract-local.env
+</span></span><span style="display:flex;"><span><span style="color:#a2f">set</span> +a
+</span></span><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-provider:devRun
+</span></span></code></pre></div><p>Leave this terminal running. Open a <strong>second terminal</strong> for API requests and other commands.</p>
+<p>The environment file sets the backend to HTTP on port 8080 with SSL disabled, and points both Fineract database connections at the Docker database on port 5432. Load it again whenever you open a new terminal to start Fineract. Loading it in one terminal does not configure an already-open IDE.</p>
+<p>The first start builds the application, generates required sources and runs database migrations. Wait for the log to say:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>APACHE FINERACT IS READY
+</span></span></code></pre></div><p>Confirm readiness with the health request in step 6. The terminal stays occupied while the server runs; you do not need to wait for a final <code>BUILD SUCCESSFUL</code> message.</p>
+<p><code>devRun</code> speeds up development by disabling some quality checks. Run the checks in step 10 before sharing a change. This behavior is defined in the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/fineract-provider/build.gradle">provider build</a>.</p>
+<h4 id="6-verify-the-api">6. Verify the API</h4>
+<p>In your second terminal:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl --fail --show-error <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  http://localhost:8080/fineract-provider/actuator/health
+</span></span></code></pre></div><p>Expect a JSON response containing <code>&quot;status&quot;:&quot;UP&quot;</code>. Additional health fields can vary.</p>
+<p>Now verify authentication and the default tenant:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl --fail --show-error <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --user mifos:password <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --header <span style="color:#b44">&#39;Fineract-Platform-TenantId: default&#39;</span> <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  http://localhost:8080/fineract-provider/api/v1/offices
+</span></span></code></pre></div><p>Expect a JSON list containing the default head office. Try the clients endpoint as well:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>curl --fail --show-error <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --user mifos:password <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --header <span style="color:#b44">&#39;Fineract-Platform-TenantId: default&#39;</span> <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  http://localhost:8080/fineract-provider/api/v1/clients
+</span></span></code></pre></div><p>For a fresh database, expect <code>totalFilteredRecords</code> to be zero and <code>pageItems</code> to be empty. These credentials and the API check follow Fineract&rsquo;s <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/README.md">quick start</a>.</p>
+<table>
+<thead>
+<tr>
+<th>Setting</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>API base URL</td>
+<td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
+</tr>
+<tr>
+<td>Tenant header</td>
+<td><code>Fineract-Platform-TenantId: default</code></td>
+</tr>
+<tr>
+<td>API username / password</td>
+<td><code>mifos</code> / <code>password</code></td>
+</tr>
+<tr>
+<td>PostgreSQL host / port</td>
+<td><code>localhost</code> / <code>5432</code></td>
+</tr>
+<tr>
+<td>PostgreSQL username / password</td>
+<td><code>root</code> / <code>postgres</code></td>
+</tr>
+</tbody>
+</table>
+<p>The local backend uses <strong>HTTP on port 8080, with SSL disabled</strong> by <code>FINERACT_SERVER_SSL_ENABLED=false</code>. The demo credentials and configuration are for local development only. The supplied settings bind the backend and published database port to your own machine.</p>
+<h4 id="7-start-the-web-app-and-create-demo-data">7. Start the web app and create demo data</h4>
+<h5 id="start-the-mifos-web-app">Start the Mifos web app</h5>
+<p>Once the backend is ready, run this in your second terminal:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker run -d --name fineract-hackathon-web-app <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --network bridge -p 4200:80 <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -e <span style="color:#b8860b">FINERACT_API_URL</span><span style="color:#666">=</span>http://localhost:8080 <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -e <span style="color:#b8860b">FINERACT_API_URLS</span><span style="color:#666">=</span>http://localhost:8080 <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -e <span style="color:#b8860b">FINERACT_PLATFORM_TENANT_IDENTIFIER</span><span style="color:#666">=</span>default <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -e <span style="color:#b8860b">MIFOS_SESSION_IDLE_TIMEOUT</span><span style="color:#666">=</span><span style="color:#666">300000000</span> <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  openmf/web-app:dev
+</span></span></code></pre></div><p>Open <a href="http://localhost:4200">the web app</a>. Use tenant <code>default</code>, username <code>mifos</code> and password <code>password</code>. The configured idle timeout is <code>300000000</code> milliseconds. The API URL points to your laptop&rsquo;s backend because requests are sent by your browser; Docker&rsquo;s bridge network does not require changing this URL to a container hostname. The upstream <a href="https://github.com/openMF/web-app/blob/dev/docker-compose.yml">web app configuration</a> documents these environment variables.</p>
+<p>Only one web app can use port 4200. If you already have the Progressive Loan workshop stack running, stop that stack before starting this setup. Its PostgreSQL and backend also occupy ports 5432 and 8080. If you previously created <code>fineract-hackathon-web-app</code>, use <code>docker start fineract-hackathon-web-app</code> to resume it, or remove that container before running the command again.</p>
+<h5 id="explore-the-api">Explore the API</h5>
+<p>Open <a href="http://localhost:8080/fineract-provider/swagger-ui/index.html">local Swagger UI</a> in a browser. The root URL is not a banking home page.</p>
+<p>For Postman, configure a request with:</p>
 <ol>
-<li>Clone the repo and get the build working: <a href="https://github.com/apache/fineract#building">setup instructions</a></li>
-<li>Browse the issue list and pick one that interests you</li>
-<li>Introduce yourself on the dev@ list</li>
+<li>URL: <code>http://localhost:8080/fineract-provider/api/v1/offices</code>.</li>
+<li>Authorization: <strong>Basic Auth</strong>, username <code>mifos</code>, password <code>password</code>.</li>
+<li>Header: <code>Fineract-Platform-TenantId</code>, value <code>default</code>.</li>
+<li>For JSON writes, add <code>Content-Type: application/json</code>. HTTP requests do not need certificate settings.</li>
 </ol>
+<h5 id="run-the-progressive-loans-collection">Run the Progressive Loans collection</h5>
+<p>Import the bundled <a href="Progressive-Loans.postman_collection.json">Progressive-Loans.postman_collection.json</a> into Postman. Use the copy supplied with this hackathon setup; it contains the HTTP URL and client fields for the pinned revision.</p>
+<p>Set these collection variables locally:</p>
+<table>
+<thead>
+<tr>
+<th>Variable</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>baseUrl</code></td>
+<td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
+</tr>
+<tr>
+<td><code>tenantId</code></td>
+<td><code>default</code></td>
+</tr>
+<tr>
+<td><code>username</code></td>
+<td><code>mifos</code></td>
+</tr>
+<tr>
+<td><code>password</code></td>
+<td><code>password</code></td>
+</tr>
+<tr>
+<td><code>officeId</code></td>
+<td><code>1</code></td>
+</tr>
+<tr>
+<td><code>clientId</code></td>
+<td>Leave blank; the collection captures the created client ID.</td>
+</tr>
+<tr>
+<td><code>sandboxConfirmed</code></td>
+<td>The text <code>true</code>, for this disposable local sandbox.</td>
+</tr>
+</tbody>
+</table>
+<p>Run folder <strong>00 Preflight and synthetic borrower</strong>, then <strong>01 Main demo: NEXT_INSTALLMENT</strong>, in the listed order. The collection creates one active client, a progressive loan product and a loan account, then approves, disburses and makes repayments on that loan. It saves the returned IDs in collection variables.</p>
+<p>Folders <strong>02–04</strong> create additional loan products and accounts for the same client, including alternative repayment allocation policies and an interest-bearing example. You can run the whole collection in order to populate all four examples. Use one iteration in the Collection Runner.</p>
+<p>The dated examples change the tenant&rsquo;s business date. The preflight also prepares the sandbox&rsquo;s business-date and working-day settings so the specified dates work. Run this only against the disposable local database. After running, refresh the web app&rsquo;s Clients page and open the created borrower to inspect their loan accounts. Repeat the clients GET request from step 6 to inspect the same records through the API.</p>
+<p>Run the setup once per fresh sandbox. A repeat run creates more data; clear <code>runId</code> and captured client/product/loan IDs before deliberately creating another set. If you want an empty sandbox again, use the reset instructions in step 12.</p>
+<h4 id="8-open-the-code-in-your-ide">8. Open the code in your IDE</h4>
+<p>For IntelliJ IDEA:</p>
+<ol>
+<li>Open the <strong><code>fineract/</code> repository root</strong>, containing <code>settings.gradle</code>.</li>
+<li>Import it as a Gradle project using the <strong>Gradle wrapper</strong>.</li>
+<li>Select <strong>JDK 25</strong> as both the project SDK and Gradle JVM.</li>
+<li>Wait for Gradle import and indexing to finish.</li>
+<li>Prefer building and running through Gradle so generated sources and persistence enhancement are included.</li>
+</ol>
+<p>For Eclipse, follow the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/CONTRIBUTING.md">upstream IDE instructions</a>. Use Java 25 there too.</p>
+<p>A useful starting map:</p>
+<table>
+<thead>
+<tr>
+<th>Location in the checkout</th>
+<th>What to look for</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>fineract-provider</code></td>
+<td>Application entry point, many API resources, configuration and migrations</td>
+</tr>
+<tr>
+<td><code>fineract-core</code></td>
+<td>Shared infrastructure and common domain components</td>
+</tr>
+<tr>
+<td><code>fineract-loan</code>, <code>fineract-savings</code></td>
+<td>Loan and savings functionality</td>
+</tr>
+<tr>
+<td><code>fineract-progressive-loan</code></td>
+<td>Progressive loan calculations and servicing</td>
+</tr>
+<tr>
+<td><code>fineract-security</code></td>
+<td>Authentication and access controls</td>
+</tr>
+<tr>
+<td><code>integration-tests</code></td>
+<td>Tests that call a running API</td>
+</tr>
+<tr>
+<td><code>fineract-e2e-tests-runner</code></td>
+<td>Cucumber scenarios</td>
+</tr>
+<tr>
+<td><code>fineract-doc</code></td>
+<td>Documentation sources</td>
+</tr>
+</tbody>
+</table>
+<p>Search for the API resource involved in your task, then follow its service calls into the relevant module. This module map reflects the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/settings.gradle">pinned project structure</a>.</p>
+<h4 id="9-attach-a-debugger">9. Attach a debugger</h4>
+<p>The simplest repeatable approach uses the same Gradle launch you have already verified.</p>
+<ol>
+<li>
+<p>Stop the running backend with <strong>Ctrl+C</strong>.</p>
+</li>
+<li>
+<p>In the terminal with the local environment loaded, run:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-provider:devRun --debug-jvm
+</span></span></code></pre></div></li>
+<li>
+<p>The JVM waits for a debugger on port <strong>5005</strong> before it starts the application.</p>
+</li>
+<li>
+<p>In IntelliJ, add a <strong>Remote JVM Debug</strong> configuration using host <code>localhost</code>, port <code>5005</code>, and the <code>fineract-provider</code> module. In Eclipse, use <strong>Remote Java Application</strong> with the same host and port.</p>
+</li>
+<li>
+<p>Start the IDE&rsquo;s debug connection and wait for the API to become ready.</p>
+</li>
+<li>
+<p>Put a breakpoint in <code>ClientsApiResource.retrieveAll</code>, then call the clients GET endpoint. Execution should stop at your breakpoint. Resume execution to let the request finish.</p>
+</li>
+</ol>
+<p>You can also launch <code>org.apache.fineract.ServerApplication</code> directly from the IDE. Configure its working directory as <code>fineract/</code>, use the provider module&rsquo;s runtime classpath, and load all values from <code>../fineract-local.env</code> into the run configuration&rsquo;s environment variables. Copy the non-comment <code>KEY=value</code> lines if your IDE does not support environment files. Generate and compile the project through Gradle first.</p>
+<p>After changing code, restart <code>devRun</code> and repeat your API request. Some IDEs can replace simple method bodies while debugging; restart for structural, dependency, configuration or migration changes. Run only one backend on port 8080 at a time.</p>
+<h4 id="10-run-a-test-and-check-your-change">10. Run a test and check your change</h4>
+<p>From <code>fineract/</code>, run a small existing test as a first exercise:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-progressive-loan:test <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  --tests <span style="color:#b44">&#39;*ProgressiveLoanRescheduleRequestDataValidatorTest&#39;</span>
+</span></span></code></pre></div><p>It contains two unit tests and does not need the HTTP server. The first test run still needs to compile test sources. Afterwards, look at:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>fineract-progressive-loan/build/reports/tests/test/index.html
+</span></span></code></pre></div><p>For your own change, run the relevant module and test class. Replace the module and class in the example above.</p>
+<p>For the broader unit-test set, the upstream contribution guide uses:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> <span style="color:#a2f">test</span> <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -x :integration-tests:test <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -x :twofactor-tests:test <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -x :oauth2-tests:test
+</span></span></code></pre></div><p><strong>Integration tests need a running Fineract server.</strong> With the backend running and step 6 passing, this is an example of selecting one integration test class:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span><span style="color:#b8860b">BACKEND_PROTOCOL</span><span style="color:#666">=</span>http <span style="color:#b8860b">BACKEND_PORT</span><span style="color:#666">=</span><span style="color:#666">8080</span> ./gradlew :integration-tests:waitForFineract
+</span></span><span style="display:flex;"><span><span style="color:#b8860b">BACKEND_PROTOCOL</span><span style="color:#666">=</span>http <span style="color:#b8860b">BACKEND_PORT</span><span style="color:#666">=</span><span style="color:#666">8080</span> <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  ./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :integration-tests:test --tests <span style="color:#b44">&#39;*ClientLoanIntegrationTest&#39;</span>
+</span></span></code></pre></div><p>These tests create and change business data. Use a disposable sandbox. Tests involving additional services or other authentication modes need the matching upstream test stack; the small database bundle here does not provide every integration-test dependency. See the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/fineract-doc/src/docs/en/chapters/testing/integration.adoc">integration testing chapter</a>.</p>
+<p>Before sharing a change, format and check the affected module, for example:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew :fineract-progressive-loan:spotlessApply
+</span></span><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-progressive-loan:check
+</span></span><span style="display:flex;"><span>git diff --check
+</span></span><span style="display:flex;"><span>git diff
+</span></span></code></pre></div><p>Replace <code>fineract-progressive-loan</code> with the module you changed. Review formatting changes before committing. Add a test that demonstrates the bug or new behavior, and follow the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/CONTRIBUTING.md">contribution guidelines</a>.</p>
+<h4 id="11-save-your-work-and-prepare-a-contribution">11. Save your work and prepare a contribution</h4>
+<h5 id="configure-gpg-signing-before-your-first-commit">Configure GPG signing before your first commit</h5>
+<p>Fineract requires <strong>all commits to be signed with a GPG key</strong>, as described in the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/CONTRIBUTING.md#signing-your-commits">contribution guidelines</a>. Configure this in the environment where you run Git; for the Windows route in this guide, that is WSL.</p>
+<p>Check for an existing signing key:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>gpg --list-secret-keys --keyid-format<span style="color:#666">=</span>long
+</span></span></code></pre></div><p>If you do not have one, create a key with <code>gpg --full-generate-key</code>. Use a supported signing algorithm, such as RSA with 4096 bits, provide your name and a verified GitHub email address, and choose a passphrase. Then list the keys again and copy your signing key&rsquo;s long ID. See <a href="https://docs.github.com/en/authentication/managing-commit-signature-verification/generating-a-new-gpg-key">GitHub&rsquo;s key-generation instructions</a>.</p>
+<p>Export its <strong>public</strong> key, replacing <code>YOUR_GPG_KEY_ID</code>:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>gpg --armor --export YOUR_GPG_KEY_ID
+</span></span></code></pre></div><p>Add the public key block under GitHub <strong>Settings → SSH and GPG keys → New GPG key</strong>. Keep the private key on your own machine. See <a href="https://docs.github.com/en/authentication/managing-commit-signature-verification/adding-a-gpg-key-to-your-github-account">adding a GPG key to GitHub</a>.</p>
+<p>From <code>fineract/</code>, configure Git for this checkout. Replace the name, email and key ID with your own; the email must match a key identity and be verified on GitHub:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git config user.name <span style="color:#b44">&#34;Your Name&#34;</span>
+</span></span><span style="display:flex;"><span>git config user.email <span style="color:#b44">&#34;your-verified-email@example.com&#34;</span>
+</span></span><span style="display:flex;"><span>git config gpg.format openpgp
+</span></span><span style="display:flex;"><span>git config gpg.program gpg
+</span></span><span style="display:flex;"><span>git config user.signingkey YOUR_GPG_KEY_ID
+</span></span><span style="display:flex;"><span>git config commit.gpgsign <span style="color:#a2f">true</span>
+</span></span><span style="display:flex;"><span><span style="color:#a2f">export</span> <span style="color:#b8860b">GPG_TTY</span><span style="color:#666">=</span><span style="color:#a2f;font-weight:bold">$(</span>tty<span style="color:#a2f;font-weight:bold">)</span>
+</span></span></code></pre></div><p>Run the <code>GPG_TTY</code> export in each new interactive terminal used to commit, or add it to your shell&rsquo;s startup file. The settings above enable signing by default for this repository. IDE commits need access to the same GPG key and passphrase prompt. See <a href="https://docs.github.com/en/authentication/managing-commit-signature-verification/telling-git-about-your-signing-key">GitHub&rsquo;s signing configuration</a>.</p>
+<h5 id="name-the-pr-and-commit-subjects">Name the PR and commit subjects</h5>
+<p>Use this convention for both your <strong>PR title</strong> and each <strong>commit message&rsquo;s first line</strong>:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>FINERACT-XXXX: short description
+</span></span></code></pre></div><p>Replace <code>XXXX</code> with the actual number of your Jira story. Keep the colon and a space, and start the description with a capitalised, present-tense imperative verb such as <strong>Fix</strong>, <strong>Add</strong>, <strong>Improve</strong> or <strong>Update</strong>. For example, using an illustrative issue number:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-text" data-lang="text"><span style="display:flex;"><span>FINERACT-12345: Fix progressive loan repayment validation
+</span></span></code></pre></div><p>For a single-commit PR, use the same first line as the PR title. For multiple commits, keep the issue prefix on each subject and describe the specific change in that commit. Put longer explanations and the reason for the change in the commit body and PR description. This follows the project&rsquo;s <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/CONTRIBUTING.md#pull-requests">PR title and commit-message guidance</a>, with a consistent issue prefix throughout this hackathon.</p>
+<h5 id="commit-and-open-the-pr">Commit and open the PR</h5>
+<p>You can work locally before creating a GitHub fork. When ready to share:</p>
+<ol>
+<li>
+<p>Fork <a href="https://github.com/apache/fineract">apache/fineract</a> into your own GitHub account.</p>
+</li>
+<li>
+<p>In <code>fineract/</code>, add your fork as another remote. Replace the username below with your own:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git remote add fork https://github.com/YOUR_GITHUB_USERNAME/fineract.git
+</span></span><span style="display:flex;"><span>git status
+</span></span></code></pre></div></li>
+<li>
+<p>Stage only the files belonging to your change and create a signed commit. Replace the example paths, issue number and description:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>git add path/to/changed-file.java path/to/changed-test.java
+</span></span><span style="display:flex;"><span>git commit -S -m <span style="color:#b44">&#34;FINERACT-12345: Fix progressive loan repayment validation&#34;</span>
+</span></span><span style="display:flex;"><span>git log -1 --show-signature
+</span></span><span style="display:flex;"><span>./scripts/verify-signed-commits.sh --strict
+</span></span><span style="display:flex;"><span>git push -u fork HEAD
+</span></span></code></pre></div></li>
+<li>
+<p>Confirm a good GPG signature locally, then check that <strong>every commit shows Verified on GitHub</strong>. Uppercase <code>-S</code> creates the cryptographic signature. The repository&rsquo;s verification script detects unsigned commits; also inspect the signature itself.</p>
+</li>
+<li>
+<p>Open a pull request from your branch to Apache Fineract&rsquo;s <code>develop</code> branch. Use <code>FINERACT-XXXX: short description</code> as the PR title. Describe the problem, the resulting behavior and the tests you ran, and link the Jira story.</p>
+</li>
+</ol>
+<p>The example paths above are placeholders. Pushing to your fork requires GitHub authentication; use your credential manager or follow <a href="https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/about-authentication-to-github">GitHub&rsquo;s authentication instructions</a>. Keep local credentials, generated build outputs and IDE settings out of your contribution. If <code>develop</code> has moved since the workshop revision, follow the organiser&rsquo;s or reviewer&rsquo;s guidance on updating your branch. Never discard uncommitted work to fix a merge conflict.</p>
+<h4 id="12-stop-restart-or-reset-the-sandbox">12. Stop, restart or reset the sandbox</h4>
+<p>Stop the native backend with <strong>Ctrl+C</strong>. Gradle may print <code>Build cancelled while executing task</code> when you stop a running server; this is expected.</p>
+<p>From <code>fineract/</code>, stop Docker services while keeping the database:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml down
+</span></span><span style="display:flex;"><span>docker stop fineract-hackathon-web-app
+</span></span></code></pre></div><p>To resume:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml up -d --wait db
+</span></span><span style="display:flex;"><span>docker start fineract-hackathon-web-app
+</span></span><span style="display:flex;"><span><span style="color:#a2f">set</span> -a
+</span></span><span style="display:flex;"><span>. ../fineract-local.env
+</span></span><span style="display:flex;"><span><span style="color:#a2f">set</span> +a
+</span></span><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-provider:devRun
+</span></span></code></pre></div><p>For a completely fresh sandbox, <strong>the following command deletes this workshop&rsquo;s database volume and all its business data</strong>. Stop the backend first and use it only when you want to discard that data:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml down --volumes
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml up -d --wait db
+</span></span></code></pre></div><p>Then start Fineract again. Your source checkout is preserved. Refresh the web app and clear Postman&rsquo;s captured IDs before running the demo collection against the fresh database. Initialization scripts and initial database passwords are applied only to an empty volume; editing the environment file does not rewrite tenant connection details already stored in an existing database.</p>
+<h4 id="optional-run-the-backend-in-docker-too">Optional: run the backend in Docker too</h4>
+<p>Use this when you want to run an image built from your checkout. Stop the native server first.</p>
+<p><strong>Reset the disposable database using step 12 before switching between native and container execution.</strong> Tenant connection addresses are stored in the database: the native setup records <code>localhost:5432</code>, while the container setup needs <code>db:5432</code>. Export anything you need first. To preserve an existing database instead, its stored tenant connection settings must be updated explicitly.</p>
+<p>From <code>fineract/</code>:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-provider:jibDockerBuild <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -Djib.to.image<span style="color:#666">=</span>fineract:coc2026-hackathon -x <span style="color:#a2f">test</span> -x cucumber
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml --profile app up -d fineract
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml logs -f fineract
+</span></span></code></pre></div><p>The supplied Compose file changes the database address to <code>db:5432</code> inside Docker. Repeat the health and authenticated API checks from step 6. The source build still needs JDK 25, and skipped tests must be run separately.</p>
+<p>Press Ctrl+C to stop following container logs; the container keeps running. Stop it with the Compose shutdown command in step 12.</p>
+<p>After each code change, rebuild the image and recreate the backend:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>./gradlew --max-workers<span style="color:#666">=</span><span style="color:#666">2</span> :fineract-provider:jibDockerBuild <span style="color:#b62;font-weight:bold">\
+</span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  -Djib.to.image<span style="color:#666">=</span>fineract:coc2026-hackathon -x <span style="color:#a2f">test</span> -x cucumber
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml --profile app up -d --force-recreate fineract
+</span></span></code></pre></div><h4 id="troubleshooting">Troubleshooting</h4>
+<table>
+<thead>
+<tr>
+<th>Symptom</th>
+<th>What to check</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Docker cannot connect to its daemon</td>
+<td>Start Docker Desktop/Engine. On Windows, check WSL integration.</td>
+</tr>
+<tr>
+<td>Java/toolchain error or unsupported class version</td>
+<td>Verify <code>java</code>, <code>javac</code>, <code>JAVA_HOME</code> and the IDE&rsquo;s Gradle JVM all select JDK 25.</td>
+</tr>
+<tr>
+<td><code>couldn't find matching tag in shallow git repository</code></td>
+<td>Fetch full history and tags as shown in step 3.</td>
+</tr>
+<tr>
+<td><code>Permission denied: ./gradlew</code></td>
+<td>Run <code>chmod +x gradlew</code>. On Windows, keep the checkout inside WSL.</td>
+</tr>
+<tr>
+<td>Port 5432 or 8080 already in use</td>
+<td>Stop the conflicting local service, or change the port and all corresponding connection settings consistently.</td>
+</tr>
+<tr>
+<td>Port 4200 in use or web app container name exists</td>
+<td>Stop the conflicting web app. Use <code>docker start fineract-hackathon-web-app</code> for an existing container; remove it before recreating it with changed environment variables.</td>
+</tr>
+<tr>
+<td>Database connection refused or password failure</td>
+<td>Check <code>docker compose -f ../compose.yaml ps</code>, then reload <code>fineract-local.env</code> in the server terminal. Both tenant registry and tenant database settings matter.</td>
+</tr>
+<tr>
+<td>Missing databases</td>
+<td>Run the database-list command in step 4. If initialization failed, inspect database logs; resetting the disposable volume reruns initialization.</td>
+</tr>
+<tr>
+<td>API connection refused</td>
+<td>Check whether the source build has finished and Fineract has started. The first build can be slow.</td>
+</tr>
+<tr>
+<td>HTTPS/TLS error</td>
+<td>Use <code>http://localhost:8080</code>, and reload the environment file so <code>FINERACT_SERVER_SSL_ENABLED=false</code> reaches the backend.</td>
+</tr>
+<tr>
+<td>API returns 401 or 403</td>
+<td>Check Basic Auth, credentials and the <code>Fineract-Platform-TenantId: default</code> header.</td>
+</tr>
+<tr>
+<td>Web app cannot reach the API</td>
+<td>Confirm the backend health endpoint works over HTTP on port 8080, and that the web app&rsquo;s API URL points to <code>http://localhost:8080</code>.</td>
+</tr>
+<tr>
+<td>Postman setup fails</td>
+<td>Use the bundled collection, set all variables including <code>sandboxConfirmed=true</code>, run folders in order and inspect the first failed response before continuing.</td>
+</tr>
+<tr>
+<td><code>gpg failed to sign the data</code></td>
+<td>Check the signing key ID, run <code>export GPG_TTY=$(tty)</code> in the committing terminal, and make sure GPG can prompt for the key&rsquo;s passphrase.</td>
+</tr>
+<tr>
+<td>GitHub does not show Verified</td>
+<td>Check the public GPG key is added to GitHub and the commit email matches a key identity and verified account email.</td>
+</tr>
+<tr>
+<td>Root URL returns 404</td>
+<td>Use the complete health/API/Swagger URL. Fineract&rsquo;s root is not a web app.</td>
+</tr>
+<tr>
+<td>Build runs out of memory or a daemon disappears</td>
+<td>Close heavy applications, reduce to <code>--max-workers=1</code>, and check memory limits. Do not blindly lower the Gradle heap: upstream notes that OpenAPI generation alone needs about 7 GB.</td>
+</tr>
+<tr>
+<td>IDE cannot resolve generated classes</td>
+<td>Complete the Gradle build/import first, then refresh the Gradle project.</td>
+</tr>
+<tr>
+<td>Debug launch seems stuck</td>
+<td><code>--debug-jvm</code> waits for the IDE to attach on port 5005.</td>
+</tr>
+<tr>
+<td>Client request hangs while debugging</td>
+<td>Resume execution at the breakpoint.</td>
+</tr>
+<tr>
+<td>Changes do not appear in API responses</td>
+<td>Restart the native backend, or rebuild and recreate the Docker image. Check that your client targets port 8080.</td>
+</tr>
+</tbody>
+</table>
+<p>Database logs and an interactive SQL session:</p>
+<div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml logs --tail<span style="color:#666">=</span><span style="color:#666">100</span> db
+</span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml <span style="color:#a2f">exec</span> db psql -U root -d fineract_default
+</span></span></code></pre></div><p>Exit <code>psql</code> with <code>\q</code>. Investigate business behavior through the API; direct SQL writes can bypass Fineract&rsquo;s validation and accounting rules.</p>
+<p>If you need help, bring your operating system, <code>java -version</code>, Git revision, command used, and the first meaningful exception with its <code>Caused by</code> chain. The <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/.github/scripts/gradle-memory-budget.sh">upstream memory-budget notes</a> explain the code-generation heap requirement.</p>
+<h4 id="ready-for-the-hackathon">Ready for the hackathon</h4>
+<ul>
+<li><input disabled="" type="checkbox"> Java and <code>javac</code> report version 25; Docker is running.</li>
+<li><input disabled="" type="checkbox"> The checkout is on the agreed revision and your own branch.</li>
+<li><input disabled="" type="checkbox"> PostgreSQL is healthy and both databases exist.</li>
+<li><input disabled="" type="checkbox"> The health endpoint reports <code>UP</code>.</li>
+<li><input disabled="" type="checkbox"> An authenticated API request works with tenant <code>default</code>.</li>
+<li><input disabled="" type="checkbox"> The web app at port 4200 can log in to this backend.</li>
+<li><input disabled="" type="checkbox"> The Postman collection has created its client and demo loan accounts.</li>
+<li><input disabled="" type="checkbox"> Your IDE imports the project and can attach to the debugger.</li>
+<li><input disabled="" type="checkbox"> The selected unit test in step 10 passes.</li>
+<li><input disabled="" type="checkbox"> You know how to stop and restart the backend without deleting data.</li>
+<li><input disabled="" type="checkbox"> GPG signing is configured and you know the <code>FINERACT-XXXX: short description</code> naming convention.</li>
+<li><input disabled="" type="checkbox"> You have selected a story from the hackathon Jira filter.</li>
+</ul>
+<p>Bring your charger and keep the downloaded dependencies available. Avoid clearing Gradle caches immediately before the event. The first build must complete while you still have a reliable internet connection.</p>
 <hr>
 <ul>
 <li>Back to the <a href="hackathon.html">Hackathon overview</a></li>
