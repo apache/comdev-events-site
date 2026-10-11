@@ -41,11 +41,11 @@ When you claim a slot, please also add a short description of your BoF in the [D
 | Room | Topic |
 | --- | --- |
 | Tay | [Content Extraction in the VLM Era](#content-extraction-in-the-vlm-era) |
-| Clyde | [Foss SUITE](#foss-suite) |
+| Clyde |*available — open a PR!* |
 | Dee | *available — open a PR!* |
 | Don | *available — open a PR!* |
 | Spey | *available — open a PR!* |
-| Tweed | *available — open a PR!* |
+| Tweed | [Foss SUITE](#foss-suite) |
 
 ---
 
@@ -80,7 +80,7 @@ One aspect we want to cover is current-day usage of both, collecting case studie
 
 ### Foss SUITE
 
-> **Tuesday, 13 October · 5:50–6:30 PM · Clyde Room**
+> **Tuesday, 13 October · 5:50–6:30 PM · Tweed Room**
 >
 > Hosted by **Jan Lehnardt** and **Gregor Bransky**
 
