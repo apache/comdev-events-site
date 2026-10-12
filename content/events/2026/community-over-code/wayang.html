@@ -139,10 +139,12 @@
 <li><strong>Limit Operator</strong> — create a new <code>LimitOperator</code> that returns the first N elements of a dataset. A great entry point for newcomers: conceptually simple, and a good way to learn Wayang&rsquo;s operator structure end-to-end. This requires adding a new Wayang operator and at least one execution operator on a platform the participant is more confident with.</li>
 <li><strong>Data Lake Pipeline</strong> — build a pipeline that computes total revenue per nation, joining data across two storage layers: <code>lineitem</code> and <code>orders</code> read as Parquet files (via Wayang&rsquo;s <code>readParquet</code> API), joined with <code>customer</code> and <code>nation</code> read as Postgres tables, then aggregated (filter by date, join across all four, compute revenue, group by nation, sort, limit to top N). Register at least two platforms (e.g. Java/Spark + Postgres) so the optimizer has a real choice — see <code>Query3Hybrid.scala</code> in <code>wayang-benchmark</code> as a starting template. Good for someone who wants to play with Wayang&rsquo;s API and build a concrete, TPC-H-adjacent task showing cross-source, cross-platform execution.</li>
 <li><strong>Documentation improvements</strong> — walk through the getting-started guide as a newcomer and fix the points where you get stuck.</li>
+<li><strong>Any github issue</strong> - start working on any minor or major issue you like.</li>
 </ul>
 <h3 id="resources">Resources</h3>
 <ul>
 <li><a href="https://wayang.apache.org/docs/guide/getting-started">Getting started</a></li>
+<li><a href="https://github.com/apache/wayang/tree/main/hackathon-CoC2026">Docker environment for easy startup</a></li>
 <li><a href="https://wayang.apache.org/docs/guide/adding-operators">Adding operators in Wayang</a></li>
 <li><a href="https://wayang.apache.org/docs/guide/developing-in-wayang">Developing in Wayang</a></li>
 <li><a href="https://wayang.apache.org/docs/api/javadocs/1.1.1/">Wayang Javadocs</a></li>
