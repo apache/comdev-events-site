@@ -39,31 +39,19 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 </style>
 
 > **The event is happening now! (October 11–14, 2026)** The pre-event
-> outreach tasks below are closed. During the conference, the best way to
-> help is to **share what you're seeing** — see the
-> [Social Media Promotion page](glasgow-social-media.html). Post-event
-> follow-up tasks (Oct 16–27) are still open and listed at the bottom.
+> outreach tasks are complete. The **post-event follow-up tasks** below
+> (Oct 16–27) still need volunteer owners. During the conference, the
+> best way to help is to **share what you're seeing** — see the
+> [Social Media Promotion page](glasgow-social-media.html).
 
 **Conference dates: October 11-14, 2026 - Glasgow, Scotland**
 
-This page tracks volunteer outreach tasks for Community over Code Glasgow -
-speaker support, local community engagement, attendee experience, and
-post-event follow-up. Each task needs a volunteer owner.
+This page tracks the **post-event** volunteer follow-up tasks for
+Community over Code Glasgow — speaker thank-yous, feedback, testimonials,
+and a lessons-learned writeup. Each task needs a volunteer owner.
 
 **NOTE:** Speaker outreach tasks require coordination through Brian Proffitt
 and the track chairs. Speaker contact information is not publicly shared.
-
-**Outreach resources:**
-- [Glasgow Schools & Universities](glasgow-schools-outreach.html)
-- [Glasgow Diversity & Inclusion Groups](glasgow-diversity-groups.html)
-- [Glasgow Tech Meetups](glasgow-tech-meetups.html)
-
-**Glasgow guides:**
-- [Vegetarian & Vegan Restaurants](glasgow-food-veggie.html)
-- [Bars & Pubs](glasgow-bars.html)
-- [Tourist Highlights](glasgow-tourist-highlights.html) |
-[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)
-
 
 **Want to help promote the event?** You don't need to be assigned a
 task -- just grab a ready-made post from our
@@ -73,23 +61,12 @@ it wherever you hang out online. Copy, paste, tweak, post!
 Pick a task, click "Volunteer for this task!" to email the planning team,
 and we'll get you set up.
 
-## September 2026
-
-<table class="cal">
-<tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
-<tr><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td><td><span class="day-num">5</span></td><td><span class="day-num">6</span></td></tr>
-<tr><td><span class="day-num">7</span></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="event-day"><span class="day-num">11</span><a class="task-link" href="#meetup-outreach">Send outreach to Glasgow </a></td><td><span class="day-num">12</span></td><td><span class="day-num">13</span></td></tr>
-<tr><td><span class="day-num">14</span></td><td class="event-day"><span class="day-num">15</span><a class="task-link" href="#speaker-outreach-2">Speaker outreach #2</a><a class="task-link" href="#dress-rehearsals">Run dress rehearsals with</a><a class="task-link" href="#college-outreach">Send outreach to Glasgow </a><a class="task-link" href="#diversity-outreach">Send outreach to Glasgow </a></td><td><span class="day-num">16</span></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td><td><span class="day-num">19</span></td><td><span class="day-num">20</span></td></tr>
-<tr><td><span class="day-num">21</span></td><td class="event-day"><span class="day-num">22</span><a class="task-link" href="#first-timer-blog">Write a "What to expect a</a><a class="task-link" href="#welcome-guide">Create a "First time at C</a><a class="task-link" href="#childcare">Research childcare option</a></td><td><span class="day-num">23</span></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td><td><span class="day-num">26</span></td><td><span class="day-num">27</span></td></tr>
-<tr><td><span class="day-num">28</span></td><td class="event-day"><span class="day-num">29</span><a class="task-link" href="#speaker-outreach-3">Speaker outreach #3</a></td><td><span class="day-num">30</span></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr>
-</table>
-
 ## October 2026
 
 <table class="cal">
 <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td></tr>
-<tr><td><span class="day-num">5</span></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#final-check">Final pre-event check</a></td><td class="event-day"><span class="day-num">7</span></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#event-week">Event week</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
+<tr><td><span class="day-num">5</span></td><td><span class="day-num">6</span></td><td><span class="day-num">7</span></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
 <tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">HAPPENING<br>NOW!</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#speaker-thanks">Send thank-you emails to </a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
 <tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#collect-speaker-slides">Collect slide decks</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
 <tr><td><span class="day-num">26</span></td><td class="followup-day"><span class="day-num">27</span><a class="followup-link" href="#lessons-learned">Write up a lessons-learne</a></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td><td><span class="day-num">31</span></td><td class="empty"></td></tr>
@@ -97,95 +74,7 @@ and we'll get you set up.
 
 <div class="task-list">
 
-## Task Details
-
-### ✅ Pre-event tasks (closed — the event is now underway)
-
-### Speaker Support
-
-*All speaker outreach must be coordinated through Brian Proffitt and the track chairs. Speaker emails are not shared publicly.*
-
-<div class="task-item" id="speaker-outreach-1">
-<h4>Speaker outreach #1 - offer slide review and dress rehearsal help (coordinate via Brian/track chairs)</h4>
-<span class="date">Tuesday, August 04, 2026</span>
-<div class="owner">Owner: Lahari Chowtori - <strong style="color:#2d6a2d;">&#10003; DONE (Jul 31, 2026)</strong></div>
-</div>
-
-<div class="task-item" id="speaker-outreach-2">
-<h4>Speaker outreach #2 - check in on slide progress, schedule dress rehearsals (coordinate via Brian/track chairs)</h4>
-<span class="date">Tuesday, September 15, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Speaker%20outreach%20%232">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="dress-rehearsals">
-<h4>Run dress rehearsals with speakers who want them (coordinate via Brian/track chairs)</h4>
-<span class="date">Tuesday, September 15, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Run%20dress%20rehearsals%20with%20speakers%20who%20want%20them%20%28coordinate%20via%20Brian/track%20chairs%29">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="speaker-outreach-3">
-<h4>Speaker outreach #3 - final slide check, logistics reminders, AV needs (coordinate via Brian/track chairs)</h4>
-<span class="date">Tuesday, September 29, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Speaker%20outreach%20%233">Volunteer for this task!</a></div>
-</div>
-
-### Local Community & Student Outreach
-
-<div class="task-item" id="meetup-outreach">
-<h4>Send outreach to Glasgow tech meetups - see <a href='glasgow-tech-meetups.html'>meetups list</a></h4>
-<span class="date">Friday, September 11, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Send%20outreach%20to%20Glasgow%20tech%20meetups">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="college-outreach">
-<h4>Send outreach to Glasgow universities - see <a href='glasgow-schools-outreach.html'>schools list</a> for contacts</h4>
-<span class="date">Tuesday, September 15, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Send%20outreach%20to%20Glasgow%20universities">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="diversity-outreach">
-<h4>Send outreach to Glasgow diversity-in-tech groups - see <a href='glasgow-diversity-groups.html'>diversity groups list</a></h4>
-<span class="date">Tuesday, September 15, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Send%20outreach%20to%20Glasgow%20diversity-in-tech%20groups">Volunteer for this task!</a></div>
-</div>
-
-### Attendee Experience
-
-<div class="task-item" id="welcome-guide">
-<h4>Create a "First time at Community over Code?" welcome guide</h4>
-<span class="date">Tuesday, September 22, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Create%20a%20%22First%20time%20at%20Community%20over%20Code%3F%22%20welcome%20guide">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="childcare">
-<h4>Research childcare options near the venue for attendees with kids</h4>
-<span class="date">Tuesday, September 22, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Research%20childcare%20options%20near%20the%20venue%20for%20attendees%20with%20kids">Volunteer for this task!</a></div>
-</div>
-
-### Content
-
-<div class="task-item" id="first-timer-blog">
-<h4>Write a "What to expect at Community over Code" blog post for first-timers</h4>
-<span class="date">Tuesday, September 22, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Write%20a%20%22What%20to%20expect%20at%20Community%20over%20Code%22%20blog%20post%20for%20first-timers">Volunteer for this task!</a></div>
-</div>
-
-### Event Week Prep
-
-<div class="task-item" id="final-check">
-<h4>Final pre-event check - all speakers confirmed, slides collected (coordinate via Brian)</h4>
-<span class="date">Tuesday, October 06, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Final%20pre-event%20check">Volunteer for this task!</a></div>
-</div>
-
-<div class="task-item" id="event-week">
-<h4>Event week - all materials ready, comms done</h4>
-<span class="date">Thursday, October 08, 2026</span>
-<div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Event%20week">Volunteer for this task!</a></div>
-</div>
-
-### 📋 Post-Event Follow-Up (still open — volunteers welcome)
+## Post-Event Follow-Up Tasks
 
 *These tasks run after the conference (Oct 16–27). Click "Volunteer for this task!" to sign up.*
 
