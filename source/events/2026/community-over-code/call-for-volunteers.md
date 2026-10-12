@@ -7,70 +7,43 @@ title: Call For Volunteers, Community over Code 2026
 Community over Code is an event run by the community, for the community.
 That's you!
 
-We need your help to make it a success!
+**The event is happening now (October 11–14, 2026)!** Most of the
+pre-event volunteer work is behind us — thank you to everyone who
+pitched in. Here's how you can still help, on-site and after the event.
 
-## Help Promote the Event
+## Help Right Now — Spread the Word
 
-The easiest way to help right now is to **spread the word**. We have
-ready-made social media posts you can copy, paste, and share on whatever
-platform you use:
+If you're at the conference (or following along), the easiest way to
+help is to **post about what's happening**. We have ready-made social
+media posts you can copy, paste, and share — including live,
+happening-now posts for each day:
 
 * **[Social Media Promotion page](glasgow-social-media.html)** - Grab a post and share it! No signup required.
+* **[Submit your photos to photos.apachecon.com](https://photos.apachecon.com)** - Help build the shared event album.
 
 ## Volunteer Task Calendars
 
-We have two calendars listing specific tasks that need an owner. Each
-task has a "Volunteer for this task!" link - just click it to sign up:
+We have two calendars that tracked outreach tasks. The pre-event tasks
+are now closed, but the **post-event follow-up tasks still need owners**
+(thank-yous, recap posts, feedback surveys, collecting slides):
 
-* **[Volunteer Outreach Calendar](volunteer-outreach-calendar.html)** - Speaker support, local outreach, attendee experience, post-event follow-up
-* **[Hackathon Outreach Calendar](hackathon-outreach-calendar.html)** - Hackathon-specific publicity and coordination tasks
+* **[Volunteer Outreach Calendar](volunteer-outreach-calendar.html)** - Post-event follow-up tasks are open at the bottom of the page
+* **[Hackathon Outreach Calendar](hackathon-outreach-calendar.html)** - Hackathon post-event follow-up tasks
 
-## Volunteer Roles
+## On-Site Roles
 
 ### Hackathon Coordination
 
-Help organize and run the hackathon day - connecting projects with
-contributors and making sure everyone has what they need to be productive.
+The hackathon runs all week. Help connect projects with contributors
+and make sure everyone has what they need to be productive.
 
 * [About hackathon coordination](/volunteer/hackathon.html) *(general guide)*
 * **[Glasgow hackathon page](hackathon.html)** *(this year's event)*
-* **[Glasgow hackathon outreach calendar](hackathon-outreach-calendar.html)** *(tasks to claim)*
-
-### University & Educational Outreach
-
-Connect with Glasgow's colleges, universities, and coding bootcamps to
-bring students and educators into the Apache community.
-
-* [About university outreach](/volunteer/university.html) *(general guide)*
-* **[Glasgow schools & universities](glasgow-schools-outreach.html)** *(local contacts and info)*
-
-### Meetup & Community Outreach
-
-Engage with local tech meetups and diversity-in-tech organizations to
-reach new audiences.
-
-* [About meetup outreach](/volunteer/meetup.html) *(general guide)*
-* **[Glasgow tech meetups](glasgow-tech-meetups.html)** *(local groups to contact)*
-* **[Glasgow diversity & inclusion groups](glasgow-diversity-groups.html)** *(local organizations)*
-
-### Speaker Support
-
-Provide coaching and feedback to speakers - abstract reviews, slide
-feedback, and dress rehearsals.
-
-* **[About speaker support](/volunteer/speaker-support.html)**
-
-### Design
-
-Create visual materials for outreach and on-site use - posters, flyers,
-social graphics, signage.
-
-* **[About design volunteering](/volunteer/design.html)**
 
 ### Birds of a Feather (BoF) Sessions
 
 Host or help organize an informal evening discussion on a topic you
-care about. BoFs run Monday and Tuesday, 5:50–6:30 PM.
+care about. BoFs run Monday and Tuesday, 5:50–6:30 PM — open slots remain.
 
 * **[BoF schedule and signup](bof.html)** — See what's planned and claim a slot
 

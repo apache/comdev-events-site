@@ -38,6 +38,12 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 .followup .volunteer-link { color: #2563eb; }
 </style>
 
+> **The event is happening now! (October 11–14, 2026)** The pre-event
+> outreach tasks below are closed. During the conference, the best way to
+> help is to **share what you're seeing** — see the
+> [Social Media Promotion page](glasgow-social-media.html). Post-event
+> follow-up tasks (Oct 16–27) are still open and listed at the bottom.
+
 **Conference dates: October 11-14, 2026 - Glasgow, Scotland**
 
 This page tracks volunteer outreach tasks for Community over Code Glasgow -
@@ -84,7 +90,7 @@ and we'll get you set up.
 <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td><span class="day-num">1</span></td><td><span class="day-num">2</span></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td></tr>
 <tr><td><span class="day-num">5</span></td><td class="event-day"><span class="day-num">6</span><a class="task-link" href="#final-check">Final pre-event check</a></td><td class="event-day"><span class="day-num">7</span></td><td class="event-day"><span class="day-num">8</span><a class="task-link" href="#event-week">Event week</a></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td></tr>
-<tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#speaker-thanks">Send thank-you emails to </a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
+<tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">HAPPENING<br>NOW!</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">COMMUNITY<br>OVER CODE!</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#speaker-thanks">Send thank-you emails to </a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
 <tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#college-followup">Follow up with Glasgow co</a><a class="followup-link" href="#speaker-feedback">Send speaker feedback sur</a><a class="followup-link" href="#collect-speaker-slides">Collect slide decks</a><a class="followup-link" href="#testimonials">+1 more</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
 <tr><td><span class="day-num">26</span></td><td class="followup-day"><span class="day-num">27</span><a class="followup-link" href="#lessons-learned">Write up a lessons-learne</a></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td><td><span class="day-num">31</span></td><td class="empty"></td></tr>
 </table>
@@ -92,6 +98,8 @@ and we'll get you set up.
 <div class="task-list">
 
 ## Task Details
+
+### ✅ Pre-event tasks (closed — the event is now underway)
 
 ### Speaker Support
 
@@ -177,7 +185,9 @@ and we'll get you set up.
 <div class="owner">Owner: <em>unassigned</em> - <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%3A%20Event%20week">Volunteer for this task!</a></div>
 </div>
 
-### Post-Event Follow-Up
+### 📋 Post-Event Follow-Up (still open — volunteers welcome)
+
+*These tasks run after the conference (Oct 16–27). Click "Volunteer for this task!" to sign up.*
 
 <div class="task-item followup" id="speaker-thanks">
 <h4>Send thank-you emails to all speakers (coordinate via Brian/track chairs)</h4>

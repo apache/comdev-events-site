@@ -7,9 +7,11 @@ title: "Community over Code Glasgow 2026  -  Hackathon Outreach Calendar"
 
 <img src="/images/hackathon.jpg" alt="Hackathon at Community over Code" class="pull-right">
 
-**Want to help promote the hackathon?** Grab a ready-made post from
-our **[Social Media Promotion page](glasgow-social-media.html)** and
-share it wherever you hang out online. Copy, paste, tweak, post!
+> **The hackathon is happening now! (October 11–14, 2026)** The
+> pre-event outreach tasks below are closed. If you're on-site, the best
+> way to help is to **share what's happening** — grab a ready-made post
+> from our **[Social Media Promotion page](glasgow-social-media.html)**
+> and post it. The post-event follow-up tasks (Oct 16–23) are still open.
 
 
 
@@ -47,9 +49,10 @@ table.cal td .followup-link:hover { background: #2563eb; color: white; }
 
 **Conference dates: October 11 - 14, 2026  -  Glasgow, Scotland**
 
-This page tracks the outreach tasks leading up to the hackathon, and
-follow-up tasks afterward. Each task needs a volunteer owner. Click
-"Volunteer for this task!" to send an email to the planning team.
+This page tracks hackathon outreach tasks. The pre-event tasks are now
+closed (the event is underway); the post-event follow-up tasks still
+need owners. Click "Volunteer for this task!" to send an email to the
+planning team.
 
 ## September 2026
 
@@ -59,7 +62,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 <tr><td><span class="day-num">7</span></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="event-day"><span class="day-num">11</span><a class="task-link" href="#cross-post-chat">Cross-post hackathon link</a></td><td><span class="day-num">12</span></td><td><span class="day-num">13</span></td></tr>
 <tr><td class="event-day"><span class="day-num">14</span><a class="task-link" href="#logistics">Publish room/logistics de</a></td><td class="event-day"><span class="day-num">15</span><a class="task-link" href="#lightning-talk">Volunteer to give a 5-min</a></td><td class="event-day"><span class="day-num">16</span><a class="task-link" href="#page-review">Review all project pages </a><a class="task-link" href="#proofread-page">Proofread the main hackat</a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td><td><span class="day-num">19</span></td><td><span class="day-num">20</span></td></tr>
 <tr><td><span class="day-num">21</span></td><td class="event-day"><span class="day-num">22</span><a class="task-link" href="#greeter">Volunteer as a "hallway g</a><a class="task-link" href="#pair-program">Offer to pair-program wit</a></td><td class="event-day"><span class="day-num">23</span><a class="task-link" href="#publicity-2">Publicity push #2</a></td><td><span class="day-num">24</span></td><td class="event-day"><span class="day-num">25</span><a class="task-link" href="#schedule">Final logistics</a><a class="task-link" href="#what-to-bring">Create a "What to bring" </a></td><td><span class="day-num">26</span></td><td><span class="day-num">27</span></td></tr>
-<a class="task-link" href="#photo-album">Encourage photo submission</a>
+<tr><td><span class="day-num">28</span></td><td class="event-day"><span class="day-num">29</span><a class="task-link" href="#photo-album">Encourage photo submission</a></td><td><span class="day-num">30</span></td><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="empty"></td></tr>
 </table>
 
 ## October 2026
@@ -68,7 +71,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 <tr><th>Mon</th><th>Tue</th><th>Wed</th><th>Thu</th><th>Fri</th><th>Sat</th><th>Sun</th></tr>
 <tr><td class="empty"></td><td class="empty"></td><td class="empty"></td><td class="event-day"><span class="day-num">1</span><a class="task-link" href="#publicity-3">Final publicity push</a></td><td class="event-day"><span class="day-num">2</span><a class="task-link" href="#materials">All materials ready, cont</a></td><td><span class="day-num">3</span></td><td><span class="day-num">4</span></td></tr>
 <tr><td><span class="day-num">5</span></td><td><span class="day-num">6</span></td><td><span class="day-num">7</span></td><td><span class="day-num">8</span></td><td><span class="day-num">9</span></td><td><span class="day-num">10</span></td><td class="conf-day"><span class="day-num">11</span><span class="conf-label">🎉</span></td></tr>
-<tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">🎉</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">🎉</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">🎉</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#thank-projects">Send thank-you messages t</a><a class="followup-link" href="#collect-slides">Collect presentation slid</a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
+<tr><td class="conf-day"><span class="day-num">12</span><span class="conf-label">🎉 NOW</span></td><td class="conf-day"><span class="day-num">13</span><span class="conf-label">🎉</span></td><td class="conf-day"><span class="day-num">14</span><span class="conf-label">🎉</span></td><td><span class="day-num">15</span></td><td class="followup-day"><span class="day-num">16</span><a class="followup-link" href="#thank-projects">Send thank-you messages t</a><a class="followup-link" href="#collect-slides">Collect presentation slid</a></td><td><span class="day-num">17</span></td><td><span class="day-num">18</span></td></tr>
 <tr><td><span class="day-num">19</span></td><td class="followup-day"><span class="day-num">20</span><a class="followup-link" href="#success-stories">Reach out to projects for</a><a class="followup-link" href="#blog-recap">Draft hackathon recap blo</a></td><td><span class="day-num">21</span></td><td><span class="day-num">22</span></td><td class="followup-day"><span class="day-num">23</span><a class="followup-link" href="#publish-recap">Publish hackathon recap t</a><a class="followup-link" href="#feedback">Send feedback survey to h</a></td><td><span class="day-num">24</span></td><td><span class="day-num">25</span></td></tr>
 <tr><td><span class="day-num">26</span></td><td><span class="day-num">27</span></td><td><span class="day-num">28</span></td><td><span class="day-num">29</span></td><td><span class="day-num">30</span></td><td><span class="day-num">31</span></td><td class="empty"></td></tr>
 </table>
@@ -77,7 +80,7 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 
 ## Task Details
 
-### Pre-Event Tasks
+### ✅ Pre-Event Tasks (closed — the event is now underway)
 
 <div class="task-item" id="cross-post-chat">
 <h3>Cross-post hackathon link in relevant Slack/Discord/Matrix channels</h3>
@@ -160,7 +163,9 @@ follow-up tasks afterward. Each task needs a volunteer owner. Click
 <div class="owner">Owner: <em>unassigned</em>  -  <a class="volunteer-link" href="mailto:planners@apachecon.com?subject=Volunteering%20for%20CoC%20Glasgow%20Hackathon%3A%20All%20materials%20ready%2C%20contributor%20guide%20finalized">Volunteer for this task!</a></div>
 </div>
 
-### Post-Event Follow-Up Tasks
+### 📋 Post-Event Follow-Up Tasks (still open — volunteers welcome)
+
+*These run after the conference (Oct 16–23). Click "Volunteer for this task!" to sign up.*
 
 <div class="task-item followup" id="thank-projects">
 <h3>Send thank-you messages to all participating project communities</h3>

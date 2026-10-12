@@ -4,6 +4,8 @@ title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
 
 <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
+> **The event is on now!** BoFs run tonight (Monday) and tomorrow (Tuesday), 5:50–6:30 PM. Open slots remain — claim one by PR, or just show up to one that interests you.
+
 ## What is a BoF?
 
 A **Birds of a Feather (BoF)** session is an informal, participant-driven gathering where people who share a common interest get together to discuss it. Unlike a talk or a panel, there is no formal presentation - the attendees *are* the content. Someone proposes a topic, shows up with a room, and the conversation goes wherever the group takes it.

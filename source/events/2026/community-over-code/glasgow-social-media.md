@@ -59,9 +59,11 @@ function copyPost(btn) {
 
 # Help Get the Word Out!
 
-You don't need to be a "social media person" to help promote this
-event. Just pick a post below, customize it if you like, and share it
-on whatever platform you use. Every share helps.
+**The event is happening now (Oct 11–14)!** You don't need to be a
+"social media person" to help. If you're here in Glasgow, post about
+what you're seeing — a talk that landed, a hallway conversation, a
+photo of the hackathon room. If you're following from home, amplify
+what the attendees are sharing. Every post helps.
 
 Copy, paste, tweak, post. That's it.
 
@@ -71,29 +73,31 @@ Copy, paste, tweak, post. That's it.
 
 ---
 
-## This Week's Suggested Post
+## Posting from the Event (Oct 11–14)
 
-*Updated weekly - check back for fresh content!*
+*The conference is live! Share what you're seeing. Tag #CommunityOverCode #ASF2026Glasgow and @TheASF.*
 
-<div class="social-post" data-text="Community over Code Glasgow is less than a month away! Oct 11-14,
-the Apache community gathers in Glasgow, Scotland. 25+ projects
-are signed up for the hackathon, keynotes are lined up, and the
-schedule is packed across 20 tracks. Registration is still open
-but time is running out — book your travel now. This is where
-the people behind the projects you depend on come together.
+<div class="social-post" data-text="I'm at Community over Code Glasgow! The Apache community is here
+in Glasgow through Oct 14 — talks across 20 tracks, a hackathon
+room going all week, and the people behind the projects you depend
+on, all in one place. Follow #CommunityOverCode #ASF2026Glasgow for
+highlights. What should I go see next?
 
-https://communityovercode.apache.org/events/glasgow-2026/
-
-#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is less than a month away! Oct 11-14,
-the Apache community gathers in Glasgow, Scotland. 25+ projects
-are signed up for the hackathon, keynotes are lined up, and the
-schedule is packed across 20 tracks. Registration is still open
-but time is running out — book your travel now. This is where
-the people behind the projects you depend on come together.
-
-https://communityovercode.apache.org/events/glasgow-2026/
+#CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>I'm at Community over Code Glasgow! The Apache community is here
+in Glasgow through Oct 14 — talks across 20 tracks, a hackathon
+room going all week, and the people behind the projects you depend
+on, all in one place. Follow #CommunityOverCode #ASF2026Glasgow for
+highlights. What should I go see next?
 
 #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
+
+<div class="social-post" data-text="Live from Community over Code Glasgow: the hackathon room is open
+all week and projects are landing real contributions. If you're here,
+come find your project and dig in. If you're not — this is what you're
+missing. #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Live from Community over Code Glasgow: the hackathon room is open
+all week and projects are landing real contributions. If you're here,
+come find your project and dig in. If you're not — this is what you're
+missing. #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
 
 ---
 
@@ -101,21 +105,19 @@ https://communityovercode.apache.org/events/glasgow-2026/
 
 ### Short form (Twitter/Mastodon/Bluesky)
 
-<div class="social-post" data-text="The schedule for Community over Code Glasgow is live! Oct 11-14.
-20 tracks, a hackathon day, and the people behind the projects you
-depend on. Check it out and register:
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>The schedule for Community over Code Glasgow is live! Oct 11-14.
-20 tracks, a hackathon day, and the people behind the projects you
-depend on. Check it out and register:
+<div class="social-post" data-text="Community over Code Glasgow is happening now, through Oct 14!
+20 tracks, a hackathon all week, and the people behind the projects you
+depend on. Follow along:
+https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is happening now, through Oct 14!
+20 tracks, a hackathon all week, and the people behind the projects you
+depend on. Follow along:
 https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
 
-<div class="social-post" data-text="Meet the people building Apache Kafka, Spark, Airflow, Iceberg, and
-50+ other projects face-to-face. Community over Code Glasgow,
-Oct 11-14. Registration open - book your hotel before the discount
-deadline! https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Meet the people building Apache Kafka, Spark, Airflow, Iceberg, and
-50+ other projects face-to-face. Community over Code Glasgow,
-Oct 11-14. Registration open - book your hotel before the discount
-deadline! https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
+<div class="social-post" data-text="The people building Apache Kafka, Spark, Airflow, Iceberg, and 50+
+other projects are together in Glasgow right now. Community over Code,
+through Oct 14. Follow the highlights: https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>The people building Apache Kafka, Spark, Airflow, Iceberg, and 50+
+other projects are together in Glasgow right now. Community over Code,
+through Oct 14. Follow the highlights: https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
 
 <div class="social-post" data-text="Glasgow in October: open source, good whisky, and the friendliest
 tech community you'll ever meet. Community over Code, Oct 11-14.
@@ -125,12 +127,11 @@ https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #AS
 
 ### Longer form (LinkedIn/blog/newsletter)
 
-<div class="social-post" data-text="Community over Code Glasgow 2026 - Schedule is Live! (Oct 11-14)
+<div class="social-post" data-text="Community over Code Glasgow 2026 is happening now! (through Oct 14)
 
-The Apache Software Foundation's official conference is heading to
-Glasgow, Scotland this October and the full schedule is now
-published. Four days of talks, workshops, and a dedicated hackathon
-day across 20 tracks:
+The Apache Software Foundation's official conference is underway in
+Glasgow, Scotland. Four days of talks, workshops, and a hackathon
+running all week across 20 tracks:
 
 - AI Plumbing
 - Data Infrastructure & Engineering
@@ -145,20 +146,16 @@ This is BY the community, FOR the community. It's where contributors
 meet face-to-face, new collaborations start, and the next generation
 of committers gets onboarded.
 
-Whether you're a seasoned committer or just getting started with open
-source contribution, there's a place for you here.
-
-Registration is open and the venue hotel (Hilton Glasgow) has a
-discounted room block - book soon before the deadline passes.
+Following from afar? Watch #CommunityOverCode and #ASF2026Glasgow for
+talks, takeaways, and photos from the week.
 
 https://communityovercode.apache.org/events/glasgow-2026/
 
-#CommunityOverCode #ASF2026Glasgow #OpenSource #ApacheSoftwareFoundation"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow 2026 - Schedule is Live! (Oct 11-14)
+#CommunityOverCode #ASF2026Glasgow #OpenSource #ApacheSoftwareFoundation"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow 2026 is happening now! (through Oct 14)
 
-The Apache Software Foundation's official conference is heading to
-Glasgow, Scotland this October and the full schedule is now
-published. Four days of talks, workshops, and a dedicated hackathon
-day across 20 tracks:
+The Apache Software Foundation's official conference is underway in
+Glasgow, Scotland. Four days of talks, workshops, and a hackathon
+running all week across 20 tracks:
 
 - AI Plumbing
 - Data Infrastructure &amp; Engineering
@@ -173,11 +170,8 @@ This is BY the community, FOR the community. It's where contributors
 meet face-to-face, new collaborations start, and the next generation
 of committers gets onboarded.
 
-Whether you're a seasoned committer or just getting started with open
-source contribution, there's a place for you here.
-
-Registration is open and the venue hotel (Hilton Glasgow) has a
-discounted room block - book soon before the deadline passes.
+Following from afar? Watch #CommunityOverCode and #ASF2026Glasgow for
+talks, takeaways, and photos from the week.
 
 https://communityovercode.apache.org/events/glasgow-2026/
 
@@ -285,57 +279,25 @@ https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #AS
 
 ---
 
-## Date-Specific Posts
+## Day-by-Day Posts (during the event)
 
-Use these as the dates approach:
+Use these as each day unfolds:
 
-### 60 days out (Aug 12)
+### Monday (Oct 12)
 
-<div class="social-post" data-text="60 days until Community over Code Glasgow! If you haven't registered yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>60 days until Community over Code Glasgow! If you haven't registered yet, now's the time. 20 tracks of Apache goodness, Oct 11-14.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
+<div class="social-post" data-text="Day 2 of Community over Code Glasgow! Keynotes, 20 tracks of talks, and the hackathon in full swing. The energy in the room is exactly why we do this in person. #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Day 2 of Community over Code Glasgow! Keynotes, 20 tracks of talks, and the hackathon in full swing. The energy in the room is exactly why we do this in person. #CommunityOverCode #ASF2026Glasgow</div>
 
-### ~1 month out (Sep 9)
+### Tuesday (Oct 13)
 
-<div class="social-post" data-text="Community over Code Glasgow is less than 5 weeks away! The final schedule is live, 25+ projects are hackathon-ready, and Glasgow is waiting. If you haven't booked travel yet, now's the time — hotel block rates won't last forever. Oct 11-14.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Community over Code Glasgow is less than 5 weeks away! The final schedule is live, 25+ projects are hackathon-ready, and Glasgow is waiting. If you haven't booked travel yet, now's the time — hotel block rates won't last forever. Oct 11-14.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
+<div class="social-post" data-text="Still going strong at Community over Code Glasgow. Day 3 today — more talks, more hacking, more hallway-track conversations. Catch the highlights under #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Still going strong at Community over Code Glasgow. Day 3 today — more talks, more hacking, more hallway-track conversations. Catch the highlights under #CommunityOverCode #ASF2026Glasgow</div>
 
-### 30 days out (Sep 11)
+### Wednesday (Oct 14 — final day)
 
-<div class="social-post" data-text="One month until Community over Code Glasgow! Final schedule is live.
-Which talks are you most excited about? Oct 11-14, Glasgow.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>One month until Community over Code Glasgow! Final schedule is live.
-Which talks are you most excited about? Oct 11-14, Glasgow.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
+<div class="social-post" data-text="Final day of Community over Code Glasgow. Thank you to every speaker, volunteer, hacker, and attendee who made this happen. This is what community over code looks like. #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Final day of Community over Code Glasgow. Thank you to every speaker, volunteer, hacker, and attendee who made this happen. This is what community over code looks like. #CommunityOverCode #ASF2026Glasgow</div>
 
-### 2 weeks out (Sep 27)
+### After the event
 
-<div class="social-post" data-text="Two weeks! Community over Code Glasgow is almost here. Oct 11-14.
-Pack your laptop, your questions, and your enthusiasm.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Two weeks! Community over Code Glasgow is almost here. Oct 11-14.
-Pack your laptop, your questions, and your enthusiasm.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow #Glasgow</div>
-
-### 1 week out (Oct 4)
-
-<div class="social-post" data-text="Next week! Community over Code Glasgow kicks off Oct 11. See you at
-the Hilton Glasgow for four days of open source community, learning,
-and collaboration.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>Next week! Community over Code Glasgow kicks off Oct 11. See you at
-the Hilton Glasgow for four days of open source community, learning,
-and collaboration.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #ASF2026Glasgow</div>
-
-### Day 1 (Oct 11)
-
-<div class="social-post" data-text="It's happening! Community over Code Glasgow starts today. Follow
-#CommunityOverCode #ASF2026Glasgow for highlights, quotes, and key takeaways from
-20 tracks of Apache talks.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #Glasgow"><button class="copy-btn" onclick="copyPost(this)">Copy</button>It's happening! Community over Code Glasgow starts today. Follow
-#CommunityOverCode #ASF2026Glasgow for highlights, quotes, and key takeaways from
-20 tracks of Apache talks.
-https://communityovercode.apache.org/events/glasgow-2026/ #CommunityOverCode #Glasgow</div>
+<div class="social-post" data-text="That's a wrap on Community over Code Glasgow 2026! Missed it? The conversations continue year-round in the Apache community — and we'll see you at the next one. #CommunityOverCode #ASF2026Glasgow #OpenSource"><button class="copy-btn" onclick="copyPost(this)">Copy</button>That's a wrap on Community over Code Glasgow 2026! Missed it? The conversations continue year-round in the Apache community — and we'll see you at the next one. #CommunityOverCode #ASF2026Glasgow #OpenSource</div>
 
 ---
 
