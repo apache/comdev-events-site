@@ -25,7 +25,10 @@ A short guide for joining the Apache Responsible AI (RAI) hackathon and contribu
    {{< image src="asf-oauth-login.png" alt="ASF OAuth login page for llm.apache.org" style="max-width:min(100%,1200px); max-height:80vh;" >}}
 
 
-   Once you log in, the landing page will show an option to "Create a Key"
+   Once you log in, the Welcome page will show an option to "Create a Key"
+
+ {{< image src="welcome-page.png" alt="Welcome Page  with the Create key button" style="max-width:min(100%,1200px); max-height:80vh;" >}}
+
   
  
 2. Create a key.
