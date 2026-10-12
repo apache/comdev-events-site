@@ -19,10 +19,12 @@ Apache Wayang is a cross-platform data processing framework that recently gradua
 - **Limit Operator** — create a new `LimitOperator` that returns the first N elements of a dataset. A great entry point for newcomers: conceptually simple, and a good way to learn Wayang's operator structure end-to-end. This requires adding a new Wayang operator and at least one execution operator on a platform the participant is more confident with.
 - **Data Lake Pipeline** — build a pipeline that computes total revenue per nation, joining data across two storage layers: `lineitem` and `orders` read as Parquet files (via Wayang's `readParquet` API), joined with `customer` and `nation` read as Postgres tables, then aggregated (filter by date, join across all four, compute revenue, group by nation, sort, limit to top N). Register at least two platforms (e.g. Java/Spark + Postgres) so the optimizer has a real choice — see `Query3Hybrid.scala` in `wayang-benchmark` as a starting template. Good for someone who wants to play with Wayang's API and build a concrete, TPC-H-adjacent task showing cross-source, cross-platform execution.
 - **Documentation improvements** — walk through the getting-started guide as a newcomer and fix the points where you get stuck.
+- **Any github issue** - start working on any minor or major issue you like.
 
 ### Resources
 
 - [Getting started](https://wayang.apache.org/docs/guide/getting-started)
+- [Docker environment for easy startup](https://github.com/apache/wayang/tree/main/hackathon-CoC2026)
 - [Adding operators in Wayang](https://wayang.apache.org/docs/guide/adding-operators)
 - [Developing in Wayang](https://wayang.apache.org/docs/guide/developing-in-wayang)
 - [Wayang Javadocs](https://wayang.apache.org/docs/api/javadocs/1.1.1/)
