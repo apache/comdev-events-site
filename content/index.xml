@@ -574,8 +574,8 @@ Fully Vegan Restaurants The Glasvegan What: Plant-based fast food - burgers, hot
       
       <guid>https://events.apache.org/events/2026/community-over-code/hackathon.html</guid>
       <description>Hackathon Room Schedule The hackathon room is available throughout the conference (Monday through Wednesday) in the Wee Dram Room. Up to 5 projects can use the room during each half-day slot.
-Please claim only one slot initially, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
-To sign up, open a PR against the comdev-events-site repository adding your project name to an open slot in the table below.</description>
+Monday, 12 October
+Slot Project 1 Project 2 Project 3 Project 4 Project 5 Early (11:20–15:00) Apache Search Sourcelume Fineract Airflow Spark Security (15:10–15:50) Security Security Security Security Security Late (16:00–18:40) Apache Search Responsible AI Impala Tuesday, 13 October</description>
     </item>
     
     <item>
