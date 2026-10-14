@@ -6,10 +6,6 @@ title: Hackathon at Community over Code Glasgow 2026
 
 The hackathon room is available throughout the conference (Monday through Wednesday) in the **Wee Dram Room**. Up to **5 projects** can use the room during each half-day slot.
 
-**Please claim only one slot initially**, so every project gets a chance. Once all projects have signed up, unclaimed slots will open for seconds.
-
-**To sign up, open a PR** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) adding your project name to an open slot in the table below. Link to your [project hackathon page](hackathon.html) if you have one.
-
 Monday, 12 October
 
 | Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
@@ -31,7 +27,6 @@ Wednesday, 14 October
 | --- | --- | --- | --- | --- | --- |
 | Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) | [Superset](superset.html) |  |  |
 | Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (15:10–18:40) |  |  |  |  |  |
 
 ---
 
