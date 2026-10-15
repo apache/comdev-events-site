@@ -10,37 +10,6 @@
  "items": [
   {
    "kind": "calendar#event",
-   "etag": "\"3540764514052286\"",
-   "id": "0snk1j9lacks5dtd10le7rfjf6",
-   "status": "confirmed",
-   "htmlLink": "https://www.google.com/calendar/event?eid=MHNuazFqOWxhY2tzNWR0ZDEwbGU3cmZqZjYgbmVyc2VpZ29zcHNlczA2OGpkNTdiazVhcjhAZw",
-   "created": "2026-02-03T16:57:44.000Z",
-   "updated": "2026-02-06T12:50:57.026Z",
-   "summary": "Community Over Code 2026, Glasgow",
-   "description": "https://communityovercode.org/",
-   "location": "Glasgow, UK",
-   "creator": {
-    "email": "rbowen@rcbowen.com",
-    "displayName": "Rich Bowen"
-   },
-   "organizer": {
-    "email": "nerseigospses068jd57bk5ar8@group.calendar.google.com",
-    "displayName": "Apache Conferences & Events",
-    "self": true
-   },
-   "start": {
-    "date": "2026-10-11"
-   },
-   "end": {
-    "date": "2026-10-15"
-   },
-   "transparency": "transparent",
-   "iCalUID": "0snk1j9lacks5dtd10le7rfjf6@google.com",
-   "sequence": 1,
-   "eventType": "default"
-  },
-  {
-   "kind": "calendar#event",
    "etag": "\"3540279895467966\"",
    "id": "04q3qjccsf5nqqpgtao2qq17sg_20261118T090000Z",
    "status": "confirmed",
