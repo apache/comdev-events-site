@@ -10,20 +10,18 @@ Community over Code is the annual conference of the Apache Software
 Foundation — bringing together developers, community managers, and
 enthusiasts from across the ASF ecosystem.
 
-**🎉 The event is happening now — October 11–14, 2026, at the Hilton Glasgow!**
+**Community over Code Glasgow 2026 (October 11–14) is now over.** Thank you
+to everyone who attended, spoke, volunteered, and hacked with us in Glasgow.
+A few follow-up tasks remain — see below for how you can still help.
 
-## While You're Here
+## Follow-Up — How You Can Still Help
 
-* **[Hackathon](hackathon.html)** — The hackathon room is open all week. Find your
-  project's slot and jump in on real tasks with other contributors.
-* **[Birds of a Feather (BoF)](bof.html)** — Informal evening discussions, Monday
-  and Tuesday 5:50–6:30 PM. Open slots remain — grab one and host a conversation.
-* **[Help spread the word](glasgow-social-media.html)** — Posting from the event?
-  Grab a ready-made post and share what you're seeing. #CommunityOverCode
-* **[Share your photos](https://photos.apachecon.com)** — Submit your event photos
-  to the shared community album at photos.apachecon.com.
-* **[Call for Volunteers](call-for-volunteers.html)** — A few on-site and
-  post-event tasks still need owners.
+* **[Share your photos](https://photos.apachecon.com)** — Submit your event
+  photos to the shared community album at photos.apachecon.com.
+* **[Hackathon](hackathon.html)** — See which projects took part, and help
+  collect outcomes and task-list links from each project's effort.
+* **[Call for Volunteers](call-for-volunteers.html)** — Post-event follow-up
+  tasks (thank-yous, recaps, feedback, lessons-learned) still need owners.
 
 ## The local area
 * **[Restaurants](glasgow-restaurants.html)** - Places to eat near the venue.

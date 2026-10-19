@@ -2,9 +2,16 @@
 title: Hackathon at Community over Code Glasgow 2026
 ---
 
+> **The hackathon is over.** Community over Code Glasgow 2026 (October 11–14)
+> has wrapped. Thank you to the 19 projects and everyone who took part — the
+> room was full and a lot of real work got done. We're now collecting
+> outcomes and task-list links from each project; if you helped run or took
+> part in a project's effort, please see [how you can still help](call-for-volunteers.html)
+> and submit your photos to [photos.apachecon.com](https://photos.apachecon.com).
+
 ## Hackathon Room Schedule
 
-The hackathon room is available throughout the conference (Monday through Wednesday) in the **Wee Dram Room**. Up to **5 projects** can use the room during each half-day slot.
+The hackathon room ran throughout the conference (Monday through Wednesday) in the **Wee Dram Room**, with up to **5 projects** per half-day slot. The schedule below is kept as a record of what ran.
 
 Monday, 12 October
 
@@ -32,30 +39,27 @@ Wednesday, 14 October
 
 ## About the Hackathon
 
-Community over Code Glasgow will include dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
+Community over Code Glasgow included dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
 
-### How it works
+### How it worked
 
-Each participating project provides:
+Each participating project provided:
 
 - A **point of contact** — someone present at the event to coordinate
-- A **task list** — bugs, docs, features, good-first-issues, or whatever the project wants to focus on
-- **Promotion** — letting their community know this is happening
+- A **task list** — bugs, docs, features, good-first-issues, or whatever the project chose to focus on
+- **Promotion** — letting their community know it was happening
 
-During the event, a dedicated room will be available for contributors to gather, collaborate, and get things done.
+During the event, a dedicated room was available for contributors to gather, collaborate, and get things done.
 
-### Want your project to participate?
+### Follow-up
 
-If your project has content at Community over Code Glasgow and you'd like to take part in the hackathon, reach out:
+The hackathon is over, but the follow-up is just starting. If you ran or
+took part in a project's effort, we'd love to hear how it went — attendance,
+what got done, and especially how many **new** contributors you connected with.
 
-- Email [planners@apachecon.com](mailto:planners@apachecon.com)
-- Join **#hackathon** on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
-
-We need a point of contact, a list of tasks for contributors to work on, and a message to your dev@ and users@ lists letting people know it's happening.
-
-### Coordination
-
-General hackathon coordination happens on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+- Email [planners@apachecon.com](mailto:planners@apachecon.com) with outcomes, links, or a short write-up
+- Submit photos to [photos.apachecon.com](https://photos.apachecon.com)
+- Post-event coordination continues on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
 
 ---
 
@@ -143,7 +147,7 @@ Grab a ready-made post from our **[Social Media Promotion page](glasgow-social-m
 <details>
 <summary><h3 style="display:inline">Participating Projects</h3></summary>
 
-The following Apache projects have confirmed participation. Follow the thread links to see the conversation and find out how to get involved with each project's hackathon effort.
+The following Apache projects took part. The thread links point to each project's hackathon discussion and task list — useful when collecting outcomes and write-ups.
 
 | Task List                                               | Discussion                                                                                                        |
 |---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -185,9 +189,7 @@ The following Apache projects have confirmed participation. Follow the thread li
 
 ---
 
-- Looking for other ways to help? See [more volunteer opportunities](volunteer-outreach-calendar.html).
-- Want an informal evening discussion instead? Check out the [Birds of a Feather (BoF) sessions](bof.html).
-- Help spread the word: [Social Media Promotion page](glasgow-social-media.html).
-- See the [Hackathon Outreach Calendar](hackathon-outreach-calendar.html) for publicity tasks that need an owner.
+- Help with post-event follow-up: [Hackathon Follow-Up Tasks](hackathon-outreach-calendar.html) and [Volunteer Follow-Up Tasks](volunteer-outreach-calendar.html).
+- Share your photos from the hackathon: [photos.apachecon.com](https://photos.apachecon.com).
 - Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
 - Projects can update this page by submitting a PR to the [comdev-events-site repository](https://github.com/apache/comdev-events-site).
