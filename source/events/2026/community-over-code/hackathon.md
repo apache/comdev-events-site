@@ -1,195 +1,135 @@
 ---
-title: Hackathon at Community over Code Glasgow 2026
+title: Hackathon at Community over Code Glasgow 2026 — Retrospective
 ---
-
-> **The hackathon is over.** Community over Code Glasgow 2026 (October 11–14)
-> has wrapped. Thank you to the 19 projects and everyone who took part — the
-> room was full and a lot of real work got done. We're now collecting
-> outcomes and task-list links from each project; if you helped run or took
-> part in a project's effort, please see [how you can still help](call-for-volunteers.html)
-> and submit your photos to [photos.apachecon.com](https://photos.apachecon.com).
-
-## Hackathon Room Schedule
-
-The hackathon room ran throughout the conference (Monday through Wednesday) in the **Wee Dram Room**, with up to **5 projects** per half-day slot. The schedule below is kept as a record of what ran.
-
-Monday, 12 October
-
-| Slot | Project 1 | Project 2  | Project 3 | Project 4 | Project 5 |
-| --- | --- |------------|----------| --- | --- |
-| Early (11:20–15:00) | [Apache Search](search.html) | [Sourcelume](sourcelume.html) | [Fineract](fineract.html) | [Airflow](airflow.html)  | Spark |
-| Security (15:10–15:50) | *Security* | *Security* | *Security* | *Security* | *Security* |
-| Late (16:00–18:40) | [Apache Search](search.html) | [Responsible AI](rai.html) | [Impala](impala.html) |  |  |
-
-Tuesday, 13 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–15:00) | [Arrow](arrow.html) | [Tooling](tooling.html) | [Gluten](gluten.html) | [Magpie](magpie.html) | [Doris](doris.html) |
-| Late (15:00–18:40) | [Mahout](mahout.html) | [Groovy and Grails](groovy-grails.html) | [Magpie](magpie.html) | [Tomcat](tomcat.html) | [Fluss](fluss.html) |
-
-Wednesday, 14 October
-
-| Slot | Project 1 | Project 2 | Project 3 | Project 4 | Project 5 |
-| --- | --- | --- | --- | --- | --- |
-| Early (11:20–14:10) | [Wayang](wayang.html) | [NuttX](nuttx.html) | [Superset](superset.html) |  |  |
-| Security (14:20–15:00) | *Security* | *Security* | *Security* | *Security* | *Security* |
-
----
-
-## About the Hackathon
-
-Community over Code Glasgow included dedicated time and space for contributors — new and experienced — to sit together and work on real tasks: fixing bugs, writing docs, tackling issues that need focused attention, and onboarding new contributors.
-
-### How it worked
-
-Each participating project provided:
-
-- A **point of contact** — someone present at the event to coordinate
-- A **task list** — bugs, docs, features, good-first-issues, or whatever the project chose to focus on
-- **Promotion** — letting their community know it was happening
-
-During the event, a dedicated room was available for contributors to gather, collaborate, and get things done.
-
-### Follow-up
-
-The hackathon is over, but the follow-up is just starting. If you ran or
-took part in a project's effort, we'd love to hear how it went — attendance,
-what got done, and especially how many **new** contributors you connected with.
-
-- Email [planners@apachecon.com](mailto:planners@apachecon.com) with outcomes, links, or a short write-up
-- Submit photos to [photos.apachecon.com](https://photos.apachecon.com)
-- Post-event coordination continues on the [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack)
-
----
-
-## Help Us Promote the Hackathon
 
 <style>
-  .hackathon-banner{
+  .hackathon-poster-strip {
     display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 2rem;
-    padding: 1.5rem;
-    margin: 1rem 0 2rem;
-    background:
-      radial-gradient(circle at 85% 20%, rgba(70, 90, 200, 0.35), transparent 32%),
-      radial-gradient(circle at 15% 75%, rgba(180, 45, 145, 0.24), transparent 30%),
-      linear-gradient(135deg, #02091d 0%, #07132d 48%, #111944 75%, #210f3f 100%);
-    border-radius: 16px;
-    color: #ffffff;
-    overflow: hidden;
+    align-items: flex-start;
+    gap: 1.2rem;
+    margin: 1rem 0 1.5rem;
   }
-  .hackathon-banner-text {
-    flex: 1;
-  }
-  .hackathon-banner-text h3 {
-    margin: 0.8rem 0 0.5rem;
-    color: #ffffff;
-  }
-  .hackathon-banner-text a {
-    color: #ff9852;
-  }
-  .hackathon-banner-text p {
-    margin: 0.4rem 0 0;
-    color: #e9eaf2;
-  }
-  .hackathon-banner-poster {
-    width: 100%;
-    max-width: 320px;
+  .hackathon-poster-strip img {
+    width: 140px;
     height: auto;
-    border: 4px solid #ffffff;
-    border-radius: 10px;
-    box-shadow: 0 14px 35px rgba(0, 0, 0, 0.45);
+    border: 2px solid #ccc;
+    border-radius: 6px;
+    flex-shrink: 0;
   }
-  @media (max-width: 760px) {
-    .hackathon-banner {
-      flex-direction: column;
-      align-items: flex-start;
-    }
-    .hackathon-banner-poster {
-      max-width: 100%;
-    }
+  .hackathon-poster-strip .caption {
+    font-size: 0.95em;
+  }
+  @media (max-width: 600px) {
+    .hackathon-poster-strip { flex-direction: column; }
+    .hackathon-poster-strip img { width: 100px; }
   }
 </style>
 
-<div class="hackathon-banner">
-
-  <div class="hackathon-banner-text">
-    <img
-      src="/images/apache-oak-leaf.svg"
-      alt="Apache"
-      style="height:1.4em; vertical-align:middle;"
-    >
-    <strong>
-      <a href="https://communityovercode.org">
-        Community over Code 2026
-      </a>
-      — Glasgow, UK, October 11–14
-    </strong>
-    <h3>Download and share the poster!</h3>
-    <p>Help spread the word — share the poster on social media, pin it in your project's chat channels, or print it out for your office.</p>
+<div class="hackathon-poster-strip">
+  <a href="/images/hackathon-poster.png"><img src="/images/hackathon-poster.png" alt="Community over Code Glasgow 2026 Hackathon poster"></a>
+  <div class="caption">
+    We held a hackathon at <strong>Community over Code Glasgow 2026</strong>
+    (October 11–14, Hilton Glasgow). Projects brought real tasks and sat down
+    together — new and experienced contributors alike — to work on them across
+    the three days. This page is a retrospective of how it went.
+    <a href="/images/hackathon-poster.png">View the full poster.</a>
   </div>
-  <a href="/images/hackathon-poster.png">
-  <img
-    class="hackathon-banner-poster"
-    src="/images/hackathon-poster.png"
-    alt="Community over Code Glasgow 2026 Hackathon poster"></a>
 </div>
 
-<p style="text-align:center; margin-top:-0.5rem;"><a href="/images/hackathon-poster.png" download>Download Poster</a></p>
+## What Happened
 
-Grab a ready-made post from our **[Social Media Promotion page](glasgow-social-media.html)** and share it wherever you hang out online. Copy, paste, tweak, post!
+The hackathon ran throughout the conference (Monday through Wednesday) in the
+Wee Dram Room, with projects sharing the space across half-day slots. The room
+was busy every day, with a steady mix of focused project work and new people
+wandering in to find out how to get involved. Several project leads noted that
+the real value was as much in the face-to-face community time as in the code
+that got written — and that new contributors turned up as a direct result.
 
----
+Below is what participating projects reported afterwards. Where a project
+hasn't reported yet, we'll add their notes as they come in.
 
-<details>
-<summary><h3 style="display:inline">Participating Projects</h3></summary>
+## Participating Projects — What They Got Done
 
-The following Apache projects took part. The thread links point to each project's hackathon discussion and task list — useful when collecting outcomes and write-ups.
+### NuttX
 
-| Task List                                               | Discussion                                                                                                        |
-|---------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| [Airflow](https://airflow.apache.org/)                  | [dev@ thread](https://lists.apache.org/thread/c0fnphvb1bs5wbd454x7qclzcqj4wp1o)                                   |
-| [Arrow](arrow.html)                                     | [dev@ thread](https://lists.apache.org/thread/j63qwqrbosthf1ml3q7yxho89xhx5hoj)                                   |
-| [Camel](https://camel.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/5ws6zdfofxd6typhz7fg1np8j7fn77ho)                                   |
-| [CloudStack](https://cloudstack.apache.org/)            | [dev@ thread](https://lists.apache.org/thread/gnmxsxb39plvp7wcq2tmw76r7jphry8c)                                   |
-| [Doris](doris.html)                                     | [dev@ thread](https://lists.apache.org/thread/rdd858b9vmhmqqv5sxzf26qrgf8m2kbs)                                   |
-| [Fineract](fineract.html)                               | [dev@ thread](https://lists.apache.org/thread/kvp25nx027ypky93rgo2g6ylbf61w5oh)                                   |
-| [Flink](flink.html)                                     | [dev@ thread](https://lists.apache.org/thread/3412lc0x5vgfbm8phg50q8qlvlsj616p)                                   |
-| [Fluss](fluss.html)                                     | [dev@ thread](https://lists.apache.org/thread/kh2fosjfd11bwprdph684zy0793sqxts)                                   |
-| [Gluten](gluten.html)                                   | [GitHub issues](https://github.com/apache/gluten/issues?q=is%3Aissue+state%3Aopen+label%3A%22good+first+issue%22) |
-| [Grails](groovy-grails.html) *(joint page with Groovy)* | [dev@ thread](https://lists.apache.org/thread/bg3kl3bz7fg083tj4h316t7x695jcg3d)                                   |
-| [Groovy](groovy-grails.html) *(joint page with Grails)* | [dev@ thread](https://lists.apache.org/thread/tccmxmq6tkmrct1g2cltr58td7m3sq8j)                                   |
-| [Impala](impala.html)                                   | [dev@ thread](https://lists.apache.org/thread/cbf84gh0no1q7hylyzcmqk5b0hxk38o3)                                   |
-| [IoTDB](https://iotdb.apache.org/) *(tentative)*        | [dev@ thread](https://lists.apache.org/thread/yd9wpq2xo35n2xwp8pb9k8s5ymb4rzxw)                                   |
-| [Kafka](https://kafka.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/lbc8rp2ft3tyxfjrr2nkc535hwyxo7f8)                                   |
-| [Kudu](https://kudu.apache.org/)                        | [dev@ thread](https://lists.apache.org/thread/kkdxnwpwygq47kb763kw3hls2x2z5tk3)                                   |
-| [Magpie](magpie.html)                                   | [dev@ thread](https://lists.apache.org/thread/s69qmwrhnc7jcmx06gbnbdlp237obpzm)                                   |
-| [Mahout](https://events.apache.org/events/2026/community-over-code/mahout.html)                    | [dev@ thread](https://lists.apache.org/thread/28xwckdnhypx1pvqg6ytk1wpbp0wg63v)                                   |
-| [NuttX](https://nuttx.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/cb0yx6mfxh2j7m6hgq8d7vlgd89h0c28)                                   |
-| [Ozone](https://ozone.apache.org/) *(tentative)*        | [dev@ thread](https://lists.apache.org/thread/wmj56tsd6m0w9fk7oz2rsfqjzfg765vf)                                   |
-| [Pekko](https://pekko.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/pkgkjq3748blo1g9znvrh556s488sox2)                                   |
-| [SIS](sis.html)                                         | [dev@ thread](https://lists.apache.org/thread/x5pyd9cwjhyc8lpgsgfnvpy8g72l91c9)                                   |
-| Solr                                                    | [dev@ thread](https://lists.apache.org/thread/f8bjyy06c0v2lddol6vvv5n8tzd3y9vl)                                   |
-| [Sourcelume](sourcelume.html)                           | [dev@ thread](https://lists.apache.org/thread/yh15s53pb6l21yq28l1sbq6c3qgk584p)                                                                                                   |
-| [Spark](https://spark.apache.org/)                      | [dev@ thread](https://lists.apache.org/thread/711z5rcx7pb2wrwm0t41l6ffx21jxyr9)                                   |
-| [StreamPipes](https://streampipes.apache.org/)          | [dev@ thread](https://lists.apache.org/thread/yko4ypzx2r3dw1glkwpylc3kqgkhoqhc)                                   |
-| [Superset](superset.html)                                | [dev@ thread](https://lists.apache.org/thread/f2bs0tfbmfmhl3r3zgf69p27mkfq7n68)                                   |
-| [Tomcat](tomcat.html)                                   | [dev@ thread](https://lists.apache.org/thread/ox1q1wvtzcf6ko3xv2z5m1nz5dnjv6h2)                                   |
-| [Tooling](tooling.html)                   |                                                                                                                   |
-| [Wayang](https://wayang.apache.org/)                    | [dev@ thread](https://lists.apache.org/thread/nstct4k069v748rq622tt5vx2c66objf)                                   |
+Around 17 active participants (of ~20 planned), 7 of whom were new faces who
+first heard about NuttX at the conference. The session had a concrete goal:
+port the 1993 open-source release of *Doom* to the Sony Spresense IoT board —
+and they pulled it off during the event. There's even
+[a video of the result](https://youtu.be/ikh1EEGco8Q). A great example of a
+focused, demoable hackathon project that doubled as outreach for the NuttX
+RTOS.
 
-*Eventually each project will have a dedicated page with hackathon task ideas and contributor guidance.*
+### Sourcelume
 
+A small, productive group of 5 — including 2 new contributors whose first PRs
+were accepted after the conference. They built a demo exercising all of the
+project's functionality as of the conference, and started on end-user tooling
+to make Sourcelume easier to adopt. Much of the surrounding work carried on
+over the dev lists afterwards, and the project has since made significant
+progress on two of its key modules. See the
+[Sourcelume demo](https://github.com/apache/sourcelume-registry/tree/main/examples/simple-demo),
+referenced from the [Registry page](https://sourcelume.apache.org/registry.html).
 
+### Tomcat
 
-</details>
+A compact group — 3 in person plus 3 joining remotely via a Slack huddle —
+who used the time to work through several proposals for improvements. Being
+able to discuss these synchronously was valuable, and the team noted that the
+hackathon time also set up their Thursday security day nicely: the non-security
+topics got aired in the hackathon, so the security day could stay focused on
+security. A good reminder that "time together as a community" is a legitimate
+and useful hackathon outcome in its own right. Follow-on discussion continued
+on the dev list.
 
----
+### Other participating projects
 
-- Help with post-event follow-up: [Hackathon Follow-Up Tasks](hackathon-outreach-calendar.html) and [Volunteer Follow-Up Tasks](volunteer-outreach-calendar.html).
-- Share your photos from the hackathon: [photos.apachecon.com](https://photos.apachecon.com).
-- Learn more about [what's involved in hackathon coordination](/volunteer/hackathon.html).
-- Projects can update this page by submitting a PR to the [comdev-events-site repository](https://github.com/apache/comdev-events-site).
+Nineteen projects booked hackathon slots in all (Apache Search, Sourcelume,
+Fineract, Airflow, Spark, Responsible AI, Impala, Arrow, Tooling, Gluten,
+Magpie, Doris, Mahout, Groovy & Grails, Tomcat, Fluss, Wayang, NuttX, and
+Superset). As more of them send in their numbers and highlights, we'll add
+their write-ups here.
+
+## Lessons Learned
+
+Notes for whoever runs the hackathon in future years. These are deliberately
+general — they're about the format and the room, not about any one project or
+person.
+
+- **Watch the room acoustics.** With several projects sharing one room, noise
+  from neighboring tables can be a distraction for groups trying to have a
+  focused technical discussion. Consider more space between tables, a larger
+  room, or a quieter corner for discussion-heavy groups.
+- **Keep the space usable.** Unattended laptops and belongings left on tables
+  took up room that active participants needed, and people were reluctant to
+  move someone else's gear. A simple norm — hand abandoned items to the hotel
+  as lost property, and label or clear tables between slots — would help.
+- **Check the physical basics early.** At least one group lost the use of
+  power outlets in their part of the room. Confirm power, seating, and
+  connectivity in every section of the room before the event starts, and have
+  a venue contact on call to fix problems quickly.
+- **"Just being together" is a real outcome.** More than one project got as
+  much value from synchronous, face-to-face discussion as from merged code.
+  Set expectations accordingly — a successful hackathon table doesn't have to
+  produce a pile of PRs to be worthwhile.
+- **A concrete, demoable goal works well.** The sessions that set a single
+  clear target going in had an easy time showing what they accomplished and
+  used it as outreach afterwards. Encourage projects to come with a
+  well-defined, achievable goal (and ideally something they can demo).
+- **New contributors do show up.** Several projects connected with first-time
+  contributors who found them at the conference. Have good "first task" and
+  onboarding material ready so that interest converts into contribution.
+- **The work continues after the event.** A lot of the real progress happened
+  on the dev lists in the days and weeks afterward. Build follow-up into the
+  plan rather than treating the hackathon as a one-off.
+
+## Coordinate / Follow Up
+
+- Post-event coordination continues on the
+  [planners@apachecon.com](mailto:planners@apachecon.com) mailing list and in
+  the **#hackathon** channel on [apachecon.slack.com](http://s.apache.org/apachecon-slack).
+- Submit your photos to [photos.apachecon.com](https://photos.apachecon.com).
+- Want an informal evening discussion format instead? See the
+  [Birds of a Feather (BoF) sessions](bof.html).
+- Projects can update this page by submitting a PR to the
+  [comdev-events-site repository](https://github.com/apache/comdev-events-site).
