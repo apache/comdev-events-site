@@ -4,7 +4,7 @@ slug: index
 url: /events/index.html
 ---
 
-## Current Events
+## 2026 events
 
 * [Community over Code Glasgow 2026](/events/2026/community-over-code/index.html) — October 11–14, Glasgow, UK
 

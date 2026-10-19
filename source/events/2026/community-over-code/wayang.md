@@ -3,7 +3,7 @@
 
 [![Apache](https://github.com/apache/comdev-events-site/raw/main/images/apache-oak-leaf.svg)](/apache/comdev-events-site/blob/main/images/apache-oak-leaf.svg) **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
-**[Register now](https://communityovercode.apache.org/events/glasgow-2026/register)** | [Event website](https://communityovercode.org) | [Hackathon overview](https://github.com/apache/comdev-events-site/blob/main/source/events/2026/community-over-code/hackathon.html)
+*Community over Code Glasgow 2026 (October 11–14) is over.* | [Event website](https://communityovercode.org) | [Hackathon retrospective](https://github.com/apache/comdev-events-site/blob/main/source/events/2026/community-over-code/hackathon.html)
 
 ## Apache Wayang — Hackathon
 

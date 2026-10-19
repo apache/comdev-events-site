@@ -14,12 +14,15 @@ enthusiasts from across the ASF ecosystem.
 to everyone who attended, spoke, volunteered, and hacked with us in Glasgow.
 A few follow-up tasks remain — see below for how you can still help.
 
+* **[Hackathon](hackathon.html)** — See which projects took part, and help
+  collect outcomes and task-list links from each project's effort.
+* **[Birds of a Feather (BoF)](bof.html)** — The informal evening discussion
+  sessions held during the event.
+
 ## Follow-Up — How You Can Still Help
 
 * **[Share your photos](https://photos.apachecon.com)** — Submit your event
   photos to the shared community album at photos.apachecon.com.
-* **[Hackathon](hackathon.html)** — See which projects took part, and help
-  collect outcomes and task-list links from each project's effort.
 * **[Call for Volunteers](call-for-volunteers.html)** — Post-event follow-up
   tasks (thank-yous, recaps, feedback, lessons-learned) still need owners.
 
@@ -31,7 +34,6 @@ A few follow-up tasks remain — see below for how you can still help.
 * **[Tourist Highlights](glasgow-tourist-highlights.html)** - Attractions to see whilst visiting Glasgow.
 * **[Tech Meetups](glasgow-tech-meetups.html)** - Other tech meetups to be found in and around Glasgow.
 * **[Social Media](glasgow-social-media.html)** - How to spread the word about this event.
-* **[Need a ride?](https://cwiki.apache.org/confluence/spaces/COC/pages/449282339/Ride+Sharing+-+Glasgow+2026)** - Ride sharing coordination for getting to/from the event.
 
 ## Key Details
 
