@@ -35,7 +35,7 @@ Once you log in, the Welcome page will show an option to &amp;ldquo;Create a Key
       
       <guid>https://events.apache.org/events/2026/community-over-code/wayang.html</guid>
       <description>title Apache Wayang — Hackathon at Community over Code Glasgow 2026 Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Wayang — Hackathon Coordinator Zoi Kaoudi (PMC, Apache Wayang) — zkaoudi@apache.org What We Are Working On Apache Wayang is a cross-platform data processing framework that recently graduated to ASF Top-Level Project status. At the hackathon we will be mainly focusing on small extensions on the operators Wayang provides.</description>
     </item>
     
@@ -55,7 +55,7 @@ Apache Wayang — Hackathon Coordinator Zoi Kaoudi (PMC, Apache Wayang) — zkao
       
       <guid>https://events.apache.org/events/2026/community-over-code/airflow.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Airflow — Hackathon Coordinator Amogh Desai - amoghdesai@apache.org Jarek Potiuk - potiuk@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues — small, well-scoped tasks suitable for new contributors: GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo; We are moving fast, so by the time of the hackathon, some of the issues we might point at today may already be solved, so we will have a curated list of issues for the hackathon participants close to the date.</description>
     </item>
@@ -67,8 +67,8 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Gi
       
       <guid>https://events.apache.org/events/2026/community-over-code/arrow.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache Arrow — Hackathon Coordinator Nic Crane — thisisnic@apache.org Matt Topol — zeroshade@apache.org Alenka Frim — alenka@apache.org What We&amp;rsquo;re Working On There are several areas you can contribute to: Arrow C++ and the PyArrow and R bindings built on top of it (all in the apache/arrow repo), and Arrow Go (in apache/arrow-go). The Parquet C++ and Go libraries also live in these repositories, so you may find yourself contributing to Apache Parquet too.</description>
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
+Apache Arrow — Hackathon Coordinator Nic Crane — thisisnic@apache.org Matt Topol — zeroshade@apache.org Alenka Frim — alenka@apache.org What We&amp;rsquo;re Working On There are several areas you can contribute to: Arrow C++ and the PyArrow and R bindings built on top of it (all in the apache/arrow repo), and Arrow Go (in apache/arrow-go).</description>
     </item>
     
     <item>
@@ -78,7 +78,7 @@ Apache Arrow — Hackathon Coordinator Nic Crane — thisisnic@apache.org Matt T
       
       <guid>https://events.apache.org/events/2026/community-over-code/doris.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Doris — Hackathon Apache Doris is an open-source, real-time database for modern analytics and AI. It answers sub-second queries under high concurrency at petabyte scale; it treats structured, text and vector data as first-class citizens in the same engine, so a single SQL statement can combine a filter, a BM25 text match and a nearest-neighbour search over embeddings; it queries Iceberg, Delta Lake and Hudi tables in place, with no copy, which makes it an acceleration layer over an open lakehouse rather than yet another silo; and increasingly it serves as the store agents run on — columnar JSON for tool-call traces, BM25 retrieval for RAG and agent memory, MCP for access.</description>
     </item>
     
@@ -89,9 +89,9 @@ Apache Doris — Hackathon Apache Doris is an open-source, real-time database fo
       
       <guid>https://events.apache.org/events/2026/community-over-code/fineract.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Fineract — Hackathon Coordinator Ádám Sághy — adamsaghy@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Curated Hackaton stories: Find a task in the Community Over Code 2026 hackathon stories. The filter lists unresolved Fineract issues with label coc-2026-hackaton, ordered by priority and most recent update. Note your story&amp;rsquo;s key, such as FINERACT-12345, and coordinate your choice with the organiser.</description>
+Curated Hackaton stories: Find a task in the Community Over Code 2026 hackathon stories. The filter lists unresolved Fineract issues with label coc-2026-hackaton, ordered by priority and most recent update.</description>
     </item>
     
     <item>
@@ -101,7 +101,7 @@ Curated Hackaton stories: Find a task in the Community Over Code 2026 hackathon 
       
       <guid>https://events.apache.org/events/2026/community-over-code/flink.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Flink — Hackathon Coordinator Sergey Nuyanzin — snuyanzin@gmail.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Move to GitHub Actions — help migrate CI infrastructure to GitHub Actions Build improvements — streamline the build process for new contributors First PR tasks — well-scoped issues designed to help you land your first Flink contribution Resources Contribution guide Dev mailing list thread about the hackathon GitHub issues Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
     </item>
@@ -113,8 +113,8 @@ Move to GitHub Actions — help migrate CI infrastructure to GitHub Actions Buil
       
       <guid>https://events.apache.org/events/2026/community-over-code/fluss.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache Fluss — Hackathon Fluss is a streaming storage system for real-time analytics. A table is stored as a log, optionally with a key-value index beside it, and older data is tiered into Iceberg, Paimon or Lance so a single query can read both the lake and the fresh log tail. There is a Java client, a Rust client, and Python, C++ and Elixir bindings built on the Rust one.</description>
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
+Apache Fluss — Hackathon Fluss is a streaming storage system for real-time analytics. A table is stored as a log, optionally with a key-value index beside it, and older data is tiered into Iceberg, Paimon or Lance so a single query can read both the lake and the fresh log tail.</description>
     </item>
     
     <item>
@@ -124,7 +124,7 @@ Apache Fluss — Hackathon Fluss is a streaming storage system for real-time ana
       
       <guid>https://events.apache.org/events/2026/community-over-code/gluten.html</guid>
       <description>Community over Code 2026 - Glasgow, UK, October 11-14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Gluten - Hackathon This page is focused on Velox backend and common runtime/config tasks. ClickHouse-specific tasks are intentionally excluded.
 Coordinator Yuan Zhou — yuan.zhou@ibm.com What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues that can be completed during the hackathon Docs and test alignment where support tables lag behind real code/test coverage Small Velox/Common code improvements with clear scope and acceptance criteria Curated Task List for Hackathon The items below are curated examples.</description>
@@ -137,7 +137,7 @@ Good first issues that can be completed during the hackathon Docs and test align
       
       <guid>https://events.apache.org/events/2026/community-over-code/groovy-grails.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Groovy &amp;amp; Apache Grails — Hackathon Groovy and Grails are running a joint hackathon session. The two communities overlap heavily, and quite a few of the interesting topics (application generation, CLI ergonomics, compiler and AST behaviour, documentation) sit right on the boundary between the projects — so we&amp;rsquo;re sharing a table and encouraging cross-pollination rather than splitting into two rooms.</description>
     </item>
     
@@ -148,7 +148,7 @@ Apache Groovy &amp;amp; Apache Grails — Hackathon Groovy and Grails are runnin
       
       <guid>https://events.apache.org/events/2026/community-over-code/impala.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Impala — Hackathon Coordinators Stamatis Zampetakis — zabetak@apache.org Steve Carlin — sjc362000@apache.org What We&amp;rsquo;re Working On The hackathon2026 label can be used to find Jira tickets relevant to the event.
 We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite project. The Jiras below gather some outstanding tasks that we would like to advance in the coming months:</description>
     </item>
@@ -160,9 +160,9 @@ We&amp;rsquo;re focusing on the new query planner based on the Apache Calcite pr
       
       <guid>https://events.apache.org/events/2026/community-over-code/magpie.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Magpie — Hackathon Coordinator Jarek Potiuk — potiuk@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Getting people on board of using Magpie for their projects - especially to help them with onboarding and triaging and managing security issues, but other skill usage is also welcome. Resources Contribution guide Dev mailing list thread about the hackathon magpie channel on ASF Slack Who&amp;rsquo;s Planning to Attend See above.</description>
+Getting people on board of using Magpie for their projects - especially to help them with onboarding and triaging and managing security issues, but other skill usage is also welcome.</description>
     </item>
     
     <item>
@@ -172,7 +172,7 @@ Getting people on board of using Magpie for their projects - especially to help 
       
       <guid>https://events.apache.org/events/2026/community-over-code/mahout.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Mahout — Hackathon Coordinator Krishna Dave — krishnadave@apache.org Andrew Musselman — akm@apache.org What We&amp;rsquo;re Working On Apache Mahout is a quantum computing project focused on two major components:
 Qumat — QuMat is a high level Python library for interfacing with multiple quantum computing backends. It is designed to be easy to use and to abstract the particularities of each backend, so that you may write once, run anywhere.</description>
     </item>
@@ -184,9 +184,8 @@ Qumat — QuMat is a high level Python library for interfacing with multiple qua
       
       <guid>https://events.apache.org/events/2026/community-over-code/nuttx.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache NuttX — Hackathon Coordinator Alin Jerpelea — jerpelea@apache.org What We&amp;rsquo;re Working On We will introduce you to NuttX RTOS and show you how to build and run it from scratch on an embedded board. There will be twenty SONY Spresense IoT boards available for demos and demonstrations.
-You can also bring your favourite board and we can try to run NuttX on it as well.</description>
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
+Apache NuttX — Hackathon Coordinator Alin Jerpelea — jerpelea@apache.org What We&amp;rsquo;re Working On We will introduce you to NuttX RTOS and show you how to build and run it from scratch on an embedded board. There will be twenty SONY Spresense IoT boards available for demos and demonstrations.</description>
     </item>
     
     <item>
@@ -196,7 +195,7 @@ You can also bring your favourite board and we can try to run NuttX on it as wel
       
       <guid>https://events.apache.org/events/2026/community-over-code/rai.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Responsible AI — Hackathon Coordinator Name — Jeff Genender — jgenender@apache.org What We&amp;rsquo;re Working On We’re focusing on:
 Apache LLMAO — metered access to LLMs for Apache Projects: sign your PMC up! Responsible AI Initiative — discussion and feedback. Resources llmao https://llm.apache.org/ RAI https://rai.apache.org/ Who&amp;rsquo;s Planning to Attend Jeff Genender (VP Responsible AI) Andrew Musselman (AI Platform Engineer, Tooling) Kanchana Welagedara (Former Board Member) Back to the Hackathon overview Questions?</description>
     </item>
@@ -208,7 +207,7 @@ Apache LLMAO — metered access to LLMs for Apache Projects: sign your PMC up! R
       
       <guid>https://events.apache.org/events/2026/community-over-code/search.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Search — Hackathon We are bringing Solr, Lucene, Tika, and any other related Apache projects into one big happy hackfest!
 Coordinators Eric Pugh — epugh@apache.org Tim Allison — tallison@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
 Good first issues — small, well-scoped tasks suitable for new contributors: JIRA issues labeled &amp;ldquo;newdev&amp;rdquo; Documentation improvements — help us improve our getting-started guides and API docs Bug fixes — a curated set of bugs that are approachable with mentoring support Solr MCP - come get hands on experience using the new Solr MCP tool from Aditya!</description>
@@ -221,8 +220,8 @@ Good first issues — small, well-scoped tasks suitable for new contributors: JI
       
       <guid>https://events.apache.org/events/2026/community-over-code/sis.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
-Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux@geomatys.com What We&amp;rsquo;re Working On The focus will depend on the interest of the participants. One Apache SIS characteristic is its strong commitment in OGC/ISO international standards. Therefore, contributing to Apache SIS is a way to become more familiar with these standards. Some proposed tasks are:</description>
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
+Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux@geomatys.com What We&amp;rsquo;re Working On The focus will depend on the interest of the participants. One Apache SIS characteristic is its strong commitment in OGC/ISO international standards. Therefore, contributing to Apache SIS is a way to become more familiar with these standards.</description>
     </item>
     
     <item>
@@ -232,9 +231,9 @@ Apache SIS — Hackathon Coordinator Martin Desruisseaux — martin.desruisseaux
       
       <guid>https://events.apache.org/events/2026/community-over-code/sourcelume.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Sourcelume — Hackathon Coordinator Name — jgoodyear@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Good first issues — small, well-scoped tasks suitable for new contributors: Documentation improvements — help us improve our getting-started guides and API docs Website Repo: https://github.com/apache/sourcelume-site Geting started with Pelican https://infra.apache.org/asf-pelican-gettingstarted.html General Website guidelines https://infra.apache.org/project-site.html Bug fixes — a curated set of bugs that are approachable with mentoring support Resources Who&amp;rsquo;s Planning to Attend Jamie Goodyear Andrew Musselman Getting Started Before the Event To make the most of hackathon time, we recommend:</description>
+Good first issues — small, well-scoped tasks suitable for new contributors: Documentation improvements — help us improve our getting-started guides and API docs Website Repo: https://github.com/apache/sourcelume-site Geting started with Pelican https://infra.</description>
     </item>
     
     <item>
@@ -244,7 +243,7 @@ Good first issues — small, well-scoped tasks suitable for new contributors: Do
       
       <guid>https://events.apache.org/events/2026/community-over-code/superset.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Superset — Hackathon Coordinator Evan Rusackas — evan@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on approachable, well-scoped tasks that don&amp;rsquo;t require deep familiarity with the codebase to get started on:
 Small bug fixes — GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo;, plus other small, self-contained bugs from the open issues list Linting rules — tightening up our oxlint/ruff configuration and fixing the violations that surface once a rule graduates from warning to error Closing stale issues — triaging old issues to confirm whether they&amp;rsquo;re still reproducible, need more info, or can be closed Reviewing open pull requests — Superset has a large PR backlog; giving PRs a careful read, testing them locally, and leaving useful feedback is just as valuable as writing new code DRY / tidy-up fixes — finding duplicated logic, dead code, or inconsistent patterns across the codebase and cleaning them up Building new extensions — Superset has a growing extensions framework for building new capabilities without forking core; the quick start guide is a good jumping-off point We are moving fast, so by the time of the hackathon some of the issues we might point at today may be already solved, so we will have a curated list of issues for the hackathon participants close to the date.</description>
     </item>
@@ -256,7 +255,7 @@ Small bug fixes — GitHub issues labeled &amp;ldquo;good first issue&amp;rdquo;
       
       <guid>https://events.apache.org/events/2026/community-over-code/tomcat.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Tomcat — Hackathon Coordinator Name — markt@apache.org What We&amp;rsquo;re Working On We will be working on new features and enhancements to Apache Tomcat. The ideas list is being maintained on the project Wiki. We welcome additional suggestions on the dev@ list if you have an idea for something you&amp;rsquo;d like to work on.</description>
     </item>
     
@@ -267,9 +266,9 @@ Apache Tomcat — Hackathon Coordinator Name — markt@apache.org What We&amp;rs
       
       <guid>https://events.apache.org/events/2026/community-over-code/tooling.html</guid>
       <description>Community over Code 2026 — Glasgow, UK, October 11–14
-Register now | Event website | Hackathon overview
+Community over Code Glasgow 2026 (October 11–14) is over. | Event website | Hackathon retrospective
 Apache Tooling — Hackathon Coordinator Alastair McFarlane — arm@apache.org What We&amp;rsquo;re Working On We&amp;rsquo;re focusing on:
-Apache Trusted Releases — we have launched the Beta and want to help your PMCs start to use the system. Documentation improvements — help us improve our tutorial and users guide. Resources If you wish to get started with ATR Beta.</description>
+Apache Trusted Releases — we have launched the Beta and want to help your PMCs start to use the system. Documentation improvements — help us improve our tutorial and users guide.</description>
     </item>
     
     <item>
@@ -354,7 +353,7 @@ This is your official event speaker guide. Please bookmark this page and check b
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://events.apache.org/events/index.html/</guid>
-      <description>Current Events Community over Code Glasgow 2026 — October 11–14, Glasgow, UK Coordinate Your Community Event Here This site is available to all ASF project communities to organize and promote meetups, hackathons, sprints, release parties, or any community gathering. Whether you&amp;rsquo;re planning something local or virtual, we can help you get the word out.
+      <description>2026 events Community over Code Glasgow 2026 — October 11–14, Glasgow, UK Coordinate Your Community Event Here This site is available to all ASF project communities to organize and promote meetups, hackathons, sprints, release parties, or any community gathering. Whether you&amp;rsquo;re planning something local or virtual, we can help you get the word out.
 To get started:
 Read the How to Organize a Small Apache Event guide Copy one of our event page templates Submit a PR to this repo with your event page Send a note to dev@community.</description>
     </item>
