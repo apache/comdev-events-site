@@ -4,7 +4,7 @@ title: "Birds of a Feather (BoF) Sessions — Community over Code Glasgow 2026"
 
 <img src="/images/apache-oak-leaf.svg" alt="Apache" style="height:1.4em; vertical-align:middle;"> **[Community over Code 2026](https://communityovercode.org) — Glasgow, UK, October 11–14**
 
-> **The event is on now!** BoFs run tonight (Monday) and tomorrow (Tuesday), 5:50–6:30 PM. Open slots remain — claim one by PR, or just show up to one that interests you.
+> **Community over Code Glasgow 2026 is over.** The Birds of a Feather sessions ran on the Monday and Tuesday evenings of the conference. Thank you to everyone who hosted and took part. We're reaching out to the people who ran each BoF for a short update on how it went — as we hear back, we'll post those updates here.
 
 ## What is a BoF?
 
@@ -14,101 +14,75 @@ BoFs are one of the oldest traditions in open source conferences. They're where 
 
 **You don't need to be an expert to host a BoF.** You just need to care about a topic enough to start the conversation. Bring a few discussion questions, and let the room take it from there.
 
-## Schedule
+## BoFs That Ran
 
-BoF sessions run on **Days 2 and 3** of the conference - Monday and Tuesday evenings, after the main program:
-
-- **Monday, 12 October** — 5:50 PM – 6:30 PM (6 rooms)
-- **Tuesday, 13 October** — 5:50 PM – 6:30 PM (6 rooms)
-
-## Sign Up
-
-To claim a BoF slot, **open a Pull Request** against the [comdev-events-site repository](https://github.com/apache/comdev-events-site) editing this file to add your topic to an open slot in the table below.
-
-When you claim a slot, please also add a short description of your BoF in the [Descriptions](#descriptions) section below, following the existing examples. Link your topic in the table to the description so people can see what it's about.
+BoF sessions ran on the Monday and Tuesday evenings of the conference, 5:50–6:30 PM.
 
 ### Monday, 12 October — 5:50–6:30 PM
 
-| Room | Topic |
-| --- | --- |
-| Tay | [Apache Cassandra](#apache-cassandra) |
-| Clyde | [Responsible AI (RaI)](#responsible-ai-rai) |
-| Dee | *available — open a PR!* |
-| Don | *available — open a PR!* |
-| Spey | [Apache Lucene/Solr](#apache-lucene-solr) |
-| Tweed | [Apache Groovy and Grails](#apache-groovy-and-apache-grails) |
+| Topic |
+| --- |
+| [Apache Cassandra](#apache-cassandra) |
+| [Responsible AI (RAI)](#responsible-ai-rai) |
+| [Apache Lucene/Solr](#apache-lucene-solr) |
+| [Apache Groovy and Grails](#apache-groovy-and-apache-grails) |
 
 ### Tuesday, 13 October — 5:50–6:30 PM
 
-| Room | Topic |
-| --- | --- |
-| Tay | [Content Extraction in the VLM Era](#content-extraction-in-the-vlm-era) |
-| Clyde |*available — open a PR!* |
-| Dee | *available — open a PR!* |
-| Don | *available — open a PR!* |
-| Spey | *available — open a PR!* |
-| Tweed | [Foss SUITE](#foss-suite) |
+| Topic |
+| --- |
+| [Content Extraction in the VLM Era](#content-extraction-in-the-vlm-era) |
+| [FOSS Suite](#foss-suite) |
 
 ---
 
-## Descriptions
+## Session Updates
+
+As we hear back from the people who ran each BoF, we'll add their updates
+below — how it went, roughly how many took part, and anything worth
+recording for the community.
 
 ### Apache Cassandra
 
-> **Monday, 12 October · 5:50–6:30 PM · Tay Room**
+> **Monday, 12 October · 5:50–6:30 PM**
 
 Come talk about the present and future of Apache Cassandra — the distributed NoSQL database built for massive scale and high availability. Whether you're a long-time operator, a contributor, or just getting started with Cassandra, this is your chance to connect with others in the community, share war stories, discuss upcoming features, and talk about where the project is headed. All levels of experience welcome.
 
-### Responsible AI (RaI)
+### Responsible AI (RAI)
 
-> **Monday, 12 October · 5:50–6:30 PM · Clyde Room**
+> **Monday, 12 October · 5:50–6:30 PM**
 
 An open discussion about responsible and ethical use of AI in open source projects and the broader ecosystem. Topics may include bias in training data, transparency in model development, governance of AI-related projects within the ASF, and how open source communities can lead the way in building AI that is fair, accountable, and beneficial. No expertise required — bring your questions and perspectives.
 
+### Apache Lucene/Solr
+
+> **Monday, 12 October · 5:50–6:30 PM**
+
+Come talk about the present and future of Apache Lucene and Apache Solr.
+One aspect we want to cover is current-day usage of both, collecting case studies and real-world stories to be shared on the public websites.
+
 ### Apache Groovy and Apache Grails
 
-> **Monday, 12 October · 5:50–6:30 PM · Tweed Room**
+> **Monday, 12 October · 5:50–6:30 PM**
 
 Come talk about everything Groovy and Grails.
 The session is aimed at anyone in the broader Groovy or Grails communities.
 Chat about what you are doing and what you'd like to see in future versions.
 
-### Apache Lucene Solr
-
-> **Monday, 12 October · 5:50–6:30 PM · Spey Room**
-
-Come talk about the present and future of Apache Lucene and Apache Solr.
-One aspect we want to cover is current-day usage of both, collecting case studies and real-world stories to be shared on the public websites.
-
-### Foss SUITE
-
-> **Tuesday, 13 October · 5:50–6:30 PM · Tweed Room**
->
-> Hosted by **Jan Lehnardt** and **Gregor Bransky**
-
-There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let’s make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
-
 ### Content Extraction in the VLM Era
 
-> **Tuesday, 13 October · 5:50–6:30 PM · Tay Room**
->
-> Hosted by **Tim Allison (Apache Tika)**
+> **Tuesday, 13 October · 5:50–6:30 PM**
 
 Getting text out of files used to be the boring part of the pipeline. Vision-language models (VLMs) have changed that: scanned pages, charts, tables, diagrams, and images can now be turned into text, structured data, and embeddings. And the consumer of that output is increasingly an agent, not a person. The question has shifted from "can we extract it?" to "what should we extract, for whom, at what cost, and how do we know it's useful?" Come compare notes on what's working and commiserate over your ugliest PDFs. Anyone building document pipelines is welcome!
 
----
+### FOSS Suite
 
-## Tips for a Great BoF
+> **Tuesday, 13 October · 5:50–6:30 PM**
 
-- **Come with 3–5 discussion questions** to get the conversation started
-- **Don't prepare slides** — this isn't a talk, it's a conversation
-- **Appoint a note-taker** so that good ideas don't get lost
-- **Be inclusive** — make sure everyone who wants to speak gets heard
-- **Share your notes** afterward on the relevant mailing list or Slack channel
+There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let's make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
 
 ## Questions?
 
 - Join **#community-over-code** on [the-asf.slack.com](https://the-asf.slack.com/)
 - Join [apachecon.slack.com](http://s.apache.org/apachecon-slack) for day-to-day event coordination
 - Email [planners@apachecon.com](mailto:planners@apachecon.com)
-
