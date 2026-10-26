@@ -159,6 +159,47 @@ that got written — and that new contributors turned up as a direct result.</p>
 <p>Below is what participating projects reported afterwards. Where a project
 hasn&rsquo;t reported yet, we&rsquo;ll add their notes as they come in.</p>
 <h2 id="participating-projects--what-they-got-done">Participating Projects — What They Got Done</h2>
+<h3 id="airflow">Airflow</h3>
+<p>Three first-time contributors joined the Airflow session, and one small
+contribution came out of it:
+<a href="https://github.com/apache/airflow/pull/74585">apache/airflow#74585</a>. The
+team&rsquo;s own takeaway: come better prepared next time, with more small,
+ready-to-implement issues.</p>
+<h3 id="fluss">Fluss</h3>
+<p>Around 10–12 people came by, including contributors from other Apache
+projects and engineers trying Fluss for the first time. Six PRs were opened
+during or right after the hackathon:</p>
+<ul>
+<li>Flink integration: <a href="https://github.com/apache/fluss/pull/4630">#4630</a>,
+<a href="https://github.com/apache/fluss/pull/4634">#4634</a>,
+<a href="https://github.com/apache/fluss/pull/4635">#4635</a></li>
+<li>Python client and user guides: <a href="https://github.com/apache/fluss/pull/4631">#4631</a></li>
+<li>Elixir client: <a href="https://github.com/apache/fluss/pull/4628">#4628</a>,
+<a href="https://github.com/apache/fluss/pull/4633">#4633</a></li>
+</ul>
+<p>The team said the most valuable part was collaboration across Apache
+projects. Flink contributors reviewed Fluss&rsquo;s
+<a href="https://github.com/apache/fluss/pull/2981">VARIANT implementation</a> (and
+caught a correctness issue) and its
+<a href="https://github.com/apache/fluss/pull/3596">materialized table integration</a>.
+Those conversations also led to an
+<a href="https://issues.apache.org/jira/browse/FLINK-40987">upstream Flink proposal</a>
+that lets queries override or disable watermarks, motivated by the Fluss
+connector work, so the fix can help other connectors too. There was also
+discussion of a native Apache Doris–Fluss integration built on fluss-rust,
+the project&rsquo;s Rust SDK. Engineers from several companies spent time building
+with Fluss and gave feedback on the getting-started experience.</p>
+<h3 id="magpie">Magpie</h3>
+<p>Three users and three new contributors attended. Several users applied
+Magpie&rsquo;s security skills to their own projects. That surfaced gaps for older,
+SVN-based projects and a handful of &ldquo;first-time gotchas,&rdquo; which have all
+since been fixed. The session also tested using LLMAO with Magpie, and
+confirmed that optimizing token usage is essential for people without
+frontier-model subscriptions. Details and links are in the
+<a href="https://lists.apache.org/thread.html/2qhj5hd3z0yk6qd988zckdoy1kgq6mh2">Magpie dev@ wrap-up</a>.</p>
+<h3 id="mahout">Mahout</h3>
+<p>The session brought in users and one first-time contributor, covering
+how-tos and getting people acclimated, and some PRs are on the way.</p>
 <h3 id="nuttx">NuttX</h3>
 <p>Around 17 active participants (of ~20 planned), 7 of whom were new faces who
 first heard about NuttX at the conference. The session had a concrete goal:
@@ -167,6 +208,9 @@ and they pulled it off during the event. There&rsquo;s even
 <a href="https://youtu.be/ikh1EEGco8Q">a video of the result</a>. A great example of a
 focused, demoable hackathon project that doubled as outreach for the NuttX
 RTOS.</p>
+<h3 id="responsible-ai-llmao">Responsible AI (LLMAO)</h3>
+<p>The LLMAO session drew users and newcomers for how-tos and getting started,
+and came away with a to-do list shaped by user feedback.</p>
 <h3 id="sourcelume">Sourcelume</h3>
 <p>A small, productive group of 5 — including 2 new contributors whose first PRs
 were accepted after the conference. They built a demo exercising all of the
@@ -185,12 +229,13 @@ topics got aired in the hackathon, so the security day could stay focused on
 security. A good reminder that &ldquo;time together as a community&rdquo; is a legitimate
 and useful hackathon outcome in its own right. Follow-on discussion continued
 on the dev list.</p>
+<h3 id="tooling-apache-trusted-releases">Tooling (Apache Trusted Releases)</h3>
+<p>The ATR session brought in users and newcomers for how-tos and onboarding,
+and left with a to-do list driven by their feedback.</p>
 <h3 id="other-participating-projects">Other participating projects</h3>
-<p>Nineteen projects booked hackathon slots in all (Apache Search, Sourcelume,
-Fineract, Airflow, Spark, Responsible AI, Impala, Arrow, Tooling, Gluten,
-Magpie, Doris, Mahout, Groovy &amp; Grails, Tomcat, Fluss, Wayang, NuttX, and
-Superset). As more of them send in their numbers and highlights, we&rsquo;ll add
-their write-ups here.</p>
+<p>Nineteen projects booked hackathon slots in all. We haven&rsquo;t yet heard from
+Apache Search, Arrow, Doris, Fineract, Gluten, Groovy &amp; Grails, Impala,
+Spark, Superset, or Wayang. We&rsquo;ll add their write-ups as they come in.</p>
 <h2 id="lessons-learned">Lessons Learned</h2>
 <p>Notes for whoever runs the hackathon in future years. These are deliberately
 general — they&rsquo;re about the format and the room, not about any one project or
@@ -219,6 +264,19 @@ well-defined, achievable goal (and ideally something they can demo).</li>
 <li><strong>New contributors do show up.</strong> Several projects connected with first-time
 contributors who found them at the conference. Have good &ldquo;first task&rdquo; and
 onboarding material ready so that interest converts into contribution.</li>
+<li><strong>Come prepared with small, ready-to-go issues.</strong> Groups that arrived with
+a short list of small, well-scoped tasks found it easier to get newcomers
+contributing quickly. Several teams said they&rsquo;d prepare more next time.</li>
+<li><strong>The event motivates maintainers too.</strong> Having a date on the calendar got
+maintainers to finish work before the event, and user feedback during the
+session produced a concrete to-do list afterward.</li>
+<li><strong>Cross-project collaboration is a big win.</strong> Some of the most valuable
+results came from contributors of <em>other</em> Apache projects reviewing work
+and spotting improvements upstream. Seating related projects near each
+other, or scheduling them in the same slot, could encourage more of this.</li>
+<li><strong>Make it easy to track outcomes.</strong> Many valuable discussions don&rsquo;t turn
+into PRs right away, especially across projects. A simple shared way to
+record outcomes and follow-ups would help capture them.</li>
 <li><strong>The work continues after the event.</strong> A lot of the real progress happened
 on the dev lists in the days and weeks afterward. Build follow-up into the
 plan rather than treating the hackathon as a one-off.</li>
