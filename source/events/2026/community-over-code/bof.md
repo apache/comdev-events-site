@@ -61,6 +61,8 @@ An open discussion about responsible and ethical use of AI in open source projec
 Come talk about the present and future of Apache Lucene and Apache Solr.
 One aspect we want to cover is current-day usage of both, collecting case studies and real-world stories to be shared on the public websites.
 
+**Update:** Somewhere between 10 and 14 people attended. Turnout was lower than this BoF usually gets, possibly because it came right after the Search hackathon, and some people weren't sure when (or whether) it was happening.
+
 ### Apache Groovy and Apache Grails
 
 > **Monday, 12 October · 5:50–6:30 PM**
@@ -75,11 +77,25 @@ Chat about what you are doing and what you'd like to see in future versions.
 
 Getting text out of files used to be the boring part of the pipeline. Vision-language models (VLMs) have changed that: scanned pages, charts, tables, diagrams, and images can now be turned into text, structured data, and embeddings. And the consumer of that output is increasingly an agent, not a person. The question has shifted from "can we extract it?" to "what should we extract, for whom, at what cost, and how do we know it's useful?" Come compare notes on what's working and commiserate over your ugliest PDFs. Anyone building document pipelines is welcome!
 
+**Update:** A small group of two had a good, on-topic conversation. There are no outcomes to record.
+
 ### FOSS Suite
 
 > **Tuesday, 13 October · 5:50–6:30 PM**
 
 There is software supply chain regulation popping up all around the world (US: EO 14028, EU: CRA, ...). It makes compliance mandatory for FOSS and for commercial dependents alike. Let's make compliance work for us: come and join this BoF to discuss the current state of compliance tooling and learn about an initiative to open up sustainable funding opportunities for your FOSS project.
+
+**Update:** The discussion centered on the idea from the related Governance and Policy track talk: tokens for exchanging identities between parties in open source, so that different parties can authenticate, and whether the ASF might be a home for such a project. It led to a wide-ranging conversation about what newcomers expect when they bring a new project idea to the ASF and to Community over Code, and how important timing and a shared sense of the problem are for getting a new project off the ground.
+
+## Lessons Learned
+
+Notes for whoever organizes BoFs in future years.
+
+- **Put BoFs in the main schedule.** BoFs (and the hackathon) lived on a separate page rather than in the conference app, so some attendees didn't know when or whether a BoF was happening. Listing them in the main schedule would help.
+- **Mind the order of related sessions.** A BoF works best *after* the related talk, not before it, and it shouldn't clash with sessions its target audience is likely to attend. A BoF that comes right after a hackathon for the same community may also draw a smaller crowd.
+- **Small can still be good.** Even a BoF with only a couple of people can be a worthwhile conversation.
+
+---
 
 ## Questions?
 
