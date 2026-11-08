@@ -2,75 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Volunteers on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/volunteer.html</link>
+    <link>https://events.apache.org/volunteer/index.html</link>
     <description>Recent content in Volunteers on Apache Software Foundation Events</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://events.apache.org/volunteer/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://events.apache.org/volunteer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Design Volunteers</title>
       <link>https://events.apache.org/volunteer/design.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/design.html</guid>
-      <description>Visual design plays a crucial role in promoting Apache events and reaching diverse audiences. Design volunteers create materials that help communicate the value and accessibility of Apache events.
-Design Opportunities Posters and Print Materials Event posters and landing pages for different outreach audiences Flyers for university and meetup distribution Design Considerations Maintain consistency with Apache brand guidelines Create inclusive, welcoming visuals Design for accessibility Consider diverse audiences and contexts Support multiple formats and sizes Skills Needed Graphic design experience Understanding of web design principles Attention to accessibility standards Get Involved If you have design skills and want to help promote Apache events, please come talk to us!</description>
+      <description>&lt;p&gt;Visual design plays a crucial role in promoting Apache events and reaching diverse audiences. Design volunteers create materials that help communicate the value and accessibility of Apache events.&lt;/p&gt;&#xA;&lt;h2 id=&#34;design-opportunities&#34;&gt;Design Opportunities&lt;/h2&gt;&#xA;&lt;h3 id=&#34;posters-and-print-materials&#34;&gt;Posters and Print Materials&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Event posters and landing pages for different outreach audiences&lt;/li&gt;&#xA;&lt;li&gt;Flyers for university and meetup distribution&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;img src=&#34;https://events.apache.org/images/design.jpg&#34; alt=&#34;Design&#34; class=&#34;pull-left&#34;&gt;&#xA;&lt;h2 id=&#34;design-considerations&#34;&gt;Design Considerations&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Maintain consistency with &lt;a href=&#34;https://www.apache.org/foundation/press/kit/&#34;&gt;Apache brand guidelines&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;Create inclusive, welcoming visuals&lt;/li&gt;&#xA;&lt;li&gt;Design for accessibility&lt;/li&gt;&#xA;&lt;li&gt;Consider diverse audiences and contexts&lt;/li&gt;&#xA;&lt;li&gt;Support multiple formats and sizes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;skills-needed&#34;&gt;Skills Needed&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Graphic design experience&lt;/li&gt;&#xA;&lt;li&gt;Understanding of web design principles&lt;/li&gt;&#xA;&lt;li&gt;Attention to accessibility standards&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;get-involved&#34;&gt;Get Involved&lt;/h2&gt;&#xA;&lt;p&gt;If you have design skills and want to help promote Apache events, please&#xA;come talk to us! Subscribe to the &lt;a href=&#34;mailto:planners@apachecon.com&#34;&gt;Event planning mailing list&lt;/a&gt;&#xA;and join us in Slack to discuss design volunteer opportunities.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Hackathon Coordination</title>
       <link>https://events.apache.org/volunteer/hackathon.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/hackathon.html</guid>
-      <description>Hackathons are hands-on collaborative events where developers work together on Apache projects.
-A hackathon coordinator works with representatives from projects likely to have a presence at event to help them think about what they might work on, and publicize this work to the project community and the audience of the event.
-They&amp;rsquo;ll also work with the planners of the event to create a space with the necessary components (tables, power outlets, signage, etc) to make that space welcoming to participants, including beginners.</description>
+      <description>&lt;p&gt;Hackathons are hands-on collaborative events where developers work together on Apache projects.&lt;/p&gt;&#xA;&lt;img src=&#34;https://events.apache.org/images/hackathon.jpg&#34; alt=&#34;Hackathon, Stuttgart, 2025&#34; class=&#34;pull-right&#34;&gt;&#xA;&lt;p&gt;A hackathon coordinator works with representatives from projects likely&#xA;to have a presence at event to help them think about what they might&#xA;work on, and publicize this work to the project community and the&#xA;audience of the event.&lt;/p&gt;&#xA;&lt;p&gt;They&amp;rsquo;ll also work with the planners of the event to create a space with&#xA;the necessary components (tables, power outlets, signage, etc) to make&#xA;that space welcoming to participants, including beginners.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Meetup Outreach</title>
       <link>https://events.apache.org/volunteer/meetup.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/meetup.html</guid>
-      <description>Reaching out to local meetup groups is a great way to get a larger audience to our events, and serve the local technical community. As a meetup outreach coordinator, you&amp;rsquo;ll be identifying those meetup groups, and getting the word out to them.
-Volunteers should be local to the event venue.
-What Meetup Outreach Involves Identify relevant local meetup groups Build relationships with local tech communities Look for related topics, like legal, business, and communication, which may be interested in open source and Apache projects Share information about Apache events with meetup communities Encourage meetup participants to submit talks for the upcoming event Types of Meetup Groups you might conenct with We can engage with various types of groups:</description>
+      <description>&lt;p&gt;Reaching out to local meetup groups is a great way to get a larger&#xA;audience to our events, and serve the local technical community. As a&#xA;meetup outreach coordinator, you&amp;rsquo;ll be identifying those meetup groups,&#xA;and getting the word out to them.&lt;/p&gt;&#xA;&lt;img src=&#34;https://events.apache.org/images/meetup.jpg&#34; alt=&#34;Meetup&#34; class=&#34;pull-right&#34;&gt;&#xA;&lt;p&gt;Volunteers should be local to the event venue.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-meetup-outreach-involves&#34;&gt;What Meetup Outreach Involves&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Identify relevant local meetup groups&lt;/li&gt;&#xA;&lt;li&gt;Build relationships with local tech communities&lt;/li&gt;&#xA;&lt;li&gt;Look for related topics, like legal, business, and communication,&#xA;which may be interested in open source and Apache projects&lt;/li&gt;&#xA;&lt;li&gt;Share information about Apache events with meetup communities&lt;/li&gt;&#xA;&lt;li&gt;Encourage meetup participants to submit talks for the upcoming event&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;types-of-meetup-groups-you-might-conenct-with&#34;&gt;Types of Meetup Groups you might conenct with&lt;/h2&gt;&#xA;&lt;p&gt;We can engage with various types of groups:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Speaker Support and Coaching</title>
       <link>https://events.apache.org/volunteer/speaker-support.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/speaker-support.html</guid>
-      <description>Great presentations help spread knowledge about Apache projects and the ASF. Our speaker support volunteers provide coaching and feedback to help speakers deliver engaging, effective talks.
-What speaker support volunteers do As a volunteer, you&amp;rsquo;ll offer several types of speaker support:
-CFP and Abstract Support Review and provide feedback on conference proposals Help refine talk titles and abstracts Advise on targeting proposals to specific audiences Suggest improvements to increase acceptance chances Slide Review and Editing Review presentation slides for clarity and flow Provide feedback on visual design and readability Suggest improvements to technical content Help ensure slides align with talk objectives and ASF branding Presentation Rehearsal Conduct dress rehearsal sessions via video chat Provide constructive feedback on delivery Help with timing and pacing Offer tips on handling questions Build speaker confidence Who Can Help We welcome volunteers with:</description>
+      <description>&lt;p&gt;Great presentations help spread knowledge about Apache projects and the ASF. Our speaker support volunteers provide coaching and feedback to help speakers deliver engaging, effective talks.&lt;/p&gt;&#xA;&lt;h2 id=&#34;what-speaker-support-volunteers-do&#34;&gt;What speaker support volunteers do&lt;/h2&gt;&#xA;&lt;p&gt;As a volunteer, you&amp;rsquo;ll offer several types of speaker support:&lt;/p&gt;&#xA;&lt;img src=&#34;https://events.apache.org/images/speaker.jpg&#34; alt=&#34;Speaker&#34; class=&#34;pull-right&#34;&gt;&#xA;&lt;h3 id=&#34;cfp-and-abstract-support&#34;&gt;CFP and Abstract Support&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review and provide feedback on conference proposals&lt;/li&gt;&#xA;&lt;li&gt;Help refine talk titles and abstracts&lt;/li&gt;&#xA;&lt;li&gt;Advise on targeting proposals to specific audiences&lt;/li&gt;&#xA;&lt;li&gt;Suggest improvements to increase acceptance chances&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;slide-review-and-editing&#34;&gt;Slide Review and Editing&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Review presentation slides for clarity and flow&lt;/li&gt;&#xA;&lt;li&gt;Provide feedback on visual design and readability&lt;/li&gt;&#xA;&lt;li&gt;Suggest improvements to technical content&lt;/li&gt;&#xA;&lt;li&gt;Help ensure slides align with talk objectives and ASF branding&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;presentation-rehearsal&#34;&gt;Presentation Rehearsal&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Conduct dress rehearsal sessions via video chat&lt;/li&gt;&#xA;&lt;li&gt;Provide constructive feedback on delivery&lt;/li&gt;&#xA;&lt;li&gt;Help with timing and pacing&lt;/li&gt;&#xA;&lt;li&gt;Offer tips on handling questions&lt;/li&gt;&#xA;&lt;li&gt;Build speaker confidence&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;who-can-help&#34;&gt;Who Can Help&lt;/h2&gt;&#xA;&lt;p&gt;We welcome volunteers with:&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>University and Educational Outreach</title>
       <link>https://events.apache.org/volunteer/university.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/university.html</guid>
-      <description>Apache projects offer valuable learning opportunities for students and educators across many disciplines. University outreach volunteers help connect Apache communities with educational institutions at all levels.
-Outreach Opportunities University outreach volunteers should be local to the event venue, and familiar with local educational institutions.
-We engage with multiple departments and programs:
-Computer Science - Software development, open source practices, distributed systems Legal Studies - Open source licensing, intellectual property, foundation governance Business - Community management, project governance, open source business models Design - User experience, visual design, accessibility Other Disciplines - Technical writing, marketing, communications, and more What Outreach Volunteers Do Connect with faculty and student organizations Create simple posters targeted at each audience Create more detailed landing pages for each audience, describing what they might get out of the event.</description>
+      <description>&lt;p&gt;Apache projects offer valuable learning opportunities for students and educators across many disciplines. University outreach volunteers help connect Apache communities with educational institutions at all levels.&lt;/p&gt;&#xA;&lt;h2 id=&#34;outreach-opportunities&#34;&gt;Outreach Opportunities&lt;/h2&gt;&#xA;&lt;p&gt;University outreach volunteers should be local to the event venue, and&#xA;familiar with local educational institutions.&lt;/p&gt;&#xA;&lt;img src=&#34;https://events.apache.org/images/university.jpg&#34; alt=&#34;University&#34; class=&#34;pull-left&#34;&gt;&#xA;&lt;p&gt;We engage with multiple departments and programs:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Computer Science&lt;/strong&gt; - Software development, open source practices, distributed systems&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Legal Studies&lt;/strong&gt; - Open source licensing, intellectual property, foundation governance&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Business&lt;/strong&gt; - Community management, project governance, open source business models&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Design&lt;/strong&gt; - User experience, visual design, accessibility&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Other Disciplines&lt;/strong&gt; - Technical writing, marketing, communications, and more&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;what-outreach-volunteers-do&#34;&gt;What Outreach Volunteers Do&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Connect with faculty and student organizations&lt;/li&gt;&#xA;&lt;li&gt;Create simple posters targeted at each audience&lt;/li&gt;&#xA;&lt;li&gt;Create more detailed landing pages for each audience, describing what&#xA;they might get out of the event. Note that many students will be&#xA;unaware of the ASF, but familiar with some of the individual projects,&#xA;or open source in general&lt;/li&gt;&#xA;&lt;li&gt;Put up posters or fliers at local colleges, universities, and&#xA;high schools.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;how-to-volunteer&#34;&gt;How to volunteer.&lt;/h2&gt;&#xA;&lt;p&gt;If you have connections to educational institutions or experience in academic outreach, we&amp;rsquo;d love to hear from you. Join the &lt;strong&gt;#university&lt;/strong&gt; channel on &lt;a href=&#34;http://s.apache.org/apachecon-slack&#34;&gt;apachecon.slack.com&lt;/a&gt; Slack instance to connect with others interested in educational outreach.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Volunteer Opportunities</title>
       <link>https://events.apache.org/volunteer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/volunteer/</guid>
-      <description>The Apache Software Foundation events program relies on volunteers to help make our events successful and welcoming. Whether you have a few hours or want to take on a larger role, there are many ways to contribute.
-We welcome volunteers of all experience levels and backgrounds! You do not need to be an Apache member, committer, or an expert on any particular Apache project to volunteer for these task.
-Join the #volunteers channel on the apachecon.</description>
+      <description>&lt;p&gt;The Apache Software Foundation events program relies on volunteers to help make our events successful and welcoming. Whether you have a few hours or want to take on a larger role, there are many ways to contribute.&lt;/p&gt;&#xA;&lt;p&gt;We welcome volunteers of all experience levels and backgrounds!&#xA;You do not need to be an Apache member, committer, or an expert on any&#xA;particular Apache project to volunteer for these task.&lt;/p&gt;&#xA;&lt;p&gt;Join the &lt;strong&gt;#volunteers&lt;/strong&gt; channel on the &lt;a href=&#34;http://s.apache.org/apachecon-slack&#34;&gt;apachecon.slack.com&lt;/a&gt; Slack instance to connect with other volunteers and stay updated on opportunities.&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

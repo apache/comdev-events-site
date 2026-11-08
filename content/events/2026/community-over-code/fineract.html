@@ -138,67 +138,67 @@ Prepared 10 October 2026</p>
 <p>Follow these steps before the hackathon. By the end, you will have a local Fineract API, a persistent PostgreSQL database, your own development branch, and a way to debug and test changes.</p>
 <p>The recommended setup runs <strong>PostgreSQL in Docker, Fineract from source on your laptop, and the Mifos web app in Docker</strong>. This makes the Java code easy to edit, rebuild and debug, while the web app provides a banking interface. The included Postman collection creates one client and demo loan accounts to work with.</p>
 <table>
-<thead>
-<tr>
-<th>Service</th>
-<th>Local address</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>PostgreSQL</td>
-<td><code>localhost:5432</code></td>
-</tr>
-<tr>
-<td>Fineract backend, SSL disabled</td>
-<td><code>http://localhost:8080</code></td>
-</tr>
-<tr>
-<td>Mifos web app</td>
-<td><code>http://localhost:4200</code></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Service</th>
+          <th>Local address</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>PostgreSQL</td>
+          <td><code>localhost:5432</code></td>
+      </tr>
+      <tr>
+          <td>Fineract backend, SSL disabled</td>
+          <td><code>http://localhost:8080</code></td>
+      </tr>
+      <tr>
+          <td>Mifos web app</td>
+          <td><code>http://localhost:4200</code></td>
+      </tr>
+  </tbody>
 </table>
 <p>Stop any existing services using these ports before starting. The separate Progressive Loan workshop stack uses all three ports, so stop it first if it is running.</p>
 <p>Allow a preparation session before the event: the first clone, dependency downloads, code generation and IDE import can take considerably longer than later starts. Finish the readiness checklist at the end before arriving.</p>
 <h4 id="1-install-the-prerequisites">1. Install the prerequisites</h4>
 <table>
-<thead>
-<tr>
-<th>Tool</th>
-<th>What you need</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Git</td>
-<td>Install from <a href="https://git-scm.com/downloads">Git</a>, or your system package manager.</td>
-</tr>
-<tr>
-<td>GnuPG</td>
-<td>Install the <a href="https://gnupg.org/download/">GPG command-line tools</a>. All contribution commits must have a GPG signature; configure signing in step 11 before your first commit.</td>
-</tr>
-<tr>
-<td>Java</td>
-<td><strong>JDK 25</strong>, including <code>javac</code>. <a href="https://www.azul.com/downloads/?version=java-25-lts&amp;package=jdk">Azul Zulu</a> or <a href="https://adoptium.net/temurin/releases/?version=25">Eclipse Temurin</a> are options. Choose the package for your CPU.</td>
-</tr>
-<tr>
-<td>Docker</td>
-<td>Docker Desktop on macOS/Windows, or Docker Engine with Compose on Linux. Start it before continuing. See <a href="https://docs.docker.com/get-started/get-docker/">Docker installation</a>.</td>
-</tr>
-<tr>
-<td>IDE</td>
-<td>IntelliJ IDEA or Eclipse with Java 25 support. The terminal steps work without an IDE.</td>
-</tr>
-<tr>
-<td>API client</td>
-<td><code>curl</code> for the initial checks, and <a href="https://www.postman.com/downloads/">Postman</a> for the bundled demo collection.</td>
-</tr>
-<tr>
-<td>Laptop</td>
-<td><strong>32 GB RAM recommended</strong> for comfortable source development. A 16 GB machine may need fewer build workers and fewer other applications running. Reserve at least 15 GB of free disk space as a practical starting allowance.</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Tool</th>
+          <th>What you need</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Git</td>
+          <td>Install from <a href="https://git-scm.com/downloads">Git</a>, or your system package manager.</td>
+      </tr>
+      <tr>
+          <td>GnuPG</td>
+          <td>Install the <a href="https://gnupg.org/download/">GPG command-line tools</a>. All contribution commits must have a GPG signature; configure signing in step 11 before your first commit.</td>
+      </tr>
+      <tr>
+          <td>Java</td>
+          <td><strong>JDK 25</strong>, including <code>javac</code>. <a href="https://www.azul.com/downloads/?version=java-25-lts&amp;package=jdk">Azul Zulu</a> or <a href="https://adoptium.net/temurin/releases/?version=25">Eclipse Temurin</a> are options. Choose the package for your CPU.</td>
+      </tr>
+      <tr>
+          <td>Docker</td>
+          <td>Docker Desktop on macOS/Windows, or Docker Engine with Compose on Linux. Start it before continuing. See <a href="https://docs.docker.com/get-started/get-docker/">Docker installation</a>.</td>
+      </tr>
+      <tr>
+          <td>IDE</td>
+          <td>IntelliJ IDEA or Eclipse with Java 25 support. The terminal steps work without an IDE.</td>
+      </tr>
+      <tr>
+          <td>API client</td>
+          <td><code>curl</code> for the initial checks, and <a href="https://www.postman.com/downloads/">Postman</a> for the bundled demo collection.</td>
+      </tr>
+      <tr>
+          <td>Laptop</td>
+          <td><strong>32 GB RAM recommended</strong> for comfortable source development. A 16 GB machine may need fewer build workers and fewer other applications running. Reserve at least 15 GB of free disk space as a practical starting allowance.</td>
+      </tr>
+  </tbody>
 </table>
 <p>These memory and disk figures are workshop recommendations. The pinned build gives its Gradle process a maximum heap of 12 GB, and compilation starts additional worker processes. Small laptops should pair with another participant or use an organiser-provided API instance. See the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/gradle.properties">build settings</a>.</p>
 <p><strong>Windows:</strong> use WSL2 with a Linux distribution, install Git and JDK 25 <strong>inside WSL</strong>, and enable Docker Desktop integration for that distribution. Keep the checkout in the WSL Linux filesystem, for example <code>~/hackathon</code>, and run the commands below in the WSL terminal. For IDE work, use an IDE connected to that WSL environment. See <a href="https://learn.microsoft.com/en-us/windows/wsl/install">Microsoft&rsquo;s WSL installation guide</a> and <a href="https://docs.docker.com/desktop/features/wsl/">Docker&rsquo;s WSL setup</a>.</p>
@@ -247,22 +247,22 @@ Prepared 10 October 2026</p>
 </span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml <span style="color:#a2f">exec</span> db psql -U root -d postgres -c <span style="color:#b44">&#39;\l&#39;</span>
 </span></span></code></pre></div><p>The database container should be healthy. The database list should contain:</p>
 <table>
-<thead>
-<tr>
-<th>Database</th>
-<th>Purpose</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>fineract_tenants</code></td>
-<td>Tenant registry and connection information</td>
-</tr>
-<tr>
-<td><code>fineract_default</code></td>
-<td>Business data for tenant <code>default</code></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Database</th>
+          <th>Purpose</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>fineract_tenants</code></td>
+          <td>Tenant registry and connection information</td>
+      </tr>
+      <tr>
+          <td><code>fineract_default</code></td>
+          <td>Business data for tenant <code>default</code></td>
+      </tr>
+  </tbody>
 </table>
 <p>The bundled initialization script creates both databases on the first start. Fineract creates and migrates their tables when the backend starts. <strong>You do not need to run <code>createPGDB</code> for this setup.</strong></p>
 <p>PostgreSQL is exposed at <code>localhost:5432</code>, with database user <code>root</code> and password <code>postgres</code>. This is a disposable local development account. Port 5432 is the standard PostgreSQL port; stop a conflicting local database before starting this sandbox.</p>
@@ -299,34 +299,34 @@ In the same terminal, still inside <code>fineract/</code>:</p>
 </span></span></span><span style="display:flex;"><span><span style="color:#b62;font-weight:bold"></span>  http://localhost:8080/fineract-provider/api/v1/clients
 </span></span></code></pre></div><p>For a fresh database, expect <code>totalFilteredRecords</code> to be zero and <code>pageItems</code> to be empty. These credentials and the API check follow Fineract&rsquo;s <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/README.md">quick start</a>.</p>
 <table>
-<thead>
-<tr>
-<th>Setting</th>
-<th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>API base URL</td>
-<td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
-</tr>
-<tr>
-<td>Tenant header</td>
-<td><code>Fineract-Platform-TenantId: default</code></td>
-</tr>
-<tr>
-<td>API username / password</td>
-<td><code>mifos</code> / <code>password</code></td>
-</tr>
-<tr>
-<td>PostgreSQL host / port</td>
-<td><code>localhost</code> / <code>5432</code></td>
-</tr>
-<tr>
-<td>PostgreSQL username / password</td>
-<td><code>root</code> / <code>postgres</code></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Setting</th>
+          <th>Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>API base URL</td>
+          <td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
+      </tr>
+      <tr>
+          <td>Tenant header</td>
+          <td><code>Fineract-Platform-TenantId: default</code></td>
+      </tr>
+      <tr>
+          <td>API username / password</td>
+          <td><code>mifos</code> / <code>password</code></td>
+      </tr>
+      <tr>
+          <td>PostgreSQL host / port</td>
+          <td><code>localhost</code> / <code>5432</code></td>
+      </tr>
+      <tr>
+          <td>PostgreSQL username / password</td>
+          <td><code>root</code> / <code>postgres</code></td>
+      </tr>
+  </tbody>
 </table>
 <p>The local backend uses <strong>HTTP on port 8080, with SSL disabled</strong> by <code>FINERACT_SERVER_SSL_ENABLED=false</code>. The demo credentials and configuration are for local development only. The supplied settings bind the backend and published database port to your own machine.</p>
 <h4 id="7-start-the-web-app-and-create-demo-data">7. Start the web app and create demo data</h4>
@@ -354,42 +354,42 @@ In the same terminal, still inside <code>fineract/</code>:</p>
 <p>Import the bundled <a href="Progressive-Loans.postman_collection.json">Progressive-Loans.postman_collection.json</a> into Postman. Use the copy supplied with this hackathon setup; it contains the HTTP URL and client fields for the pinned revision.</p>
 <p>Set these collection variables locally:</p>
 <table>
-<thead>
-<tr>
-<th>Variable</th>
-<th>Value</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>baseUrl</code></td>
-<td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
-</tr>
-<tr>
-<td><code>tenantId</code></td>
-<td><code>default</code></td>
-</tr>
-<tr>
-<td><code>username</code></td>
-<td><code>mifos</code></td>
-</tr>
-<tr>
-<td><code>password</code></td>
-<td><code>password</code></td>
-</tr>
-<tr>
-<td><code>officeId</code></td>
-<td><code>1</code></td>
-</tr>
-<tr>
-<td><code>clientId</code></td>
-<td>Leave blank; the collection captures the created client ID.</td>
-</tr>
-<tr>
-<td><code>sandboxConfirmed</code></td>
-<td>The text <code>true</code>, for this disposable local sandbox.</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Variable</th>
+          <th>Value</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>baseUrl</code></td>
+          <td><code>http://localhost:8080/fineract-provider/api/v1</code></td>
+      </tr>
+      <tr>
+          <td><code>tenantId</code></td>
+          <td><code>default</code></td>
+      </tr>
+      <tr>
+          <td><code>username</code></td>
+          <td><code>mifos</code></td>
+      </tr>
+      <tr>
+          <td><code>password</code></td>
+          <td><code>password</code></td>
+      </tr>
+      <tr>
+          <td><code>officeId</code></td>
+          <td><code>1</code></td>
+      </tr>
+      <tr>
+          <td><code>clientId</code></td>
+          <td>Leave blank; the collection captures the created client ID.</td>
+      </tr>
+      <tr>
+          <td><code>sandboxConfirmed</code></td>
+          <td>The text <code>true</code>, for this disposable local sandbox.</td>
+      </tr>
+  </tbody>
 </table>
 <p>Run folder <strong>00 Preflight and synthetic borrower</strong>, then <strong>01 Main demo: NEXT_INSTALLMENT</strong>, in the listed order. The collection creates one active client, a progressive loan product and a loan account, then approves, disburses and makes repayments on that loan. It saves the returned IDs in collection variables.</p>
 <p>Folders <strong>02–04</strong> create additional loan products and accounts for the same client, including alternative repayment allocation policies and an interest-bearing example. You can run the whole collection in order to populate all four examples. Use one iteration in the Collection Runner.</p>
@@ -407,46 +407,46 @@ In the same terminal, still inside <code>fineract/</code>:</p>
 <p>For Eclipse, follow the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/CONTRIBUTING.md">upstream IDE instructions</a>. Use Java 25 there too.</p>
 <p>A useful starting map:</p>
 <table>
-<thead>
-<tr>
-<th>Location in the checkout</th>
-<th>What to look for</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><code>fineract-provider</code></td>
-<td>Application entry point, many API resources, configuration and migrations</td>
-</tr>
-<tr>
-<td><code>fineract-core</code></td>
-<td>Shared infrastructure and common domain components</td>
-</tr>
-<tr>
-<td><code>fineract-loan</code>, <code>fineract-savings</code></td>
-<td>Loan and savings functionality</td>
-</tr>
-<tr>
-<td><code>fineract-progressive-loan</code></td>
-<td>Progressive loan calculations and servicing</td>
-</tr>
-<tr>
-<td><code>fineract-security</code></td>
-<td>Authentication and access controls</td>
-</tr>
-<tr>
-<td><code>integration-tests</code></td>
-<td>Tests that call a running API</td>
-</tr>
-<tr>
-<td><code>fineract-e2e-tests-runner</code></td>
-<td>Cucumber scenarios</td>
-</tr>
-<tr>
-<td><code>fineract-doc</code></td>
-<td>Documentation sources</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Location in the checkout</th>
+          <th>What to look for</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><code>fineract-provider</code></td>
+          <td>Application entry point, many API resources, configuration and migrations</td>
+      </tr>
+      <tr>
+          <td><code>fineract-core</code></td>
+          <td>Shared infrastructure and common domain components</td>
+      </tr>
+      <tr>
+          <td><code>fineract-loan</code>, <code>fineract-savings</code></td>
+          <td>Loan and savings functionality</td>
+      </tr>
+      <tr>
+          <td><code>fineract-progressive-loan</code></td>
+          <td>Progressive loan calculations and servicing</td>
+      </tr>
+      <tr>
+          <td><code>fineract-security</code></td>
+          <td>Authentication and access controls</td>
+      </tr>
+      <tr>
+          <td><code>integration-tests</code></td>
+          <td>Tests that call a running API</td>
+      </tr>
+      <tr>
+          <td><code>fineract-e2e-tests-runner</code></td>
+          <td>Cucumber scenarios</td>
+      </tr>
+      <tr>
+          <td><code>fineract-doc</code></td>
+          <td>Documentation sources</td>
+      </tr>
+  </tbody>
 </table>
 <p>Search for the API resource involved in your task, then follow its service calls into the relevant module. This module map reflects the <a href="https://github.com/apache/fineract/blob/4a61d7c218413eca8310d30b098722047e891bb7/settings.gradle">pinned project structure</a>.</p>
 <h4 id="9-attach-a-debugger">9. Attach a debugger</h4>
@@ -580,98 +580,98 @@ In the same terminal, still inside <code>fineract/</code>:</p>
 </span></span><span style="display:flex;"><span>docker compose -f ../compose.yaml --profile app up -d --force-recreate fineract
 </span></span></code></pre></div><h4 id="troubleshooting">Troubleshooting</h4>
 <table>
-<thead>
-<tr>
-<th>Symptom</th>
-<th>What to check</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Docker cannot connect to its daemon</td>
-<td>Start Docker Desktop/Engine. On Windows, check WSL integration.</td>
-</tr>
-<tr>
-<td>Java/toolchain error or unsupported class version</td>
-<td>Verify <code>java</code>, <code>javac</code>, <code>JAVA_HOME</code> and the IDE&rsquo;s Gradle JVM all select JDK 25.</td>
-</tr>
-<tr>
-<td><code>couldn't find matching tag in shallow git repository</code></td>
-<td>Fetch full history and tags as shown in step 3.</td>
-</tr>
-<tr>
-<td><code>Permission denied: ./gradlew</code></td>
-<td>Run <code>chmod +x gradlew</code>. On Windows, keep the checkout inside WSL.</td>
-</tr>
-<tr>
-<td>Port 5432 or 8080 already in use</td>
-<td>Stop the conflicting local service, or change the port and all corresponding connection settings consistently.</td>
-</tr>
-<tr>
-<td>Port 4200 in use or web app container name exists</td>
-<td>Stop the conflicting web app. Use <code>docker start fineract-hackathon-web-app</code> for an existing container; remove it before recreating it with changed environment variables.</td>
-</tr>
-<tr>
-<td>Database connection refused or password failure</td>
-<td>Check <code>docker compose -f ../compose.yaml ps</code>, then reload <code>fineract-local.env</code> in the server terminal. Both tenant registry and tenant database settings matter.</td>
-</tr>
-<tr>
-<td>Missing databases</td>
-<td>Run the database-list command in step 4. If initialization failed, inspect database logs; resetting the disposable volume reruns initialization.</td>
-</tr>
-<tr>
-<td>API connection refused</td>
-<td>Check whether the source build has finished and Fineract has started. The first build can be slow.</td>
-</tr>
-<tr>
-<td>HTTPS/TLS error</td>
-<td>Use <code>http://localhost:8080</code>, and reload the environment file so <code>FINERACT_SERVER_SSL_ENABLED=false</code> reaches the backend.</td>
-</tr>
-<tr>
-<td>API returns 401 or 403</td>
-<td>Check Basic Auth, credentials and the <code>Fineract-Platform-TenantId: default</code> header.</td>
-</tr>
-<tr>
-<td>Web app cannot reach the API</td>
-<td>Confirm the backend health endpoint works over HTTP on port 8080, and that the web app&rsquo;s API URL points to <code>http://localhost:8080</code>.</td>
-</tr>
-<tr>
-<td>Postman setup fails</td>
-<td>Use the bundled collection, set all variables including <code>sandboxConfirmed=true</code>, run folders in order and inspect the first failed response before continuing.</td>
-</tr>
-<tr>
-<td><code>gpg failed to sign the data</code></td>
-<td>Check the signing key ID, run <code>export GPG_TTY=$(tty)</code> in the committing terminal, and make sure GPG can prompt for the key&rsquo;s passphrase.</td>
-</tr>
-<tr>
-<td>GitHub does not show Verified</td>
-<td>Check the public GPG key is added to GitHub and the commit email matches a key identity and verified account email.</td>
-</tr>
-<tr>
-<td>Root URL returns 404</td>
-<td>Use the complete health/API/Swagger URL. Fineract&rsquo;s root is not a web app.</td>
-</tr>
-<tr>
-<td>Build runs out of memory or a daemon disappears</td>
-<td>Close heavy applications, reduce to <code>--max-workers=1</code>, and check memory limits. Do not blindly lower the Gradle heap: upstream notes that OpenAPI generation alone needs about 7 GB.</td>
-</tr>
-<tr>
-<td>IDE cannot resolve generated classes</td>
-<td>Complete the Gradle build/import first, then refresh the Gradle project.</td>
-</tr>
-<tr>
-<td>Debug launch seems stuck</td>
-<td><code>--debug-jvm</code> waits for the IDE to attach on port 5005.</td>
-</tr>
-<tr>
-<td>Client request hangs while debugging</td>
-<td>Resume execution at the breakpoint.</td>
-</tr>
-<tr>
-<td>Changes do not appear in API responses</td>
-<td>Restart the native backend, or rebuild and recreate the Docker image. Check that your client targets port 8080.</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Symptom</th>
+          <th>What to check</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td>Docker cannot connect to its daemon</td>
+          <td>Start Docker Desktop/Engine. On Windows, check WSL integration.</td>
+      </tr>
+      <tr>
+          <td>Java/toolchain error or unsupported class version</td>
+          <td>Verify <code>java</code>, <code>javac</code>, <code>JAVA_HOME</code> and the IDE&rsquo;s Gradle JVM all select JDK 25.</td>
+      </tr>
+      <tr>
+          <td><code>couldn't find matching tag in shallow git repository</code></td>
+          <td>Fetch full history and tags as shown in step 3.</td>
+      </tr>
+      <tr>
+          <td><code>Permission denied: ./gradlew</code></td>
+          <td>Run <code>chmod +x gradlew</code>. On Windows, keep the checkout inside WSL.</td>
+      </tr>
+      <tr>
+          <td>Port 5432 or 8080 already in use</td>
+          <td>Stop the conflicting local service, or change the port and all corresponding connection settings consistently.</td>
+      </tr>
+      <tr>
+          <td>Port 4200 in use or web app container name exists</td>
+          <td>Stop the conflicting web app. Use <code>docker start fineract-hackathon-web-app</code> for an existing container; remove it before recreating it with changed environment variables.</td>
+      </tr>
+      <tr>
+          <td>Database connection refused or password failure</td>
+          <td>Check <code>docker compose -f ../compose.yaml ps</code>, then reload <code>fineract-local.env</code> in the server terminal. Both tenant registry and tenant database settings matter.</td>
+      </tr>
+      <tr>
+          <td>Missing databases</td>
+          <td>Run the database-list command in step 4. If initialization failed, inspect database logs; resetting the disposable volume reruns initialization.</td>
+      </tr>
+      <tr>
+          <td>API connection refused</td>
+          <td>Check whether the source build has finished and Fineract has started. The first build can be slow.</td>
+      </tr>
+      <tr>
+          <td>HTTPS/TLS error</td>
+          <td>Use <code>http://localhost:8080</code>, and reload the environment file so <code>FINERACT_SERVER_SSL_ENABLED=false</code> reaches the backend.</td>
+      </tr>
+      <tr>
+          <td>API returns 401 or 403</td>
+          <td>Check Basic Auth, credentials and the <code>Fineract-Platform-TenantId: default</code> header.</td>
+      </tr>
+      <tr>
+          <td>Web app cannot reach the API</td>
+          <td>Confirm the backend health endpoint works over HTTP on port 8080, and that the web app&rsquo;s API URL points to <code>http://localhost:8080</code>.</td>
+      </tr>
+      <tr>
+          <td>Postman setup fails</td>
+          <td>Use the bundled collection, set all variables including <code>sandboxConfirmed=true</code>, run folders in order and inspect the first failed response before continuing.</td>
+      </tr>
+      <tr>
+          <td><code>gpg failed to sign the data</code></td>
+          <td>Check the signing key ID, run <code>export GPG_TTY=$(tty)</code> in the committing terminal, and make sure GPG can prompt for the key&rsquo;s passphrase.</td>
+      </tr>
+      <tr>
+          <td>GitHub does not show Verified</td>
+          <td>Check the public GPG key is added to GitHub and the commit email matches a key identity and verified account email.</td>
+      </tr>
+      <tr>
+          <td>Root URL returns 404</td>
+          <td>Use the complete health/API/Swagger URL. Fineract&rsquo;s root is not a web app.</td>
+      </tr>
+      <tr>
+          <td>Build runs out of memory or a daemon disappears</td>
+          <td>Close heavy applications, reduce to <code>--max-workers=1</code>, and check memory limits. Do not blindly lower the Gradle heap: upstream notes that OpenAPI generation alone needs about 7 GB.</td>
+      </tr>
+      <tr>
+          <td>IDE cannot resolve generated classes</td>
+          <td>Complete the Gradle build/import first, then refresh the Gradle project.</td>
+      </tr>
+      <tr>
+          <td>Debug launch seems stuck</td>
+          <td><code>--debug-jvm</code> waits for the IDE to attach on port 5005.</td>
+      </tr>
+      <tr>
+          <td>Client request hangs while debugging</td>
+          <td>Resume execution at the breakpoint.</td>
+      </tr>
+      <tr>
+          <td>Changes do not appear in API responses</td>
+          <td>Restart the native backend, or rebuild and recreate the Docker image. Check that your client targets port 8080.</td>
+      </tr>
+  </tbody>
 </table>
 <p>Database logs and an interactive SQL session:</p>
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>docker compose -f ../compose.yaml logs --tail<span style="color:#666">=</span><span style="color:#666">100</span> db

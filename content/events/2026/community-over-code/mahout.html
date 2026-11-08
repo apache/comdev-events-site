@@ -180,40 +180,40 @@ hour in the room.</p>
 </span></span></code></pre></div><p><strong>Verify it worked:</strong></p>
 <div class="highlight"><pre tabindex="0" style="background-color:#f8f8f8;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-bash" data-lang="bash"><span style="display:flex;"><span>make test_python
 </span></span></code></pre></div><table>
-<thead>
-<tr>
-<th>Track</th>
-<th>What</th>
-<th>Hardware</th>
-<th>Languages</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>A</strong></td>
-<td>Qumat — circuits and quantum ML</td>
-<td><strong>Any laptop</strong></td>
-<td>Python</td>
-</tr>
-<tr>
-<td><strong>B</strong></td>
-<td>Docs, examples, website</td>
-<td><strong>Any laptop</strong></td>
-<td>Markdown, JS</td>
-</tr>
-<tr>
-<td><strong>C</strong></td>
-<td>QDP internals — refactors and review</td>
-<td><strong>Any laptop</strong> (compiles, cannot run)</td>
-<td>Rust</td>
-</tr>
-<tr>
-<td><strong>D</strong></td>
-<td>QDP GPU work</td>
-<td><strong>Linux + NVIDIA GPU + CUDA</strong></td>
-<td>Rust, CUDA, Python</td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th>Track</th>
+          <th>What</th>
+          <th>Hardware</th>
+          <th>Languages</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>A</strong></td>
+          <td>Qumat — circuits and quantum ML</td>
+          <td><strong>Any laptop</strong></td>
+          <td>Python</td>
+      </tr>
+      <tr>
+          <td><strong>B</strong></td>
+          <td>Docs, examples, website</td>
+          <td><strong>Any laptop</strong></td>
+          <td>Markdown, JS</td>
+      </tr>
+      <tr>
+          <td><strong>C</strong></td>
+          <td>QDP internals — refactors and review</td>
+          <td><strong>Any laptop</strong> (compiles, cannot run)</td>
+          <td>Rust</td>
+      </tr>
+      <tr>
+          <td><strong>D</strong></td>
+          <td>QDP GPU work</td>
+          <td><strong>Linux + NVIDIA GPU + CUDA</strong></td>
+          <td>Rust, CUDA, Python</td>
+      </tr>
+  </tbody>
 </table>
 <p><strong>If you have a Mac or Windows laptop:</strong> Tracks A, B, and C. All three have
 real, mergeable work in them.</p>
@@ -227,125 +227,125 @@ real, mergeable work in them.</p>
 <h3 id="hackathon-tracks">Hackathon Tracks</h3>
 <h3 id="track-a--qumat--python--any-laptop">Track A — Qumat · Python · any laptop</h3>
 <table>
-<thead>
-<tr>
-<th></th>
-<th>Task</th>
-<th>Level</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>A1</strong></td>
-<td><strong>Backend parity sweep.</strong> Pick a gate or feature and check it behaves identically on Qiskit, Cirq, and Braket. Fix or document what differs. Self-contained, and a genuinely good first PR.</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>A2</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/749">#749</a> — Parameter optimization utilities for parameterized quantum circuits</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>A3</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1409">#1409</a> — Qumat <code>QMLTrainer</code>, a training loop for quantum ML models</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>A4</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/456">#456</a> — Quantum kernel methods research spike, and <a href="https://github.com/apache/mahout/issues/458">#458</a> on downstream kernel calculations. The mathematical end.</td>
-<td><strong>[deep]</strong></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Task</th>
+          <th>Level</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>A1</strong></td>
+          <td><strong>Backend parity sweep.</strong> Pick a gate or feature and check it behaves identically on Qiskit, Cirq, and Braket. Fix or document what differs. Self-contained, and a genuinely good first PR.</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>A2</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/749">#749</a> — Parameter optimization utilities for parameterized quantum circuits</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>A3</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1409">#1409</a> — Qumat <code>QMLTrainer</code>, a training loop for quantum ML models</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>A4</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/456">#456</a> — Quantum kernel methods research spike, and <a href="https://github.com/apache/mahout/issues/458">#458</a> on downstream kernel calculations. The mathematical end.</td>
+          <td><strong>[deep]</strong></td>
+      </tr>
+  </tbody>
 </table>
 <h3 id="track-b--docs-examples-website--any-laptop">Track B — Docs, examples, website · any laptop</h3>
 <table>
-<thead>
-<tr>
-<th></th>
-<th>Task</th>
-<th>Level</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>B1</strong></td>
-<td><strong>Break our quickstart.</strong> Follow <a href="https://mahout.apache.org/docs/qumat/getting-started/">Getting Started</a> on your own machine and file an issue for every step that fails or confuses you. This sounds trivial; it is not. You can only see those problems once, and we cannot see them at all any more. No code required, and one of the most valuable things you can do.</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>B2</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1432">#1432</a> — Document <code>Preprocessor</code> in the <code>qumat_qdp</code> public API</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>B3</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/723">#723</a> — NumPy input documentation and more tests</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>B4</strong></td>
-<td><strong>Add a worked example.</strong> <a href="https://github.com/apache/mahout/tree/main/examples"><code>examples/</code></a> is thin. A clear, well-commented notebook is very welcome.</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>B5</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1359">#1359</a> — Document the API docs contributor workflow</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>B6</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1308">#1308</a> — Replace <code>website/scripts/sync-docs.js</code> with Docusaurus-native content loading. JavaScript; good for web developers.</td>
-<td><strong>[some]</strong></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Task</th>
+          <th>Level</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>B1</strong></td>
+          <td><strong>Break our quickstart.</strong> Follow <a href="https://mahout.apache.org/docs/qumat/getting-started/">Getting Started</a> on your own machine and file an issue for every step that fails or confuses you. This sounds trivial; it is not. You can only see those problems once, and we cannot see them at all any more. No code required, and one of the most valuable things you can do.</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>B2</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1432">#1432</a> — Document <code>Preprocessor</code> in the <code>qumat_qdp</code> public API</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>B3</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/723">#723</a> — NumPy input documentation and more tests</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>B4</strong></td>
+          <td><strong>Add a worked example.</strong> <a href="https://github.com/apache/mahout/tree/main/examples"><code>examples/</code></a> is thin. A clear, well-commented notebook is very welcome.</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>B5</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1359">#1359</a> — Document the API docs contributor workflow</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>B6</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1308">#1308</a> — Replace <code>website/scripts/sync-docs.js</code> with Docusaurus-native content loading. JavaScript; good for web developers.</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+  </tbody>
 </table>
 <p>To preview the website locally: <code>cd website &amp;&amp; npm run start</code>.</p>
 <h3 id="track-c--qdp-internals--rust--any-laptop">Track C — QDP internals · Rust · any laptop</h3>
 <table>
-<thead>
-<tr>
-<th></th>
-<th>Task</th>
-<th>Level</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><strong>C0</strong></td>
-<td><strong>Verify the no-GPU build.</strong> Run <code>cargo check -p qdp-core</code> on a machine with no CUDA toolkit, confirm whether the stub fallback works, and document the result in <code>qdp/DEVELOPMENT.md</code>. Small, and it unblocks every future contributor without a GPU.</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>C1</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1331">#1331</a> — Many QDP tests construct a <code>QdpEngine</code> or use <code>device=&quot;cuda&quot;</code> with no GPU guard. <strong>Our pick of the list:</strong> not having a GPU is exactly what lets you verify the fix, and you make the project easier for the next person in your position.</td>
-<td><strong>[new]</strong></td>
-</tr>
-<tr>
-<td><strong>C2</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1436">#1436</a> — <code>StreamingProducer</code>: use <code>VecDeque</code> for O(1) buffer advance</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>C3</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1433">#1433</a> — <code>KernelElem</code> trait to deduplicate the f32/f64 stubs</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>C4</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1434">#1434</a> — Unify <code>PipelineIterator</code> constructors with a <code>Source</code> enum · <a href="https://github.com/apache/mahout/issues/1435">#1435</a> — Unify batch producers via <code>AdapterBackedProducer</code></td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>C5</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/787">#787</a> — NumPy file size check to prevent OOM</td>
-<td><strong>[some]</strong></td>
-</tr>
-<tr>
-<td><strong>C6</strong></td>
-<td><a href="https://github.com/apache/mahout/issues/1009">#1009</a> — Audit and reduce <code>unsafe</code> usage in QDP. Ongoing; reviewing it teaches you the codebase fast.</td>
-<td><strong>[deep]</strong></td>
-</tr>
-</tbody>
+  <thead>
+      <tr>
+          <th></th>
+          <th>Task</th>
+          <th>Level</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td><strong>C0</strong></td>
+          <td><strong>Verify the no-GPU build.</strong> Run <code>cargo check -p qdp-core</code> on a machine with no CUDA toolkit, confirm whether the stub fallback works, and document the result in <code>qdp/DEVELOPMENT.md</code>. Small, and it unblocks every future contributor without a GPU.</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C1</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1331">#1331</a> — Many QDP tests construct a <code>QdpEngine</code> or use <code>device=&quot;cuda&quot;</code> with no GPU guard. <strong>Our pick of the list:</strong> not having a GPU is exactly what lets you verify the fix, and you make the project easier for the next person in your position.</td>
+          <td><strong>[new]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C2</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1436">#1436</a> — <code>StreamingProducer</code>: use <code>VecDeque</code> for O(1) buffer advance</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C3</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1433">#1433</a> — <code>KernelElem</code> trait to deduplicate the f32/f64 stubs</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C4</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1434">#1434</a> — Unify <code>PipelineIterator</code> constructors with a <code>Source</code> enum · <a href="https://github.com/apache/mahout/issues/1435">#1435</a> — Unify batch producers via <code>AdapterBackedProducer</code></td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C5</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/787">#787</a> — NumPy file size check to prevent OOM</td>
+          <td><strong>[some]</strong></td>
+      </tr>
+      <tr>
+          <td><strong>C6</strong></td>
+          <td><a href="https://github.com/apache/mahout/issues/1009">#1009</a> — Audit and reduce <code>unsafe</code> usage in QDP. Ongoing; reviewing it teaches you the codebase fast.</td>
+          <td><strong>[deep]</strong></td>
+      </tr>
+  </tbody>
 </table>
 <h3 id="resources">Resources</h3>
 <ul>

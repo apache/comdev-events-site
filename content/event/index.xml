@@ -2,41 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Apache Software Foundation Events</title>
-    <link>https://events.apache.org/event.html</link>
+    <link>https://events.apache.org/event/index.html</link>
     <description>Recent content in Events on Apache Software Foundation Events</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://events.apache.org/event/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="https://events.apache.org/event/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apache Conferences Calendar</title>
       <link>https://events.apache.org/event/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/event/</guid>
-      <description>Upcoming Apache events This is the list of upcoming official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
-Sorry, this requires Javascript For a complete list of events see our calendar.
-In addition to Official Apache Events, there are a wide range of other events which feature Apache projects and technologies.</description>
+      <description>&lt;h2 id=&#34;upcoming-apache-events&#34;&gt;Upcoming Apache events&lt;/h2&gt;&#xA;&lt;p&gt;This is the list of upcoming official Apache events, and&#xA;those events which have been approved to use Apache Marks under the&#xA;&lt;a href=&#34;https://www.apache.org/foundation/marks/events.html&#34;&gt;Third Party Event Branding Policy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;noscript&gt;&#xA; &lt;i&gt;Sorry, this requires Javascript&lt;/i&gt;&#xA;&lt;/noscript&gt;&#xA;&lt;ul id=&#34;events&#34;&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;For a complete list of events see our &lt;a href=&#34;calendar.html&#34;&gt;calendar&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;In addition to Official Apache Events, there are a wide range of other&#xA;events which feature Apache projects and technologies.&lt;/p&gt;&#xA;&lt;script src=&#34;https://events.apache.org/js/jquery.min.js&#34;&gt;&lt;/script&gt;&#xA;&lt;script src=&#34;https://events.apache.org/js/events-calendar.js&#34;&gt;&lt;/script&gt;</description>
     </item>
-    
     <item>
       <title>Apache Conferences Calendar</title>
       <link>https://events.apache.org/event/calendar.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/event/calendar.html</guid>
-      <description>This Calendar is maintained by the Apache Conferences Committee (ConCom). It&amp;rsquo;s used to list official Apache events, and those events which have been approved to use Apache Marks under the Third Party Event Branding Policy.
-The calendar can be viewed at https://www.google.com/calendar/&amp;hellip;
-This Calendar is also available as an iCal feed</description>
+      <description>&lt;p&gt;This Calendar is maintained by the &lt;a href=&#34;https://www.apache.org/foundation/conferences.html&#34;&gt;Apache Conferences Committee&lt;/a&gt; (ConCom). It&amp;rsquo;s used to list official Apache events, and&#xA;those events which have been approved to use Apache Marks under the &lt;a href=&#34;https://www.apache.org/foundation/marks/events.html&#34;&gt;Third Party Event Branding Policy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;The calendar can be viewed at &lt;a href=&#34;https://www.google.com/calendar/embed?src=nerseigospses068jd57bk5ar8%40group.calendar.google.com&amp;amp;ctz=UTC&#34;&gt;https://www.google.com/calendar/&amp;hellip;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;This Calendar is also available as an &lt;a href=&#34;https://www.google.com/calendar/ical/nerseigospses068jd57bk5ar8%40group.calendar.google.com/public/basic.ics&#34;&gt;iCal feed&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Apache Past Events</title>
       <link>https://events.apache.org/event/past-events.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://events.apache.org/event/past-events.html</guid>
-      <description>Past ApacheCons For details on past ApacheCons, and archived sites of previous events (where available), please see Past events
-Information on past ApacheCons is also available on the ApacheCon Wiki</description>
+      <description>&lt;h1 id=&#34;past-apachecons&#34;&gt;Past ApacheCons&lt;/h1&gt;&#xA;&lt;p&gt;For details on past ApacheCons, and archived sites of previous&#xA;events (where available), please see&#xA;&lt;a href=&#34;https://communityovercode.apache.org/events/#past-events&#34;&gt;Past events&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Information on past ApacheCons is also available on the&#xA;&lt;a href=&#34;https://cwiki.apache.org/confluence/display/apachecon/&#34;&gt;ApacheCon Wiki&lt;/a&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>
