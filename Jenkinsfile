@@ -24,8 +24,8 @@ pipeline {
 
     environment {
         DEPLOY_BRANCH = "${env.BRANCH_NAME == "main" ? "asf-site" : "${env.BRANCH_NAME}-staging"}"
-        HUGO_VERSION = '0.111.3'
-        HUGO_HASH = 'b382aacb522a470455ab771d0e8296e42488d3ea4e61fe49c11c32ec7fb6ee8b'
+        HUGO_VERSION = '0.152.2'
+        HUGO_HASH = '416bcfbdf5f68469ec9644dbe507da50fc21b94b69a125b059d64ed2cb4d8c27'
         PAGEFIND_VERSION = '1.0.3'
         PAGEFIND_HASH = 'e84ec7e8cb424022aa70ca14e6735c67c9728596753321dec782a902c3bfe6f0'
     }
@@ -106,7 +106,7 @@ pipeline {
         // branch uses Ant-style patterns by default:
         // https://ant.apache.org/manual/dirtasks.html#patterns
         // Exclude branches ending in '-staging'
-        // Also try to prevent deploy of top-level branches apart from main
+        // Only deploy main and preview/* to staging
         stage('Deploy') {
             when {
                 not {
@@ -114,9 +114,7 @@ pipeline {
                 }
                 anyOf {
                     branch 'main'
-                    not {
-                      branch '*'
-                    }
+                    branch 'preview/*'
                 }
             }
 
@@ -178,7 +176,7 @@ pipeline {
             script {
                 if (env.BRANCH_NAME == 'main') {
                     emailext(
-                        to: "dev@community.apache.org",
+                        to: "notifications@community.apache.org",
                         recipientProviders: [[$class: 'DevelopersRecipientProvider']],
                         from: "Jenkins <jenkins@ci-builds.apache.org>",
                         subject: "[website] Jenkins job ${env.JOB_NAME}#${env.BUILD_NUMBER} failed",
@@ -197,7 +195,7 @@ Build: ${env.BUILD_URL}
             script {
                 if (env.BRANCH_NAME == 'main') {
                     emailext(
-                        to: "dev@community.apache.org",
+                        to: "notifications@community.apache.org",
                         recipientProviders: [[$class: 'DevelopersRecipientProvider']],
                         from: 'Jenkins <jenkins@ci-builds.apache.org>',
                         subject: "[events-website] Jenkins job ${env.JOB_NAME}#${env.BUILD_NUMBER} back to normal",
