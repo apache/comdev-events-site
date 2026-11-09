@@ -114,6 +114,12 @@ RTOS.
 The LLMAO session drew users and newcomers for how-tos and getting started,
 and came away with a to-do list shaped by user feedback.
 
+### Search
+
+The Search team has published a [blog
+post](https://solr.apache.org/blogposts/a-search-hackathon-at-coc-2026.html)
+about their experience in the Hackathon.
+
 ### Sourcelume
 
 A small, productive group of 5 — including 2 new contributors whose first PRs
