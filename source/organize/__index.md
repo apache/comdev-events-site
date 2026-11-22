@@ -28,9 +28,9 @@ To create your event page, make a new directory under
 [this repo](https://github.com/apache/comdev-events-site) and copy
 one of these templates as your starting `__index.md`:
 
-* [General event template](templates/small-event-template.html) -- Works for any event type
-* [Meetup template](templates/meetup-template.html) -- Evening talks + networking
-* [BarCamp template](templates/barcamp-template.html) -- Full-day unconference
+* [General event template](https://github.com/apache/comdev-events-site/blob/main/source/organize/templates/small-event-template.md) -- Works for any event type
+* [Meetup template](https://github.com/apache/comdev-events-site/blob/main/source/organize/templates/meetup-template.md) -- Evening talks + networking
+* [BarCamp template](https://github.com/apache/comdev-events-site/blob/main/source/organize/templates/barcamp-template.md) -- Full-day unconference
 * [Hackathon project page](../../events/2026/community-over-code/sampleproject.html) — For project-specific hackathon participation
 
 ## Larger Events

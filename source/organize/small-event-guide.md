@@ -48,7 +48,7 @@ person should be:
 
 ### 4. Create your event page
 
-Copy the [event page template](../templates/small-event-template.html) and
+Copy the [event page template](https://github.com/apache/comdev-events-site/blob/main/source/organize/templates/small-event-template.md) and
 submit a PR to this repository. The template has all the fields you need.
 
 Alternatively, email [dev@community.apache.org](mailto:dev@community.apache.org)
@@ -83,7 +83,7 @@ can request up to $2,000 with a lightweight proposal.
 
 ### 8. Run the event
 
-See the [Day-of Checklist](day-of-checklist.html) for a printable
+See the [Day-of Checklist](templates/day-of-checklist.html) for a printable
 checklist.
 
 ### 9. After the event
@@ -99,10 +99,10 @@ checklist.
 
 ## Resources
 
-* [Event page template](../templates/small-event-template.html) — copy this to create your event page
-* [Day-of checklist](day-of-checklist.html) — printable logistics checklist
+* [Event page template](https://github.com/apache/comdev-events-site/blob/main/source/organize/templates/small-event-template.md) — copy this to create your event page
+* [Day-of checklist](templates/day-of-checklist.html) — printable logistics checklist
 <!-- * [Funding request process](funding-request.html) — how to ask for budget support -->
-* [Sprint in a Box](sprint-in-a-box.html) — everything you need for a contributor sprint
+* [Sprint in a Box](templates/sprint-in-a-box.html) — everything you need for a contributor sprint
 * [Speaker support](../../volunteer/speaker-support.html) — coaching for presenters
 * [ASF event branding policy](https://www.apache.org/foundation/marks/events.html)
 
